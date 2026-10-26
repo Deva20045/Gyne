@@ -1,0 +1,3125 @@
+{
+ "chapter": 32,
+ "questions": [
+  {
+   "id": "ch32-u1-q1",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Definition of Primary Amenorrhoea",
+   "page": 171,
+   "fmt": "fillup",
+   "q": "Fill up: Primary amenorrhoea is defined as not having menstruated ____ years after thelarche.",
+   "opts": [
+    "2",
+    "3",
+    "5",
+    "1"
+   ],
+   "ans": 1,
+   "exp": "Page 171 prints '>= 3 years' after thelarche with 'not menstruated'."
+  },
+  {
+   "id": "ch32-u1-q2",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Definition of Primary Amenorrhoea",
+   "page": 171,
+   "fmt": "recall",
+   "q": "The clock for the definition starts at:",
+   "opts": [
+    "Pubarche",
+    "Menarche of the mother",
+    "Thelarche",
+    "Adrenarche"
+   ],
+   "ans": 2,
+   "exp": "The diagram anchors the 3-year interval to thelarche."
+  },
+  {
+   "id": "ch32-u1-q3",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Definition of Primary Amenorrhoea",
+   "page": 171,
+   "fmt": "numeric",
+   "q": "According to the printed Tanner staging note, breast budding is stage:",
+   "opts": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "ans": 0,
+   "exp": "'Breast budding: Stage 2'."
+  },
+  {
+   "id": "ch32-u1-q4",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Definition of Primary Amenorrhoea",
+   "page": 171,
+   "fmt": "fillup",
+   "q": "Fill up: The note also states that hair on the mons pubis is Tanner stage ____.",
+   "opts": [
+    "2",
+    "4",
+    "5",
+    "3"
+   ],
+   "ans": 3,
+   "exp": "'Hair on mons pubis: Stage 3'."
+  },
+  {
+   "id": "ch32-u1-q5",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Definition of Primary Amenorrhoea",
+   "page": 171,
+   "fmt": "tf",
+   "q": "True/False: The definition uses a fixed chronological age rather than an interval from thelarche.",
+   "opts": [
+    "True",
+    "True - the age used is 16 years",
+    "True - the age used is 14 years",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The page uses an interval of at least 3 years from thelarche."
+  },
+  {
+   "id": "ch32-u1-q6",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Definition of Primary Amenorrhoea",
+   "page": 171,
+   "fmt": "scenario",
+   "q": "Scenario: A girl had thelarche at 11 and is now 13 and 6 months with no periods. Does she meet the printed definition?",
+   "opts": [
+    "Yes - she is over 13",
+    "No - only 2.5 years have elapsed since thelarche",
+    "Yes - any girl over 13 without periods qualifies",
+    "Yes - because pubarche has occurred"
+   ],
+   "ans": 1,
+   "exp": "The threshold is at least 3 years after thelarche; 2.5 years does not meet it."
+  },
+  {
+   "id": "ch32-u1-q7",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Definition of Primary Amenorrhoea",
+   "page": 171,
+   "fmt": "odd",
+   "q": "Odd one out - which anchor is NOT used in the printed definition?",
+   "opts": [
+    "Thelarche",
+    "Three years",
+    "Adrenarche",
+    "Not menstruated"
+   ],
+   "ans": 2,
+   "exp": "The definition is built from thelarche, a 3-year interval and absence of menstruation."
+  },
+  {
+   "id": "ch32-u2-q1",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "recall",
+   "q": "The most common cause of primary amenorrhoea overall is:",
+   "opts": [
+    "Gonadal dysgenesis",
+    "Mullerian agenesis",
+    "Cryptomenorrhoea",
+    "Kallmann syndrome"
+   ],
+   "ans": 0,
+   "exp": "Overall m/c cause: gonadal dysgenesis (Turner's syndrome > Swyer syndrome)."
+  },
+  {
+   "id": "ch32-u2-q2",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "recall",
+   "q": "Within gonadal dysgenesis, the printed order of frequency overall is:",
+   "opts": [
+    "Swyer syndrome more than Turner's syndrome",
+    "Pure gonadal dysgenesis most common",
+    "Turner's syndrome more than Swyer syndrome",
+    "All three equal"
+   ],
+   "ans": 2,
+   "exp": "'Gonadal dysgenesis (Turner's syndrome > Swyer syndrome)'."
+  },
+  {
+   "id": "ch32-u2-q3",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "recall",
+   "q": "The most common cause of primary amenorrhoea in India is:",
+   "opts": [
+    "Mullerian agenesis",
+    "Gonadal dysgenesis",
+    "Cryptomenorrhoea",
+    "Kallmann syndrome"
+   ],
+   "ans": 0,
+   "exp": "India: Mullerian agenesis."
+  },
+  {
+   "id": "ch32-u2-q4",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "fillup",
+   "q": "Fill up: In India, within gonadal dysgenesis the printed order is Swyer's ____ Turner's.",
+   "opts": [
+    "less than",
+    "more than",
+    "equal to",
+    "unrelated to"
+   ],
+   "ans": 1,
+   "exp": "India column: 'Gonadal dysgenesis (Swyer's > Turner's)'."
+  },
+  {
+   "id": "ch32-u2-q5",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "match",
+   "q": "Match the region with its most common cause - 1) Overall 2) India ... A) Mullerian agenesis B) Gonadal dysgenesis",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Overall it is gonadal dysgenesis; in India it is Mullerian agenesis."
+  },
+  {
+   "id": "ch32-u2-q6",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "recall",
+   "q": "Which pair of statements about gonadal dysgenesis is printed?",
+   "opts": [
+    "Turner's exceeds Swyer's in both",
+    "Swyer's exceeds Turner's in both",
+    "Overall Turner's exceeds Swyer's; in India Swyer's exceeds Turner's",
+    "The two are equal in both"
+   ],
+   "ans": 2,
+   "exp": "The two columns reverse the order of Turner's and Swyer's."
+  },
+  {
+   "id": "ch32-u2-q7",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "tf",
+   "q": "True/False: Mullerian agenesis is the most common cause of primary amenorrhoea worldwide.",
+   "opts": [
+    "False",
+    "True",
+    "True - it is the most common overall and in India",
+    "True - cryptomenorrhoea is second"
+   ],
+   "ans": 0,
+   "exp": "Overall the most common is gonadal dysgenesis; Mullerian agenesis leads only in India."
+  },
+  {
+   "id": "ch32-u2-q8",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Most Common Causes - Overall and in India",
+   "page": 171,
+   "fmt": "scenario",
+   "q": "Scenario: An Indian adolescent presents with primary amenorrhoea. Which single diagnosis is statistically most likely per this page?",
+   "opts": [
+    "Turner syndrome",
+    "Mullerian agenesis",
+    "Swyer syndrome",
+    "Kallmann syndrome"
+   ],
+   "ans": 1,
+   "exp": "India's most common cause is Mullerian agenesis."
+  },
+  {
+   "id": "ch32-u3-q1",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "The organic causes table lists which organ first?",
+   "opts": [
+    "Pituitary",
+    "Ovary",
+    "Uterus",
+    "Hypothalamus"
+   ],
+   "ans": 3,
+   "exp": "The table begins with hypothalamus."
+  },
+  {
+   "id": "ch32-u3-q2",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "Which two hypothalamic causes are printed?",
+   "opts": [
+    "Kallmann syndrome and Sheehan syndrome",
+    "Craniopharyngioma and prolactinoma",
+    "Craniopharyngioma and empty sella",
+    "Kallmann syndrome and craniopharyngioma"
+   ],
+   "ans": 3,
+   "exp": "The hypothalamus row lists Kallmann syndrome and craniopharyngioma."
+  },
+  {
+   "id": "ch32-u3-q3",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "fillup",
+   "q": "Fill up: Hypothalamic causes produce a ____ hypogonadism with low LH, low FSH and low estrogen.",
+   "opts": [
+    "hypergonadotropic",
+    "normogonadotropic",
+    "hypogonadotropic",
+    "eugonadal"
+   ],
+   "ans": 2,
+   "exp": "'↓ LH, ↓ FSH, ↓ E: Hypogonadotropic hypogonadism'."
+  },
+  {
+   "id": "ch32-u3-q4",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "Which karyotype is printed as the most common gonadal dysgenesis?",
+   "opts": [
+    "46XY",
+    "45XO",
+    "46XX",
+    "45XO/46XY mosaic"
+   ],
+   "ans": 1,
+   "exp": "'- 45XO (Turner's syndrome): m/c'."
+  },
+  {
+   "id": "ch32-u3-q5",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "The three gonadal dysgenesis karyotypes printed are:",
+   "opts": [
+    "45XO, 46XY and 46XX",
+    "45XO, 47XXY and 46XX",
+    "46XY, 47XXX and 45XO",
+    "46XX, 46XY and 47XXY"
+   ],
+   "ans": 0,
+   "exp": "Turner's (45XO), Swyer (46XY) and pure gonadal dysgenesis (46XX)."
+  },
+  {
+   "id": "ch32-u3-q6",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "fillup",
+   "q": "Fill up: The 46XX form of gonadal dysgenesis is called ____ gonadal dysgenesis.",
+   "opts": [
+    "mixed",
+    "pure",
+    "partial",
+    "idiopathic"
+   ],
+   "ans": 1,
+   "exp": "'- 46XX (Pure gonadal dysgenesis)'."
+  },
+  {
+   "id": "ch32-u3-q7",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "Gonadal dysgenesis produces which hormonal picture?",
+   "opts": [
+    "Raised LH, raised FSH and low estrogen",
+    "Low LH, low FSH and low estrogen",
+    "Normal LH, FSH and estrogen",
+    "Raised LH, normal FSH, normal estrogen"
+   ],
+   "ans": 0,
+   "exp": "'↑ LH, ↑ FSH, ↓ E (Testosterone ↓): Hypergonadotropic hypogonadism'."
+  },
+  {
+   "id": "ch32-u3-q8",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "fillup",
+   "q": "Fill up: Which hormone is specifically noted as decreased alongside estrogen in gonadal dysgenesis?",
+   "opts": [
+    "Progesterone",
+    "Cortisol",
+    "Testosterone",
+    "DHEA"
+   ],
+   "ans": 2,
+   "exp": "Printed: '↓ E (Testosterone ↓)'."
+  },
+  {
+   "id": "ch32-u3-q9",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "The uterine column lists Mullerian agenesis with which hormonal pattern?",
+   "opts": [
+    "Raised LH and FSH",
+    "Low LH and FSH",
+    "Raised LH with normal FSH",
+    "LH, FSH and estrogen all normal"
+   ],
+   "ans": 3,
+   "exp": "'Mullerian agenesis: LH, FSH, E: Normal'."
+  },
+  {
+   "id": "ch32-u3-q10",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "The second entry in the uterine column is androgen insensitivity syndrome, with:",
+   "opts": [
+    "Low LH, low FSH and low estrogen",
+    "Normal LH, FSH and testosterone",
+    "Raised LH, normal FSH and male levels of testosterone",
+    "Raised FSH with normal LH"
+   ],
+   "ans": 2,
+   "exp": "'AIS: LH ↑, FSH normal; Testosterone: male levels'."
+  },
+  {
+   "id": "ch32-u3-q11",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "match",
+   "q": "Match the organ with its hormonal signature - 1) Hypothalamus 2) Ovary 3) Uterus (Mullerian agenesis) 4) Uterus (AIS) ... A) Normal LH, FSH, E B) Raised LH, normal FSH, male testosterone C) Low LH, low FSH, low E D) Raised LH, raised FSH, low E",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Hypothalamic causes are hypogonadotropic; gonadal dysgenesis hypergonadotropic; Mullerian agenesis normal; AIS has raised LH with male testosterone."
+  },
+  {
+   "id": "ch32-u3-q12",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "recall",
+   "q": "Which single word describes the gonadal dysgenesis hormone state?",
+   "opts": [
+    "Hypogonadotropic hypogonadism",
+    "Hypergonadotropic hypogonadism",
+    "Normogonadotropic anovulation",
+    "Hyperprolactinaemia"
+   ],
+   "ans": 1,
+   "exp": "The ovary row labels it hypergonadotropic hypogonadism."
+  },
+  {
+   "id": "ch32-u3-q13",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "scenario",
+   "q": "Scenario: A 16-year-old with primary amenorrhoea has FSH 62 IU/L and LH 48 IU/L with low estradiol. Which organ level is involved?",
+   "opts": [
+    "Hypothalamus",
+    "Pituitary",
+    "Uterus",
+    "Ovary (gonadal dysgenesis)"
+   ],
+   "ans": 3,
+   "exp": "Raised gonadotrophins with low estrogen is the hypergonadotropic pattern of gonadal dysgenesis."
+  },
+  {
+   "id": "ch32-u3-q14",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT printed in the organic causes table?",
+   "opts": [
+    "Craniopharyngioma",
+    "Prolactinoma",
+    "Kallmann syndrome",
+    "Pure gonadal dysgenesis"
+   ],
+   "ans": 1,
+   "exp": "Prolactinoma does not appear; the pituitary row is represented by craniopharyngioma in the printed grouping."
+  },
+  {
+   "id": "ch32-u3-q15",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Organic Causes by Organ and Hormone Pattern",
+   "page": 171,
+   "fmt": "tf",
+   "q": "True/False: Cryptomenorrhoea appears in the organic causes-by-organ table on this page.",
+   "opts": [
+    "False",
+    "True",
+    "True - it is listed under uterus",
+    "True - it is listed under outflow tract"
+   ],
+   "ans": 0,
+   "exp": "Cryptomenorrhoea is dealt with later under conditions in the presence of a uterus."
+  },
+  {
+   "id": "ch32-u4-q1",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "recall",
+   "q": "Which three conditions are grouped under 'uterus present'?",
+   "opts": [
+    "Mullerian agenesis, AIS and gonadal dysgenesis",
+    "Kallmann syndrome, AIS and gonadal dysgenesis",
+    "Kallmann syndrome and cryptomenorrhoea",
+    "Mullerian agenesis, cryptomenorrhoea and Kallmann syndrome"
+   ],
+   "ans": 2,
+   "exp": "The uterus(+) column lists Kallmann syndrome and cryptomenorrhoea."
+  },
+  {
+   "id": "ch32-u4-q2",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: The uterus-negative column contains Mullerian agenesis, AIS and ____ dysgenesis.",
+   "opts": [
+    "Mullerian",
+    "adrenal",
+    "pituitary",
+    "gonadal"
+   ],
+   "ans": 3,
+   "exp": "'Uterus (-): Mullerian agenesis (46XX), AIS (46XY), Gonadal dysgenesis'."
+  },
+  {
+   "id": "ch32-u4-q3",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "recall",
+   "q": "Which karyotype is printed beside Mullerian agenesis in the uterus-negative column?",
+   "opts": [
+    "46XX",
+    "46XY",
+    "45XO",
+    "46XX/46XY"
+   ],
+   "ans": 0,
+   "exp": "'Mullerian agenesis (46xx)'."
+  },
+  {
+   "id": "ch32-u4-q4",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: In the same column, AIS is annotated as ____.",
+   "opts": [
+    "46XX",
+    "45XO",
+    "46XY",
+    "47XXY"
+   ],
+   "ans": 2,
+   "exp": "'AIS (46Xy)'."
+  },
+  {
+   "id": "ch32-u4-q5",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "recall",
+   "q": "The axis drawn on this page runs hypothalamus to anterior pituitary to ovary to uterus via which two pituitary hormones?",
+   "opts": [
+    "ACTH and TSH",
+    "FSH and LH",
+    "Prolactin and oxytocin",
+    "GH and ACTH"
+   ],
+   "ans": 1,
+   "exp": "The diagram shows GnRH to anterior pituitary, then FSH and LH acting on the ovary, then estrogen and progesterone reaching the uterus."
+  },
+  {
+   "id": "ch32-u4-q6",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "recall",
+   "q": "Which two ovarian hormones are shown acting on the uterus in the printed axis?",
+   "opts": [
+    "Estrogen and testosterone",
+    "Progesterone and inhibin",
+    "Inhibin and estrogen",
+    "Estrogen and progesterone"
+   ],
+   "ans": 3,
+   "exp": "The axis ends with 'Estrogen, Progesterone → uterus'."
+  },
+  {
+   "id": "ch32-u4-q7",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: The axis begins with the hypothalamus releasing ____.",
+   "opts": [
+    "CRH",
+    "TRH",
+    "GnRH",
+    "GHRH"
+   ],
+   "ans": 2,
+   "exp": "The top of the printed axis is 'Hypothalamus → GnRH'."
+  },
+  {
+   "id": "ch32-u4-q8",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "scenario",
+   "q": "Scenario: A 16-year-old has primary amenorrhoea, normal breast development and a normal uterus on imaging. Which side of the split does she fall on?",
+   "opts": [
+    "Uterus absent",
+    "Cannot be classified",
+    "Both columns",
+    "Uterus present"
+   ],
+   "ans": 3,
+   "exp": "A present uterus places her in the uterus(+) column with Kallmann syndrome and cryptomenorrhoea."
+  },
+  {
+   "id": "ch32-u4-q9",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "tf",
+   "q": "True/False: Gonadal dysgenesis is listed in the uterus-present column.",
+   "opts": [
+    "False",
+    "True",
+    "True - because the uterus is hypoplastic but present",
+    "True - in the 46XX pure form"
+   ],
+   "ans": 0,
+   "exp": "Gonadal dysgenesis is grouped with absent-uterus conditions in this split."
+  },
+  {
+   "id": "ch32-u4-q10",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Uterus-Positive versus Uterus-Negative Split",
+   "page": 172,
+   "fmt": "odd",
+   "q": "Odd one out - which belongs to the uterus-negative column rather than the uterus-positive one?",
+   "opts": [
+    "Kallmann syndrome",
+    "AIS",
+    "Cryptomenorrhoea",
+    "Both Kallmann syndrome and cryptomenorrhoea"
+   ],
+   "ans": 1,
+   "exp": "AIS is in the uterus(-) group."
+  },
+  {
+   "id": "ch32-u5-q1",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: The first step in the printed workup is ____ examination.",
+   "opts": [
+    "radiological",
+    "laparoscopic",
+    "endocrine",
+    "physical"
+   ],
+   "ans": 3,
+   "exp": "'1. Physical Examination'."
+  },
+  {
+   "id": "ch32-u5-q2",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "recall",
+   "q": "Which two physical findings are specified in step 1?",
+   "opts": [
+    "Breast and pubic hair",
+    "Height and weight",
+    "Blood pressure and pulse",
+    "Clitoral size and vaginal length"
+   ],
+   "ans": 0,
+   "exp": "Step 1 is annotated 'Breast' and 'Pubic hair'."
+  },
+  {
+   "id": "ch32-u5-q3",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: Step 2 is a ____ test, especially if breast development is adequate.",
+   "opts": [
+    "progesterone challenge",
+    "UPT",
+    "GnRH stimulation",
+    "clomiphene citrate"
+   ],
+   "ans": 1,
+   "exp": "'2. UPT: Especially if adequate breast development'."
+  },
+  {
+   "id": "ch32-u5-q4",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "recall",
+   "q": "Why is a urine pregnancy test advised specifically when breast development is adequate?",
+   "opts": [
+    "Breast development excludes gonadal dysgenesis",
+    "Breast development indicates a pituitary lesion",
+    "Adequate estrogen makes outflow obstruction or pregnancy possible",
+    "Breast development makes karyotyping unnecessary"
+   ],
+   "ans": 2,
+   "exp": "Well-developed breasts mean the outflow tract and endometrium are estrogenised, so a pregnancy test is worthwhile."
+  },
+  {
+   "id": "ch32-u5-q5",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: Step 3 is ____ to know the status of the uterus, with per rectal examination in brackets.",
+   "opts": [
+    "MRI",
+    "hysteroscopy",
+    "laparoscopy",
+    "USG"
+   ],
+   "ans": 3,
+   "exp": "'3. USG: Know the status of uterus (Per rectal examination)'."
+  },
+  {
+   "id": "ch32-u5-q6",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "recall",
+   "q": "Which three hormones are measured in step 4?",
+   "opts": [
+    "FSH, LH and estrogen",
+    "FSH, prolactin and TSH",
+    "LH, testosterone and DHEAS",
+    "Estrogen, progesterone and prolactin"
+   ],
+   "ans": 0,
+   "exp": "'4. FSH, LH, E'."
+  },
+  {
+   "id": "ch32-u5-q7",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: Step 5, described as the best investigation, is ____.",
+   "opts": [
+    "laparoscopy",
+    "karyotyping",
+    "MRI pelvis",
+    "endometrial biopsy"
+   ],
+   "ans": 1,
+   "exp": "'5. Karyotyping: Best Ix'."
+  },
+  {
+   "id": "ch32-u5-q8",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "numeric",
+   "q": "How many steps does the printed workup have?",
+   "opts": [
+    "Four",
+    "Six",
+    "Five",
+    "Three"
+   ],
+   "ans": 2,
+   "exp": "Physical examination, UPT, USG, hormones and karyotyping."
+  },
+  {
+   "id": "ch32-u5-q9",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "match",
+   "q": "Match each workup step with its number - 1) Physical examination 2) UPT 3) USG 4) FSH, LH, E 5) Karyotyping ... A) 5 B) 3 C) 1 D) 4 E) 2",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-C, 2-E, 3-B, 4-D, 5-A",
+    "1-E, 2-D, 3-A, 4-B, 5-C",
+    "1-C, 2-B, 3-E, 4-D, 5-A"
+   ],
+   "ans": 1,
+   "exp": "Printed order: 1 physical examination, 2 UPT, 3 USG, 4 hormones, 5 karyotyping."
+  },
+  {
+   "id": "ch32-u5-q10",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "scenario",
+   "q": "Scenario: A 17-year-old with primary amenorrhoea and absent breast development. Which workup step is least informative here?",
+   "opts": [
+    "Karyotyping",
+    "FSH and LH",
+    "Physical examination",
+    "UPT"
+   ],
+   "ans": 3,
+   "exp": "The UPT is qualified as 'especially if adequate breast development'; without breasts it is least useful."
+  },
+  {
+   "id": "ch32-u5-q11",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "tf",
+   "q": "True/False: MRI is the investigation of choice in the printed workup of primary amenorrhoea.",
+   "opts": [
+    "True",
+    "True - it precedes karyotyping",
+    "False",
+    "True - for Mullerian anomalies generally"
+   ],
+   "ans": 2,
+   "exp": "Karyotyping is named the best investigation; MRI is the IOC specifically for cryptomenorrhoea."
+  },
+  {
+   "id": "ch32-u5-q12",
+   "sec": "Definition, Causes and Workup",
+   "unit": "Workup of Primary Amenorrhoea",
+   "page": 172,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a step in the general workup?",
+   "opts": [
+    "Endometrial biopsy",
+    "Karyotyping",
+    "USG",
+    "UPT"
+   ],
+   "ans": 0,
+   "exp": "Endometrial biopsy appears later in the genital tuberculosis chapter, not in this workup."
+  },
+  {
+   "id": "ch32-u6-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Pathogenesis and Causes",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: Cryptomenorrhoea means normal menstruation occurs but the blood fails to come out because of outflow tract ____.",
+   "opts": [
+    "agenesis",
+    "obstruction",
+    "atonia",
+    "fistula"
+   ],
+   "ans": 1,
+   "exp": "Printed: 'Normal menstruation; menstrual blood fails to come out d/t outflow tract obstruction'."
+  },
+  {
+   "id": "ch32-u6-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Pathogenesis and Causes",
+   "page": 172,
+   "fmt": "numeric",
+   "q": "How many causes of cryptomenorrhoea are printed?",
+   "opts": [
+    "Two",
+    "Four",
+    "Five",
+    "Three"
+   ],
+   "ans": 3,
+   "exp": "Imperforate hymen, transverse vaginal septum and vaginal atresia/agenesis."
+  },
+  {
+   "id": "ch32-u6-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Pathogenesis and Causes",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Fill up: The most common cause of cryptomenorrhoea is ____ hymen.",
+   "opts": [
+    "imperforate",
+    "fenestrated",
+    "septate",
+    "duplicated"
+   ],
+   "ans": 0,
+   "exp": "'1. Imperforate hymen: m/c cause'."
+  },
+  {
+   "id": "ch32-u6-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Pathogenesis and Causes",
+   "page": 172,
+   "fmt": "recall",
+   "q": "The second cause listed is:",
+   "opts": [
+    "Longitudinal vaginal septum",
+    "Cervical stenosis",
+    "Transverse vaginal septum",
+    "Vaginal atresia"
+   ],
+   "ans": 2,
+   "exp": "'2. Transverse vaginal septum (TVS)'."
+  },
+  {
+   "id": "ch32-u6-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Pathogenesis and Causes",
+   "page": 172,
+   "fmt": "recall",
+   "q": "The third cause is printed as:",
+   "opts": [
+    "Cervical agenesis",
+    "Vaginal atresia or agenesis",
+    "Labial fusion",
+    "Mullerian agenesis"
+   ],
+   "ans": 1,
+   "exp": "'3. Vaginal atresia / agenesis'."
+  },
+  {
+   "id": "ch32-u6-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Pathogenesis and Causes",
+   "page": 172,
+   "fmt": "tf",
+   "q": "True/False: In cryptomenorrhoea, menstruation itself is absent because the endometrium does not respond.",
+   "opts": [
+    "True",
+    "True - the endometrium is non-functional",
+    "False",
+    "True - ovulation does not occur"
+   ],
+   "ans": 2,
+   "exp": "Menstruation occurs normally; only the outflow is blocked."
+  },
+  {
+   "id": "ch32-u6-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Pathogenesis and Causes",
+   "page": 172,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed cause of cryptomenorrhoea?",
+   "opts": [
+    "Cervical stenosis",
+    "Imperforate hymen",
+    "Transverse vaginal septum",
+    "Vaginal atresia"
+   ],
+   "ans": 0,
+   "exp": "Cervical stenosis is not listed among the three printed causes."
+  },
+  {
+   "id": "ch32-u7-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Fill up: The karyotype in cryptomenorrhoea is ____.",
+   "opts": [
+    "46XY",
+    "45XO",
+    "47XXX",
+    "46XX"
+   ],
+   "ans": 3,
+   "exp": "'Karyotype: 46 XX'."
+  },
+  {
+   "id": "ch32-u7-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "recall",
+   "q": "The gonads in cryptomenorrhoea are:",
+   "opts": [
+    "Streak ovaries",
+    "Ovaries",
+    "Dysgenetic testes",
+    "Ovotestes"
+   ],
+   "ans": 1,
+   "exp": "'Gonads: Ovary'."
+  },
+  {
+   "id": "ch32-u7-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Which three of the four hormones listed are normal in cryptomenorrhoea?",
+   "opts": [
+    "FSH, LH and testosterone",
+    "LH, estrogen and progesterone",
+    "FSH, estrogen and prolactin",
+    "FSH, LH and estrogen"
+   ],
+   "ans": 3,
+   "exp": "'LH: Normal, FSH: Normal, E: Normal'."
+  },
+  {
+   "id": "ch32-u7-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Breast development in cryptomenorrhoea is:",
+   "opts": [
+    "Absent",
+    "Tanner 2 only",
+    "Normal",
+    "Tanner 3 only"
+   ],
+   "ans": 2,
+   "exp": "'Breast: Normal'."
+  },
+  {
+   "id": "ch32-u7-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "recall",
+   "q": "The classic symptom described is:",
+   "opts": [
+    "Cyclical pain every month",
+    "Continuous dull ache",
+    "Pain relieved by menstruation",
+    "Pain only on exertion"
+   ],
+   "ans": 0,
+   "exp": "'Cyclic pain every month'."
+  },
+  {
+   "id": "ch32-u7-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Fill up: Besides cyclical pain and primary amenorrhoea, patients may have ____ retention.",
+   "opts": [
+    "faecal",
+    "fluid",
+    "placental",
+    "urinary"
+   ],
+   "ans": 3,
+   "exp": "'+/- urinary retention'."
+  },
+  {
+   "id": "ch32-u7-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Which phrase summarises the mechanism added beside the presentation list?",
+   "opts": [
+    "Ovarian failure present",
+    "Outflow tract obstruction present",
+    "Pituitary failure present",
+    "Mullerian agenesis present"
+   ],
+   "ans": 1,
+   "exp": "Printed: 'Outflow tract obstruction (+)'."
+  },
+  {
+   "id": "ch32-u7-q8",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "match",
+   "q": "Match the finding with its status in cryptomenorrhoea - 1) Karyotype 2) Gonads 3) LH and FSH 4) Breast ... A) Ovary B) 46XX C) Normal D) Normal",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "46XX karyotype, ovarian gonads, normal gonadotrophins and normal breasts."
+  },
+  {
+   "id": "ch32-u7-q9",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "scenario",
+   "q": "Scenario: A 14-year-old with monthly suprapubic pain, no periods and normal breast development. Which hormonal pattern is expected?",
+   "opts": [
+    "Raised FSH and LH with low estrogen",
+    "Raised LH with normal FSH",
+    "Normal LH, FSH and estrogen with a 46XX karyotype",
+    "Low LH and FSH"
+   ],
+   "ans": 2,
+   "exp": "Outflow obstruction leaves the hypothalamic-pituitary-ovarian axis entirely normal."
+  },
+  {
+   "id": "ch32-u7-q10",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Findings and Presentation",
+   "page": 173,
+   "fmt": "tf",
+   "q": "True/False: Cryptomenorrhoea is associated with absent breast development.",
+   "opts": [
+    "False",
+    "True",
+    "True - estrogen is low",
+    "True - the gonads are streak"
+   ],
+   "ans": 0,
+   "exp": "Breasts are normal because ovarian function and estrogen are normal."
+  },
+  {
+   "id": "ch32-u8-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Fill up: Blood collected in the vagina is called ____.",
+   "opts": [
+    "haematometra",
+    "haematosalpinx",
+    "haematocolpos",
+    "haematoma"
+   ],
+   "ans": 2,
+   "exp": "'In vagina: Hematocolpos'."
+  },
+  {
+   "id": "ch32-u8-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Blood collected in the uterus is called:",
+   "opts": [
+    "Haematocolpos",
+    "Haematosalpinx",
+    "Haemoperitoneum",
+    "Haematometra"
+   ],
+   "ans": 3,
+   "exp": "'In uterus: Hematometra'."
+  },
+  {
+   "id": "ch32-u8-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Which process is named alongside the blood collection as a mechanism?",
+   "opts": [
+    "Anovulation",
+    "Retrograde menstruation",
+    "Asherman formation",
+    "Cervical stenosis"
+   ],
+   "ans": 1,
+   "exp": "'Retrograde menstruation' is printed beside the collection sites."
+  },
+  {
+   "id": "ch32-u8-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Retrograde menstruation in this setting leads to:",
+   "opts": [
+    "Adenomyosis",
+    "Endometriosis",
+    "Ovarian cyst",
+    "Pelvic abscess"
+   ],
+   "ans": 1,
+   "exp": "The arrow reads 'Retrograde menstruation → Endometriosis'."
+  },
+  {
+   "id": "ch32-u8-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Fill up: Endometriosis secondary to this obstruction causes increased ____.",
+   "opts": [
+    "menorrhagia",
+    "polymenorrhoea",
+    "dysmenorrhoea",
+    "metrorrhagia"
+   ],
+   "ans": 2,
+   "exp": "Printed: '↑ dysmenorrhoea'."
+  },
+  {
+   "id": "ch32-u8-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Which additional physical sign may be present with large collections?",
+   "opts": [
+    "Suprapubic bulge",
+    "Flank mass",
+    "Umbilical swelling",
+    "Inguinal swelling"
+   ],
+   "ans": 0,
+   "exp": "'+/- Suprapubic bulge'."
+  },
+  {
+   "id": "ch32-u8-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "match",
+   "q": "Match the collection site with its term - 1) Vagina 2) Uterus ... A) Haematometra B) Haematocolpos",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Vaginal collection is haematocolpos; uterine collection is haematometra."
+  },
+  {
+   "id": "ch32-u8-q8",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "scenario",
+   "q": "Scenario: A girl with imperforate hymen is found at surgery to have pelvic endometriosis. Which printed mechanism explains it?",
+   "opts": [
+    "Coexisting Mullerian anomaly",
+    "Ovarian endometrioma from metaplasia",
+    "Iatrogenic implantation",
+    "Retrograde menstruation through the obstructed outflow"
+   ],
+   "ans": 3,
+   "exp": "The page links retrograde menstruation to endometriosis and rising dysmenorrhoea."
+  },
+  {
+   "id": "ch32-u8-q9",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed consequence of the collected blood?",
+   "opts": [
+    "Haematocolpos",
+    "Haematosalpinx",
+    "Haematometra",
+    "Suprapubic bulge"
+   ],
+   "ans": 1,
+   "exp": "Haematosalpinx is not printed; the named sites are vagina, uterus, retrograde spread and the suprapubic bulge."
+  },
+  {
+   "id": "ch32-u8-q10",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Blood Collection and Consequences",
+   "page": 173,
+   "fmt": "tf",
+   "q": "True/False: Chronic blood collection in cryptomenorrhoea can present with urinary retention.",
+   "opts": [
+    "False",
+    "False - urinary symptoms never occur",
+    "True",
+    "False - it causes frequency only"
+   ],
+   "ans": 2,
+   "exp": "'+/- urinary retention' is printed in the presentation list."
+  },
+  {
+   "id": "ch32-u9-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Fill up: On per rectal examination the uterus is present and ____.",
+   "opts": [
+    "enlarged",
+    "absent",
+    "hypoplastic",
+    "retroverted"
+   ],
+   "ans": 0,
+   "exp": "'P/R: uterus (+) and enlarged'."
+  },
+  {
+   "id": "ch32-u9-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Local examination in imperforate hymen shows:",
+   "opts": [
+    "A tense bulging hymen with no vaginal opening",
+    "A normal hymen with a patent opening",
+    "A septate vagina",
+    "A double vagina"
+   ],
+   "ans": 0,
+   "exp": "Printed: 'Tensed bulging hymen / Vaginal opening (-)'."
+  },
+  {
+   "id": "ch32-u9-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Cough impulse is positive in:",
+   "opts": [
+    "Vaginal agenesis",
+    "Transverse vaginal septum",
+    "Cervical atresia",
+    "Imperforate hymen"
+   ],
+   "ans": 3,
+   "exp": "The table pairs 'Cough Impulse (+)' with imperforate hymen and 'Cough impulse (-)' with vaginal agenesis."
+  },
+  {
+   "id": "ch32-u9-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "recall",
+   "q": "In vaginal agenesis, the hymen is:",
+   "opts": [
+    "Tense and bulging",
+    "Not bulging",
+    "Absent",
+    "Fenestrated"
+   ],
+   "ans": 1,
+   "exp": "'Hymen not bulging' is the vaginal agenesis entry."
+  },
+  {
+   "id": "ch32-u9-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Fill up: The investigation of choice for cryptomenorrhoea is ____.",
+   "opts": [
+    "ultrasound",
+    "CT",
+    "MRI",
+    "hysteroscopy"
+   ],
+   "ans": 2,
+   "exp": "'IOC: MRI'."
+  },
+  {
+   "id": "ch32-u9-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Which two roles are printed for MRI here?",
+   "opts": [
+    "Differentiate between causes and define thickness or location of the septum in transverse vaginal septum",
+    "Diagnose pregnancy and date the gestation",
+    "Assess ovarian reserve and follicles",
+    "Stage endometriosis"
+   ],
+   "ans": 0,
+   "exp": "Printed: 'Differentiate between causes' and 'Thickness/location of septa in TVS'."
+  },
+  {
+   "id": "ch32-u9-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "match",
+   "q": "Match the examination finding with the diagnosis - 1) Tense bulging hymen 2) Cough impulse positive 3) Hymen not bulging 4) Cough impulse negative ... A) Vaginal agenesis B) Imperforate hymen",
+   "opts": [
+    "1-A, 2-A, 3-B, 4-B",
+    "1-B, 2-A, 3-B, 4-A",
+    "1-A, 2-B, 3-A, 4-B",
+    "1-B, 2-B, 3-A, 4-A"
+   ],
+   "ans": 3,
+   "exp": "Bulging hymen and a positive cough impulse indicate a distensible obstructed vagina (imperforate hymen); a flat hymen with no cough impulse indicates agenesis."
+  },
+  {
+   "id": "ch32-u9-q8",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "scenario",
+   "q": "Scenario: A 13-year-old has cyclical pain and a bluish bulging membrane at the introitus that expands on crying. Which diagnosis?",
+   "opts": [
+    "Vaginal agenesis",
+    "Transverse vaginal septum",
+    "Imperforate hymen",
+    "Cervical atresia"
+   ],
+   "ans": 2,
+   "exp": "A bulging membrane that transmits a cough impulse is the imperforate hymen picture."
+  },
+  {
+   "id": "ch32-u9-q9",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "tf",
+   "q": "True/False: A positive cough impulse helps distinguish imperforate hymen from vaginal agenesis.",
+   "opts": [
+    "False",
+    "True",
+    "False - the impulse is positive in both",
+    "False - the sign is not used"
+   ],
+   "ans": 1,
+   "exp": "The printed table uses the cough impulse to separate the two."
+  },
+  {
+   "id": "ch32-u9-q10",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Cryptomenorrhoea - Examination and Investigations",
+   "page": 173,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed indication for MRI in cryptomenorrhoea?",
+   "opts": [
+    "Differentiating between causes",
+    "Measuring septal thickness",
+    "Assessing ovarian reserve",
+    "Locating the septum"
+   ],
+   "ans": 2,
+   "exp": "Ovarian reserve is not among the printed roles."
+  },
+  {
+   "id": "ch32-u10-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "numeric",
+   "q": "How many 'other conditions' are listed for the uterus-positive group?",
+   "opts": [
+    "Three",
+    "Two",
+    "One",
+    "Four"
+   ],
+   "ans": 1,
+   "exp": "'Other Conditions: 1. Gonadal dysgenesis, 2. Kallmann syndrome'."
+  },
+  {
+   "id": "ch32-u10-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: The shared mechanism of the two conditions is decreased ____ production with decreased gonadal function.",
+   "opts": [
+    "estrogen",
+    "progesterone",
+    "testosterone",
+    "prolactin"
+   ],
+   "ans": 0,
+   "exp": "'D/t ↓ estrogen → ↓ Gonadal function'."
+  },
+  {
+   "id": "ch32-u10-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Which shared breast finding is printed?",
+   "opts": [
+    "Breast development Tanner 5",
+    "Breast development Tanner 3",
+    "Premature thelarche",
+    "Breast development absent"
+   ],
+   "ans": 3,
+   "exp": "'- Breast development (-)'."
+  },
+  {
+   "id": "ch32-u10-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "recall",
+   "q": "The uterus in both conditions is described as:",
+   "opts": [
+    "Absent",
+    "Enlarged",
+    "Hypoplastic (infantile)",
+    "Septate"
+   ],
+   "ans": 2,
+   "exp": "'- Uterus: Hypoplastic (Infantile uterus)'."
+  },
+  {
+   "id": "ch32-u10-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: Pubic and axillary hair are ____ in both conditions.",
+   "opts": [
+    "scanty",
+    "absent",
+    "profuse",
+    "male pattern"
+   ],
+   "ans": 0,
+   "exp": "'Scanty pubic/axillary hair'."
+  },
+  {
+   "id": "ch32-u10-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Gonadal dysgenesis is distinguished from Kallmann syndrome hormonally by:",
+   "opts": [
+    "Normal hormones versus raised hormones",
+    "Raised estrogen versus low estrogen",
+    "Raised prolactin versus normal prolactin",
+    "Raised FSH and LH with low estrogen versus low LH and FSH with low estrogen"
+   ],
+   "ans": 3,
+   "exp": "Printed: Kallmann 'LH ↓, FSH ↓, E ↓'; gonadal dysgenesis 'E ↓, FSH ↑, LH ↑'."
+  },
+  {
+   "id": "ch32-u10-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "match",
+   "q": "Match each condition with its gonadotrophin pattern - 1) Kallmann syndrome 2) Gonadal dysgenesis ... A) E low, FSH raised, LH raised B) LH low, FSH low, E low",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Kallmann is hypogonadotropic; gonadal dysgenesis is hypergonadotropic."
+  },
+  {
+   "id": "ch32-u10-q8",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "scenario",
+   "q": "Scenario: A 17-year-old has primary amenorrhoea, no breast development, a hypoplastic uterus and FSH of 1.8 IU/L. Which condition?",
+   "opts": [
+    "Turner syndrome",
+    "Swyer syndrome",
+    "Kallmann syndrome",
+    "Mullerian agenesis"
+   ],
+   "ans": 2,
+   "exp": "Low FSH with absent breasts points to the hypogonadotropic picture of Kallmann syndrome."
+  },
+  {
+   "id": "ch32-u10-q9",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Gonadal Dysgenesis and Kallmann - Similarities",
+   "page": 174,
+   "fmt": "tf",
+   "q": "True/False: Both Kallmann syndrome and gonadal dysgenesis show scanty pubic and axillary hair.",
+   "opts": [
+    "True",
+    "False",
+    "False - only gonadal dysgenesis does",
+    "False - only Kallmann syndrome does"
+   ],
+   "ans": 0,
+   "exp": "The printed 'similarities' block lists scanty hair for both."
+  },
+  {
+   "id": "ch32-u11-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: The most common karyotype in Turner syndrome is ____.",
+   "opts": [
+    "46XY",
+    "46XX",
+    "47XXX",
+    "45XO"
+   ],
+   "ans": 3,
+   "exp": "'Karyotype: m/c: 45 X0'."
+  },
+  {
+   "id": "ch32-u11-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "The rare mosaic karyotype printed is:",
+   "opts": [
+    "45XO/46XX",
+    "45XO/46XY",
+    "46XX/46XY",
+    "45XO/47XXX"
+   ],
+   "ans": 1,
+   "exp": "'Turner mosaic: 45X0/46xy (Rare)'."
+  },
+  {
+   "id": "ch32-u11-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: The gonads are ____ ovaries, which produce decreased estrogen.",
+   "opts": [
+    "polycystic",
+    "streak",
+    "dysgenetic testicular",
+    "cystic"
+   ],
+   "ans": 1,
+   "exp": "'Gonads: Streak ovaries → ↓ estrogen'."
+  },
+  {
+   "id": "ch32-u11-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Which combination of gonad is described as having an increased chance of malignancy?",
+   "opts": [
+    "Streak ovary plus dysgenetic testis",
+    "Bilateral streak ovaries alone",
+    "Bilateral dysgenetic testes alone",
+    "Normal ovaries"
+   ],
+   "ans": 0,
+   "exp": "The mosaic arm pairs 'Streak ovary + dysgenetic testis' with '↑ chance of malignancy: Should be removed'."
+  },
+  {
+   "id": "ch32-u11-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "What is the printed instruction for a non-malignant streak gonad?",
+   "opts": [
+    "Should be removed at diagnosis",
+    "Should be removed after puberty",
+    "Should be biopsied annually",
+    "Should not be removed"
+   ],
+   "ans": 3,
+   "exp": "'Non-malignant: Should not be removed'."
+  },
+  {
+   "id": "ch32-u11-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: Short stature in Turner syndrome is attributed to mutation of the ____ gene.",
+   "opts": [
+    "SRY",
+    "SOX9",
+    "SHOX",
+    "DAX1"
+   ],
+   "ans": 2,
+   "exp": "'Stature: Short d/t mutation of SHOX gene'."
+  },
+  {
+   "id": "ch32-u11-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Which neck finding is printed?",
+   "opts": [
+    "Thyroid enlargement",
+    "Neck fistula",
+    "Webbing of the neck",
+    "Cystic hygroma in the adult"
+   ],
+   "ans": 2,
+   "exp": "'Webbing of neck'."
+  },
+  {
+   "id": "ch32-u11-q8",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "The hairline finding is:",
+   "opts": [
+    "High frontal hair line",
+    "Low posterior hair line",
+    "Frontal balding",
+    "Alopecia areata"
+   ],
+   "ans": 1,
+   "exp": "'Low posterior hair line'."
+  },
+  {
+   "id": "ch32-u11-q9",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: The chest is described as ____ shaped with widely spaced nipples.",
+   "opts": [
+    "shield",
+    "barrel",
+    "funnel",
+    "pigeon"
+   ],
+   "ans": 0,
+   "exp": "'Shield shaped chest. Widely spaced nipples'."
+  },
+  {
+   "id": "ch32-u11-q10",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "The hearing loss specified is:",
+   "opts": [
+    "Conductive",
+    "Mixed",
+    "Central",
+    "Sensorineural (SNHL)"
+   ],
+   "ans": 3,
+   "exp": "'SNHL (Sensorineural hearing loss)'."
+  },
+  {
+   "id": "ch32-u11-q11",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Which three autoimmune diseases are named?",
+   "opts": [
+    "Diabetes, Addison disease and pernicious anaemia",
+    "Hashimoto thyroiditis, SLE and vitiligo",
+    "Diabetes, Hashimoto thyroiditis and celiac disease",
+    "Celiac disease, myasthenia and psoriasis"
+   ],
+   "ans": 2,
+   "exp": "Printed: 'Autoimmune diseases: Diabetes / Hashimoto thyroiditis / Celiac disease'."
+  },
+  {
+   "id": "ch32-u11-q12",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "The elbow deformity named is:",
+   "opts": [
+    "Cubitus varus",
+    "Cubitus valgus",
+    "Genu valgum",
+    "Pes cavus"
+   ],
+   "ans": 1,
+   "exp": "'Cubitus valgus'."
+  },
+  {
+   "id": "ch32-u11-q13",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: The cardiac associations are bicuspid aortic valve ____ coarctation of the aorta.",
+   "opts": [
+    "more than",
+    "less than",
+    "equal to",
+    "unrelated to"
+   ],
+   "ans": 0,
+   "exp": "'Cardiac disease: Bicuspid aortic valve > Coarctation of aorta'."
+  },
+  {
+   "id": "ch32-u11-q14",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "match",
+   "q": "Match each Turner feature with its system - 1) Webbing of neck 2) SNHL 3) Cubitus valgus 4) Shield chest ... A) Skeletal B) Neck C) Ear D) Chest",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Neck, ear, skeletal and chest respectively."
+  },
+  {
+   "id": "ch32-u11-q15",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Which investigation is listed to rule out the mosaic form?",
+   "opts": [
+    "Renal ultrasound",
+    "Karyotyping",
+    "Echocardiography",
+    "Thyroid profile"
+   ],
+   "ans": 1,
+   "exp": "'Karyotyping: Rule out mosaic'."
+  },
+  {
+   "id": "ch32-u11-q16",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "The renal anomaly specifically sought on renal ultrasound is:",
+   "opts": [
+    "Renal agenesis",
+    "Polycystic kidney",
+    "Duplex system",
+    "Horseshoe kidney"
+   ],
+   "ans": 3,
+   "exp": "'Renal USG (A/w horse shoe kidney)'."
+  },
+  {
+   "id": "ch32-u11-q17",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Fill up: ____ is advised for the cardiac associations.",
+   "opts": [
+    "ECHO",
+    "ECG",
+    "Chest X-ray",
+    "Cardiac MRI"
+   ],
+   "ans": 0,
+   "exp": "'ECHO (Heart disease)'."
+  },
+  {
+   "id": "ch32-u11-q18",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Thyroid profile is requested because of which association?",
+   "opts": [
+    "Graves disease",
+    "Thyroid carcinoma",
+    "Hashimoto thyroiditis",
+    "De Quervain thyroiditis"
+   ],
+   "ans": 2,
+   "exp": "The thyroid profile is bracketed '(Hashimoto thyroiditis)'."
+  },
+  {
+   "id": "ch32-u11-q19",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which test is listed for the hearing loss?",
+   "opts": [
+    "Audiometry",
+    "Tympanometry",
+    "BERA",
+    "Caloric testing"
+   ],
+   "ans": 0,
+   "exp": "'Audiometry (SNHL)'."
+  },
+  {
+   "id": "ch32-u11-q20",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which two metabolic tests are printed in the management column?",
+   "opts": [
+    "HbA1c and liver function",
+    "Lipid profile and renal function",
+    "Serum calcium and vitamin D",
+    "Fasting blood glucose and lipid profile"
+   ],
+   "ans": 3,
+   "exp": "Printed: 'Fasting blood glucose, lipid profile (DM)'."
+  },
+  {
+   "id": "ch32-u11-q21",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "Fill up: Hormonal management is estrogen ____ progesterone because the uterus is present.",
+   "opts": [
+    "without",
+    "plus",
+    "instead of",
+    "cycled against"
+   ],
+   "ans": 1,
+   "exp": "'E + P : Because uterus (+)'."
+  },
+  {
+   "id": "ch32-u11-q22",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Why is progesterone added in Turner syndrome?",
+   "opts": [
+    "Progesterone improves final height",
+    "Progesterone treats the cardiac lesion",
+    "The uterus is present and needs protection from unopposed estrogen",
+    "Progesterone prevents autoimmune disease"
+   ],
+   "ans": 2,
+   "exp": "The printed reason is simply 'Because uterus (+)'."
+  },
+  {
+   "id": "ch32-u11-q23",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "scenario",
+   "q": "Scenario: A 15-year-old girl with short stature, webbed neck, shield chest and cubitus valgus has primary amenorrhoea. Which two investigations are prioritised by this page?",
+   "opts": [
+    "Karyotyping and echocardiography",
+    "MRI pelvis and laparoscopy",
+    "Endometrial biopsy and hysteroscopy",
+    "CT chest and audiometry alone"
+   ],
+   "ans": 0,
+   "exp": "Karyotyping rules out the mosaic form and ECHO looks for the bicuspid aortic valve and coarctation."
+  },
+  {
+   "id": "ch32-u11-q24",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "tf",
+   "q": "True/False: All Turner streak gonads should be removed prophylactically.",
+   "opts": [
+    "True",
+    "False",
+    "True - after puberty in every case",
+    "True - unless the patient refuses"
+   ],
+   "ans": 1,
+   "exp": "Non-malignant streak gonads should not be removed; only the streak ovary plus dysgenetic testis combination is removed."
+  },
+  {
+   "id": "ch32-u11-q25",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Turner Syndrome",
+   "page": 174,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed Turner feature?",
+   "opts": [
+    "Low posterior hair line",
+    "Widely spaced nipples",
+    "Horseshoe kidney",
+    "Bicuspid aortic valve"
+   ],
+   "ans": 2,
+   "exp": "Horseshoe kidney appears under investigations as an association to seek, not in the features list."
+  },
+  {
+   "id": "ch32-u12-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "Fill up: Swyer syndrome presents with primary amenorrhoea, a present uterus and ____ breast development.",
+   "opts": [
+    "Tanner 4/5",
+    "Tanner 3",
+    "precocious",
+    "absent"
+   ],
+   "ans": 3,
+   "exp": "'Uterus (+), Breast development (-)'."
+  },
+  {
+   "id": "ch32-u12-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which two hormones are raised in Swyer syndrome?",
+   "opts": [
+    "FSH and LH",
+    "Prolactin and TSH",
+    "Estrogen and progesterone",
+    "Testosterone and DHEA"
+   ],
+   "ans": 0,
+   "exp": "'FSH, LH: ↑'."
+  },
+  {
+   "id": "ch32-u12-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "recall",
+   "q": "The gonads in Swyer syndrome are:",
+   "opts": [
+    "Streak ovaries",
+    "Dysgenetic testes",
+    "Normal ovaries",
+    "Ovotestes"
+   ],
+   "ans": 1,
+   "exp": "'Gonads: Dysgenetic testis'."
+  },
+  {
+   "id": "ch32-u12-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Height in Swyer syndrome is:",
+   "opts": [
+    "Short",
+    "Tall",
+    "Variable",
+    "Normal"
+   ],
+   "ans": 3,
+   "exp": "'Height: Normal'."
+  },
+  {
+   "id": "ch32-u12-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "match",
+   "q": "Match each feature with the syndrome - 1) 45XO 2) 46XY 3) Streak ovaries 4) Dysgenetic testis with bilateral inguinal hernia ... A) Swyer syndrome B) Turner syndrome",
+   "opts": [
+    "1-A, 2-B, 3-A, 4-B",
+    "1-B, 2-B, 3-A, 4-A",
+    "1-B, 2-A, 3-B, 4-A",
+    "1-A, 2-A, 3-B, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Turner is 45XO with streak ovaries; Swyer is 46XY with dysgenetic testes that present as inguinal hernias."
+  },
+  {
+   "id": "ch32-u12-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which syndrome carries the additional dysmorphic features?",
+   "opts": [
+    "Turner syndrome",
+    "Swyer syndrome",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "The comparison table marks additional features as present for Turner's."
+  },
+  {
+   "id": "ch32-u12-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "scenario",
+   "q": "Scenario: A tall 17-year-old with primary amenorrhoea, absent breasts and a 46XY karyotype. Which diagnosis?",
+   "opts": [
+    "Turner syndrome",
+    "Kallmann syndrome",
+    "Swyer syndrome",
+    "Mullerian agenesis"
+   ],
+   "ans": 2,
+   "exp": "Normal height, absent breasts and a 46XY karyotype is the Swyer picture."
+  },
+  {
+   "id": "ch32-u12-q8",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "tf",
+   "q": "True/False: Swyer syndrome is associated with short stature.",
+   "opts": [
+    "True",
+    "False",
+    "True - through the SHOX gene",
+    "True - because of estrogen deficiency"
+   ],
+   "ans": 1,
+   "exp": "Height is normal in Swyer syndrome; short stature belongs to Turner syndrome."
+  },
+  {
+   "id": "ch32-u12-q9",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Swyer Syndrome and the Turner Comparison",
+   "page": 175,
+   "fmt": "odd",
+   "q": "Odd one out - which is a Turner feature rather than a Swyer feature?",
+   "opts": [
+    "Normal height",
+    "Dysgenetic testis",
+    "Raised FSH and LH",
+    "Webbing of the neck"
+   ],
+   "ans": 3,
+   "exp": "Webbing of the neck is listed under Turner features."
+  },
+  {
+   "id": "ch32-u13-q1",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "Fill up: The karyotype in Kallmann syndrome is ____.",
+   "opts": [
+    "46XX",
+    "46XY",
+    "45XO",
+    "47XXY"
+   ],
+   "ans": 0,
+   "exp": "'Karyotype: 46xx'."
+  },
+  {
+   "id": "ch32-u13-q2",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "The gonads are described as:",
+   "opts": [
+    "Streak ovaries",
+    "Ovaries with normal function",
+    "Dysgenetic testes",
+    "Hypoplastic ovaries"
+   ],
+   "ans": 1,
+   "exp": "'Gonads: Ovary (Normal function)'."
+  },
+  {
+   "id": "ch32-u13-q3",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "Fill up: The most commonly affected gene is the ____ gene.",
+   "opts": [
+    "SRY",
+    "SHOX",
+    "FGFR1 only",
+    "KAL-1"
+   ],
+   "ans": 3,
+   "exp": "'m/c gene affected: KAL-1 gene'."
+  },
+  {
+   "id": "ch32-u13-q4",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Breast development in Kallmann syndrome is:",
+   "opts": [
+    "Tanner 4/5",
+    "Absent entirely",
+    "Not well developed",
+    "Precocious"
+   ],
+   "ans": 2,
+   "exp": "'Breast: Not well developed'."
+  },
+  {
+   "id": "ch32-u13-q5",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Pubic and axillary hair are:",
+   "opts": [
+    "Absent",
+    "Normal",
+    "Scanty",
+    "Male pattern"
+   ],
+   "ans": 2,
+   "exp": "'Scanty pubic/axillary hair'."
+  },
+  {
+   "id": "ch32-u13-q6",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which two hormones are decreased?",
+   "opts": [
+    "Estrogen and progesterone",
+    "Prolactin and TSH",
+    "Testosterone and DHEA",
+    "FSH and LH"
+   ],
+   "ans": 3,
+   "exp": "'Hormones: FSH, LH ↓'."
+  },
+  {
+   "id": "ch32-u13-q7",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Stature in Kallmann syndrome is:",
+   "opts": [
+    "Normal",
+    "Short",
+    "Tall",
+    "Eunuchoid"
+   ],
+   "ans": 0,
+   "exp": "'Stature: Normal'."
+  },
+  {
+   "id": "ch32-u13-q8",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "Fill up: The associated sensory finding is ____.",
+   "opts": [
+    "blindness",
+    "anosmia",
+    "deafness",
+    "ageusia"
+   ],
+   "ans": 1,
+   "exp": "'A/w: Anosmia'."
+  },
+  {
+   "id": "ch32-u13-q9",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Which three presentations are printed for Kallmann syndrome?",
+   "opts": [
+    "Delayed puberty, hirsutism and acne",
+    "Delayed puberty, primary amenorrhoea and infertility",
+    "Primary amenorrhoea, galactorrhoea and headache",
+    "Infertility, virilisation and deepening voice"
+   ],
+   "ans": 1,
+   "exp": "The presentation list is delayed puberty, 1° amenorrhoea and infertility."
+  },
+  {
+   "id": "ch32-u13-q10",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: The treatment printed is ____ GnRH.",
+   "opts": [
+    "pulsatile",
+    "continuous",
+    "nasal spray of",
+    "depot"
+   ],
+   "ans": 0,
+   "exp": "'Management: Pulsatile GnRH'."
+  },
+  {
+   "id": "ch32-u13-q11",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Why is pulsatile rather than continuous GnRH used?",
+   "opts": [
+    "Continuous delivery is more expensive",
+    "Continuous delivery is not absorbed",
+    "Pulsatile delivery mimics physiological GnRH and drives gonadotrophin release",
+    "Continuous delivery causes anosmia"
+   ],
+   "ans": 2,
+   "exp": "The printed management names pulsatile GnRH to replace the missing hypothalamic signal."
+  },
+  {
+   "id": "ch32-u13-q12",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "match",
+   "q": "Match each Kallmann feature with its descriptor - 1) Karyotype 2) Gonads 3) Hormones 4) Stature ... A) Normal B) FSH and LH low C) Ovary with normal function D) 46XX",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 3,
+   "exp": "46XX karyotype, functional ovaries, low gonadotrophins and normal stature."
+  },
+  {
+   "id": "ch32-u13-q13",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 176,
+   "fmt": "scenario",
+   "q": "Scenario: A 19-year-old woman with primary amenorrhoea, absent sense of smell, normal height and low FSH and LH. What treatment is printed?",
+   "opts": [
+    "Combined estrogen and progesterone",
+    "Clomiphene citrate",
+    "Pulsatile GnRH",
+    "Gonadectomy"
+   ],
+   "ans": 2,
+   "exp": "Kallmann syndrome with anosmia is treated with pulsatile GnRH."
+  },
+  {
+   "id": "ch32-u13-q14",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "tf",
+   "q": "True/False: Kallmann syndrome is a hypergonadotropic condition.",
+   "opts": [
+    "True",
+    "False",
+    "True - FSH and LH are raised",
+    "True - it is normogonadotropic"
+   ],
+   "ans": 1,
+   "exp": "FSH and LH are low; it is hypogonadotropic hypogonadism."
+  },
+  {
+   "id": "ch32-u13-q15",
+   "sec": "Conditions in the Presence of a Uterus",
+   "unit": "Kallmann Syndrome",
+   "page": 175,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed Kallmann feature?",
+   "opts": [
+    "Anosmia",
+    "Scanty pubic hair",
+    "Low FSH and LH",
+    "Short stature"
+   ],
+   "ans": 3,
+   "exp": "Stature is normal in Kallmann syndrome; short stature belongs to Turner syndrome."
+  },
+  {
+   "id": "ch32-u14-q1",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: Mullerian agenesis has a ____ karyotype.",
+   "opts": [
+    "46XX",
+    "46XY",
+    "45XO",
+    "47XXY"
+   ],
+   "ans": 0,
+   "exp": "The comparison table prints 46XX for Mullerian agenesis and 46XY for AIS."
+  },
+  {
+   "id": "ch32-u14-q2",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "The gonads in Mullerian agenesis are described as normal because they develop from the:",
+   "opts": [
+    "Genital ridge",
+    "Mullerian duct",
+    "Urogenital sinus",
+    "Wolffian duct"
+   ],
+   "ans": 0,
+   "exp": "'Ovaries (Normal as they develop from genital ridge)'."
+  },
+  {
+   "id": "ch32-u14-q3",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "The gonads in AIS are:",
+   "opts": [
+    "Dysgenetic testes",
+    "Streak ovaries",
+    "Normal testes",
+    "Ovotestes"
+   ],
+   "ans": 2,
+   "exp": "'Testis (Normal)'."
+  },
+  {
+   "id": "ch32-u14-q4",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: Internal genitalia are ____ in both conditions.",
+   "opts": [
+    "present",
+    "hypoplastic",
+    "duplicated",
+    "absent"
+   ],
+   "ans": 3,
+   "exp": "Both columns print 'Absent' for internal genitalia."
+  },
+  {
+   "id": "ch32-u14-q5",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Why are the internal genitalia absent in Mullerian agenesis?",
+   "opts": [
+    "The Wolffian ducts regressed",
+    "Both Mullerian ducts are absent, so the fallopian tubes do not form",
+    "The ovaries failed to secrete estrogen",
+    "The urogenital sinus failed to canalise"
+   ],
+   "ans": 1,
+   "exp": "'Absent (Both Mullerian ducts (MD) (-) → Fallopian tubes absent)'."
+  },
+  {
+   "id": "ch32-u14-q6",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "External genitalia in both conditions are:",
+   "opts": [
+    "Ambiguous",
+    "Male",
+    "Absent",
+    "Female"
+   ],
+   "ans": 3,
+   "exp": "Both columns show a female symbol for external genitalia."
+  },
+  {
+   "id": "ch32-u14-q7",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Breast development in Mullerian agenesis is normal because estrogen is:",
+   "opts": [
+    "Low",
+    "Absent",
+    "Normal",
+    "Excessively high"
+   ],
+   "ans": 2,
+   "exp": "'Estrogen: Normal → Breast development: Normal'."
+  },
+  {
+   "id": "ch32-u14-q8",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Breast development in AIS reaches Tanner stage:",
+   "opts": [
+    "4 or 5",
+    "1 or 2",
+    "3",
+    "2"
+   ],
+   "ans": 0,
+   "exp": "The AIS column prints 'Tanner stage 4/5'."
+  },
+  {
+   "id": "ch32-u14-q9",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Pubic and axillary hair in Mullerian agenesis are:",
+   "opts": [
+    "Absent",
+    "Normal, because androgens are normal",
+    "Scanty",
+    "Male pattern"
+   ],
+   "ans": 1,
+   "exp": "'Androgens: Normal hair distribution'."
+  },
+  {
+   "id": "ch32-u14-q10",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Pubic and axillary hair in AIS are:",
+   "opts": [
+    "Normal",
+    "Scanty, because the tissues are unresponsive to testosterone",
+    "Absent",
+    "Male pattern"
+   ],
+   "ans": 1,
+   "exp": "The AIS column prints 'Scanty' and 'Unresponsive to testosterone'."
+  },
+  {
+   "id": "ch32-u14-q11",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: Testosterone in Mullerian agenesis is normal and equivalent to ____ levels.",
+   "opts": [
+    "female",
+    "male",
+    "prepubertal",
+    "castrate"
+   ],
+   "ans": 0,
+   "exp": "'Normal: Equivalent to female levels'."
+  },
+  {
+   "id": "ch32-u14-q12",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Testosterone in AIS is:",
+   "opts": [
+    "Normal, equivalent to female levels",
+    "Low",
+    "Raised, equivalent to male levels",
+    "Undetectable"
+   ],
+   "ans": 2,
+   "exp": "'↑ (Equivalent to male levels)'."
+  },
+  {
+   "id": "ch32-u14-q13",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "LH in Mullerian agenesis versus AIS is:",
+   "opts": [
+    "Raised versus normal",
+    "Normal in both",
+    "Raised in both",
+    "Normal versus raised"
+   ],
+   "ans": 3,
+   "exp": "'LH: Normal | ↑'."
+  },
+  {
+   "id": "ch32-u14-q14",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "FSH in Mullerian agenesis versus AIS is:",
+   "opts": [
+    "Normal versus raised",
+    "Raised versus normal",
+    "Normal in both",
+    "Low in both"
+   ],
+   "ans": 2,
+   "exp": "'FSH: Normal | Normal'."
+  },
+  {
+   "id": "ch32-u14-q15",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: Patients with Mullerian agenesis ____ produce biological children using IVF with oocyte and sperm plus surrogacy.",
+   "opts": [
+    "can",
+    "cannot",
+    "rarely",
+    "only after vaginoplasty"
+   ],
+   "ans": 0,
+   "exp": "'Produce biological children: Yes: IVF with oocyte + sperm → Surrogacy'."
+  },
+  {
+   "id": "ch32-u14-q16",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Can patients with AIS produce biological children?",
+   "opts": [
+    "Yes, with IVF and surrogacy",
+    "No",
+    "Yes, after gonadectomy",
+    "Yes, with donor oocytes"
+   ],
+   "ans": 1,
+   "exp": "The AIS column marks this as not possible."
+  },
+  {
+   "id": "ch32-u14-q17",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "match",
+   "q": "Match each row with the condition - 1) 46XX 2) Scanty pubic hair 3) Male-level testosterone 4) Raised LH ... A) AIS B) Mullerian agenesis",
+   "opts": [
+    "1-A, 2-B, 3-B, 4-A",
+    "1-B, 2-A, 3-B, 4-B",
+    "1-A, 2-A, 3-A, 4-B",
+    "1-B, 2-A, 3-A, 4-A"
+   ],
+   "ans": 3,
+   "exp": "46XX is Mullerian agenesis; scanty hair, male-level testosterone and raised LH are AIS."
+  },
+  {
+   "id": "ch32-u14-q18",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "scenario",
+   "q": "Scenario: A 17-year-old with primary amenorrhoea has a 46XY karyotype, Tanner 5 breasts, scanty axillary hair and male-range testosterone. Which diagnosis?",
+   "opts": [
+    "Androgen insensitivity syndrome",
+    "Mullerian agenesis",
+    "Turner syndrome",
+    "Swyer syndrome"
+   ],
+   "ans": 0,
+   "exp": "46XY with androgen-unresponsive scanty hair and male testosterone is AIS."
+  },
+  {
+   "id": "ch32-u14-q19",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "tf",
+   "q": "True/False: Women with Mullerian agenesis have functional ovaries and can have genetic offspring through surrogacy.",
+   "opts": [
+    "False",
+    "False - the ovaries are streak",
+    "False - IVF is contraindicated",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The table states biological children are possible with IVF and surrogacy."
+  },
+  {
+   "id": "ch32-u14-q20",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Mullerian Agenesis versus AIS",
+   "page": 176,
+   "fmt": "odd",
+   "q": "Odd one out - which is a Mullerian agenesis feature rather than an AIS feature?",
+   "opts": [
+    "Scanty pubic hair",
+    "Normal pubic and axillary hair",
+    "46XY karyotype",
+    "Raised LH"
+   ],
+   "ans": 1,
+   "exp": "Normal androgen-dependent hair distribution is the Mullerian agenesis column."
+  },
+  {
+   "id": "ch32-u15-q1",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: Mullerian agenesis is also called Mayer-Rokitansky-Kuster-____ syndrome.",
+   "opts": [
+    "Hunter",
+    "Hilton",
+    "Hauser",
+    "Hammond"
+   ],
+   "ans": 2,
+   "exp": "The eponym printed is Mayer-Rokitansky-Kuster-Hauser (MRKH) syndrome."
+  },
+  {
+   "id": "ch32-u15-q2",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Which renal anomalies are associated?",
+   "opts": [
+    "Polycystic kidney and duplex system",
+    "Renal calculi and hydronephrosis",
+    "Renal agenesis and horseshoe kidney",
+    "Nephrocalcinosis"
+   ],
+   "ans": 2,
+   "exp": "'Renal anomalies: Agenesis / Horse shoe kidney'."
+  },
+  {
+   "id": "ch32-u15-q3",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: The skeletal anomaly named is ____.",
+   "opts": [
+    "hemivertebra",
+    "scoliosis",
+    "spina bifida",
+    "sacral agenesis"
+   ],
+   "ans": 0,
+   "exp": "'Skeletal anomalies: Hemivertebra'."
+  },
+  {
+   "id": "ch32-u15-q4",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 176,
+   "fmt": "numeric",
+   "q": "How many associated anomaly groups are printed under MRKH?",
+   "opts": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "ans": 1,
+   "exp": "Renal anomalies and skeletal anomalies."
+  },
+  {
+   "id": "ch32-u15-q5",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 176,
+   "fmt": "match",
+   "q": "Match the anomaly with its system - 1) Horseshoe kidney 2) Hemivertebra ... A) Skeletal B) Renal",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Horseshoe kidney is renal; hemivertebra is skeletal."
+  },
+  {
+   "id": "ch32-u15-q6",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 176,
+   "fmt": "tf",
+   "q": "True/False: MRKH-associated anomalies include cardiac lesions such as coarctation of the aorta.",
+   "opts": [
+    "True",
+    "True - bicuspid aortic valve is listed",
+    "False",
+    "True - ECHO is mandatory"
+   ],
+   "ans": 2,
+   "exp": "Cardiac anomalies are listed under Turner syndrome, not MRKH."
+  },
+  {
+   "id": "ch32-u15-q7",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 177,
+   "fmt": "recall",
+   "q": "Which faint note on the final primary amenorrhoea page qualifies the vaginal findings in Mullerian agenesis?",
+   "opts": [
+    "The cervix is always absent",
+    "The uterus is always present",
+    "The vagina is always normal",
+    "The distal end of the vagina is sometimes present"
+   ],
+   "ans": 3,
+   "exp": "Page 177 prints the Mullerian agenesis feature 'sometimes distal end (+)'."
+  },
+  {
+   "id": "ch32-u15-q8",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "MRKH Syndrome and Associated Anomalies",
+   "page": 176,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT an MRKH association?",
+   "opts": [
+    "Renal agenesis",
+    "Sensorineural hearing loss",
+    "Horseshoe kidney",
+    "Hemivertebra"
+   ],
+   "ans": 1,
+   "exp": "SNHL belongs to Turner syndrome."
+  },
+  {
+   "id": "ch32-u16-q1",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: The first investigation advised in all patients is ____ to look for renal anomalies.",
+   "opts": [
+    "intravenous pyelography",
+    "CT urogram",
+    "renal angiography",
+    "DTPA scan"
+   ],
+   "ans": 0,
+   "exp": "'In all patients: 1. IVP (Intravenous pyelography): Renal anomalies'."
+  },
+  {
+   "id": "ch32-u16-q2",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "recall",
+   "q": "The second investigation in all patients is:",
+   "opts": [
+    "MRI spine",
+    "Bone densitometry",
+    "CT pelvis",
+    "Skeletal X-ray for vertebral anomalies"
+   ],
+   "ans": 3,
+   "exp": "'2. Skeletal X-ray: Vertebral anomalies'."
+  },
+  {
+   "id": "ch32-u16-q3",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: Vaginoplasty is performed for ____ problems.",
+   "opts": [
+    "coital",
+    "menstrual",
+    "fertility",
+    "urinary"
+   ],
+   "ans": 0,
+   "exp": "'Vaginoplasty (For coital problems)'."
+  },
+  {
+   "id": "ch32-u16-q4",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "recall",
+   "q": "When is vaginoplasty timed?",
+   "opts": [
+    "At diagnosis",
+    "Just before or after marriage",
+    "At thelarche",
+    "After menopause"
+   ],
+   "ans": 1,
+   "exp": "'Time: Just before/after marriage'."
+  },
+  {
+   "id": "ch32-u16-q5",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Which vaginoplasty technique is named first for Mullerian agenesis?",
+   "opts": [
+    "Vecchietti technique",
+    "Davydov",
+    "McIndoe technique",
+    "Sigmoid"
+   ],
+   "ans": 2,
+   "exp": "'Technique: McIndoe technique' with 'Vecchietti technique' also listed."
+  },
+  {
+   "id": "ch32-u16-q6",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Fill up: Management of the AIS side of the table is gonadectomy plus ____ replacement therapy.",
+   "opts": [
+    "estrogen",
+    "progesterone",
+    "testosterone",
+    "DHT"
+   ],
+   "ans": 0,
+   "exp": "'Gonadectomy + Estrogen replacement therapy'."
+  },
+  {
+   "id": "ch32-u16-q7",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "match",
+   "q": "Match each management element with its indication - 1) Vaginoplasty 2) Gonadectomy 3) Estrogen replacement ... A) Mullerian agenesis B) AIS",
+   "opts": [
+    "1-B, 2-A, 3-A",
+    "1-A, 2-A, 3-B",
+    "1-A, 2-B, 3-B",
+    "1-B, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Vaginoplasty addresses coital problems in Mullerian agenesis; gonadectomy and estrogen are the AIS column."
+  },
+  {
+   "id": "ch32-u16-q8",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "scenario",
+   "q": "Scenario: A 16-year-old with Mullerian agenesis is diagnosed. Which two investigations must be done in all such patients?",
+   "opts": [
+    "MRI pelvis and laparoscopy",
+    "Karyotyping and audiometry",
+    "Echocardiography and thyroid profile",
+    "Intravenous pyelography and skeletal X-ray"
+   ],
+   "ans": 3,
+   "exp": "IVP for renal anomalies and skeletal X-ray for vertebral anomalies are advised for every patient."
+  },
+  {
+   "id": "ch32-u16-q9",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "tf",
+   "q": "True/False: Karyotyping is omitted in the investigation list for the absent-uterus group.",
+   "opts": [
+    "False",
+    "True",
+    "False - it is the first investigation",
+    "False - it is done twice"
+   ],
+   "ans": 1,
+   "exp": "This page lists only IVP and skeletal X-ray under investigations in all patients."
+  },
+  {
+   "id": "ch32-u16-q10",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Investigations and Management with an Absent Uterus",
+   "page": 176,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT part of the printed management block?",
+   "opts": [
+    "Vaginoplasty",
+    "Gonadectomy",
+    "Estrogen replacement",
+    "Pulsatile GnRH"
+   ],
+   "ans": 3,
+   "exp": "Pulsatile GnRH is the Kallmann syndrome treatment."
+  },
+  {
+   "id": "ch32-u17-q1",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "numeric",
+   "q": "Fill up: The summary table has ____ hormone-pattern columns.",
+   "opts": [
+    "two",
+    "three",
+    "four",
+    "five"
+   ],
+   "ans": 2,
+   "exp": "Low gonadotrophins, normal, raised LH with normal FSH, and raised both."
+  },
+  {
+   "id": "ch32-u17-q2",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "recall",
+   "q": "Which condition heads the low-LH, low-FSH, low-estrogen column?",
+   "opts": [
+    "Mullerian agenesis",
+    "Kallmann syndrome",
+    "Turner syndrome",
+    "AIS"
+   ],
+   "ans": 1,
+   "exp": "'I. Kallmann syndrome'."
+  },
+  {
+   "id": "ch32-u17-q3",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "recall",
+   "q": "Which two conditions share the normal hormone column?",
+   "opts": [
+    "Mullerian agenesis and cryptomenorrhoea",
+    "Turner syndrome and Swyer syndrome",
+    "AIS and Kallmann syndrome",
+    "Swyer syndrome and cryptomenorrhoea"
+   ],
+   "ans": 0,
+   "exp": "The normal column lists Mullerian agenesis and cryptomenorrhoea."
+  },
+  {
+   "id": "ch32-u17-q4",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "recall",
+   "q": "Which condition alone occupies the raised-LH with normal-FSH column?",
+   "opts": [
+    "Turner syndrome",
+    "Swyer syndrome",
+    "Pure gonadal dysgenesis",
+    "AIS"
+   ],
+   "ans": 3,
+   "exp": "The third column contains only AIS."
+  },
+  {
+   "id": "ch32-u17-q5",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "numeric",
+   "q": "How many conditions are listed under the raised LH and FSH with low estrogen column?",
+   "opts": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "ans": 2,
+   "exp": "Turner's syndrome, Swyer's syndrome and pure gonadal dysgenesis."
+  },
+  {
+   "id": "ch32-u17-q6",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "fillup",
+   "q": "Fill up: The third gonadal dysgenesis in the summary list is ____ gonadal dysgenesis.",
+   "opts": [
+    "pure",
+    "mixed",
+    "partial",
+    "familial"
+   ],
+   "ans": 0,
+   "exp": "'3. Pure gonadal dysgenesis'."
+  },
+  {
+   "id": "ch32-u17-q7",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "match",
+   "q": "Match each condition with its summary column - 1) Kallmann 2) Mullerian agenesis 3) Cryptomenorrhoea 4) AIS 5) Turner ... A) LH and FSH normal B) LH up, FSH normal C) LH down, FSH down D) LH up, FSH up",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D, 5-A",
+    "1-C, 2-A, 3-A, 4-B, 5-D",
+    "1-D, 2-A, 3-C, 4-B, 5-A",
+    "1-C, 2-B, 3-A, 4-D, 5-A"
+   ],
+   "ans": 1,
+   "exp": "Kallmann is hypogonadotropic; Mullerian agenesis and cryptomenorrhoea are normal; AIS has raised LH only; Turner is hypergonadotropic."
+  },
+  {
+   "id": "ch32-u17-q8",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "scenario",
+   "q": "Scenario: A patient with primary amenorrhoea is found to have raised LH, normal FSH and male-level testosterone. Which column of the summary does she fall into?",
+   "opts": [
+    "The low gonadotrophin column",
+    "The normal column",
+    "The raised LH and FSH column",
+    "The raised LH with normal FSH column (AIS)"
+   ],
+   "ans": 3,
+   "exp": "That combination is the AIS column."
+  },
+  {
+   "id": "ch32-u17-q9",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "tf",
+   "q": "True/False: Cryptomenorrhoea appears in the summary under the low-gonadotrophin column.",
+   "opts": [
+    "False",
+    "True",
+    "True - it is grouped with Kallmann syndrome",
+    "True - it has its own column"
+   ],
+   "ans": 0,
+   "exp": "Cryptomenorrhoea sits in the normal hormone column."
+  },
+  {
+   "id": "ch32-u17-q10",
+   "sec": "Conditions in the Absence of a Uterus",
+   "unit": "Summary of Primary Amenorrhoea by Hormone Pattern",
+   "page": 177,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT in the hypergonadotropic column?",
+   "opts": [
+    "Turner syndrome",
+    "Mullerian agenesis",
+    "Swyer syndrome",
+    "Pure gonadal dysgenesis"
+   ],
+   "ans": 1,
+   "exp": "Mullerian agenesis has normal hormones."
+  }
+ ]
+}

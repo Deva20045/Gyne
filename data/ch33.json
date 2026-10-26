@@ -1,0 +1,2389 @@
+{
+ "chapter": 33,
+ "questions": [
+  {
+   "id": "ch33-u1-q1",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Fill up: Vaginal flora is described as ____.",
+   "opts": [
+    "polymicrobial",
+    "monomicrobial",
+    "sterile",
+    "fungal"
+   ],
+   "ans": 0,
+   "exp": "Page 178 opens with 'Vaginal flora: Polymicrobial'."
+  },
+  {
+   "id": "ch33-u1-q2",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "The predominant organism of the vagina is:",
+   "opts": [
+    "Gardnerella vaginalis",
+    "Candida albicans",
+    "Lactobacilli (Doderlein bacilli)",
+    "Escherichia coli"
+   ],
+   "ans": 2,
+   "exp": "'Lactobacilli / Doderlein bacilli (Predominant)'."
+  },
+  {
+   "id": "ch33-u1-q3",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "Doderlein bacilli are described as:",
+   "opts": [
+    "Gram negative cocci",
+    "Gram positive bacilli",
+    "Gram positive cocci",
+    "Gram negative bacilli"
+   ],
+   "ans": 1,
+   "exp": "'- Gram +ve bacilli'."
+  },
+  {
+   "id": "ch33-u1-q4",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "When do lactobacilli first appear?",
+   "opts": [
+    "At birth",
+    "At menopause",
+    "During pregnancy",
+    "At puberty"
+   ],
+   "ans": 3,
+   "exp": "'- Appears at puberty'."
+  },
+  {
+   "id": "ch33-u1-q5",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Fill up: Lactobacilli disappear at ____.",
+   "opts": [
+    "menopause",
+    "puberty",
+    "pregnancy",
+    "the puerperium"
+   ],
+   "ans": 0,
+   "exp": "'- Disappears at menopause'."
+  },
+  {
+   "id": "ch33-u1-q6",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "The substrate converted to lactic acid is:",
+   "opts": [
+    "Mucus from the endocervix",
+    "Glycogen in the stratified epithelium",
+    "Protein from the exudate",
+    "Urea in the vaginal fluid"
+   ],
+   "ans": 1,
+   "exp": "'Glycogen in stratified epithelium → Lactic acid + H2O2'."
+  },
+  {
+   "id": "ch33-u1-q7",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Fill up: Glycogen breakdown yields lactic acid and ____.",
+   "opts": [
+    "acetic acid",
+    "carbon dioxide",
+    "hydrogen peroxide",
+    "ammonia"
+   ],
+   "ans": 2,
+   "exp": "The arrow prints 'Lactic acid + H2O2'."
+  },
+  {
+   "id": "ch33-u1-q8",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "The acidic pH produced by lactobacilli is described as the:",
+   "opts": [
+    "Cause of vaginal discharge",
+    "Cause of dyspareunia",
+    "Trigger for menstruation",
+    "Defence mechanism of the vagina"
+   ],
+   "ans": 3,
+   "exp": "'→ Acidic pH → Defense mechanism'."
+  },
+  {
+   "id": "ch33-u1-q9",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "Which hormone is responsible for the presence of glycogen?",
+   "opts": [
+    "Progesterone",
+    "Estrogen",
+    "Testosterone",
+    "Prolactin"
+   ],
+   "ans": 1,
+   "exp": "'- Estrogen: Responsible for presence of glycogen'."
+  },
+  {
+   "id": "ch33-u1-q10",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Fill up: ____ survives in the acidic pH produced by lactobacilli.",
+   "opts": [
+    "Gardnerella",
+    "Trichomonas",
+    "Neisseria",
+    "Candida"
+   ],
+   "ans": 3,
+   "exp": "'- Candida: Survives in acidic pH'."
+  },
+  {
+   "id": "ch33-u1-q11",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "Which two findings are printed under 'normal pap smear'?",
+   "opts": [
+    "Doderlein bacilli and superficial cells",
+    "Parabasal cells and inflammatory exudate",
+    "Endocervical cells and koilocytes",
+    "Intermediate cells and clue cells"
+   ],
+   "ans": 0,
+   "exp": "The pap smear block lists 'Doderlein bacilli' and 'Superficial cells' under 'Normal pap smear'."
+  },
+  {
+   "id": "ch33-u1-q12",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "recall",
+   "q": "What is the stated purpose of the pap smear here?",
+   "opts": [
+    "Diagnosing vaginitis",
+    "Assessing hormonal status",
+    "Screening for cancer",
+    "Detecting sexually transmitted infection"
+   ],
+   "ans": 2,
+   "exp": "'Pap smear: Screening for cancer'."
+  },
+  {
+   "id": "ch33-u1-q13",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "scenario",
+   "q": "Scenario: A postmenopausal woman has recurrent vaginal infections. Which printed fact explains the loss of her defence mechanism?",
+   "opts": [
+    "Lactobacilli disappear at menopause, so the acidic protective pH is lost",
+    "Candida survives in acidic pH",
+    "Glycogen rises after menopause",
+    "The pap smear becomes abnormal"
+   ],
+   "ans": 0,
+   "exp": "The printed line 'Disappears at menopause' explains the loss of lactobacilli and acidic protection."
+  },
+  {
+   "id": "ch33-u1-q14",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "tf",
+   "q": "True/False: Oestrogen protects the vagina by causing glycogen deposition that lactobacilli convert to lactic acid.",
+   "opts": [
+    "False",
+    "False - progesterone is responsible for glycogen",
+    "True",
+    "False - glycogen is dietary in origin"
+   ],
+   "ans": 2,
+   "exp": "The chain printed is estrogen → glycogen → lactic acid → acidic pH → defence."
+  },
+  {
+   "id": "ch33-u1-q15",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Vaginal Defence Mechanism",
+   "page": 178,
+   "fmt": "odd",
+   "q": "Odd one out - which organism is NOT described as part of the normal protective flora?",
+   "opts": [
+    "Lactobacilli",
+    "Doderlein bacilli",
+    "Gram positive bacilli",
+    "Gardnerella vaginalis"
+   ],
+   "ans": 3,
+   "exp": "Gardnerella is the bacterial vaginosis organism, not normal protective flora."
+  },
+  {
+   "id": "ch33-u2-q1",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Fill up: Leucorrhoea is described as ____ white discharge.",
+   "opts": [
+    "pathological",
+    "physiological",
+    "purulent",
+    "blood-stained"
+   ],
+   "ans": 1,
+   "exp": "'Leucorrhoea: Physiological white discharge'."
+  },
+  {
+   "id": "ch33-u2-q2",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "recall",
+   "q": "When is physiological discharge increased?",
+   "opts": [
+    "During ovulation and before menstruation",
+    "During menstruation and after menopause",
+    "In the early follicular phase only",
+    "Only during pregnancy"
+   ],
+   "ans": 0,
+   "exp": "'Increased: During ovulation, Before menstruation'."
+  },
+  {
+   "id": "ch33-u2-q3",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Fill up: In the first half of the cycle the discharge is thin and watery because of ____.",
+   "opts": [
+    "progesterone",
+    "prolactin",
+    "estrogen",
+    "testosterone"
+   ],
+   "ans": 2,
+   "exp": "'- 1st half of cycle: Thin watery d/t estrogen'."
+  },
+  {
+   "id": "ch33-u2-q4",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "recall",
+   "q": "In the second half of the cycle the discharge becomes thick because of:",
+   "opts": [
+    "Estrogen",
+    "Progesterone",
+    "LH surge",
+    "Relaxin"
+   ],
+   "ans": 1,
+   "exp": "'- 2nd half of cycle: Thick d/t progesterone'."
+  },
+  {
+   "id": "ch33-u2-q5",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "recall",
+   "q": "Which three characteristics define physiological leucorrhoea?",
+   "opts": [
+    "White, fishy-smelling and itchy",
+    "Yellow, frothy and painful",
+    "Green, offensive and blood-stained",
+    "Colourless, odourless and without pruritus or dysuria"
+   ],
+   "ans": 3,
+   "exp": "The characteristics block lists colourless, odourless and 'No pruritis/dysuria'."
+  },
+  {
+   "id": "ch33-u2-q6",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Fill up: The differential listed against leucorrhoea is ____ vaginosis discharge.",
+   "opts": [
+    "bacterial",
+    "candidal",
+    "trichomonal",
+    "atrophic"
+   ],
+   "ans": 0,
+   "exp": "'D/d: Bacterial vaginosis discharge'."
+  },
+  {
+   "id": "ch33-u2-q7",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "recall",
+   "q": "How does bacterial vaginosis discharge differ from physiological leucorrhoea in the printed comparison?",
+   "opts": [
+    "It is yellow with pruritus",
+    "It is curdy white with excoriation",
+    "It is colourless but has a pungent fishy odour and no pruritus",
+    "It is frothy with dysuria"
+   ],
+   "ans": 2,
+   "exp": "BV discharge is printed as colourless with a pungent/fishy odour and no pruritus."
+  },
+  {
+   "id": "ch33-u2-q8",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "match",
+   "q": "Match the discharge feature with the diagnosis - 1) Thin watery in the first half of cycle 2) Thick in the second half 3) Pungent fishy odour, colourless 4) Curdy white ... A) Bacterial vaginosis B) Physiological leucorrhoea C) Candidiasis",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-A",
+    "1-B, 2-B, 3-A, 4-C",
+    "1-C, 2-A, 3-B, 4-C",
+    "1-B, 2-C, 3-A, 4-B"
+   ],
+   "ans": 1,
+   "exp": "Cycle-related changes are physiological; fishy colourless discharge is BV; curdy white is candidiasis."
+  },
+  {
+   "id": "ch33-u2-q9",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "scenario",
+   "q": "Scenario: A woman reports increased clear discharge mid-cycle with no smell and no itching. What is the printed interpretation?",
+   "opts": [
+    "Bacterial vaginosis",
+    "Candidiasis",
+    "Trichomonas vaginitis",
+    "Physiological leucorrhoea of the ovulatory phase"
+   ],
+   "ans": 3,
+   "exp": "Mid-cycle thin watery discharge without odour or pruritus is physiological."
+  },
+  {
+   "id": "ch33-u2-q10",
+   "sec": "Vaginal Defence and Normal Discharge",
+   "unit": "Leucorrhoea and Its Differential",
+   "page": 178,
+   "fmt": "tf",
+   "q": "True/False: Physiological leucorrhoea is associated with pruritus and dysuria.",
+   "opts": [
+    "True",
+    "True - pruritus is the main complaint",
+    "False",
+    "True - dysuria is always present"
+   ],
+   "ans": 2,
+   "exp": "The printed characteristics explicitly state no pruritus and no dysuria."
+  },
+  {
+   "id": "ch33-u3-q1",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Fill up: The organism named for bacterial vaginosis is ____ vaginalis.",
+   "opts": [
+    "Trichomonas",
+    "Candida",
+    "Mobiluncus",
+    "Gardnerella"
+   ],
+   "ans": 3,
+   "exp": "'Gardnerella vaginalis' heads the BV organism list."
+  },
+  {
+   "id": "ch33-u3-q2",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which two additional organisms are listed with Gardnerella in bacterial vaginosis?",
+   "opts": [
+    "Candida and Trichomonas",
+    "Mycoplasma and Mobiluncus",
+    "E. coli and Bacteroides",
+    "Streptococcus and Staphylococcus"
+   ],
+   "ans": 1,
+   "exp": "The BV organism list is Gardnerella vaginalis, mycoplasma and mobiluncus."
+  },
+  {
+   "id": "ch33-u3-q3",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Fill up: The candida species named is Candida ____.",
+   "opts": [
+    "albicans",
+    "glabrata",
+    "tropicalis",
+    "krusei"
+   ],
+   "ans": 0,
+   "exp": "'Candida albicans'."
+  },
+  {
+   "id": "ch33-u3-q4",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Trichomonas vaginalis is described as a:",
+   "opts": [
+    "Gram negative diplococcus",
+    "Sporulating fungus",
+    "Gram positive bacillus",
+    "Flagellated protozoan"
+   ],
+   "ans": 3,
+   "exp": "'Trichomonas vaginalis: Flagellated protozoan'."
+  },
+  {
+   "id": "ch33-u3-q5",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Fill up: Bacterial vaginosis is described as an alteration of vaginal ____.",
+   "opts": [
+    "flora",
+    "pH",
+    "epithelium",
+    "blood flow"
+   ],
+   "ans": 0,
+   "exp": "'Alteration of vaginal flora'."
+  },
+  {
+   "id": "ch33-u3-q6",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which vaginitis is printed as the most common vaginitis in females?",
+   "opts": [
+    "Candidiasis",
+    "Bacterial vaginosis",
+    "Trichomonas vaginitis",
+    "Atrophic vaginitis"
+   ],
+   "ans": 1,
+   "exp": "'m/c vaginitis in female' is printed in the BV column."
+  },
+  {
+   "id": "ch33-u3-q7",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which vaginitis is the most common in pregnant females?",
+   "opts": [
+    "Bacterial vaginosis",
+    "Trichomonas vaginitis",
+    "Candidiasis",
+    "Desquamative inflammatory vaginitis"
+   ],
+   "ans": 2,
+   "exp": "'- m/c vaginitis in pregnant female' appears in the candida column."
+  },
+  {
+   "id": "ch33-u3-q8",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which three predisposing factors are listed for candidiasis?",
+   "opts": [
+    "Pregnancy, nulliparity and lactation",
+    "Diabetes, hypertension and obesity",
+    "Pregnancy, immunocompromise and antibiotics/steroids/OCP use",
+    "Menopause, smoking and stress"
+   ],
+   "ans": 2,
+   "exp": "The predisposing list is pregnancy, immunocompromised, antibiotics/steroids/OCP consumption."
+  },
+  {
+   "id": "ch33-u3-q9",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Fill up: Trichomonas is associated with alteration of vaginal pH towards the ____ range.",
+   "opts": [
+    "acidic",
+    "neutral",
+    "highly acidic",
+    "alkaline"
+   ],
+   "ans": 3,
+   "exp": "'Alteration of vaginal pH (Alkaline)'."
+  },
+  {
+   "id": "ch33-u3-q10",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Trichomonas vaginitis is noted to coexist with:",
+   "opts": [
+    "Candidiasis",
+    "Bacterial vaginosis",
+    "Cervical ectopy",
+    "Pelvic inflammatory disease"
+   ],
+   "ans": 1,
+   "exp": "'Coexist with bacterial vaginosis'."
+  },
+  {
+   "id": "ch33-u3-q11",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which discharge colour is printed for trichomonas?",
+   "opts": [
+    "Yellowish green",
+    "Greyish white",
+    "Curdy white",
+    "Blood stained"
+   ],
+   "ans": 0,
+   "exp": "'Frothy / Yellowish green colour'."
+  },
+  {
+   "id": "ch33-u3-q12",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Fill up: The candida discharge is curdy white, like ____ cheese.",
+   "opts": [
+    "cream",
+    "cottage",
+    "cheddar",
+    "processed"
+   ],
+   "ans": 1,
+   "exp": "'Curdy white / cottage cheese'."
+  },
+  {
+   "id": "ch33-u3-q13",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which pH is printed for candida?",
+   "opts": [
+    "4.5 or above",
+    "Exactly 7.0",
+    "Above 6.0",
+    "Below 4.5"
+   ],
+   "ans": 3,
+   "exp": "The candida column prints pH < 4.5."
+  },
+  {
+   "id": "ch33-u3-q14",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which two of the three vaginitides have a pH of 4.5 or above?",
+   "opts": [
+    "Candida and trichomonas",
+    "Bacterial vaginosis and candida",
+    "Bacterial vaginosis and trichomonas",
+    "All three"
+   ],
+   "ans": 2,
+   "exp": "BV and trichomonas print pH >= 4.5; only candida is below."
+  },
+  {
+   "id": "ch33-u3-q15",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Fill up: Bacterial vaginosis is marked with a cross against pruritus, meaning ____ inflammation.",
+   "opts": [
+    "no",
+    "marked",
+    "granulomatous",
+    "chronic"
+   ],
+   "ans": 0,
+   "exp": "'× (No inflammation)' is printed for BV."
+  },
+  {
+   "id": "ch33-u3-q16",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "In which vaginitis is excoriation the main complaint?",
+   "opts": [
+    "Bacterial vaginosis",
+    "Trichomonas vaginitis",
+    "Candidiasis",
+    "Atrophic vaginitis"
+   ],
+   "ans": 2,
+   "exp": "The candida column prints 'Intense pruritis → Excoriation: main complaint'."
+  },
+  {
+   "id": "ch33-u3-q17",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Fill up: ____ dysuria is listed under trichomonas vaginitis.",
+   "opts": [
+    "Terminal",
+    "Stress",
+    "Nocturnal",
+    "Splash"
+   ],
+   "ans": 3,
+   "exp": "'Splash dysuria'."
+  },
+  {
+   "id": "ch33-u3-q18",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "numeric",
+   "q": "The polymorphonuclear leucocyte to epithelial cell ratio printed for bacterial vaginosis is:",
+   "opts": [
+    "Less than 1",
+    "More than 1",
+    "Exactly 1",
+    "More than 10"
+   ],
+   "ans": 0,
+   "exp": "'PMNs / epithelial cells: <1'."
+  },
+  {
+   "id": "ch33-u3-q19",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which vaginitis is marked as a sexually transmitted disease in the table?",
+   "opts": [
+    "Bacterial vaginosis",
+    "Trichomonas vaginitis",
+    "Candidiasis",
+    "Both BV and candidiasis"
+   ],
+   "ans": 1,
+   "exp": "The STD row is marked against trichomonas."
+  },
+  {
+   "id": "ch33-u3-q20",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "match",
+   "q": "Match each finding with the vaginitis - 1) Clue cells 2) Cottage-cheese discharge 3) Strawberry cervix 4) pH below 4.5 ... A) Trichomonas B) Bacterial vaginosis C) Candidiasis",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-B",
+    "1-B, 2-A, 3-C, 4-A",
+    "1-B, 2-C, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Clue cells are BV; cottage cheese and low pH are candida; strawberry cervix is trichomonas."
+  },
+  {
+   "id": "ch33-u3-q21",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "scenario",
+   "q": "Scenario: A woman has profuse frothy yellow-green discharge, an itchy vulva and pain on passing urine. Which vaginitis?",
+   "opts": [
+    "Bacterial vaginosis",
+    "Candidiasis",
+    "Trichomonas vaginitis",
+    "Physiological leucorrhoea"
+   ],
+   "ans": 2,
+   "exp": "Frothy yellowish green discharge with pruritus and splash dysuria is trichomonas."
+  },
+  {
+   "id": "ch33-u3-q22",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "tf",
+   "q": "True/False: Bacterial vaginosis shows abundant polymorphonuclear leucocytes on microscopy.",
+   "opts": [
+    "True",
+    "False",
+    "True - PMNs exceed epithelial cells",
+    "True - it is an inflammatory condition"
+   ],
+   "ans": 1,
+   "exp": "BV is marked 'No inflammation' with a PMN/epithelial ratio below 1."
+  },
+  {
+   "id": "ch33-u3-q23",
+   "sec": "Comparing the Three Vaginitides",
+   "unit": "Comparing the Three Vaginitides",
+   "page": 179,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed predisposing factor for candidiasis?",
+   "opts": [
+    "Alkaline vaginal pH",
+    "Pregnancy",
+    "Immunocompromised state",
+    "Antibiotic use"
+   ],
+   "ans": 0,
+   "exp": "Alkaline pH is the trichomonas column, not a candida predisposing factor."
+  },
+  {
+   "id": "ch33-u4-q1",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Fill up: The investigation of choice for vaginitis is ____ microscopy.",
+   "opts": [
+    "saline",
+    "Gram stain alone",
+    "phase contrast",
+    "dark ground"
+   ],
+   "ans": 0,
+   "exp": "'IOC: Saline microscopy'."
+  },
+  {
+   "id": "ch33-u4-q2",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "A clue cell is defined as:",
+   "opts": [
+    "A polymorph with intracellular diplococci",
+    "A yeast cell with a bud",
+    "An epithelial cell with bacteria adhered to it",
+    "A flagellated organism the size of a nucleus"
+   ],
+   "ans": 2,
+   "exp": "'Epithelial cells with bacteria adhered: Clue cell'."
+  },
+  {
+   "id": "ch33-u4-q3",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which gram-stain scoring system is named for bacterial vaginosis?",
+   "opts": [
+    "Amsel score, 3 of 4",
+    "Nugent score, 7 to 10",
+    "Hay-Ison score, grade 3",
+    "Spiegelberg score, above 6"
+   ],
+   "ans": 1,
+   "exp": "'- Nugent score: Score 7-10'."
+  },
+  {
+   "id": "ch33-u4-q4",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Fill up: The two candida forms seen on microscopy are pseudohyphae and ____.",
+   "opts": [
+    "trophozoites",
+    "cysts",
+    "clue cells",
+    "spores"
+   ],
+   "ans": 3,
+   "exp": "'Pseudohyphae' and 'Spores of candida'."
+  },
+  {
+   "id": "ch33-u4-q5",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which microscopy appearance is printed for candida spores?",
+   "opts": [
+    "Tennis racket appearance",
+    "Pear shaped appearance",
+    "Fried egg appearance",
+    "Darting motility"
+   ],
+   "ans": 0,
+   "exp": "'Tennis racket appearance'."
+  },
+  {
+   "id": "ch33-u4-q6",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "On saline microscopy, trichomonas is identified by:",
+   "opts": [
+    "Non-motile spores with pseudohyphae",
+    "Clue cells with adherent bacteria",
+    "Motility, or a pear-shaped organism the size of a cell nucleus",
+    "Gram positive bacilli"
+   ],
+   "ans": 2,
+   "exp": "'motility + (or) Pear shaped organism = Size of nucleus of cells'."
+  },
+  {
+   "id": "ch33-u4-q7",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Fill up: The gold standard test for candidiasis is culture on ____ media.",
+   "opts": [
+    "Thayer Martin",
+    "McCoy cell",
+    "Lowenstein-Jensen",
+    "Sabouraud"
+   ],
+   "ans": 3,
+   "exp": "'Culture on Sabouraud media' is placed beside 'Gold standard test'."
+  },
+  {
+   "id": "ch33-u4-q8",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which per-speculum findings are printed for trichomonas?",
+   "opts": [
+    "Unhealthy friable cervix with erosion",
+    "Strawberry cervix and angry looking vagina",
+    "Cervical polyp and ectropion",
+    "Normal healthy cervix"
+   ],
+   "ans": 1,
+   "exp": "'p/s examination: Strawberry cervix / Angry looking vagina'."
+  },
+  {
+   "id": "ch33-u4-q9",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Fill up: The named test for bacterial vaginosis is the ____ test.",
+   "opts": [
+    "Schiller",
+    "whiff-amine",
+    "whiff",
+    "KOH"
+   ],
+   "ans": 2,
+   "exp": "'Named test' points to the whiff test."
+  },
+  {
+   "id": "ch33-u4-q10",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "What is added to the discharge in the whiff test and what odour results?",
+   "opts": [
+    "Normal saline, producing no odour",
+    "Acetic acid, producing a yeasty odour",
+    "Lugol iodine, producing a metallic odour",
+    "Ten percent KOH, producing a fishy amine-like odour"
+   ],
+   "ans": 3,
+   "exp": "'Add 10% KOH to discharge → fishy / amine like odour'."
+  },
+  {
+   "id": "ch33-u4-q11",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "numeric",
+   "q": "How many Amsel criteria are listed?",
+   "opts": [
+    "Three",
+    "Four",
+    "Five",
+    "Six"
+   ],
+   "ans": 1,
+   "exp": "Greyish white discharge, pH >= 4.5, clue cells >= 20%, whiff test positive."
+  },
+  {
+   "id": "ch33-u4-q12",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "How many Amsel criteria must be positive to diagnose bacterial vaginosis?",
+   "opts": [
+    "Three of four",
+    "All four",
+    "Two of four",
+    "One of four"
+   ],
+   "ans": 0,
+   "exp": "'3/4 positive → Diagnostic'."
+  },
+  {
+   "id": "ch33-u4-q13",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Fill up: Amsel criterion 3 requires clue cells in at least ____ percent of epithelial cells.",
+   "opts": [
+    "10",
+    "20",
+    "50",
+    "5"
+   ],
+   "ans": 1,
+   "exp": "'Clue cells >= 20% of epithelial cells'."
+  },
+  {
+   "id": "ch33-u4-q14",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which Amsel criterion sets the pH threshold?",
+   "opts": [
+    "pH below 4.5",
+    "pH above 7.0",
+    "pH of 4.5 or above",
+    "pH between 5 and 6"
+   ],
+   "ans": 2,
+   "exp": "Criterion 2 is 'pH >= 4.5'."
+  },
+  {
+   "id": "ch33-u4-q15",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "match",
+   "q": "Match each Amsel criterion with its position - 1) Greyish white discharge 2) pH >= 4.5 3) Clue cells >= 20% 4) Whiff test positive ... A) 4 B) 2 C) 1 D) 3",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "The printed order is discharge, pH, clue cells, whiff test."
+  },
+  {
+   "id": "ch33-u4-q16",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which of the three vaginitides has a negative whiff test?",
+   "opts": [
+    "Bacterial vaginosis",
+    "Trichomonas vaginitis",
+    "Both BV and trichomonas",
+    "Candidiasis"
+   ],
+   "ans": 3,
+   "exp": "The candida column prints 'whiff test -ve'; BV and trichomonas are positive."
+  },
+  {
+   "id": "ch33-u4-q17",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "scenario",
+   "q": "Scenario: A woman has a greyish white discharge, vaginal pH 5.2 and clue cells in 30% of epithelial cells, but a negative whiff test. Does she meet Amsel criteria?",
+   "opts": [
+    "No - all four are required",
+    "No - clue cells must exceed 50%",
+    "Yes - three of four criteria are met",
+    "No - the whiff test is mandatory"
+   ],
+   "ans": 2,
+   "exp": "Discharge, pH and clue cells give three positive criteria out of four."
+  },
+  {
+   "id": "ch33-u4-q18",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "tf",
+   "q": "True/False: The whiff test uses ten percent potassium hydroxide and is positive in both bacterial vaginosis and trichomonas.",
+   "opts": [
+    "False",
+    "False - it is positive only in BV",
+    "False - it is negative in both",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "BV and trichomonas columns both print whiff test positive, and KOH 10% is the reagent."
+  },
+  {
+   "id": "ch33-u4-q19",
+   "sec": "Diagnosis of Vaginitis",
+   "unit": "Diagnosis of Vaginitis",
+   "page": 180,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed microscopy finding for vaginitis?",
+   "opts": [
+    "Clue cells",
+    "Intracellular Gram negative diplococci",
+    "Pseudohyphae",
+    "Motile pear-shaped organism"
+   ],
+   "ans": 1,
+   "exp": "Intracellular diplococci belong to the gonorrhoea section, not the vaginitis microscopy row."
+  },
+  {
+   "id": "ch33-u5-q1",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Fill up: The drug of choice for bacterial vaginosis in the non-pregnant woman is oral ____ 500 mg twice daily for 7 days.",
+   "opts": [
+    "metronidazole",
+    "fluconazole",
+    "clotrimazole",
+    "azithromycin"
+   ],
+   "ans": 0,
+   "exp": "'metronidazole: Oral 500 mg BD x 7 days'."
+  },
+  {
+   "id": "ch33-u5-q2",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which alternative single-dose regimen is printed for bacterial vaginosis?",
+   "opts": [
+    "1 g stat",
+    "2 g stat",
+    "500 mg stat",
+    "5 g stat"
+   ],
+   "ans": 1,
+   "exp": "The bracket reads '(or) 2 gram stat'."
+  },
+  {
+   "id": "ch33-u5-q3",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which second drug is listed for bacterial vaginosis?",
+   "opts": [
+    "Cefixime",
+    "Doxycycline",
+    "Secnidazole",
+    "Clindamycin"
+   ],
+   "ans": 3,
+   "exp": "'Clindamycin' is the alternative named."
+  },
+  {
+   "id": "ch33-u5-q4",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Fill up: The treatment of candidiasis is oral fluconazole ____ mg stat.",
+   "opts": [
+    "150",
+    "50",
+    "100",
+    "400"
+   ],
+   "ans": 0,
+   "exp": "'Oral fluconazole: 150 mg stat'."
+  },
+  {
+   "id": "ch33-u5-q5",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 180,
+   "fmt": "recall",
+   "q": "What is the non-pregnant regimen for trichomonas vaginitis?",
+   "opts": [
+    "Fluconazole 150 mg stat",
+    "Clotrimazole pessaries for 7 days",
+    "Metronidazole 500 mg twice daily for 7 days, or 2 g stat",
+    "Doxycycline 100 mg twice daily for 7 days"
+   ],
+   "ans": 2,
+   "exp": "The trichomonas column prints metronidazole 500 mg BD x 7 days or 2 g stat."
+  },
+  {
+   "id": "ch33-u5-q6",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "recall",
+   "q": "In the first trimester, how should metronidazole be given?",
+   "opts": [
+    "Orally at full dose",
+    "Not at all",
+    "Intravenously",
+    "Vaginally"
+   ],
+   "ans": 3,
+   "exp": "'- 1st trimester: Vaginal metronidazole'."
+  },
+  {
+   "id": "ch33-u5-q7",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: From the second trimester onwards, metronidazole is given ____.",
+   "opts": [
+    "vaginally",
+    "intramuscularly",
+    "orally",
+    "as a pessary only"
+   ],
+   "ans": 2,
+   "exp": "'- 2nd/3rd trimester: Oral metronidazole'."
+  },
+  {
+   "id": "ch33-u5-q8",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Which drug is contraindicated in pregnancy for candidiasis?",
+   "opts": [
+    "Topical clotrimazole",
+    "Oral fluconazole",
+    "Vaginal metronidazole",
+    "Oral metronidazole in the third trimester"
+   ],
+   "ans": 1,
+   "exp": "'Oral fluconazole: Contraindicated'."
+  },
+  {
+   "id": "ch33-u5-q9",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: The drug of choice for candidiasis in pregnancy is topical ____.",
+   "opts": [
+    "clotrimazole",
+    "miconazole",
+    "nystatin",
+    "terbinafine"
+   ],
+   "ans": 0,
+   "exp": "'Topical clotrimazole: DOC'."
+  },
+  {
+   "id": "ch33-u5-q10",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Partner treatment in bacterial vaginosis is advised:",
+   "opts": [
+    "For all partners routinely",
+    "Never",
+    "Only for symptomatic partners",
+    "Only in pregnancy"
+   ],
+   "ans": 2,
+   "exp": "'Partner Rx: For symptomatic partners only'."
+  },
+  {
+   "id": "ch33-u5-q11",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Is partner treatment indicated in candidiasis?",
+   "opts": [
+    "No",
+    "Yes, always",
+    "Yes, in pregnancy",
+    "Yes, if recurrent"
+   ],
+   "ans": 0,
+   "exp": "The candida column marks partner treatment with a cross."
+  },
+  {
+   "id": "ch33-u5-q12",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: For trichomonas, the partner receives metronidazole at the ____ dose.",
+   "opts": [
+    "half",
+    "same",
+    "double",
+    "triple"
+   ],
+   "ans": 1,
+   "exp": "'- Dose: Same'."
+  },
+  {
+   "id": "ch33-u5-q13",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "match",
+   "q": "Match each vaginitis with its pregnancy modification - 1) BV in the first trimester 2) BV after the first trimester 3) Candidiasis in pregnancy 4) Trichomonas in the first trimester ... A) Oral metronidazole B) Vaginal metronidazole C) Topical clotrimazole",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-A",
+    "1-C, 2-A, 3-B, 4-C",
+    "1-B, 2-C, 3-A, 4-B",
+    "1-B, 2-A, 3-C, 4-B"
+   ],
+   "ans": 3,
+   "exp": "Metronidazole is vaginal in the first trimester and oral later; candida needs topical clotrimazole."
+  },
+  {
+   "id": "ch33-u5-q14",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "scenario",
+   "q": "Scenario: A woman at 8 weeks of gestation has bacterial vaginosis. What is the printed route of metronidazole?",
+   "opts": [
+    "Oral",
+    "Vaginal",
+    "Intravenous",
+    "Withheld until the second trimester"
+   ],
+   "ans": 1,
+   "exp": "First trimester metronidazole is given vaginally."
+  },
+  {
+   "id": "ch33-u5-q15",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "tf",
+   "q": "True/False: Oral fluconazole can be used safely in the first trimester for candidiasis.",
+   "opts": [
+    "True",
+    "True - at half the dose",
+    "False",
+    "True - after the first trimester only"
+   ],
+   "ans": 2,
+   "exp": "Oral fluconazole is printed as contraindicated in pregnancy."
+  },
+  {
+   "id": "ch33-u5-q16",
+   "sec": "Treatment of Vaginitis",
+   "unit": "Treatment of Vaginitis",
+   "page": 181,
+   "fmt": "odd",
+   "q": "Odd one out - which drug is NOT part of the printed vaginitis treatment set?",
+   "opts": [
+    "Metronidazole",
+    "Clindamycin",
+    "Fluconazole",
+    "Cefixime"
+   ],
+   "ans": 3,
+   "exp": "Cefixime belongs to the cervicitis and PID kits, not vaginitis treatment."
+  },
+  {
+   "id": "ch33-u6-q1",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: The ectocervix is lined by stratified ____ epithelium, like the vagina.",
+   "opts": [
+    "squamous",
+    "columnar",
+    "cuboidal",
+    "transitional"
+   ],
+   "ans": 0,
+   "exp": "'Ectocervix: Stratified squamous epithelium (Like vagina)'."
+  },
+  {
+   "id": "ch33-u6-q2",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "recall",
+   "q": "The endocervix is lined by:",
+   "opts": [
+    "Stratified squamous epithelium",
+    "Columnar epithelium",
+    "Transitional epithelium",
+    "Cuboidal epithelium"
+   ],
+   "ans": 1,
+   "exp": "'Endocervix: Lined by Columnar epithelium'."
+  },
+  {
+   "id": "ch33-u6-q3",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Which four infections may involve the ectocervix?",
+   "opts": [
+    "Chlamydia, gonorrhoea, HSV and HPV",
+    "Candida, trichomonas, chlamydia and gonorrhoea",
+    "Candida, trichomonas, HSV and HPV",
+    "HSV, HPV, syphilis and chancroid"
+   ],
+   "ans": 2,
+   "exp": "The ectocervix list is candida, trichomonas, HSV and HPV."
+  },
+  {
+   "id": "ch33-u6-q4",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Which two organisms infect the endocervix?",
+   "opts": [
+    "Chlamydia and gonorrhoea",
+    "Candida and trichomonas",
+    "HSV and HPV",
+    "Gardnerella and Mobiluncus"
+   ],
+   "ans": 0,
+   "exp": "The endocervix list is chlamydia and gonorrhoea, with 'Infection of endocervix → Cervicitis'."
+  },
+  {
+   "id": "ch33-u6-q5",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: Infection of the ____ is what the page defines as cervicitis.",
+   "opts": [
+    "ectocervix",
+    "vaginal fornix",
+    "external os",
+    "endocervix"
+   ],
+   "ans": 3,
+   "exp": "The bracket reads '(Infection of endocervix → Cervicitis)'."
+  },
+  {
+   "id": "ch33-u6-q6",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "match",
+   "q": "Match the epithelium with the infections listed - 1) Ectocervix 2) Endocervix ... A) Chlamydia and gonorrhoea B) Candida, trichomonas, HSV and HPV",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Squamous ectocervix hosts the vaginal infections; columnar endocervix hosts chlamydia and gonorrhoea."
+  },
+  {
+   "id": "ch33-u6-q7",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "scenario",
+   "q": "Scenario: A woman has a cervical swab growing Neisseria gonorrhoeae. Which part of the cervix is infected?",
+   "opts": [
+    "Ectocervix",
+    "Vaginal portion only",
+    "Endocervix",
+    "Transformation zone squamous epithelium"
+   ],
+   "ans": 2,
+   "exp": "Gonorrhoea is listed as an endocervical infection producing cervicitis."
+  },
+  {
+   "id": "ch33-u6-q8",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "tf",
+   "q": "True/False: HPV infection of the cervix is listed under endocervical infections.",
+   "opts": [
+    "True",
+    "False",
+    "True - HPV prefers columnar cells",
+    "True - with chlamydia"
+   ],
+   "ans": 1,
+   "exp": "HPV is listed with the ectocervical (vaginal-type) infections."
+  },
+  {
+   "id": "ch33-u6-q9",
+   "sec": "Cervicitis",
+   "unit": "Anatomy: Ectocervix and Endocervix",
+   "page": 181,
+   "fmt": "odd",
+   "q": "Odd one out - which infection is NOT listed under the ectocervix?",
+   "opts": [
+    "Trichomonas",
+    "HSV",
+    "Candida",
+    "Gonorrhoea"
+   ],
+   "ans": 3,
+   "exp": "Gonorrhoea is an endocervical infection."
+  },
+  {
+   "id": "ch33-u7-q1",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: The most common route of spread is ascending infection along with ____.",
+   "opts": [
+    "menstrual blood",
+    "lymphatics",
+    "instruments",
+    "sperms"
+   ],
+   "ans": 3,
+   "exp": "'m/c route of spread: Ascending infection along with sperms (STD)'."
+  },
+  {
+   "id": "ch33-u7-q2",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: The most common site of infection is the endocervix rather than the ____.",
+   "opts": [
+    "vagina",
+    "bladder",
+    "urethra",
+    "bartholin gland"
+   ],
+   "ans": 2,
+   "exp": "'m/c site: Endocervix > Urethra'."
+  },
+  {
+   "id": "ch33-u7-q3",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "numeric",
+   "q": "What proportion of cases are asymptomatic?",
+   "opts": [
+    "10 to 20 percent",
+    "50 to 80 percent",
+    "90 percent",
+    "Fewer than 5 percent"
+   ],
+   "ans": 1,
+   "exp": "'Asymptomatic (50-80%)'."
+  },
+  {
+   "id": "ch33-u7-q4",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Fill up: The most common presentation is a ____ discharge.",
+   "opts": [
+    "mucoid or purulent",
+    "frothy yellow",
+    "curdy white",
+    "blood-stained"
+   ],
+   "ans": 0,
+   "exp": "'Discharge (m/c presentation): mucoid/purulent'."
+  },
+  {
+   "id": "ch33-u7-q5",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Which two additional symptoms are listed?",
+   "opts": [
+    "Pruritus and dysuria",
+    "Cyclical pain and infertility",
+    "Abdominal distension and fever",
+    "Dyspareunia and post-coital bleeding"
+   ],
+   "ans": 3,
+   "exp": "'Dyspareunia' and 'Post coital bleeding'."
+  },
+  {
+   "id": "ch33-u7-q6",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "match",
+   "q": "Match each item with its status - 1) Asymptomatic 2) Discharge 3) Dyspareunia 4) Post-coital bleeding ... A) Most common presentation B) 50-80% C) Listed symptom D) Listed symptom",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Asymptomatic in 50-80%; discharge is the commonest presentation; dyspareunia and post-coital bleeding are additional."
+  },
+  {
+   "id": "ch33-u7-q7",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "scenario",
+   "q": "Scenario: A 24-year-old has a mucopurulent cervical discharge and bleeding after intercourse but no pain. What is the most likely finding on testing?",
+   "opts": [
+    "Bacterial vaginosis",
+    "Candidiasis",
+    "Chlamydial or gonococcal endocervicitis",
+    "Trichomonas vaginitis"
+   ],
+   "ans": 2,
+   "exp": "Mucopurulent discharge with post-coital bleeding in a young woman is the printed cervicitis picture."
+  },
+  {
+   "id": "ch33-u7-q8",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "tf",
+   "q": "True/False: The majority of women with chlamydial cervicitis are symptomatic.",
+   "opts": [
+    "False",
+    "True",
+    "True - discharge is invariable",
+    "True - pain is invariable"
+   ],
+   "ans": 0,
+   "exp": "50-80% are asymptomatic."
+  },
+  {
+   "id": "ch33-u7-q9",
+   "sec": "Cervicitis",
+   "unit": "Chlamydial and Gonococcal Cervicitis - Presentation",
+   "page": 181,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed presentation of cervicitis?",
+   "opts": [
+    "Mucopurulent discharge",
+    "Post-coital bleeding",
+    "Cyclical pelvic pain",
+    "Dyspareunia"
+   ],
+   "ans": 2,
+   "exp": "Cyclical pain belongs to the cryptomenorrhoea page."
+  },
+  {
+   "id": "ch33-u8-q1",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Which three per-speculum findings are printed?",
+   "opts": [
+    "Unhealthy friable cervix, bleeding on touch, and erosion or ulcer",
+    "Normal cervix, erosion and polyp",
+    "Healthy cervix, discharge and cyst",
+    "Stenosed os, ulcer and polyp"
+   ],
+   "ans": 0,
+   "exp": "Per speculum: unhealthy friable cervix, bleeds on touch, erosion/ulcer."
+  },
+  {
+   "id": "ch33-u8-q2",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: The differential to be excluded when these findings are present is ____.",
+   "opts": [
+    "Cervical cancer",
+    "Endometriosis",
+    "Cervical polyp",
+    "PID"
+   ],
+   "ans": 3,
+   "exp": "'D/d: PID' with uterine and adnexal tenderness."
+  },
+  {
+   "id": "ch33-u8-q3",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Which two findings on per-vaginal examination would shift the diagnosis to PID?",
+   "opts": [
+    "Cervical motion tenderness and vaginal discharge",
+    "Uterine tenderness and adnexal tenderness",
+    "Adnexal mass and fever",
+    "Uterine enlargement and pain"
+   ],
+   "ans": 1,
+   "exp": "The D/d block lists uterine tenderness and adnexal tenderness."
+  },
+  {
+   "id": "ch33-u8-q4",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "In uncomplicated cervicitis, the uterus on per-vaginal examination is:",
+   "opts": [
+    "Enlarged",
+    "Retroverted",
+    "Normal",
+    "Fixed"
+   ],
+   "ans": 2,
+   "exp": "'Uterus: Normal'."
+  },
+  {
+   "id": "ch33-u8-q5",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: In uncomplicated cervicitis the adnexa are ____.",
+   "opts": [
+    "tender",
+    "normal",
+    "thickened",
+    "mass-forming"
+   ],
+   "ans": 1,
+   "exp": "'Adnexa: Normal'."
+  },
+  {
+   "id": "ch33-u8-q6",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with a friable cervix that bleeds on touch also has adnexal tenderness. What does the printed page suggest?",
+   "opts": [
+    "Consider pelvic inflammatory disease rather than isolated cervicitis",
+    "Confirm uncomplicated cervicitis",
+    "Treat for candidiasis",
+    "Perform a pap smear only"
+   ],
+   "ans": 0,
+   "exp": "Adnexal tenderness is the D/d pointer to PID."
+  },
+  {
+   "id": "ch33-u8-q7",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "tf",
+   "q": "True/False: Cervical motion tenderness is listed as a per-speculum finding.",
+   "opts": [
+    "True",
+    "True - it is the first per-speculum finding",
+    "True - with erosion",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "Cervical motion tenderness belongs to the PID criteria; per-speculum findings are appearance-based."
+  },
+  {
+   "id": "ch33-u8-q8",
+   "sec": "Cervicitis",
+   "unit": "Examination Findings in Cervicitis",
+   "page": 182,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed per-speculum finding in cervicitis?",
+   "opts": [
+    "Unhealthy cervix",
+    "Bleeds on touch",
+    "Erosion or ulcer",
+    "Adnexal tenderness"
+   ],
+   "ans": 3,
+   "exp": "Adnexal tenderness is a per-vaginal finding pointing to PID."
+  },
+  {
+   "id": "ch33-u9-q1",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: Gonorrhoea is described as Gram ____ diplococci.",
+   "opts": [
+    "positive",
+    "negative",
+    "variable",
+    "indeterminate"
+   ],
+   "ans": 1,
+   "exp": "'Gram -ve diplococci'."
+  },
+  {
+   "id": "ch33-u9-q2",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Gonococcal diplococci are described as:",
+   "opts": [
+    "Intra and extracellular",
+    "Only intracellular",
+    "Only extracellular",
+    "Only within epithelial cells"
+   ],
+   "ans": 0,
+   "exp": "'Intra/extracellular'."
+  },
+  {
+   "id": "ch33-u9-q3",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: On Gram stain, the criterion printed is more than ____ neutrophils per field.",
+   "opts": [
+    "5",
+    "20",
+    "10",
+    "1"
+   ],
+   "ans": 2,
+   "exp": "'>10 Neutrophils/field'."
+  },
+  {
+   "id": "ch33-u9-q4",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Which organism shows no organism on Gram stain?",
+   "opts": [
+    "Gonorrhoea",
+    "Chlamydia",
+    "Trichomonas",
+    "Candida"
+   ],
+   "ans": 1,
+   "exp": "The chlamydia column prints 'No organism'."
+  },
+  {
+   "id": "ch33-u9-q5",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: The investigation of choice for both organisms is the nucleic acid ____ test.",
+   "opts": [
+    "amplification",
+    "hybridisation",
+    "sequencing",
+    "precipitation"
+   ],
+   "ans": 0,
+   "exp": "'IOC: Nucleic acid amplification test'."
+  },
+  {
+   "id": "ch33-u9-q6",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Which specimen is advised for gonorrhoea when urethritis is present?",
+   "opts": [
+    "Blood",
+    "Vaginal swab only",
+    "Urine, in addition to the endocervical swab",
+    "Rectal swab"
+   ],
+   "ans": 2,
+   "exp": "'Specimen: Endocervical swab; Urine if urethritis +ve'."
+  },
+  {
+   "id": "ch33-u9-q7",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: The gold standard for gonorrhoea is culture on ____ media.",
+   "opts": [
+    "McCoy cell",
+    "Sabouraud",
+    "Loweenstein-Jensen",
+    "Thayer Martin"
+   ],
+   "ans": 3,
+   "exp": "'Gold standard: Culture on Thayer Martin media'."
+  },
+  {
+   "id": "ch33-u9-q8",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "The gold standard for chlamydia is culture on:",
+   "opts": [
+    "Thayer Martin media",
+    "Sabouraud media",
+    "Hektoen agar",
+    "McCoy cell lines"
+   ],
+   "ans": 3,
+   "exp": "'Gold standard: Culture on McCoy cell lines'."
+  },
+  {
+   "id": "ch33-u9-q9",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "match",
+   "q": "Match each organism with its gold standard - 1) Gonorrhoea 2) Chlamydia ... A) Culture on McCoy cell lines B) Culture on Thayer Martin media",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Thayer Martin for gonorrhoea; McCoy cell lines for chlamydia."
+  },
+  {
+   "id": "ch33-u9-q10",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "scenario",
+   "q": "Scenario: A cervical Gram stain shows more than 10 neutrophils per field but no organism. Which diagnosis is favoured?",
+   "opts": [
+    "Gonococcal cervicitis",
+    "Bacterial vaginosis",
+    "Chlamydial cervicitis",
+    "Candidiasis"
+   ],
+   "ans": 2,
+   "exp": "Polymorphs without a visible organism is the chlamydia pattern."
+  },
+  {
+   "id": "ch33-u9-q11",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "tf",
+   "q": "True/False: NAAT is listed as the gold standard for chlamydia.",
+   "opts": [
+    "False",
+    "True",
+    "True - NAAT replaces culture",
+    "True - with McCoy culture"
+   ],
+   "ans": 0,
+   "exp": "NAAT is the investigation of choice; culture on McCoy cell lines is the gold standard."
+  },
+  {
+   "id": "ch33-u9-q12",
+   "sec": "Cervicitis",
+   "unit": "Laboratory Diagnosis of Cervicitis",
+   "page": 182,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed specimen or test for cervicitis?",
+   "opts": [
+    "Sabouraud culture",
+    "Endocervical swab",
+    "Urine",
+    "Nucleic acid amplification test"
+   ],
+   "ans": 0,
+   "exp": "Sabouraud media is the candidiasis gold standard."
+  },
+  {
+   "id": "ch33-u10-q1",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: In the non-pregnant patient, chlamydia is treated with doxycycline 100 mg ____ for 7 days.",
+   "opts": [
+    "twice daily",
+    "once daily",
+    "three times daily",
+    "as a single dose"
+   ],
+   "ans": 1,
+   "exp": "Printed: 'Tab. Doxycycline 100mg OD x 7 days'."
+  },
+  {
+   "id": "ch33-u10-q2",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: Gonorrhoea is treated with Inj. Ceftriaxone ____ mg IM as a single dose.",
+   "opts": [
+    "500",
+    "125",
+    "250",
+    "1000"
+   ],
+   "ans": 2,
+   "exp": "Printed: 'Inj Ceftriaxone 250mg IM single dose'."
+  },
+  {
+   "id": "ch33-u10-q3",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Which drug is contraindicated in pregnancy in this treatment block?",
+   "opts": [
+    "Ceftriaxone",
+    "Azithromycin",
+    "Cefixime",
+    "Doxycycline"
+   ],
+   "ans": 3,
+   "exp": "'Doxycycline: C/I' under the pregnant row."
+  },
+  {
+   "id": "ch33-u10-q4",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: The pregnant patient is treated with tablet azithromycin ____ g orally as a single dose.",
+   "opts": [
+    "2",
+    "1",
+    "0.5",
+    "1.5"
+   ],
+   "ans": 1,
+   "exp": "'Tab. Azithromycin 1 g oral: Single dose'."
+  },
+  {
+   "id": "ch33-u10-q5",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Which two complications of cervicitis are printed?",
+   "opts": [
+    "PID from ascending infection, and perihepatitis (Fitz-Hugh-Curtis syndrome)",
+    "Infertility and ectopic pregnancy",
+    "Cervical stenosis and haematometra",
+    "Bartholin abscess and fistula"
+   ],
+   "ans": 0,
+   "exp": "'Complications: PID (d/t ascend of infection), Perihepatitis: Fitz Hugh Curtis syndrome'."
+  },
+  {
+   "id": "ch33-u10-q6",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: The perihepatitis of this infection is called Fitz-Hugh-____ syndrome.",
+   "opts": [
+    "Hugh",
+    "Fitz",
+    "Martin",
+    "Curtis"
+   ],
+   "ans": 3,
+   "exp": "Fitz-Hugh-Curtis syndrome is the named perihepatitis."
+  },
+  {
+   "id": "ch33-u10-q7",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "match",
+   "q": "Match each drug with its setting - 1) Doxycycline 100 mg OD x 7 days 2) Ceftriaxone 250 mg IM single dose 3) Azithromycin 1 g single dose 4) Doxycycline in pregnancy ... A) Contraindicated B) Pregnant patient C) Gonorrhoea, non-pregnant D) Chlamydia, non-pregnant",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Doxycycline for non-pregnant chlamydia, ceftriaxone for gonorrhoea, azithromycin in pregnancy, doxycycline contraindicated in pregnancy."
+  },
+  {
+   "id": "ch33-u10-q8",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "scenario",
+   "q": "Scenario: A pregnant woman with cervicitis cannot receive doxycycline. What is the printed alternative?",
+   "opts": [
+    "Cefixime 400 mg stat",
+    "Ciprofloxacin 500 mg BD",
+    "Azithromycin 1 g orally as a single dose",
+    "Erythromycin 500 mg QID for 14 days"
+   ],
+   "ans": 2,
+   "exp": "Azithromycin 1 g single dose is the pregnant patient's regimen."
+  },
+  {
+   "id": "ch33-u10-q9",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "tf",
+   "q": "True/False: Fitz-Hugh-Curtis syndrome is listed as a complication of vaginitis.",
+   "opts": [
+    "False",
+    "True",
+    "True - of bacterial vaginosis",
+    "True - of trichomonas"
+   ],
+   "ans": 0,
+   "exp": "It is a complication of cervicitis from ascending infection."
+  },
+  {
+   "id": "ch33-u10-q10",
+   "sec": "Cervicitis",
+   "unit": "Treatment and Complications of Cervicitis",
+   "page": 182,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT in the printed cervicitis treatment block?",
+   "opts": [
+    "Doxycycline 100 mg OD for 7 days",
+    "Ceftriaxone 250 mg IM single dose",
+    "Azithromycin 1 g single dose",
+    "Metronidazole 400 mg BD for 14 days"
+   ],
+   "ans": 3,
+   "exp": "Metronidazole 400 mg BD for 14 days belongs to the PID regimen."
+  },
+  {
+   "id": "ch33-u11-q1",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Fill up: Syndromic management is advised by ____.",
+   "opts": [
+    "WHO",
+    "NACO",
+    "ICMR",
+    "FOGSI"
+   ],
+   "ans": 1,
+   "exp": "'Syndromic management: Advised by NACO'."
+  },
+  {
+   "id": "ch33-u11-q2",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Colour-coded kits are based on which four inputs?",
+   "opts": [
+    "History, per-speculum examination, per-vaginal examination and minimal investigation",
+    "History, ultrasound, culture and serology",
+    "Examination, pH, whiff test and microscopy",
+    "History, partner history, pap smear and culture"
+   ],
+   "ans": 0,
+   "exp": "'Colour coded kits: Based on History + P/s examination + P/v examination + minimal investigation'."
+  },
+  {
+   "id": "ch33-u11-q3",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "Fill up: The vaginitis kit is the ____ kit.",
+   "opts": [
+    "grey",
+    "yellow",
+    "green",
+    "blue"
+   ],
+   "ans": 2,
+   "exp": "Green kit is the vaginitis kit."
+  },
+  {
+   "id": "ch33-u11-q4",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "recall",
+   "q": "What is in the green kit?",
+   "opts": [
+    "Azithromycin 1 g plus cefixime 400 mg",
+    "Secnidazole 2 g plus fluconazole 150 mg stat",
+    "Cefixime plus metronidazole plus doxycycline",
+    "Metronidazole 2 g plus clotrimazole"
+   ],
+   "ans": 1,
+   "exp": "'Green Kit 2: Secnidazole 2 gms + Fluconazole 150 mg stat'."
+  },
+  {
+   "id": "ch33-u11-q5",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "Fill up: The cervicitis kit is the ____ kit, number 1.",
+   "opts": [
+    "green",
+    "yellow",
+    "red",
+    "grey"
+   ],
+   "ans": 3,
+   "exp": "'Grey Kit 1' is the cervicitis kit."
+  },
+  {
+   "id": "ch33-u11-q6",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "recall",
+   "q": "What two drugs are in the grey kit?",
+   "opts": [
+    "Secnidazole 2 g and fluconazole 150 mg",
+    "Cefixime 400 mg and metronidazole 400 mg",
+    "Azithromycin 1 g stat and cefixime 400 mg stat",
+    "Doxycycline 100 mg and azithromycin 1 g"
+   ],
+   "ans": 2,
+   "exp": "'Grey Kit 1: Tab Azithromycin 1 gm OD stat + Tab Cefixime 400mg OD stat'."
+  },
+  {
+   "id": "ch33-u11-q7",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "Fill up: The PID kit is the ____ kit, number 6.",
+   "opts": [
+    "yellow",
+    "grey",
+    "green",
+    "orange"
+   ],
+   "ans": 0,
+   "exp": "'Yellow Kit 6' is the PID kit."
+  },
+  {
+   "id": "ch33-u11-q8",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "recall",
+   "q": "Which three drugs make up the yellow kit?",
+   "opts": [
+    "Azithromycin 1 g, cefixime 400 mg and secnidazole 2 g",
+    "Ceftriaxone 250 mg, doxycycline 100 mg and metronidazole 400 mg",
+    "Fluconazole 150 mg, secnidazole 2 g and clotrimazole",
+    "Cefixime 400 mg stat, metronidazole 400 mg BD for 14 days and doxycycline 100 mg BD for 14 days"
+   ],
+   "ans": 3,
+   "exp": "The printed yellow kit contains those three drugs."
+  },
+  {
+   "id": "ch33-u11-q9",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "recall",
+   "q": "Which extra step is mandated before using the yellow kit?",
+   "opts": [
+    "Perform a pap smear",
+    "Rule out ectopic pregnancy",
+    "Obtain a wet mount",
+    "Screen for HIV"
+   ],
+   "ans": 1,
+   "exp": "'R/o: Ectopic pregnancy' is printed in the PID row."
+  },
+  {
+   "id": "ch33-u11-q10",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "Fill up: The partner of a PID patient receives grey kit number ____.",
+   "opts": [
+    "2",
+    "6",
+    "3",
+    "1"
+   ],
+   "ans": 3,
+   "exp": "The partner treatment for PID is 'No. 1: Grey kit'."
+  },
+  {
+   "id": "ch33-u11-q11",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "recall",
+   "q": "Which clinical findings route a patient to the yellow kit?",
+   "opts": [
+    "Lower abdominal pain with any one of uterine, cervical movement or adnexal tenderness",
+    "Vaginal discharge with a healthy cervix",
+    "Dysuria with a strawberry cervix",
+    "Post-coital bleeding with a normal cervix"
+   ],
+   "ans": 0,
+   "exp": "The yellow kit row requires lower abdominal pain plus any one tenderness finding."
+  },
+  {
+   "id": "ch33-u11-q12",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "numeric",
+   "q": "Supportive advice common to the kits includes abstinence for how many days?",
+   "opts": [
+    "Three",
+    "Seven",
+    "Fourteen",
+    "Twenty-one"
+   ],
+   "ans": 1,
+   "exp": "'Supportive treatment: Abstinence x 7 days'."
+  },
+  {
+   "id": "ch33-u11-q13",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "Fill up: Partner treatment is indicated in cervicitis and PID but ____ in vaginitis.",
+   "opts": [
+    "always needed",
+    "optional",
+    "not",
+    "doubled"
+   ],
+   "ans": 2,
+   "exp": "'Partner Rx: Cervicitis & PID - Not indicated in vaginitis'."
+  },
+  {
+   "id": "ch33-u11-q14",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "recall",
+   "q": "Which three other conditions are listed as uses of kit 1?",
+   "opts": [
+    "Vaginal discharge, pelvic pain and dysuria",
+    "Cervical erosion, post-coital bleeding and infertility",
+    "Bartholin abscess, vaginitis and cervicitis",
+    "Anorectal discharge, scrotal pain syndrome and urethritis"
+   ],
+   "ans": 3,
+   "exp": "'Other uses of Kit 1: Anorectal discharge, Scrotal pain syndrome, Urethritis'."
+  },
+  {
+   "id": "ch33-u11-q15",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "match",
+   "q": "Match the presentation with the kit - 1) Discharge with pruritus, healthy cervix 2) Unhealthy friable cervix 3) Lower abdominal pain with adnexal tenderness ... A) Yellow kit 6 B) Green kit 2 C) Grey kit 1",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Vaginitis takes green, cervicitis grey, PID yellow."
+  },
+  {
+   "id": "ch33-u11-q16",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "scenario",
+   "q": "Scenario: A woman has vaginal discharge and dysuria; the cervix looks healthy and the per-vaginal examination is normal. Which kit?",
+   "opts": [
+    "Grey kit 1",
+    "Yellow kit 6",
+    "Green kit 2",
+    "Grey kit for her and yellow for her partner"
+   ],
+   "ans": 2,
+   "exp": "Discharge with pruritus/dysuria, a healthy cervix and a normal per-vaginal examination is the vaginitis row."
+  },
+  {
+   "id": "ch33-u11-q17",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "tf",
+   "q": "True/False: The yellow kit is used for the partner of a woman with PID.",
+   "opts": [
+    "True",
+    "False",
+    "True - partners receive the same kit",
+    "True - with an added dose"
+   ],
+   "ans": 1,
+   "exp": "The partner receives grey kit 1 (cefixime and azithromycin)."
+  },
+  {
+   "id": "ch33-u11-q18",
+   "sec": "Cervicitis",
+   "unit": "Syndromic Management and Colour-Coded Kits",
+   "page": 183,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a listed use of kit 1?",
+   "opts": [
+    "Anorectal discharge",
+    "Scrotal pain syndrome",
+    "Vaginal discharge with a healthy cervix",
+    "Urethritis"
+   ],
+   "ans": 2,
+   "exp": "Vaginal discharge with a healthy cervix routes to the green kit."
+  }
+ ]
+}

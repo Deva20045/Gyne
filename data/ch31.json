@@ -1,0 +1,2373 @@
+{
+ "chapter": 31,
+ "questions": [
+  {
+   "id": "ch31-u1-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "recall",
+   "q": "The 46XY DSD page divides its causes into two columns headed by the appearance of the external genitalia. Which pair?",
+   "opts": [
+    "Male external genitalia and ambiguous genitalia",
+    "Female external genitalia and male external genitalia",
+    "Ambiguous genitalia and absent genitalia",
+    "Female external genitalia and ambiguous genitalia"
+   ],
+   "ans": 3,
+   "exp": "Page 165 opens with 'Female external genitalia :' and 'Ambiguous genitalia :'."
+  },
+  {
+   "id": "ch31-u1-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Which disorder heads the 'female external genitalia' column?",
+   "opts": [
+    "Complete androgen insensitivity syndrome",
+    "Partial androgen insensitivity syndrome",
+    "Swyer syndrome",
+    "5-alpha reductase deficiency"
+   ],
+   "ans": 0,
+   "exp": "AIS is the first entry and is marked (m/c)."
+  },
+  {
+   "id": "ch31-u1-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Fill up: In the 46XY tree, AIS is annotated as ____ (most common).",
+   "opts": [
+    "L/c",
+    "m/c",
+    "rare",
+    "newly described"
+   ],
+   "ans": 1,
+   "exp": "The entry reads '(AIS) : m/c'."
+  },
+  {
+   "id": "ch31-u1-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "numeric",
+   "q": "How many causes are printed in the 'female external genitalia' column?",
+   "opts": [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "ans": 2,
+   "exp": "Complete AIS, Swyer's syndrome, 5-alpha reductase deficiency and LH receptor defect."
+  },
+  {
+   "id": "ch31-u1-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "recall",
+   "q": "The third cause printed in the female-external-genitalia column is:",
+   "opts": [
+    "LH receptor defect",
+    "Ovotestis",
+    "17-alpha hydroxylase deficiency",
+    "5-alpha reductase deficiency"
+   ],
+   "ans": 3,
+   "exp": "The order is complete AIS, Swyer's syndrome, 5-alpha reductase deficiency, LH receptor defect."
+  },
+  {
+   "id": "ch31-u1-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "recall",
+   "q": "The fourth cause in the female-external-genitalia column is:",
+   "opts": [
+    "Ovotestis",
+    "LH receptor defect",
+    "3-beta HSD deficiency",
+    "P450 oxidoreductase deficiency"
+   ],
+   "ans": 1,
+   "exp": "LH receptor defect is numbered 4."
+  },
+  {
+   "id": "ch31-u1-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "match",
+   "q": "Match each female-external-genitalia cause with its printed rank - 1) Complete AIS 2) Swyer's syndrome 3) 5-alpha reductase deficiency 4) LH receptor defect ... A) 3 B) 1 C) 4 D) 2",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Printed order: 1 complete AIS, 2 Swyer's, 3 5-alpha reductase deficiency, 4 LH receptor defect."
+  },
+  {
+   "id": "ch31-u1-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Which two disorders head the 'ambiguous genitalia' column?",
+   "opts": [
+    "Partial AIS and ovotestis",
+    "Complete AIS and Swyer syndrome",
+    "Ovotestis and LH receptor defect",
+    "Partial AIS and 17-alpha hydroxylase deficiency"
+   ],
+   "ans": 0,
+   "exp": "The ambiguous column opens with 1. Partial AIS, 2. Ovotestis, then CAH variants."
+  },
+  {
+   "id": "ch31-u1-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Fill up: The ambiguous-genitalia column groups four enzyme defects under the heading congenital ____ hyperplasia.",
+   "opts": [
+    "lipoid",
+    "adrenal",
+    "cortical",
+    "androgen"
+   ],
+   "ans": 1,
+   "exp": "The heading reads 'Congenital Adrenal Hyperplasia (CAH)'."
+  },
+  {
+   "id": "ch31-u1-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Which four enzyme defects are grouped under CAH in the 46XY ambiguous-genitalia column?",
+   "opts": [
+    "21-alpha hydroxylase, 11-beta hydroxylase, 3-beta HSD and P450 OR",
+    "17-alpha hydroxylase, 21-alpha hydroxylase, 11-beta hydroxylase and 17,20 lyase",
+    "3-beta HSD, P450 OR, 5-alpha reductase and aromatase",
+    "17-alpha hydroxylase, 17-alpha lyase, 3-beta HSD and P450 oxidoreductase"
+   ],
+   "ans": 3,
+   "exp": "The four listed sub-bullets are 17-alpha hydroxylase, 17-alpha lyase, 3-beta HSD and P450 OR deficiency."
+  },
+  {
+   "id": "ch31-u1-q11",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "tf",
+   "q": "True/False: 21-alpha hydroxylase deficiency appears in the 46XY ambiguous-genitalia list.",
+   "opts": [
+    "False",
+    "True",
+    "True - it is listed first",
+    "True - it is listed under female external genitalia"
+   ],
+   "ans": 0,
+   "exp": "It is absent; the CAH sub-list here has only 17-alpha hydroxylase, 17-alpha lyase, 3-beta HSD and P450 OR."
+  },
+  {
+   "id": "ch31-u1-q12",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "odd",
+   "q": "Odd one out - which is filed under 'ambiguous genitalia' rather than 'female external genitalia'?",
+   "opts": [
+    "Complete AIS",
+    "Swyer syndrome",
+    "Ovotestis",
+    "LH receptor defect"
+   ],
+   "ans": 2,
+   "exp": "Ovotestis is the second entry of the ambiguous column; the other three are in the female-external-genitalia column."
+  },
+  {
+   "id": "ch31-u1-q13",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "scenario",
+   "q": "Scenario: A 46XY infant is born with completely female-looking external genitalia. Which column of the printed tree should be searched first?",
+   "opts": [
+    "Ambiguous genitalia",
+    "Female external genitalia",
+    "Gonadal dysgenesis",
+    "Isolated CAH"
+   ],
+   "ans": 1,
+   "exp": "Complete AIS, Swyer's, 5-alpha reductase deficiency and LH receptor defect sit in the female-external-genitalia column."
+  },
+  {
+   "id": "ch31-u1-q14",
+   "sec": "46XY DSD Classification",
+   "unit": "The Two-Column Classification Tree",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Fill up: The page heading reads '46 XY DSD (Disorders of Sexual ____)'.",
+   "opts": [
+    "Differentiation",
+    "Determination",
+    "Dysgenesis",
+    "Development"
+   ],
+   "ans": 3,
+   "exp": "The printed title expands DSD as Disorders of Sexual Development."
+  },
+  {
+   "id": "ch31-u2-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Which single 46XY DSD is the stated exception to the rule that these children are considered female at birth?",
+   "opts": [
+    "Ovotestis",
+    "Complete AIS",
+    "Swyer syndrome",
+    "5-alpha reductase deficiency"
+   ],
+   "ans": 0,
+   "exp": "'Considered as female child at birth - Except: Ovotestis'."
+  },
+  {
+   "id": "ch31-u2-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Fill up: The presenting complaint common to these patients is ____ amenorrhoea at puberty.",
+   "opts": [
+    "secondary",
+    "lactational",
+    "primary",
+    "hypothalamic"
+   ],
+   "ans": 2,
+   "exp": "'Complaints of: 1. 1° Amenorrhea at puberty'."
+  },
+  {
+   "id": "ch31-u2-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "recall",
+   "q": "A female with primary amenorrhoea and a complaint of inguinal hernia should raise suspicion of which karyotype?",
+   "opts": [
+    "46XX",
+    "45XO",
+    "47XXY",
+    "46XY"
+   ],
+   "ans": 3,
+   "exp": "'Female with 1° Amenorrhea + C/o Inguinal hernia: Suspect XY genotype'."
+  },
+  {
+   "id": "ch31-u2-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Bilateral inguinal hernia in this context points to:",
+   "opts": [
+    "Indirect hernia sac only",
+    "Undescended testis",
+    "Ovarian prolapse",
+    "Femoral hernia"
+   ],
+   "ans": 1,
+   "exp": "'B/L Inguinal hernia → Undescended testis'."
+  },
+  {
+   "id": "ch31-u2-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Where are the abdominal gonads detected?",
+   "opts": [
+    "Only on MRI",
+    "Only at laparoscopy",
+    "Palpable on physical examination",
+    "Not detectable before surgery"
+   ],
+   "ans": 2,
+   "exp": "'Abdominal gonads: Palpable on physical examination'."
+  },
+  {
+   "id": "ch31-u2-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Fill up: Undescended testis in 46XY DSD carries an increased risk of ____.",
+   "opts": [
+    "malignancy",
+    "torsion only",
+    "infertility only",
+    "autoimmunity"
+   ],
+   "ans": 0,
+   "exp": "Printed: '↑ Risk of malignancy'."
+  },
+  {
+   "id": "ch31-u2-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "recall",
+   "q": "The treatment recommended for the undescended testis is:",
+   "opts": [
+    "Orchidopexy",
+    "Gonadectomy",
+    "Radiotherapy",
+    "Watchful waiting"
+   ],
+   "ans": 1,
+   "exp": "'Rx: Gonadectomy'."
+  },
+  {
+   "id": "ch31-u2-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "recall",
+   "q": "The most common tumour associated with an undescended testis is:",
+   "opts": [
+    "Dysgerminoma",
+    "Seminoma",
+    "Yolk sac tumour",
+    "Gonadoblastoma"
+   ],
+   "ans": 3,
+   "exp": "Printed: 'm/c tumor associated with undescended testis: Gonadoblastoma'."
+  },
+  {
+   "id": "ch31-u2-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "recall",
+   "q": "The most common malignancy associated with an undescended testis is:",
+   "opts": [
+    "Gonadoblastoma",
+    "Embryonal carcinoma",
+    "Dysgerminoma",
+    "Choriocarcinoma"
+   ],
+   "ans": 2,
+   "exp": "Printed: 'm/c malignancy associated with undescended testis: Dysgerminoma'."
+  },
+  {
+   "id": "ch31-u2-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "match",
+   "q": "Match the label with the lesion - 1) m/c tumour 2) m/c malignancy ... A) Dysgerminoma B) Gonadoblastoma",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Gonadoblastoma is the commonest tumour; dysgerminoma the commonest malignancy."
+  },
+  {
+   "id": "ch31-u2-q11",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "scenario",
+   "q": "Scenario: A 16-year-old girl with primary amenorrhoea is found to have bilateral inguinal swellings that are palpable testes. What is the definitive management of those gonads?",
+   "opts": [
+    "Orchidopexy with biopsy",
+    "Testosterone replacement",
+    "Gonadectomy",
+    "Radical radiotherapy"
+   ],
+   "ans": 2,
+   "exp": "The printed Rx for the undescended testis in 46XY DSD is gonadectomy because of malignancy risk."
+  },
+  {
+   "id": "ch31-u2-q12",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "tf",
+   "q": "True/False: The risk quoted for these abdominal gonads is benign degeneration, so removal is optional.",
+   "opts": [
+    "True",
+    "True - removal is deferred to age 40",
+    "True - only if the tumour marker rises",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "There is an increased risk of malignancy and gonadectomy is the recommended treatment."
+  },
+  {
+   "id": "ch31-u2-q13",
+   "sec": "46XY DSD Classification",
+   "unit": "Shared Characteristics and the Inguinal Hernia Clue",
+   "page": 165,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT printed as a shared characteristic of 46XY DSD?",
+   "opts": [
+    "Considered female at birth",
+    "Virilisation at birth in every case",
+    "Primary amenorrhoea at puberty",
+    "Association with inguinal hernia"
+   ],
+   "ans": 1,
+   "exp": "Virilisation at birth is not universal; the page stresses they are considered female at birth (except ovotestis)."
+  },
+  {
+   "id": "ch31-u3-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Fill up: Complete AIS is described as an ____ linked recessive disorder.",
+   "opts": [
+    "X",
+    "autosomal",
+    "Y",
+    "mitochondrial"
+   ],
+   "ans": 0,
+   "exp": "The printed line is 'X linked recessive disorder'."
+  },
+  {
+   "id": "ch31-u3-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 165,
+   "fmt": "recall",
+   "q": "In complete AIS, the SRY gene status is:",
+   "opts": [
+    "Deleted",
+    "Normal",
+    "Mutated",
+    "Duplicated"
+   ],
+   "ans": 1,
+   "exp": "'SRY gene: N'."
+  },
+  {
+   "id": "ch31-u3-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Which four structures are all marked 'N' (normal) at the top of the complete AIS diagram?",
+   "opts": [
+    "SRY gene, ovary, Leydig cells and granulosa cells",
+    "Testis, epididymis, vas deferens and seminal vesicle",
+    "SRY gene, testis, Mullerian duct and Wolffian duct",
+    "SRY gene, testis, Leydig cells and Sertoli cells"
+   ],
+   "ans": 3,
+   "exp": "The diagram marks SRY gene N, testis N, Leydig cells N and Sertoli cells N."
+  },
+  {
+   "id": "ch31-u3-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "The testis in complete AIS produces testosterone that is:",
+   "opts": [
+    "Normal in amount but the body is resistant to it",
+    "Low in amount",
+    "Absent",
+    "Converted entirely to DHT"
+   ],
+   "ans": 0,
+   "exp": "'Testosterone: N but Resistant to testosterone'."
+  },
+  {
+   "id": "ch31-u3-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "Fill up: Sertoli cells are stimulated by ____, which is itself normal in AIS.",
+   "opts": [
+    "LH",
+    "ACTH",
+    "FSH",
+    "hCG"
+   ],
+   "ans": 2,
+   "exp": "'FSH (+)' drives Sertoli cells; 'FSH: N'."
+  },
+  {
+   "id": "ch31-u3-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Sertoli cells secrete inhibin B, which does what to FSH?",
+   "opts": [
+    "Positive feedback",
+    "No effect",
+    "Converts it to LH",
+    "Negative feedback"
+   ],
+   "ans": 3,
+   "exp": "'Inhibin B → -ve feedback on FSH'."
+  },
+  {
+   "id": "ch31-u3-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "The second Sertoli cell product named is Anti-Mullerian Hormone. Its action is:",
+   "opts": [
+    "Growth of the Mullerian duct",
+    "Regression of the Mullerian duct",
+    "Regression of the Wolffian duct",
+    "Masculinisation of the external genitalia"
+   ],
+   "ans": 1,
+   "exp": "'Antimullerian hormone → Regression of mullerian duct'."
+  },
+  {
+   "id": "ch31-u3-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "Fill up: Because AMH acts normally, patients with complete AIS have no fallopian tubes, uterus, cervix or ____ vagina.",
+   "opts": [
+    "upper",
+    "lower",
+    "entire",
+    "distal"
+   ],
+   "ans": 0,
+   "exp": "'No fallopian tubes, uterus, cervix, upper vagina'."
+  },
+  {
+   "id": "ch31-u3-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Resistance to testosterone causes the Wolffian duct to:",
+   "opts": [
+    "Develop normally",
+    "Develop into female internal genitalia",
+    "Fail to grow and then regress",
+    "Persist as a Gartner duct"
+   ],
+   "ans": 2,
+   "exp": "'Resistance to testosterone → Wolffian duct does not grow → Wolffian duct regresses'."
+  },
+  {
+   "id": "ch31-u3-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Failure of scrotal descent in complete AIS leaves the testis:",
+   "opts": [
+    "In the abdomen",
+    "In the inguinal canal",
+    "In the scrotum",
+    "In the superficial perineal pouch"
+   ],
+   "ans": 0,
+   "exp": "'Failure of scrotal descent → Abdominal testis'."
+  },
+  {
+   "id": "ch31-u3-q11",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Which two consequences are printed next to the abdominal testis?",
+   "opts": [
+    "Torsion and infarction",
+    "Infertility and hydrocele",
+    "Calcification and atrophy",
+    "Increased chance of malignancy and bilateral inguinal hernia"
+   ],
+   "ans": 3,
+   "exp": "Printed: '↑ Chance of malignancy' and 'B/L inguinal hernia'."
+  },
+  {
+   "id": "ch31-u3-q12",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "Fill up: Testosterone is normally converted to DHT by ____ reductase; AIS patients are resistant to both.",
+   "opts": [
+    "17-alpha",
+    "21-alpha",
+    "5-alpha",
+    "11-beta"
+   ],
+   "ans": 2,
+   "exp": "The diagram shows 'Testosterone --5α reductase--> DHT' with 'Resistant to DHT'."
+  },
+  {
+   "id": "ch31-u3-q13",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Resistance to DHT produces:",
+   "opts": [
+    "Failure of Mullerian regression",
+    "Failure of masculinisation of the external genitalia",
+    "Excessive Wolffian growth",
+    "Premature pubarche"
+   ],
+   "ans": 1,
+   "exp": "'Resistant to DHT → Failure of masculanisation of external genitalia'."
+  },
+  {
+   "id": "ch31-u3-q14",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "The net genital outcome in complete AIS is:",
+   "opts": [
+    "Ambiguous external genitalia",
+    "Male external genitalia",
+    "Female external genitalia, female at birth",
+    "Absent external genitalia"
+   ],
+   "ans": 2,
+   "exp": "The chain ends in 'Female external genitalia → Female at birth'."
+  },
+  {
+   "id": "ch31-u3-q15",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "At puberty, testicular testosterone fails to produce secondary sexual development, giving pubic and axillary hair at Tanner stage:",
+   "opts": [
+    "4 or 5",
+    "1 or 2",
+    "3",
+    "5"
+   ],
+   "ans": 1,
+   "exp": "'Scanty pubic hair / axillary hair: Tanner stage 1 or 2' and 'Failure of 2° sexual development'."
+  },
+  {
+   "id": "ch31-u3-q16",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Why does breast development still occur in complete AIS?",
+   "opts": [
+    "Estrogen is produced by the adrenal gland",
+    "The breast is androgen dependent",
+    "Progesterone receptors remain intact",
+    "Testosterone is aromatised to estrogen and estrogen is not resisted"
+   ],
+   "ans": 3,
+   "exp": "The diagram shows 'Testosterone --Aromatase--> Estrogen (Not resistant)' leading to proper breast development."
+  },
+  {
+   "id": "ch31-u3-q17",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Breast development in complete AIS reaches Tanner stage:",
+   "opts": [
+    "4 or 5",
+    "1 or 2",
+    "3",
+    "2"
+   ],
+   "ans": 0,
+   "exp": "'Breast development (Proper): Tanner stage 4 or 5'."
+  },
+  {
+   "id": "ch31-u3-q18",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "Fill up: AIS patients may have a ____ ending vagina.",
+   "opts": [
+    "blind",
+    "double",
+    "septate",
+    "patulous"
+   ],
+   "ans": 0,
+   "exp": "'may have blind ending vagina'."
+  },
+  {
+   "id": "ch31-u3-q19",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "match",
+   "q": "Match each AIS finding with its mechanism - 1) No uterus 2) No vas deferens 3) Female external genitalia 4) Breast development ... A) Estrogen not resisted B) AMH acted normally C) Wolffian duct regressed D) DHT resisted",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 1,
+   "exp": "AMH removes the uterus; testosterone resistance regresses the Wolffian duct; DHT resistance feminises the exterior; unopposed estrogen builds breast."
+  },
+  {
+   "id": "ch31-u3-q20",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "scenario",
+   "q": "Scenario: A 17-year-old with well-developed breasts, scanty axillary hair, no menarche and a blind-ending vagina. Which internal anatomy is expected?",
+   "opts": [
+    "Normal uterus with cervical atresia",
+    "Hypoplastic uterus with streak ovaries",
+    "No uterus, no fallopian tubes, no upper vagina",
+    "Normal uterus and ovaries"
+   ],
+   "ans": 2,
+   "exp": "AMH works in AIS, so Mullerian structures are absent; the vagina is blind-ending."
+  },
+  {
+   "id": "ch31-u3-q21",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "tf",
+   "q": "True/False: In complete AIS, the external genitalia are ambiguous.",
+   "opts": [
+    "True",
+    "True - ambiguity is the rule",
+    "True - unless the karyotype is 46XX",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "Complete AIS gives female external genitalia; ambiguity belongs to partial AIS."
+  },
+  {
+   "id": "ch31-u3-q22",
+   "sec": "46XY DSD Classification",
+   "unit": "Complete Androgen Insensitivity Syndrome",
+   "page": 166,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a consequence of androgen receptor resistance in complete AIS?",
+   "opts": [
+    "Wolffian duct regression",
+    "Absent masculinisation of the external genitalia",
+    "Scanty pubic and axillary hair",
+    "Mullerian duct persistence"
+   ],
+   "ans": 3,
+   "exp": "Mullerian regression is driven by AMH, not by the androgen receptor."
+  },
+  {
+   "id": "ch31-u4-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: GnRH is ____ in AIS because negative feedback is lost.",
+   "opts": [
+    "suppressed",
+    "normal",
+    "raised",
+    "absent"
+   ],
+   "ans": 2,
+   "exp": "The hormonal profile block prints '↑ GnRH' with 'loss of negative feedback on GnRH'."
+  },
+  {
+   "id": "ch31-u4-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Which gonadotrophin is raised and which is normal in AIS?",
+   "opts": [
+    "FSH raised, LH normal",
+    "LH raised, FSH normal",
+    "Both raised",
+    "Both low"
+   ],
+   "ans": 1,
+   "exp": "The inference line reads '↑ LH, (N) FSH'."
+  },
+  {
+   "id": "ch31-u4-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Testosterone in AIS, compared with females, is:",
+   "opts": [
+    "Raised",
+    "Lower",
+    "Identical",
+    "Undetectable"
+   ],
+   "ans": 0,
+   "exp": "'Testosterone: ↑ (Compared to Females)'."
+  },
+  {
+   "id": "ch31-u4-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: The Sertoli cell marker printed in the profile is inhibin ____.",
+   "opts": [
+    "B",
+    "A",
+    "C",
+    "alpha"
+   ],
+   "ans": 0,
+   "exp": "Inhibin B is listed in the profile."
+  },
+  {
+   "id": "ch31-u4-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "The same 'raised LH with normal FSH' pattern is printed alongside which other diagnosis?",
+   "opts": [
+    "Kallmann syndrome",
+    "Turner syndrome",
+    "PCOS",
+    "Premature ovarian insufficiency"
+   ],
+   "ans": 2,
+   "exp": "The inference compares AIS with PCOS."
+  },
+  {
+   "id": "ch31-u4-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "How does the menstrual presentation differ between AIS and PCOS in this comparison?",
+   "opts": [
+    "Both give primary amenorrhoea",
+    "AIS gives secondary amenorrhoea, PCOS primary",
+    "Both give secondary amenorrhoea",
+    "AIS gives primary amenorrhoea, PCOS gives secondary amenorrhoea"
+   ],
+   "ans": 3,
+   "exp": "The two columns read '1° Amenorrhea' (AIS) and '2° Amenorrhea' (PCOS)."
+  },
+  {
+   "id": "ch31-u4-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: The comparison labels AIS with 1° amenorrhoea and PCOS with ____ amenorrhoea.",
+   "opts": [
+    "1°",
+    "2°",
+    "3°",
+    "physiological"
+   ],
+   "ans": 1,
+   "exp": "PCOS is printed under 2° amenorrhoea."
+  },
+  {
+   "id": "ch31-u4-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "match",
+   "q": "Match the hormone to its printed direction in AIS - 1) GnRH 2) LH 3) FSH 4) Testosterone ... A) Normal B) Raised",
+   "opts": [
+    "1-A, 2-B, 3-A, 4-B",
+    "1-B, 2-B, 3-A, 4-B",
+    "1-B, 2-A, 3-B, 4-A",
+    "1-B, 2-B, 3-B, 4-A"
+   ],
+   "ans": 1,
+   "exp": "GnRH, LH and testosterone are raised; FSH is normal."
+  },
+  {
+   "id": "ch31-u4-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "scenario",
+   "q": "Scenario: A phenotypic woman with primary amenorrhoea has LH 18 IU/L, FSH 5 IU/L and testosterone in the male range. Which diagnosis does the printed inference support?",
+   "opts": [
+    "PCOS",
+    "Premature ovarian insufficiency",
+    "Kallmann syndrome",
+    "Androgen insensitivity syndrome"
+   ],
+   "ans": 3,
+   "exp": "Raised LH, normal FSH and male-range testosterone with primary amenorrhoea is the AIS pattern."
+  },
+  {
+   "id": "ch31-u4-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "Hormonal Profile of Complete AIS",
+   "page": 167,
+   "fmt": "tf",
+   "q": "True/False: The AIS hormonal profile shows a suppressed GnRH from androgen excess.",
+   "opts": [
+    "False",
+    "True",
+    "True - GnRH falls with androgen feedback",
+    "True - GnRH is normal"
+   ],
+   "ans": 0,
+   "exp": "Androgen resistance removes feedback, so GnRH is raised."
+  },
+  {
+   "id": "ch31-u5-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "The first management instruction printed is to:",
+   "opts": [
+    "Reassign to male",
+    "Delay assignment until surgery",
+    "Continue the identity of female",
+    "Assign according to karyotype"
+   ],
+   "ans": 2,
+   "exp": "'Continue identity of female'."
+  },
+  {
+   "id": "ch31-u5-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: Gonadectomy of the intra-abdominal testis is timed after completion of breast development, at ____ years.",
+   "opts": [
+    "4 to 6",
+    "10 to 12",
+    "14 to 16",
+    "20 to 22"
+   ],
+   "ans": 2,
+   "exp": "Printed: 'After breast development completion (14 to 16 yrs)'."
+  },
+  {
+   "id": "ch31-u5-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Why is gonadectomy deferred rather than done in infancy in complete AIS?",
+   "opts": [
+    "The testis is needed for growth spurts",
+    "The testis provides testosterone that is aromatised for breast development",
+    "Anaesthetic risk in infancy is prohibitive",
+    "The diagnosis cannot be made earlier"
+   ],
+   "ans": 1,
+   "exp": "Pubertal oestrogen comes from aromatised testicular testosterone, so removal waits until breast development completes."
+  },
+  {
+   "id": "ch31-u5-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: Estrogen replacement therapy is given, but ____ is not supplemented because the uterus is absent.",
+   "opts": [
+    "testosterone",
+    "DHT",
+    "inhibin B",
+    "progesterone"
+   ],
+   "ans": 3,
+   "exp": "'Progesterone: Not supplemented d/t absent uterus'."
+  },
+  {
+   "id": "ch31-u5-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Vaginoplasty in AIS is timed:",
+   "opts": [
+    "Just before or after marriage",
+    "At the time of gonadectomy",
+    "In the neonatal period",
+    "At thelarche"
+   ],
+   "ans": 0,
+   "exp": "'Vaginoplasty - Just before/after marriage'."
+  },
+  {
+   "id": "ch31-u5-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Which vaginoplasty technique is described as laparoscopic?",
+   "opts": [
+    "McIndoe vaginoplasty",
+    "Vecchietti technique",
+    "Abbe-McIndoe",
+    "Davydov"
+   ],
+   "ans": 1,
+   "exp": "'Vecchietti technique: Laparoscopic'."
+  },
+  {
+   "id": "ch31-u5-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "The first named vaginoplasty technique is:",
+   "opts": [
+    "Vecchietti technique",
+    "Williams vulvovaginoplasty",
+    "Sigmoid vaginoplasty",
+    "McIndoe vaginoplasty"
+   ],
+   "ans": 3,
+   "exp": "'1. McIndoe vaginoplasty'."
+  },
+  {
+   "id": "ch31-u5-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Can a woman with complete AIS have a biological child?",
+   "opts": [
+    "No",
+    "Yes, with IVF and surrogacy",
+    "Yes, after vaginoplasty",
+    "Yes, with donor oocytes"
+   ],
+   "ans": 0,
+   "exp": "Printed note: 'Complete AIS cannot have biological child'."
+  },
+  {
+   "id": "ch31-u5-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "match",
+   "q": "Match each management step with its timing - 1) Gonadectomy 2) Vaginoplasty 3) Estrogen replacement 4) Continue female identity ... A) Just before/after marriage B) Immediately C) After thelarche, 14-16 yrs D) After gonadectomy",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Identity is continued from the outset; gonadectomy at 14-16 years; estrogen after it; vaginoplasty around marriage."
+  },
+  {
+   "id": "ch31-u5-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "scenario",
+   "q": "Scenario: A 15-year-old with complete AIS has just completed breast development. What is the next step?",
+   "opts": [
+    "Vaginoplasty",
+    "Stop estrogen",
+    "Gonadectomy",
+    "Add progesterone"
+   ],
+   "ans": 2,
+   "exp": "Gonadectomy is scheduled once breast development completes at 14-16 years."
+  },
+  {
+   "id": "ch31-u5-q11",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "tf",
+   "q": "True/False: Progesterone is added to the estrogen regimen in complete AIS to mimic a normal cycle.",
+   "opts": [
+    "True",
+    "False",
+    "True - it protects the vaginal remnant",
+    "True - it prevents breast regression"
+   ],
+   "ans": 1,
+   "exp": "Progesterone is not supplemented because there is no uterus."
+  },
+  {
+   "id": "ch31-u5-q12",
+   "sec": "46XY DSD Classification",
+   "unit": "Management of Complete AIS",
+   "page": 167,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT part of printed complete AIS management?",
+   "opts": [
+    "Continue female identity",
+    "Gonadectomy at 14-16 years",
+    "Vaginoplasty near marriage",
+    "Testosterone supplementation"
+   ],
+   "ans": 3,
+   "exp": "Testosterone is already high and resisted; it is never supplemented."
+  },
+  {
+   "id": "ch31-u6-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: In partial AIS, males are ____ sensitive to androgens.",
+   "opts": [
+    "partially",
+    "completely",
+    "not at all",
+    "hypersensitively"
+   ],
+   "ans": 0,
+   "exp": "Printed: 'males are partially sensitive to androgens'."
+  },
+  {
+   "id": "ch31-u6-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 167,
+   "fmt": "recall",
+   "q": "In partial AIS, testosterone acting through a partially functional receptor allows the Wolffian duct to:",
+   "opts": [
+    "Develop",
+    "Regress completely",
+    "Become Mullerian",
+    "Remain absent"
+   ],
+   "ans": 0,
+   "exp": "'Wolffian duct develops'."
+  },
+  {
+   "id": "ch31-u6-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: Partial sensitivity to DHT gives ____ male internal genital organs.",
+   "opts": [
+    "fully formed",
+    "absent",
+    "female",
+    "poorly formed"
+   ],
+   "ans": 3,
+   "exp": "'DHT (Partial sensitivity) → Poorly formed of male internal genital organ'."
+  },
+  {
+   "id": "ch31-u6-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 167,
+   "fmt": "recall",
+   "q": "The genital appearance at birth in partial AIS is:",
+   "opts": [
+    "Female",
+    "Ambiguous",
+    "Male",
+    "Absent"
+   ],
+   "ans": 1,
+   "exp": "'Ambiguous genitalia'."
+  },
+  {
+   "id": "ch31-u6-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 167,
+   "fmt": "recall",
+   "q": "How are partial AIS infants registered at birth?",
+   "opts": [
+    "Male",
+    "Undetermined",
+    "Female",
+    "According to karyotype"
+   ],
+   "ans": 2,
+   "exp": "'Females at birth'."
+  },
+  {
+   "id": "ch31-u6-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Why does partial AIS present with primary amenorrhoea?",
+   "opts": [
+    "The ovaries are streak gonads",
+    "The vagina is atretic",
+    "The uterus is absent",
+    "The endometrium is destroyed"
+   ],
+   "ans": 2,
+   "exp": "'1° Amenorrhea d/t absent uterus'."
+  },
+  {
+   "id": "ch31-u6-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Breast development in partial AIS reaches Tanner stage:",
+   "opts": [
+    "1 or 2",
+    "4 or 5",
+    "3",
+    "2"
+   ],
+   "ans": 1,
+   "exp": "'Breast: Tanner 4/5'."
+  },
+  {
+   "id": "ch31-u6-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Pubic and axillary hair in partial AIS reaches Tanner stage:",
+   "opts": [
+    "4 or 5",
+    "3",
+    "5",
+    "1 or 2"
+   ],
+   "ans": 3,
+   "exp": "'Pubic & axillary hair: Tanner 1 or 2'."
+  },
+  {
+   "id": "ch31-u6-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Which two local findings are printed together as features of partial AIS?",
+   "opts": [
+    "Clitoromegaly and labioscrotal fusion",
+    "Clitoromegaly and uterine didelphys",
+    "Labioscrotal fusion and ovarian cysts",
+    "Clitoromegaly and vaginal septum"
+   ],
+   "ans": 0,
+   "exp": "'Clitoromegaly / Labioscrotal fusion'."
+  },
+  {
+   "id": "ch31-u6-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "Fill up: Partial AIS is the most common cause of ambiguous genitalia in ____ individuals.",
+   "opts": [
+    "46XX",
+    "45XO",
+    "46XY",
+    "47XXY"
+   ],
+   "ans": 2,
+   "exp": "Printed: 'm/c cause of ambiguous genitalia in 46 XY'."
+  },
+  {
+   "id": "ch31-u6-q11",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Partial AIS is also described as the most common cause of:",
+   "opts": [
+    "Male pseudohermaphrodite",
+    "Female pseudohermaphrodite",
+    "True hermaphrodite",
+    "Gonadal dysgenesis"
+   ],
+   "ans": 0,
+   "exp": "'m/c cause of male pseudohermaphrodite'."
+  },
+  {
+   "id": "ch31-u6-q12",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "How does the management of partial AIS differ from complete AIS regarding the gonads?",
+   "opts": [
+    "Gonadectomy is deferred to 14-16 years",
+    "Gonadectomy is done as soon as possible",
+    "The testes are left in place",
+    "Orchidopexy is preferred"
+   ],
+   "ans": 1,
+   "exp": "'Same as AIS. Gonadectomy as soon as possible'."
+  },
+  {
+   "id": "ch31-u6-q13",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Why is early gonadectomy advised in partial AIS?",
+   "opts": [
+    "The testis is prone to torsion",
+    "The testis produces estrogen",
+    "The testis blocks the inguinal canal",
+    "The testis virilises at puberty"
+   ],
+   "ans": 3,
+   "exp": "The arrow reads 'Testis → Testosterone → Virilisation at puberty'."
+  },
+  {
+   "id": "ch31-u6-q14",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "match",
+   "q": "Match the partial AIS feature with its description - 1) Breast 2) Pubic hair 3) Internal genitalia 4) External genitalia ... A) Poorly formed male B) Ambiguous C) Tanner 4/5 D) Tanner 1 or 2",
+   "opts": [
+    "1-D, 2-C, 3-B, 4-A",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 3,
+   "exp": "Breast Tanner 4/5, pubic hair Tanner 1-2, poorly formed male internal genitalia, ambiguous external genitalia."
+  },
+  {
+   "id": "ch31-u6-q15",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "scenario",
+   "q": "Scenario: A child reared female presents at 14 with clitoromegaly present since birth, Tanner 4 breasts, scanty pubic hair and no uterus. Which diagnosis fits?",
+   "opts": [
+    "Complete AIS",
+    "Partial AIS",
+    "5-alpha reductase deficiency",
+    "Swyer syndrome"
+   ],
+   "ans": 1,
+   "exp": "Clitoromegaly present since birth with good breast development and absent uterus is the partial AIS picture."
+  },
+  {
+   "id": "ch31-u6-q16",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "tf",
+   "q": "True/False: In partial AIS the internal genitalia are fully formed male structures.",
+   "opts": [
+    "False",
+    "True",
+    "True - Wolffian development is complete",
+    "True - AMH is absent"
+   ],
+   "ans": 0,
+   "exp": "They are described as poorly formed male internal genitalia."
+  },
+  {
+   "id": "ch31-u6-q17",
+   "sec": "46XY DSD Classification",
+   "unit": "Partial Androgen Insensitivity Syndrome",
+   "page": 168,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed feature of partial AIS?",
+   "opts": [
+    "Tanner 4/5 breasts",
+    "Labioscrotal fusion",
+    "Absent breast development",
+    "Clitoromegaly"
+   ],
+   "ans": 2,
+   "exp": "Breasts develop to Tanner 4/5 in partial AIS."
+  },
+  {
+   "id": "ch31-u7-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "Fill up: Swyer syndrome has a ____ karyotype with dysgenetic testes.",
+   "opts": [
+    "46XX",
+    "45XO",
+    "46XY",
+    "47XXY"
+   ],
+   "ans": 2,
+   "exp": "The block prints '46 XY' with 'Gonads: Testis, Dysgenetic'."
+  },
+  {
+   "id": "ch31-u7-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "numeric",
+   "q": "How many causes of the dysgenetic gonad are printed?",
+   "opts": [
+    "Two",
+    "One",
+    "Three",
+    "Four"
+   ],
+   "ans": 0,
+   "exp": "Causes: 1. Idiopathic, 2. Point mutation of SRY gene."
+  },
+  {
+   "id": "ch31-u7-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Which gene is named in the second cause of Swyer syndrome?",
+   "opts": [
+    "SOX9",
+    "SRY",
+    "DAX1",
+    "SF1"
+   ],
+   "ans": 1,
+   "exp": "'Point mutation of SRY gene'."
+  },
+  {
+   "id": "ch31-u7-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "Fill up: The first listed cause of Swyer syndrome is ____.",
+   "opts": [
+    "autoimmune",
+    "iatrogenic",
+    "familial",
+    "idiopathic"
+   ],
+   "ans": 3,
+   "exp": "'1. Idiopathic'."
+  },
+  {
+   "id": "ch31-u7-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Both Leydig and Sertoli cells are described as:",
+   "opts": [
+    "Dysgenetic",
+    "Normal",
+    "Absent",
+    "Hyperplastic"
+   ],
+   "ans": 0,
+   "exp": "Printed: 'Leydig cells (Dysgenetic)' and 'Sertoli cells (Dysgenetic)'."
+  },
+  {
+   "id": "ch31-u7-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Absent testosterone in Swyer syndrome leads to failure of:",
+   "opts": [
+    "Mullerian duct formation",
+    "Mullerian regression",
+    "Testicular descent only",
+    "Wolffian duct development"
+   ],
+   "ans": 3,
+   "exp": "'Absent testosterone → Failure of Wolffian duct development; male internal genitalia absent'."
+  },
+  {
+   "id": "ch31-u7-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Absent AMH in Swyer syndrome results in:",
+   "opts": [
+    "Mullerian regression",
+    "Absent internal genitalia",
+    "Mullerian duct formation and female internal genitalia",
+    "Male internal genitalia"
+   ],
+   "ans": 2,
+   "exp": "'Absent AMH → Mullerian duct formation → Female internal genitalia'."
+  },
+  {
+   "id": "ch31-u7-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "Fill up: Absent inhibin B removes negative feedback on GnRH, so ____ rises.",
+   "opts": [
+    "prolactin",
+    "FSH",
+    "TSH",
+    "ACTH"
+   ],
+   "ans": 1,
+   "exp": "'Absent inhibin B → Absent -ve feedback on GnRH → ↑ FSH'."
+  },
+  {
+   "id": "ch31-u7-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Absent DHT in Swyer syndrome gives:",
+   "opts": [
+    "Male external genitalia",
+    "Female external genitalia",
+    "Ambiguous external genitalia",
+    "Absent external genitalia"
+   ],
+   "ans": 1,
+   "exp": "'Absent DHT → Female external genitalia'."
+  },
+  {
+   "id": "ch31-u7-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "recall",
+   "q": "How is a child with Swyer syndrome registered at birth?",
+   "opts": [
+    "Male",
+    "Ambiguous",
+    "Female",
+    "Undetermined until karyotype"
+   ],
+   "ans": 2,
+   "exp": "'Female child at birth'."
+  },
+  {
+   "id": "ch31-u7-q11",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "match",
+   "q": "Match the absent hormone with its consequence in Swyer syndrome - 1) Testosterone 2) AMH 3) DHT 4) Inhibin B ... A) Female external genitalia B) Female internal genitalia C) Male internal genitalia absent D) Raised FSH",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 3,
+   "exp": "No testosterone means no Wolffian derivatives; no AMH means Mullerian structures persist; no DHT means female exterior; no inhibin B means unopposed FSH."
+  },
+  {
+   "id": "ch31-u7-q12",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "recall",
+   "q": "At puberty in Swyer syndrome, absent testosterone causes failure of female secondary sexual characteristics, specifically:",
+   "opts": [
+    "Absent breast",
+    "Absent menarche only",
+    "Excess breast growth",
+    "Normal breast with virilisation"
+   ],
+   "ans": 0,
+   "exp": "'Failure of female 2° sexual characteristics formation: Absent breast'."
+  },
+  {
+   "id": "ch31-u7-q13",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "recall",
+   "q": "Pubic and axillary hair in Swyer syndrome is:",
+   "opts": [
+    "Absent entirely",
+    "Normal female pattern",
+    "Scanty",
+    "Male pattern"
+   ],
+   "ans": 2,
+   "exp": "'Pubic hair & axillary hair: Scanty'."
+  },
+  {
+   "id": "ch31-u7-q14",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "recall",
+   "q": "Which three presentations are printed for Swyer syndrome?",
+   "opts": [
+    "Delayed puberty, primary amenorrhoea and bilateral inguinal hernia",
+    "Delayed puberty, hirsutism and infertility",
+    "Primary amenorrhoea, galactorrhoea and headache",
+    "Bilateral inguinal hernia, virilisation and acne"
+   ],
+   "ans": 0,
+   "exp": "The presentation list is delayed puberty, 1° amenorrhoea and B/L inguinal hernia."
+  },
+  {
+   "id": "ch31-u7-q15",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "fillup",
+   "q": "Fill up: Gonadectomy in Swyer syndrome is advised ____ diagnosed, unlike in complete AIS.",
+   "opts": [
+    "10 years after",
+    "never",
+    "after marriage",
+    "as soon as"
+   ],
+   "ans": 3,
+   "exp": "'Gonadectomy: As soon as diagnosed'."
+  },
+  {
+   "id": "ch31-u7-q16",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "numeric",
+   "q": "Estrogen supplementation is given for how long to achieve breast development?",
+   "opts": [
+    "Three months",
+    "One year",
+    "Five years",
+    "Six weeks"
+   ],
+   "ans": 1,
+   "exp": "'Estrogen supplementation - For 1 year → Breast development'."
+  },
+  {
+   "id": "ch31-u7-q17",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "recall",
+   "q": "Which additional procedure is listed after estrogen in Swyer management?",
+   "opts": [
+    "Hysterectomy",
+    "Vaginoplasty",
+    "Oophorectomy",
+    "Cervical dilatation"
+   ],
+   "ans": 1,
+   "exp": "Vaginoplasty is the final listed step."
+  },
+  {
+   "id": "ch31-u7-q18",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "scenario",
+   "q": "Scenario: A 17-year-old with primary amenorrhoea, absent breast development, scanty pubic hair, a 46XY karyotype and bilateral inguinal gonads. Which diagnosis?",
+   "opts": [
+    "Complete AIS",
+    "Partial AIS",
+    "Swyer syndrome",
+    "5-alpha reductase deficiency"
+   ],
+   "ans": 2,
+   "exp": "46XY with absent breast development and dysgenetic gonads presenting as inguinal hernias is Swyer syndrome."
+  },
+  {
+   "id": "ch31-u7-q19",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 168,
+   "fmt": "tf",
+   "q": "True/False: In Swyer syndrome the uterus is absent because AMH is produced normally.",
+   "opts": [
+    "True",
+    "True - AMH is only partly reduced",
+    "True - the uterus is hypoplastic instead",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "AMH is absent, so Mullerian structures including the uterus form."
+  },
+  {
+   "id": "ch31-u7-q20",
+   "sec": "46XY DSD Classification",
+   "unit": "Swyer Syndrome",
+   "page": 169,
+   "fmt": "odd",
+   "q": "Odd one out - which finding would argue AGAINST Swyer syndrome?",
+   "opts": [
+    "Well-developed breasts at Tanner 5 without estrogen therapy",
+    "Absent breast development",
+    "Scanty pubic hair",
+    "Female internal genitalia"
+   ],
+   "ans": 0,
+   "exp": "Swyer patients lack endogenous estrogen, so breasts do not develop without supplementation."
+  },
+  {
+   "id": "ch31-u8-q1",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 169,
+   "fmt": "fillup",
+   "q": "Fill up: 5-alpha reductase deficiency occurs in a ____ individual with normally formed testes.",
+   "opts": [
+    "46XX",
+    "46XY",
+    "45XO",
+    "46XX/46XY mosaic"
+   ],
+   "ans": 1,
+   "exp": "The block prints '46 XY' with 'Gonads: Testis (N)'."
+  },
+  {
+   "id": "ch31-u8-q2",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 169,
+   "fmt": "recall",
+   "q": "Which two testicular cell types are explicitly labelled normal in this condition?",
+   "opts": [
+    "Sertoli cells and granulosa cells",
+    "Leydig cells and theca cells",
+    "Germ cells and Sertoli cells",
+    "Sertoli cells and Leydig cells"
+   ],
+   "ans": 3,
+   "exp": "'Sertoli cells (N)' and 'Leydig cells (N)'."
+  },
+  {
+   "id": "ch31-u8-q3",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 169,
+   "fmt": "recall",
+   "q": "Testosterone acts normally on the Wolffian duct to produce:",
+   "opts": [
+    "Female internal genital organs",
+    "No internal genitalia",
+    "Male internal genital organs",
+    "Ambiguous internal genitalia"
+   ],
+   "ans": 2,
+   "exp": "'Testosterone → Wolffian duct development → male internal genital organ'."
+  },
+  {
+   "id": "ch31-u8-q4",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 169,
+   "fmt": "recall",
+   "q": "AMH acts normally to:",
+   "opts": [
+    "Regress the Mullerian duct",
+    "Form the Mullerian duct",
+    "Masculinise the external genitalia",
+    "Descend the testis"
+   ],
+   "ans": 0,
+   "exp": "'AMH → Mullerian duct regress'."
+  },
+  {
+   "id": "ch31-u8-q5",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 169,
+   "fmt": "fillup",
+   "q": "Fill up: The defect is the failure of conversion of testosterone to ____.",
+   "opts": [
+    "estrogen",
+    "androstenedione",
+    "DHT",
+    "cortisol"
+   ],
+   "ans": 2,
+   "exp": "'Defect: Testosterone --5α reductase--> DHT' is blocked."
+  },
+  {
+   "id": "ch31-u8-q6",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 169,
+   "fmt": "recall",
+   "q": "Because DHT is absent, the external genitalia at birth are:",
+   "opts": [
+    "Male",
+    "Female",
+    "Ambiguous",
+    "Absent"
+   ],
+   "ans": 1,
+   "exp": "'Female external genital organs → Female at birth'."
+  },
+  {
+   "id": "ch31-u8-q7",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "recall",
+   "q": "At puberty, normal testosterone produces which two male secondary sexual characteristics?",
+   "opts": [
+    "Increased muscle mass and deepening of voice",
+    "Facial hair and acne",
+    "Pubic hair and axillary hair",
+    "Penile growth and scrotal rugosity"
+   ],
+   "ans": 0,
+   "exp": "'male 2° sexual characteristics: ↑ muscle mass, Deepening of voice'."
+  },
+  {
+   "id": "ch31-u8-q8",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "Fill up: Absence of DHT means pubic and axillary hair are ____.",
+   "opts": [
+    "profuse",
+    "normal",
+    "premature",
+    "absent"
+   ],
+   "ans": 3,
+   "exp": "'Absent pubic or axillary hair: d/t absent DHT'."
+  },
+  {
+   "id": "ch31-u8-q9",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "recall",
+   "q": "Breast development in 5-alpha reductase deficiency is:",
+   "opts": [
+    "Tanner 4/5",
+    "Tanner 3",
+    "Tanner 2",
+    "Absent"
+   ],
+   "ans": 3,
+   "exp": "'Absent breast development'."
+  },
+  {
+   "id": "ch31-u8-q10",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "recall",
+   "q": "Which virilising event occurs at puberty in this condition?",
+   "opts": [
+    "Gynaecomastia",
+    "Clitoromegaly",
+    "Menarche",
+    "Breast enlargement"
+   ],
+   "ans": 1,
+   "exp": "Under 'Virilisation': 'Clitoromegaly at puberty'."
+  },
+  {
+   "id": "ch31-u8-q11",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "recall",
+   "q": "The printed note contrasts this condition with AIS by stating that in AIS:",
+   "opts": [
+    "Testosterone is converted to DHT",
+    "Testosterone is not produced",
+    "Testosterone is converted to estrogen",
+    "Androgen receptors are normal"
+   ],
+   "ans": 2,
+   "exp": "'Note: In AIS: Testosterone → Estrogen'."
+  },
+  {
+   "id": "ch31-u8-q12",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "recall",
+   "q": "Why do AIS patients develop breasts while 5-alpha reductase deficient patients do not?",
+   "opts": [
+    "In AIS, unopposed testosterone is aromatised to estrogen; in 5-alpha reductase deficiency testosterone drives virilisation instead",
+    "In AIS the ovaries are present",
+    "In 5-alpha reductase deficiency estrogen is destroyed",
+    "In AIS progesterone is high"
+   ],
+   "ans": 0,
+   "exp": "The note attributes AIS breast development to testosterone-to-estrogen conversion, which does not produce the same effect here where testosterone acts as an androgen."
+  },
+  {
+   "id": "ch31-u8-q13",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "match",
+   "q": "Match the timing of clitoromegaly - 1) Partial AIS 2) 5-alpha reductase deficiency ... A) Puberty B) Since birth",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Partial AIS is since birth; 5-alpha reductase deficiency is at puberty."
+  },
+  {
+   "id": "ch31-u8-q14",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "match",
+   "q": "Match the breast finding - 1) Partial AIS 2) 5-alpha reductase deficiency ... A) Absent B) Tanner 4/5",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Partial AIS has Tanner 4/5 breasts; 5-alpha reductase deficiency has none."
+  },
+  {
+   "id": "ch31-u8-q15",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "match",
+   "q": "Match the internal genitalia - 1) Partial AIS 2) 5-alpha reductase deficiency ... A) Fully formed male genitalia B) Poorly formed male genitalia",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Partial AIS has poorly formed male internal genitalia; 5-alpha reductase deficiency has fully formed ones."
+  },
+  {
+   "id": "ch31-u8-q16",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "numeric",
+   "q": "How many rows does the printed partial AIS versus 5-alpha reductase deficiency comparison table have?",
+   "opts": [
+    "Two",
+    "Four",
+    "Five",
+    "Three"
+   ],
+   "ans": 3,
+   "exp": "The rows are time of clitoromegaly, breast and internal genitalia."
+  },
+  {
+   "id": "ch31-u8-q17",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "scenario",
+   "q": "Scenario: A child reared female develops clitoromegaly, increased muscle mass and voice deepening at puberty, but has no pubic hair and no breasts. Karyotype 46XY. What is the diagnosis?",
+   "opts": [
+    "Partial AIS",
+    "Complete AIS",
+    "5-alpha reductase deficiency",
+    "Swyer syndrome"
+   ],
+   "ans": 2,
+   "exp": "Pubertal virilisation with absent pubic hair and absent breasts in a 46XY patient is the 5-alpha reductase deficiency picture."
+  },
+  {
+   "id": "ch31-u8-q18",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "tf",
+   "q": "True/False: In 5-alpha reductase deficiency the internal genitalia are poorly formed male structures.",
+   "opts": [
+    "True",
+    "True - Wolffian development is incomplete",
+    "True - the prostate is absent",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "Wolffian development proceeds normally, giving fully formed male internal genitalia."
+  },
+  {
+   "id": "ch31-u8-q19",
+   "sec": "46XY DSD Classification",
+   "unit": "5-alpha Reductase Deficiency",
+   "page": 170,
+   "fmt": "odd",
+   "q": "Odd one out - which is a partial AIS feature rather than a 5-alpha reductase deficiency feature?",
+   "opts": [
+    "Clitoromegaly at puberty",
+    "Clitoromegaly present since birth",
+    "Absent breast development",
+    "Fully formed male internal genitalia"
+   ],
+   "ans": 1,
+   "exp": "Since-birth clitoromegaly belongs to partial AIS; the other three belong to 5-alpha reductase deficiency."
+  },
+  {
+   "id": "ch31-u9-q1",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Which 46XY DSD is the only one in the tree that is shared with the 46XX chapter?",
+   "opts": [
+    "Ovotestis",
+    "Complete AIS",
+    "Swyer syndrome",
+    "LH receptor defect"
+   ],
+   "ans": 0,
+   "exp": "Ovotestis appeared in the 46XX chapter and reappears here under ambiguous genitalia."
+  },
+  {
+   "id": "ch31-u9-q2",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Fill up: The exception clause states that all 46XY DSD children are considered female at birth except ____.",
+   "opts": [
+    "ovotestis",
+    "complete AIS",
+    "Swyer syndrome",
+    "5-alpha reductase deficiency"
+   ],
+   "ans": 0,
+   "exp": "The printed exception names ovotestis."
+  },
+  {
+   "id": "ch31-u9-q3",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Which investigation would confirm the suspected XY genotype in a female with primary amenorrhoea and inguinal hernia?",
+   "opts": [
+    "Serum testosterone alone",
+    "Karyotyping",
+    "Pelvic ultrasound",
+    "Serum 17-OH progesterone"
+   ],
+   "ans": 1,
+   "exp": "The chapter on ambiguous genitalia names karyotyping as the investigation of choice for suspected XY genotype."
+  },
+  {
+   "id": "ch31-u9-q4",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "Fill up: Complete AIS is a receptor problem: the androgen ____ does not respond.",
+   "opts": [
+    "synthesis enzyme",
+    "transporter",
+    "binding globulin",
+    "receptor"
+   ],
+   "ans": 3,
+   "exp": "The heading 'Androgen Insensitivity Syndrome' with 'resistant to testosterone' localises the defect to the receptor."
+  },
+  {
+   "id": "ch31-u9-q5",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 165,
+   "fmt": "recall",
+   "q": "The page prints a heading 'Location:' immediately before 'COMPLETE AIS' and 'X linked recessive disorder'. What is the location implied by the mechanism?",
+   "opts": [
+    "The 5-alpha reductase enzyme",
+    "The Sertoli cell",
+    "The androgen receptor",
+    "The adrenal cortex"
+   ],
+   "ans": 2,
+   "exp": "The AIS block is a receptor-level defect; the location line precedes the genetics note."
+  },
+  {
+   "id": "ch31-u9-q6",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Which two hormones are produced normally by the Sertoli cells in complete AIS?",
+   "opts": [
+    "Testosterone and inhibin B",
+    "AMH and DHT",
+    "Testosterone and DHT",
+    "Inhibin B and AMH"
+   ],
+   "ans": 3,
+   "exp": "Sertoli cells give inhibin B and AMH; testosterone comes from Leydig cells."
+  },
+  {
+   "id": "ch31-u9-q7",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "Fill up: LH in complete AIS is ____ because of loss of negative feedback.",
+   "opts": [
+    "raised",
+    "suppressed",
+    "absent",
+    "normal"
+   ],
+   "ans": 0,
+   "exp": "The hormonal profile shows raised LH from lost androgen feedback."
+  },
+  {
+   "id": "ch31-u9-q8",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Why does FSH stay normal in complete AIS when LH rises?",
+   "opts": [
+    "FSH is not under hypothalamic control",
+    "Inhibin B from Sertoli cells still feeds back on FSH",
+    "AMH suppresses FSH",
+    "Estrogen selectively suppresses FSH"
+   ],
+   "ans": 1,
+   "exp": "Intact Sertoli inhibin B keeps FSH in the normal range while androgen resistance raises LH."
+  },
+  {
+   "id": "ch31-u9-q9",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 167,
+   "fmt": "scenario",
+   "q": "Scenario: A 46XY patient with complete AIS asks whether she can carry a pregnancy with IVF. What is the printed answer?",
+   "opts": [
+    "Yes, with donor oocytes and surrogacy",
+    "Yes, after vaginoplasty",
+    "No - she cannot have a biological child",
+    "Yes, with gestational carrier and her own oocytes"
+   ],
+   "ans": 2,
+   "exp": "The printed note states complete AIS cannot have a biological child."
+  },
+  {
+   "id": "ch31-u9-q10",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Classification and AIS",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Which vaginoplasty timing applies equally to complete AIS and Swyer syndrome?",
+   "opts": [
+    "At the time of gonadectomy",
+    "In infancy",
+    "Just before or after marriage",
+    "At thelarche"
+   ],
+   "ans": 2,
+   "exp": "Both pages time vaginoplasty around marriage."
+  },
+  {
+   "id": "ch31-u10-q1",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "Fill up: Swyer syndrome is also termed 46XY complete ____ dysgenesis.",
+   "opts": [
+    "Mullerian",
+    "Wolffian",
+    "adrenal",
+    "gonadal"
+   ],
+   "ans": 3,
+   "exp": "The condition is a dysgenetic-gonad form of gonadal dysgenesis with a 46XY karyotype."
+  },
+  {
+   "id": "ch31-u10-q2",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 166,
+   "fmt": "recall",
+   "q": "Which malignancy risk is printed for the intra-abdominal testis in complete AIS?",
+   "opts": [
+    "Increased chance of malignancy",
+    "No increased risk",
+    "Risk limited to seminoma",
+    "Risk only after age 40"
+   ],
+   "ans": 0,
+   "exp": "'↑ Chance of malignancy' is printed beside the abdominal testis."
+  },
+  {
+   "id": "ch31-u10-q3",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "Fill up: In Swyer syndrome, both LH and ____ are raised because of absent feedback.",
+   "opts": [
+    "prolactin",
+    "FSH",
+    "inhibin B",
+    "AMH"
+   ],
+   "ans": 1,
+   "exp": "Absent inhibin B and absent sex steroids raise both gonadotrophins."
+  },
+  {
+   "id": "ch31-u10-q4",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Complete AIS management defers gonadectomy while Swyer management does it immediately. What is the reason for the difference?",
+   "opts": [
+    "AIS testes are intra-scrotal",
+    "Swyer patients are older at diagnosis",
+    "In AIS the testis supplies aromatisable testosterone for breast development; in Swyer the gonad is dysgenetic and malignant",
+    "AIS patients refuse surgery"
+   ],
+   "ans": 2,
+   "exp": "Functional AIS testes are kept until breast development completes; dysgenetic Swyer gonads are removed at diagnosis."
+  },
+  {
+   "id": "ch31-u10-q5",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Which two vaginoplasty techniques are named across this chapter?",
+   "opts": [
+    "McIndoe and Davydov",
+    "Vecchietti and Williams",
+    "Abbe and sigmoid",
+    "McIndoe and Vecchietti"
+   ],
+   "ans": 3,
+   "exp": "McIndoe vaginoplasty and the laparoscopic Vecchietti technique are the two named."
+  },
+  {
+   "id": "ch31-u10-q6",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "Fill up: In 5-alpha reductase deficiency, the external genitalia are female at birth but ____ at puberty.",
+   "opts": [
+    "feminised",
+    "virilised",
+    "unchanged",
+    "ambiguous"
+   ],
+   "ans": 1,
+   "exp": "Pubertal testosterone causes virilisation, notably clitoromegaly."
+  },
+  {
+   "id": "ch31-u10-q7",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 170,
+   "fmt": "recall",
+   "q": "Which single feature separates 5-alpha reductase deficiency from complete AIS at puberty?",
+   "opts": [
+    "Presence of virilisation and absent breasts",
+    "Presence of breasts and absent pubic hair",
+    "Presence of menses",
+    "Presence of a uterus"
+   ],
+   "ans": 0,
+   "exp": "5-alpha reductase deficiency virilises without breast development; complete AIS does the opposite."
+  },
+  {
+   "id": "ch31-u10-q8",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 168,
+   "fmt": "tf",
+   "q": "True/False: Both complete AIS and Swyer syndrome present with primary amenorrhoea and are reared female.",
+   "opts": [
+    "True",
+    "False",
+    "False - Swyer patients are reared male",
+    "False - AIS patients menstruate"
+   ],
+   "ans": 0,
+   "exp": "Both appear in the female-external-genitalia column and both present with primary amenorrhoea."
+  },
+  {
+   "id": "ch31-u10-q9",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 170,
+   "fmt": "match",
+   "q": "Match each 46XY DSD with its internal genitalia - 1) Complete AIS 2) Partial AIS 3) Swyer syndrome 4) 5-alpha reductase deficiency ... A) Female internal genitalia B) None C) Poorly formed male D) Fully formed male",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 1,
+   "exp": "AMH removes Mullerian structures in AIS and 5-ARD; absent AMH in Swyer leaves female organs; partial AIS gives poorly formed male organs."
+  },
+  {
+   "id": "ch31-u10-q10",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 167,
+   "fmt": "scenario",
+   "q": "Scenario: An infant with ambiguous genitalia is 46XY with palpable inguinal gonads. Which investigation choice makes the specific diagnosis rather than only the genetic sex?",
+   "opts": [
+    "Pelvic ultrasound alone",
+    "Serum electrolytes alone",
+    "Buccal smear alone",
+    "Karyotyping plus hormonal profiling of LH, FSH and testosterone"
+   ],
+   "ans": 3,
+   "exp": "Karyotype establishes 46XY and the LH/FSH/testosterone pattern separates AIS from the enzyme defects in this chapter."
+  },
+  {
+   "id": "ch31-u10-q11",
+   "sec": "Complete Coverage: 46XY DSD",
+   "unit": "Second Pass - Swyer, 5-alpha Reductase and Comparisons",
+   "page": 165,
+   "fmt": "odd",
+   "q": "Odd one out - which 46XY DSD is NOT driven by a hormone-synthesis enzyme defect?",
+   "opts": [
+    "17-alpha hydroxylase deficiency",
+    "3-beta HSD deficiency",
+    "Complete AIS",
+    "P450 oxidoreductase deficiency"
+   ],
+   "ans": 2,
+   "exp": "AIS is a receptor defect; the other three are CAH enzyme blocks."
+  }
+ ]
+}

@@ -1,0 +1,2421 @@
+{
+ "chapter": 30,
+ "questions": [
+  {
+   "id": "ch30-u1-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "recall",
+   "q": "The 46XX DSD chapter opens with two broad heads. Which pair heads the tree printed at the top of the page?",
+   "opts": [
+    "Abnormal development of gonads and abnormal karyotype",
+    "Ambiguous genitalia and gonadal malignancy",
+    "Abnormal development of gonads and ambiguous genitalia",
+    "Abnormal development of gonads and androgen insensitivity"
+   ],
+   "ans": 2,
+   "exp": "Page 160 splits 46XX DSD into abnormal development of gonads (ovotestes, Turner's syndrome) and ambiguous genitalia (raised maternal androgens, placental aromatase deficiency)."
+  },
+  {
+   "id": "ch30-u1-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Under 'abnormal development of gonads', the two entries listed are:",
+   "opts": [
+    "Ovotestes and Turner's syndrome",
+    "Ovotestes and Swyer syndrome",
+    "Turner's syndrome and Klinefelter syndrome",
+    "Ovotestes and complete androgen insensitivity"
+   ],
+   "ans": 0,
+   "exp": "Abnormal development of gonads has 1. Ovotestes and 2. Turner's syndrome."
+  },
+  {
+   "id": "ch30-u1-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: The chapter is titled 'Disorders of sexual development in ____'.",
+   "opts": [
+    "46XY",
+    "46XX",
+    "45XO",
+    "47XXY"
+   ],
+   "ans": 1,
+   "exp": "The heading on page 160 is 'Disorders of sexual development in 46XX'."
+  },
+  {
+   "id": "ch30-u1-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "tf",
+   "q": "True/False: In the 46XX DSD tree, ovotestes is filed under 'abnormal development of gonads'.",
+   "opts": [
+    "False",
+    "False - it is filed under ambiguous genitalia",
+    "False - it is filed under placental aromatase deficiency",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Ovotestes is the first entry under abnormal development of gonads."
+  },
+  {
+   "id": "ch30-u1-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a branch printed under 'ambiguous genitalia' in the 46XX tree?",
+   "opts": [
+    "Raised maternal androgens",
+    "Androgen secreting tumour",
+    "Turner's syndrome",
+    "Placental aromatase deficiency"
+   ],
+   "ans": 2,
+   "exp": "Turner's syndrome sits under abnormal development of gonads; the three others are under ambiguous genitalia."
+  },
+  {
+   "id": "ch30-u1-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "recall",
+   "q": "A 46XX DSD classification lists 'a. Turner's syndrome' with the sub-line '45 XO (m/c) → streak ovary'. Which additional karyotype is printed under the mosaic arm?",
+   "opts": [
+    "47XXY with dysgenetic testes",
+    "46XY with dysgenetic testes",
+    "46XX with streak ovaries",
+    "45XO with streak ovaries"
+   ],
+   "ans": 1,
+   "exp": "The mosaic entry prints 45XO → streak ovaries and 46XY → dysgenetic testes."
+  },
+  {
+   "id": "ch30-u1-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "match",
+   "q": "Match the Turner's karyotype with the gonad printed beside it - 1) 45XO (m/c) 2) Mosaic 45XO 3) Mosaic 46XY ... A) Streak ovaries B) Dysgenetic testes C) Streak ovary",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "45XO (m/c) → streak ovary; mosaic 45XO → streak ovaries; mosaic 46XY → dysgenetic testes."
+  },
+  {
+   "id": "ch30-u1-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Under raised maternal androgens, the three sources printed are:",
+   "opts": [
+    "Androgen secreting tumour, luteoma and androgenic drugs",
+    "Androgen secreting tumour, luteoma and placental aromatase deficiency",
+    "Luteoma, androgenic drugs and Turner mosaic",
+    "Androgenic drugs, theca lutein cysts and luteoma"
+   ],
+   "ans": 0,
+   "exp": "Raised maternal androgens lists androgen secreting tumour, luteoma, and androgenic drugs."
+  },
+  {
+   "id": "ch30-u1-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which tumour of pregnancy is named as a maternal source of androgens causing 46XX DSD?",
+   "opts": [
+    "Theca lutein cyst",
+    "Luteoma",
+    "Hydatidiform mole",
+    "Choriocarcinoma"
+   ],
+   "ans": 1,
+   "exp": "Luteoma of pregnancy is listed as an androgen-secreting tumour under raised maternal androgens."
+  },
+  {
+   "id": "ch30-u1-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: The third item under ambiguous genitalia in the 46XX tree is placental ____ deficiency.",
+   "opts": [
+    "aromatase",
+    "21-alpha hydroxylase",
+    "5-alpha reductase",
+    "17,20 lyase"
+   ],
+   "ans": 0,
+   "exp": "Placental aromatase deficiency is the third item under ambiguous genitalia."
+  },
+  {
+   "id": "ch30-u1-q11",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "scenario",
+   "q": "Scenario: A pregnant woman with no history of drug intake delivers a virilised 46XX infant. Imaging shows no maternal tumour. Which listed mechanism best explains the virilisation?",
+   "opts": [
+    "Maternal luteoma",
+    "Androgenic drug ingestion",
+    "Placental aromatase deficiency",
+    "Turner mosaic with dysgenetic testis"
+   ],
+   "ans": 2,
+   "exp": "With no tumour and no drugs, the remaining printed cause is placental aromatase deficiency."
+  },
+  {
+   "id": "ch30-u1-q12",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "recall",
+   "q": "In placental aromatase deficiency, the arrow printed is 'aromatase ↓ → estrogen ↓'. What else is marked as raised?",
+   "opts": [
+    "Maternal cortisol",
+    "Maternal aldosterone",
+    "Fetal 17-OH progesterone",
+    "Maternal androgen"
+   ],
+   "ans": 3,
+   "exp": "The block prints 'aromatase ↓ → estrogen ↓' together with '↑ maternal androgen'."
+  },
+  {
+   "id": "ch30-u1-q13",
+   "sec": "Classification of 46XX DSD",
+   "unit": "The 46XX DSD Classification Tree",
+   "page": 160,
+   "fmt": "tf",
+   "q": "Which statement about the printed 46XX DSD tree is correct?",
+   "opts": [
+    "Turner's syndrome appears under ambiguous genitalia",
+    "Placental aromatase deficiency appears under gonadal causes",
+    "Luteoma appears under abnormal development of gonads",
+    "Turner's syndrome appears under gonadal causes, not under ambiguous genitalia"
+   ],
+   "ans": 3,
+   "exp": "Only the first statement matches the printed tree."
+  },
+  {
+   "id": "ch30-u2-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Basics and Old Terminology",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: Ovotestes carries the old term ____ hermaphrodite.",
+   "opts": [
+    "female pseudo",
+    "true",
+    "male pseudo",
+    "gonadal dysgenesis"
+   ],
+   "ans": 1,
+   "exp": "The page prints 'Old term: True hermaphrodite'."
+  },
+  {
+   "id": "ch30-u2-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Basics and Old Terminology",
+   "page": 160,
+   "fmt": "recall",
+   "q": "The karyotype frequency in ovotestes is printed as:",
+   "opts": [
+    "46XX more than 46XY",
+    "46XY more than 46XX",
+    "45XO most common",
+    "46XX and 46XY equally"
+   ],
+   "ans": 0,
+   "exp": "Karyotype: 46XX > 46XY."
+  },
+  {
+   "id": "ch30-u2-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Basics and Old Terminology",
+   "page": 160,
+   "fmt": "scenario",
+   "q": "A child with ovotesticular DSD is karyotyped. Which result would the printed order make the MORE likely finding?",
+   "opts": [
+    "46XY",
+    "45XO/46XY mosaic",
+    "46XX",
+    "47XXY"
+   ],
+   "ans": 2,
+   "exp": "Because 46XX exceeds 46XY in ovotestes."
+  },
+  {
+   "id": "ch30-u2-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Basics and Old Terminology",
+   "page": 160,
+   "fmt": "odd",
+   "q": "Odd one out - which term is NOT a printed synonym or label for ovotestes?",
+   "opts": [
+    "True hermaphrodite",
+    "Turner mosaic",
+    "Ovotesticular DSD",
+    "Ovary plus testicular tissue"
+   ],
+   "ans": 1,
+   "exp": "True hermaphrodite is the old term; Turner mosaic belongs to the Turner branch, not ovotestes."
+  },
+  {
+   "id": "ch30-u2-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Basics and Old Terminology",
+   "page": 160,
+   "fmt": "tf",
+   "q": "True/False: In ovotestes, 46XY is more common than 46XX.",
+   "opts": [
+    "True",
+    "True - 46XY accounts for over 80%",
+    "False",
+    "True - they are equal in the printed text"
+   ],
+   "ans": 2,
+   "exp": "The printed order is 46XX > 46XY, so 46XY is not more common."
+  },
+  {
+   "id": "ch30-u2-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Basics and Old Terminology",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which of the following best states why the old label 'true hermaphrodite' was used for ovotestes?",
+   "opts": [
+    "The karyotype is always 46XX",
+    "The external genitalia are always female",
+    "Both Mullerian and Wolffian ducts persist in every case",
+    "Both ovarian and testicular tissue are present in the same individual"
+   ],
+   "ans": 3,
+   "exp": "The term reflects the presence of both ovarian and testicular tissue."
+  },
+  {
+   "id": "ch30-u3-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "recall",
+   "q": "The MOST common pattern of gonadal distribution in ovotestes is:",
+   "opts": [
+    "One ovary and one testis, one on each side",
+    "Ovarian plus testicular tissue on both sides",
+    "Bilateral ovaries with a unilateral testis",
+    "A single gonad containing only testicular tissue"
+   ],
+   "ans": 0,
+   "exp": "Pattern (a): 1 ovary + 1 testis on each side - marked most common."
+  },
+  {
+   "id": "ch30-u3-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "recall",
+   "q": "The LEAST common pattern printed for ovotestes is:",
+   "opts": [
+    "One ovary and one testis on each side",
+    "Ovarian and testicular tissue on both sides",
+    "Bilateral testes with a unilateral ovary",
+    "Unilateral ovotestis with a streak gonad"
+   ],
+   "ans": 1,
+   "exp": "Pattern (b) - ovarian + testicular tissue on both sides - is marked L/c (least common)."
+  },
+  {
+   "id": "ch30-u3-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: The internal genitalia in ovotestes show both ____ and ____ internal genitalia.",
+   "opts": [
+    "Mullerian; Wolffian remnants",
+    "streak; dysgenetic",
+    "infantile; hypoplastic",
+    "male; female"
+   ],
+   "ans": 3,
+   "exp": "'Internal genitalia: Both male + female internal genitalia.'"
+  },
+  {
+   "id": "ch30-u3-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "recall",
+   "q": "On the side of the ovary, the internal genitalia are:",
+   "opts": [
+    "Female",
+    "Male",
+    "Absent",
+    "Mixed male and female"
+   ],
+   "ans": 0,
+   "exp": "'On the side of ovary → Female internal genitalia.'"
+  },
+  {
+   "id": "ch30-u3-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "recall",
+   "q": "On the side of the testis, the internal genitalia are:",
+   "opts": [
+    "Female",
+    "Absent",
+    "Male",
+    "Streak"
+   ],
+   "ans": 2,
+   "exp": "'On the side of testes → male internal genitalia.'"
+  },
+  {
+   "id": "ch30-u3-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "match",
+   "q": "Match the gonadal side with the internal genital duct derivative - 1) Side of ovary 2) Side of testis ... A) Male internal genitalia B) Female internal genitalia",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Ovary side gives female internal genitalia; testis side gives male internal genitalia."
+  },
+  {
+   "id": "ch30-u3-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "scenario",
+   "q": "A surgeon removes a left ovary and finds a Fallopian tube and hemi-uterus on that side. According to the printed rule this is because:",
+   "opts": [
+    "The internal genitalia follow the gonad on that side",
+    "AMH from the contralateral testis failed",
+    "The Wolffian duct regressed bilaterally",
+    "Placental aromatase was deficient"
+   ],
+   "ans": 0,
+   "exp": "The rule printed is that internal genitalia correspond to the gonad on the same side."
+  },
+  {
+   "id": "ch30-u3-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "tf",
+   "q": "True/False: In ovotestes the internal genitalia are uniformly female regardless of which gonad is present.",
+   "opts": [
+    "True",
+    "True - unless a testis is palpable",
+    "True - because AMH is always absent",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "Both male and female internal genitalia occur, following the gonad on each side."
+  },
+  {
+   "id": "ch30-u3-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - Pattern and Internal Genitalia",
+   "page": 160,
+   "fmt": "odd",
+   "q": "Odd one out - which finding does NOT follow the printed 'side of the gonad' rule?",
+   "opts": [
+    "Fallopian tube on the side of the ovary",
+    "Vas deferens on the side of the testis",
+    "Bilateral Fallopian tubes with a testis on each side",
+    "Hemi-uterus on the side of the ovary"
+   ],
+   "ans": 2,
+   "exp": "Bilateral tubes with bilateral testes contradicts the rule; the other three follow it."
+  },
+  {
+   "id": "ch30-u4-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "recall",
+   "q": "The external genitalia in ovotestes are described as ambiguous AND resembling:",
+   "opts": [
+    "Male external genitalia",
+    "Female external genitalia",
+    "Normal infantile female genitalia",
+    "A completely normal male phallus"
+   ],
+   "ans": 0,
+   "exp": "'Ambiguous resembling male external genitalia d/t testosterone from adrenals.'"
+  },
+  {
+   "id": "ch30-u4-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: The ambiguous male-like external genitalia in ovotestes are attributed to testosterone from the ____.",
+   "opts": [
+    "testis",
+    "ovary",
+    "placenta",
+    "adrenals"
+   ],
+   "ans": 3,
+   "exp": "Printed: 'd/t testosterone from adrenals'."
+  },
+  {
+   "id": "ch30-u4-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "recall",
+   "q": "At birth, a child with ovotestes is MOST commonly presumed to be:",
+   "opts": [
+    "Female",
+    "Male",
+    "Indeterminate with no presumption",
+    "Female if the karyotype is 46XX"
+   ],
+   "ans": 1,
+   "exp": "'m/c presumed as male at birth'."
+  },
+  {
+   "id": "ch30-u4-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "numeric",
+   "q": "What fraction of ovotesticular cases show gynaecomastia?",
+   "opts": [
+    "One-quarter or less",
+    "Exactly half",
+    "Three-quarters or more",
+    "All cases"
+   ],
+   "ans": 2,
+   "exp": "Printed: '>= 3/4th cases: Gynaecomastia (+) (d/t estrogen)'."
+  },
+  {
+   "id": "ch30-u4-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Gynaecomastia in ovotestes is attributed to:",
+   "opts": [
+    "Estrogen",
+    "Testosterone from the adrenals",
+    "Prolactin",
+    "Androstenedione"
+   ],
+   "ans": 0,
+   "exp": "The bracketed cause is '(d/t estrogen)'."
+  },
+  {
+   "id": "ch30-u4-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "numeric",
+   "q": "What fraction of ovotesticular patients menstruate at puberty?",
+   "opts": [
+    "Three-quarters",
+    "One-half",
+    "None",
+    "One-quarter"
+   ],
+   "ans": 3,
+   "exp": "'At puberty: 1/4th cases: menstruation (+)'."
+  },
+  {
+   "id": "ch30-u4-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "match",
+   "q": "Match the pubertal event in ovotestes with its printed frequency - 1) Gynaecomastia 2) Menstruation ... A) 1/4th cases B) >= 3/4th cases",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Gynaecomastia in >= 3/4th; menstruation in 1/4th."
+  },
+  {
+   "id": "ch30-u4-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "scenario",
+   "q": "Scenario: A 15-year-old reared male presents with breast enlargement and cyclical bleeding per urethra. Karyotype 46XX. Which ovotesticular statistic pair fits?",
+   "opts": [
+    "Gynaecomastia is rare; menstruation occurs in most",
+    "Both occur in over three-quarters",
+    "Gynaecomastia is expected in most; menstruation occurs in a minority",
+    "Both occur in under one-quarter"
+   ],
+   "ans": 2,
+   "exp": "Gynaecomastia >= 3/4th and menstruation 1/4th - common first, uncommon second."
+  },
+  {
+   "id": "ch30-u4-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "tf",
+   "q": "True/False: The external genitalia in ovotestes are virilised because of testosterone produced by the testicular tissue itself.",
+   "opts": [
+    "True",
+    "False",
+    "True - the testis is the only source named",
+    "True - adrenal androgen is explicitly excluded"
+   ],
+   "ans": 1,
+   "exp": "The page attributes the virilisation to testosterone from the adrenals."
+  },
+  {
+   "id": "ch30-u4-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Ovotestes - External Genitalia and Puberty",
+   "page": 160,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed pubertal feature of ovotestes?",
+   "opts": [
+    "Gynaecomastia",
+    "Menstruation in a quarter",
+    "Breast enlargement due to estrogen",
+    "Deepening of voice"
+   ],
+   "ans": 3,
+   "exp": "Voice deepening is a 5-alpha reductase deficiency page feature, not printed here."
+  },
+  {
+   "id": "ch30-u5-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: Pathophysiology of CAH is introduced as the ____ cause of DSD in 46XX.",
+   "opts": [
+    "most common",
+    "least common",
+    "second most common",
+    "rarest"
+   ],
+   "ans": 0,
+   "exp": "'m/c cause of DSD in 46XX'."
+  },
+  {
+   "id": "ch30-u5-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "What genital outcome does CAH produce in the 46XX fetus?",
+   "opts": [
+    "Ambiguous genitalia in males only",
+    "Normal female genitalia",
+    "Ambiguous genitalia in females",
+    "Complete masculinisation"
+   ],
+   "ans": 2,
+   "exp": "'Ambiguous genitalia in females'."
+  },
+  {
+   "id": "ch30-u5-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which trophic hormone drives the adrenal cortex in the printed physiology diagram?",
+   "opts": [
+    "LH",
+    "FSH",
+    "ACTH",
+    "hCG"
+   ],
+   "ans": 2,
+   "exp": "ACTH is shown acting on the adrenal gland at the top of the diagram."
+  },
+  {
+   "id": "ch30-u5-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: The adrenal steroidogenic precursor printed at the head of both pathways is ____.",
+   "opts": [
+    "pregnenolone",
+    "progesterone",
+    "DHEA",
+    "cortisol"
+   ],
+   "ans": 0,
+   "exp": "Pregnenolone is the parent steroid in the diagram."
+  },
+  {
+   "id": "ch30-u5-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which enzyme converts pregnenolone to progesterone?",
+   "opts": [
+    "17-alpha hydroxylase",
+    "3-beta HSD",
+    "21-alpha hydroxylase",
+    "11-beta hydroxylase"
+   ],
+   "ans": 1,
+   "exp": "3-beta HSD is printed on the pregnenolone-to-progesterone arrow."
+  },
+  {
+   "id": "ch30-u5-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which enzyme converts pregnenolone to 17-OH pregnenolone?",
+   "opts": [
+    "17,20 lyase",
+    "3-beta HSD",
+    "21-alpha hydroxylase",
+    "17-alpha hydroxylase"
+   ],
+   "ans": 3,
+   "exp": "17-alpha hydroxylase acts on pregnenolone to give 17-OH pregnenolone."
+  },
+  {
+   "id": "ch30-u5-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: 17-OH pregnenolone is converted to DHEA by ____.",
+   "opts": [
+    "21-alpha hydroxylase",
+    "11-beta hydroxylase",
+    "aromatase",
+    "17,20 lyase"
+   ],
+   "ans": 3,
+   "exp": "The 17,20 lyase step generates DHEA."
+  },
+  {
+   "id": "ch30-u5-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "DHEA is converted to androstenedione by which enzyme?",
+   "opts": [
+    "3-beta HSD",
+    "17-beta HSD",
+    "aromatase",
+    "17,20 lyase"
+   ],
+   "ans": 0,
+   "exp": "The side box prints 'DHEA --3beta HSD--> Androstenedione'."
+  },
+  {
+   "id": "ch30-u5-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which androgen is labelled the 'stronger androgen' in the printed summary?",
+   "opts": [
+    "Androstenedione",
+    "DHEA",
+    "Testosterone",
+    "Androsterone"
+   ],
+   "ans": 2,
+   "exp": "'DHEA → Androstenedione → Testosterone (Stronger androgen)'."
+  },
+  {
+   "id": "ch30-u5-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "In females, the printed fate of testosterone is conversion by aromatase into:",
+   "opts": [
+    "DHT",
+    "Estrogen",
+    "Androstenedione",
+    "Cortisol"
+   ],
+   "ans": 1,
+   "exp": "'In females aromatase → Estrogen'."
+  },
+  {
+   "id": "ch30-u5-q11",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which two adrenal end-products carry the printed phrase 'negative feedback on ACTH'?",
+   "opts": [
+    "Cortisol and testosterone",
+    "Aldosterone and cortisol",
+    "Aldosterone and DHEA",
+    "Cortisol and androstenedione"
+   ],
+   "ans": 1,
+   "exp": "Both aldosterone and cortisol branches show negative feedback on ACTH."
+  },
+  {
+   "id": "ch30-u5-q12",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "match",
+   "q": "Match the mineralocorticoid pathway - 1) Progesterone to deoxycorticosterone 2) Deoxycorticosterone to corticosterone 3) Corticosterone to aldosterone ... A) 11-beta hydroxylase B) aldosterone synthase C) 21-alpha hydroxylase",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "21-alpha hydroxylase, then 11-beta hydroxylase, then aldosterone synthase."
+  },
+  {
+   "id": "ch30-u5-q13",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "match",
+   "q": "Match the glucocorticoid pathway - 1) 17-OH progesterone to 11-deoxycortisol 2) 11-deoxycortisol to cortisol ... A) 11-beta hydroxylase B) 21-alpha hydroxylase",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 2,
+   "exp": "21-alpha hydroxylase then 11-beta hydroxylase."
+  },
+  {
+   "id": "ch30-u5-q14",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which pair of enzymes is printed as the adrenal gland's list on the sex-steroid side?",
+   "opts": [
+    "21-alpha hydroxylase and 11-beta hydroxylase",
+    "3-beta HSD and aromatase",
+    "17-beta HSD and 5-alpha reductase",
+    "17-alpha hydroxylase and 17,20 lyase"
+   ],
+   "ans": 3,
+   "exp": "The right-hand list prints 1. 17-alpha hydroxylase, 2. 17,20 lyase."
+  },
+  {
+   "id": "ch30-u5-q15",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which triplet of enzymes is printed on the adrenal gland's corticosteroid side?",
+   "opts": [
+    "17-alpha hydroxylase, 17,20 lyase and aromatase",
+    "21-alpha hydroxylase, 11-beta hydroxylase and 3-beta HSD",
+    "21-alpha hydroxylase, 17-alpha hydroxylase and 5-alpha reductase",
+    "11-beta hydroxylase, aromatase and 17-beta HSD"
+   ],
+   "ans": 1,
+   "exp": "The left-hand list prints 1. 21-alpha hydroxylase, 2. 11-beta hydroxylase, 3. 3-beta HSD."
+  },
+  {
+   "id": "ch30-u5-q16",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: Two distinct estrogen products are printed as estradiol and ____ from aromatase action.",
+   "opts": [
+    "estriol",
+    "estetrol",
+    "ethinylestradiol",
+    "estrone"
+   ],
+   "ans": 3,
+   "exp": "The diagram prints 'Estrogen (E2)' and 'Estrogen (E1)'."
+  },
+  {
+   "id": "ch30-u5-q17",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "scenario",
+   "q": "Scenario: A block is placed at 3-beta HSD. Which three adrenal products all fall together?",
+   "opts": [
+    "Aldosterone, cortisol and testosterone",
+    "Cortisol, DHEA and estrogen",
+    "Aldosterone, 11-deoxycortisol and DHEA",
+    "Corticosterone, estrone and androstenedione"
+   ],
+   "ans": 0,
+   "exp": "3-beta HSD sits before the mineralocorticoid, glucocorticoid and androgen arms, so all three end-products drop."
+  },
+  {
+   "id": "ch30-u5-q18",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "tf",
+   "q": "True/False: In the printed diagram, aromatase acts on androstenedione and testosterone to give estrogens.",
+   "opts": [
+    "False",
+    "False - aromatase only acts on testosterone",
+    "True",
+    "False - aromatase converts DHEA to androstenedione"
+   ],
+   "ans": 2,
+   "exp": "Aromatase arrows are shown from both androstenedione and testosterone to estrogen."
+  },
+  {
+   "id": "ch30-u5-q19",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Pathophysiology of CAH - Entry and Adrenal Map",
+   "page": 160,
+   "fmt": "odd",
+   "q": "Odd one out - which enzyme is NOT part of the printed adrenal steroidogenic map?",
+   "opts": [
+    "21-alpha hydroxylase",
+    "17,20 lyase",
+    "11-beta hydroxylase",
+    "5-alpha reductase"
+   ],
+   "ans": 3,
+   "exp": "5-alpha reductase is a peripheral conversion enzyme, not in this adrenal map."
+  },
+  {
+   "id": "ch30-u6-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "fillup",
+   "q": "Fill up: Hyponatraemia in CAH is listed under the consequences of deficient ____.",
+   "opts": [
+    "cortisol",
+    "aldosterone",
+    "androgen",
+    "estrogen"
+   ],
+   "ans": 1,
+   "exp": "Hyponatraemia is grouped under 'D/t ↓ aldosterone'."
+  },
+  {
+   "id": "ch30-u6-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which electrolyte rises in CAH because aldosterone is deficient?",
+   "opts": [
+    "Potassium",
+    "Sodium",
+    "Calcium",
+    "Chloride"
+   ],
+   "ans": 0,
+   "exp": "Hyperkalaemia is listed under decreased aldosterone."
+  },
+  {
+   "id": "ch30-u6-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "recall",
+   "q": "The phrase 'salt water wasting' is printed with which accompanying descriptor?",
+   "opts": [
+    "Oedema",
+    "Hypertension",
+    "Dehydration",
+    "Polyuria"
+   ],
+   "ans": 2,
+   "exp": "'Salt water wasting (dehydration)'."
+  },
+  {
+   "id": "ch30-u6-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which acid-base disturbance is listed under aldosterone deficiency in CAH?",
+   "opts": [
+    "Metabolic alkalosis",
+    "Metabolic acidosis",
+    "Respiratory acidosis",
+    "Respiratory alkalosis"
+   ],
+   "ans": 1,
+   "exp": "Metabolic acidosis is printed in the aldosterone-deficiency group."
+  },
+  {
+   "id": "ch30-u6-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Hypoglycaemia in CAH is a consequence of deficient:",
+   "opts": [
+    "Cortisol",
+    "Aldosterone",
+    "Androgen",
+    "Estrogen"
+   ],
+   "ans": 0,
+   "exp": "Hypoglycaemia is grouped under 'D/t ↓ cortisol'."
+  },
+  {
+   "id": "ch30-u6-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "match",
+   "q": "Match the metabolic derangement with its deficient hormone - 1) Hypoglycaemia 2) Hyperkalaemia 3) Metabolic acidosis ... A) Aldosterone B) Cortisol",
+   "opts": [
+    "1-A, 2-B, 3-A",
+    "1-B, 2-A, 3-B",
+    "1-A, 2-A, 3-B",
+    "1-B, 2-A, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Cortisol deficiency gives hypoglycaemia; aldosterone deficiency gives hyperkalaemia and metabolic acidosis."
+  },
+  {
+   "id": "ch30-u6-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "odd",
+   "q": "Odd one out - which feature belongs to cortisol deficiency rather than aldosterone deficiency?",
+   "opts": [
+    "Hypotension",
+    "Salt water wasting",
+    "Hypoglycaemia",
+    "Hyperkalaemia"
+   ],
+   "ans": 2,
+   "exp": "Hypoglycaemia is the sole cortisol-deficiency item; the other three are aldosterone-deficiency items."
+  },
+  {
+   "id": "ch30-u6-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "fillup",
+   "q": "Fill up: Loss of negative feedback in CAH raises ACTH, which in turn raises androgens and ____.",
+   "opts": [
+    "17-OH progesterone",
+    "aldosterone",
+    "cortisol",
+    "DHEA sulfate only"
+   ],
+   "ans": 0,
+   "exp": "'D/t loss of negative feedback: ↑ ACTH → ↑ Androgens, 17-OH progesterone ↑'."
+  },
+  {
+   "id": "ch30-u6-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "recall",
+   "q": "As a consequence of raised androgens, the female fetus shows and the male fetus shows:",
+   "opts": [
+    "Normal external genitalia; ambiguous genitalia",
+    "Ambiguous genitalia; ambiguous genitalia",
+    "Normal external genitalia; normal external genitalia",
+    "Ambiguous genitalia; normal external genitalia"
+   ],
+   "ans": 3,
+   "exp": "Females: ambiguous genitalia. Males: normal external genitalia."
+  },
+  {
+   "id": "ch30-u6-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "tf",
+   "q": "True/False: The newborn male with CAH has ambiguous genitalia according to this page.",
+   "opts": [
+    "True",
+    "True - both sexes are virilised",
+    "False",
+    "True - males are undervirilised"
+   ],
+   "ans": 2,
+   "exp": "Males have normal external genitalia; only females are ambiguous."
+  },
+  {
+   "id": "ch30-u6-q11",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "scenario",
+   "q": "Scenario: A 2-week-old 46XX infant presents with vomiting, dehydration, hyperkalaemia and ambiguous genitalia. Which mechanism explains BOTH the electrolyte and the genital findings?",
+   "opts": [
+    "Cortisol excess suppressing ACTH",
+    "Aldosterone deficiency plus loss of negative feedback raising androgens",
+    "Aromatase deficiency in the placenta",
+    "Androgen insensitivity at the receptor"
+   ],
+   "ans": 1,
+   "exp": "One mechanism (enzyme block) produces aldosterone deficiency and, via lost feedback, androgen excess."
+  },
+  {
+   "id": "ch30-u6-q12",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Clinical Features of CAH",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which of the four listed aldosterone-deficiency features is printed with a bracketed explanation?",
+   "opts": [
+    "Hyponatraemia",
+    "Salt water wasting",
+    "Hypotension",
+    "Hyperkalaemia"
+   ],
+   "ans": 1,
+   "exp": "Only 'salt water wasting' carries the bracket '(dehydration)'."
+  },
+  {
+   "id": "ch30-u7-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "fillup",
+   "q": "Fill up: The screening test for CAH is serum ____.",
+   "opts": [
+    "cortisol",
+    "ACTH",
+    "17-OH progesterone",
+    "androstenedione"
+   ],
+   "ans": 2,
+   "exp": "'1. Screening test: 17-OH progesterone'."
+  },
+  {
+   "id": "ch30-u7-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "recall",
+   "q": "A screening 17-OH progesterone below 200 ng means:",
+   "opts": [
+    "Confirm CAH",
+    "Proceed to ACTH stimulation test",
+    "Repeat after one month",
+    "Rule out CAH"
+   ],
+   "ans": 3,
+   "exp": "'<200 ng → Rule out CAH'."
+  },
+  {
+   "id": "ch30-u7-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "recall",
+   "q": "A screening value at or above 800 ng means:",
+   "opts": [
+    "Confirm CAH",
+    "Rule out CAH",
+    "Perform an ACTH stimulation test",
+    "Treat the mother with dexamethasone"
+   ],
+   "ans": 0,
+   "exp": "'>= 800 ng → Confirm CAH'."
+  },
+  {
+   "id": "ch30-u7-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which screening band mandates the ACTH stimulation test?",
+   "opts": [
+    "Below 200 ng",
+    "Above 800 ng",
+    "200 to 800 ng",
+    "Above 1000 ng"
+   ],
+   "ans": 2,
+   "exp": "'200-800 ng → Diagnostic test: ACTH stimulation test'."
+  },
+  {
+   "id": "ch30-u7-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "fillup",
+   "q": "Fill up: The diagnostic test named for the intermediate 17-OH progesterone band is the ____ test.",
+   "opts": [
+    "dexamethasone suppression",
+    "ACTH stimulation",
+    "cosyntropin suppression",
+    "cortisol suppression"
+   ],
+   "ans": 1,
+   "exp": "ACTH stimulation test is printed as the diagnostic test."
+  },
+  {
+   "id": "ch30-u7-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "match",
+   "q": "Match the 17-OH progesterone value with the action - 1) <200 ng 2) 200-800 ng 3) >=800 ng ... A) ACTH stimulation test B) Rule out CAH C) Confirm CAH",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Below 200 rules out; 200-800 needs stimulation; 800 and above confirms."
+  },
+  {
+   "id": "ch30-u7-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "scenario",
+   "q": "Scenario: A neonate with ambiguous genitalia has a screening 17-OH progesterone of 540 ng/dL. What is the correct next step per the printed algorithm?",
+   "opts": [
+    "ACTH stimulation test",
+    "Discharge and rule out CAH",
+    "Start dexamethasone and confirm CAH",
+    "Immediate karyotyping before any test"
+   ],
+   "ans": 0,
+   "exp": "540 falls in the 200-800 band, which routes to the ACTH stimulation test."
+  },
+  {
+   "id": "ch30-u7-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "tf",
+   "q": "True/False: Treatment must wait for karyotyping before it is started.",
+   "opts": [
+    "True",
+    "True - karyotype is mandatory first",
+    "False",
+    "True - treatment starts only after the ACTH test"
+   ],
+   "ans": 2,
+   "exp": "Printed: 'Treatment started without waiting for karyotyping results, based on physical examination findings'."
+  },
+  {
+   "id": "ch30-u7-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which physical-examination finding makes ambiguous genitalia a medical emergency here?",
+   "opts": [
+    "Palpable gonads",
+    "Clitoromegaly alone",
+    "Labioscrotal fusion alone",
+    "No palpable gonads"
+   ],
+   "ans": 3,
+   "exp": "'Ambiguous genitalia + No palpable gonads → Treated as medical emergency'."
+  },
+  {
+   "id": "ch30-u7-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "fillup",
+   "q": "Fill up: The drug of choice for the emergency management of CAH is ____.",
+   "opts": [
+    "glucocorticoids",
+    "mineralocorticoids alone",
+    "antihypertensives",
+    "intravenous dextrose alone"
+   ],
+   "ans": 0,
+   "exp": "'1. DOC: Glucocorticoids'."
+  },
+  {
+   "id": "ch30-u7-q11",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "recall",
+   "q": "The second drug class in the emergency list is:",
+   "opts": [
+    "Beta blockers",
+    "Mineralocorticoids",
+    "Loop diuretics",
+    "Androgen blockers"
+   ],
+   "ans": 1,
+   "exp": "'2. Mineralocorticoids'."
+  },
+  {
+   "id": "ch30-u7-q12",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "recall",
+   "q": "The fourth step in emergency management is:",
+   "opts": [
+    "Immediate clitoral reduction",
+    "Bilateral gonadectomy",
+    "Correction surgery for clitoromegaly later",
+    "Vaginoplasty before discharge"
+   ],
+   "ans": 2,
+   "exp": "'4. Correction surgery for clitoromegaly later'."
+  },
+  {
+   "id": "ch30-u7-q13",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "match",
+   "q": "Match the emergency steps with their order - 1) First 2) Second 3) Third 4) Fourth ... A) Mineralocorticoids B) Correct electrolyte imbalance C) Glucocorticoids D) Surgery for clitoromegaly later",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "The printed order is glucocorticoids, mineralocorticoids, correct electrolytes, later surgery."
+  },
+  {
+   "id": "ch30-u7-q14",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which four investigations are listed under 'send for investigation later'?",
+   "opts": [
+    "17-OH progesterone, cortisol, ACTH and MRI",
+    "17-OH progesterone, serum electrolytes, glucose and karyotyping/FISH",
+    "Serum electrolytes, glucose, LH and FSH",
+    "Karyotyping, TSH, prolactin and ultrasound"
+   ],
+   "ans": 1,
+   "exp": "The deferred list is 17-OH progesterone, serum electrolytes, glucose, karyotyping/FISH."
+  },
+  {
+   "id": "ch30-u7-q15",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT in the deferred investigation list?",
+   "opts": [
+    "17-OH progesterone",
+    "Serum electrolytes",
+    "Karyotyping / FISH",
+    "ACTH stimulation test"
+   ],
+   "ans": 3,
+   "exp": "ACTH stimulation is the diagnostic test in the earlier algorithm, not in the deferred list."
+  },
+  {
+   "id": "ch30-u7-q16",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Screening, Diagnosis and Acute Management",
+   "page": 161,
+   "fmt": "scenario",
+   "q": "Scenario: A neonate with ambiguous genitalia and impalpable gonads is brought in dehydrated with hyperkalaemia. Which step must precede the reconstructive surgery?",
+   "opts": [
+    "Immediate vaginoplasty",
+    "Gonadectomy",
+    "Correct the electrolyte imbalance",
+    "Dexamethasone suppression test"
+   ],
+   "ans": 2,
+   "exp": "Surgery for clitoromegaly is listed later; correction of electrolytes is step 3."
+  },
+  {
+   "id": "ch30-u8-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "fillup",
+   "q": "Fill up: The drug of choice named for antenatal suppression is the glucocorticoid ____.",
+   "opts": [
+    "dexamethasone",
+    "prednisolone",
+    "hydrocortisone",
+    "betamethasone alone"
+   ],
+   "ans": 0,
+   "exp": "'DOC: Glucocorticoids - Dexamethasone'."
+  },
+  {
+   "id": "ch30-u8-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "numeric",
+   "q": "Antenatal dexamethasone is started at which gestational age?",
+   "opts": [
+    "10 to 11 weeks",
+    "4 to 5 weeks",
+    "14 to 16 weeks",
+    "After 20 weeks"
+   ],
+   "ans": 1,
+   "exp": "'Started at 4-5 wks of pregnancy'."
+  },
+  {
+   "id": "ch30-u8-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "numeric",
+   "q": "The maximum delay permitted for starting antenatal dexamethasone is:",
+   "opts": [
+    "5 weeks",
+    "11 weeks",
+    "14 weeks",
+    "9 weeks"
+   ],
+   "ans": 3,
+   "exp": "The bracketed note prints '(maximum delay 9 wks)'."
+  },
+  {
+   "id": "ch30-u8-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "fillup",
+   "q": "Fill up: Chorionic villus sampling for sex determination and gene testing is performed at ____ weeks.",
+   "opts": [
+    "4 to 5",
+    "9",
+    "10 to 11",
+    "14 to 16"
+   ],
+   "ans": 2,
+   "exp": "CVS is printed at 10-11 weeks."
+  },
+  {
+   "id": "ch30-u8-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "recall",
+   "q": "The indication printed at the head of the antenatal algorithm is:",
+   "opts": [
+    "A previous child with AIS",
+    "A previous child with CAH",
+    "Maternal luteoma in this pregnancy",
+    "A previous child with ovotestes"
+   ],
+   "ans": 1,
+   "exp": "The flow begins with 'Previous child with CAH'."
+  },
+  {
+   "id": "ch30-u8-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "recall",
+   "q": "If CVS shows a male fetus, the printed instruction is to:",
+   "opts": [
+    "Discontinue dexamethasone",
+    "Continue dexamethasone to term",
+    "Halve the dose",
+    "Switch to mineralocorticoids"
+   ],
+   "ans": 0,
+   "exp": "'male fetus / unaffected female fetus → Discontinue dexamethasone'."
+  },
+  {
+   "id": "ch30-u8-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "recall",
+   "q": "If CVS shows an affected female fetus, dexamethasone is:",
+   "opts": [
+    "Stopped",
+    "Replaced by spironolactone",
+    "Given only in the third trimester",
+    "Continued"
+   ],
+   "ans": 3,
+   "exp": "'Affected female fetus → Continue dexamethasone'."
+  },
+  {
+   "id": "ch30-u8-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "match",
+   "q": "Match the CVS result with the instruction - 1) Male fetus 2) Unaffected female fetus 3) Affected female fetus ... A) Continue dexamethasone B) Discontinue dexamethasone",
+   "opts": [
+    "1-B, 2-B, 3-A",
+    "1-A, 2-B, 3-A",
+    "1-B, 2-A, 3-B",
+    "1-A, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Only the affected female fetus continues; male and unaffected female stop."
+  },
+  {
+   "id": "ch30-u8-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "tf",
+   "q": "True/False: The note on this page describes CAH as an X-linked recessive disorder.",
+   "opts": [
+    "False",
+    "False - it is described as autosomal dominant",
+    "True",
+    "False - no inheritance is stated"
+   ],
+   "ans": 2,
+   "exp": "Printed verbatim: 'Note: CAH: X-linked recessive disorder' (a source quirk - CAH is autosomal recessive in reality)."
+  },
+  {
+   "id": "ch30-u8-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "scenario",
+   "q": "Scenario: A woman whose first child had CAH presents at 6 weeks of gestation. What is the correct printed plan?",
+   "opts": [
+    "Wait until 10 weeks to start dexamethasone",
+    "Start dexamethasone now and perform CVS at 10-11 weeks",
+    "Perform CVS first and start dexamethasone only if the fetus is female",
+    "Start dexamethasone only after amniocentesis at 16 weeks"
+   ],
+   "ans": 1,
+   "exp": "Start at 4-5 weeks (6 is within the 9-week maximum delay) and test by CVS at 10-11 weeks."
+  },
+  {
+   "id": "ch30-u8-q11",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Prenatal Dexamethasone and Chorionic Villus Sampling",
+   "page": 162,
+   "fmt": "odd",
+   "q": "Odd one out - which does NOT appear in the antenatal dexamethasone page?",
+   "opts": [
+    "Chorionic villus sampling",
+    "Sex determination",
+    "Gene testing",
+    "Amniocentesis at 16 weeks"
+   ],
+   "ans": 3,
+   "exp": "Amniocentesis is not printed; CVS is the sampling method named."
+  },
+  {
+   "id": "ch30-u9-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "recall",
+   "q": "Which enzyme deficiency block opens with the phrase 'Leads to DSD in XY individuals'?",
+   "opts": [
+    "3-beta HSD deficiency",
+    "21-alpha hydroxylase deficiency",
+    "17-alpha hydroxylase / 17,20 lyase deficiency",
+    "P450 oxidoreductase deficiency"
+   ],
+   "ans": 2,
+   "exp": "The 17-alpha hydroxylase / 17,20 lyase block carries that line."
+  },
+  {
+   "id": "ch30-u9-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "fillup",
+   "q": "Fill up: In 17-alpha hydroxylase / 17,20 lyase deficiency the three steroids marked as decreased are DHEA, androstenedione and ____.",
+   "opts": [
+    "testosterone",
+    "cortisol",
+    "aldosterone",
+    "DHT"
+   ],
+   "ans": 0,
+   "exp": "The arrows read ↓DHEA, ↓Androstenedione, ↓Testosterone."
+  },
+  {
+   "id": "ch30-u9-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "recall",
+   "q": "In 17-alpha hydroxylase / 17,20 lyase deficiency, the female fetus has:",
+   "opts": [
+    "Ambiguous genitalia",
+    "Virilised genitalia",
+    "Absent genitalia",
+    "Normal external genitalia"
+   ],
+   "ans": 3,
+   "exp": "Female fetus: normal external genitalia; male fetus: ambiguous genitalia."
+  },
+  {
+   "id": "ch30-u9-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "recall",
+   "q": "In 17-alpha hydroxylase / 17,20 lyase deficiency, the male fetus has ambiguous genitalia because of:",
+   "opts": [
+    "Increased DHEA",
+    "Decreased testosterone",
+    "Increased aldosterone",
+    "Increased cortisol"
+   ],
+   "ans": 1,
+   "exp": "'male fetus: D/t ↓ Testosterone'."
+  },
+  {
+   "id": "ch30-u9-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "fillup",
+   "q": "Fill up: In 3-beta HSD deficiency the weak androgen that accumulates is ____.",
+   "opts": [
+    "testosterone",
+    "androstenedione",
+    "DHEA",
+    "DHT"
+   ],
+   "ans": 2,
+   "exp": "Printed: '↑ DHEA (weak androgen)'."
+  },
+  {
+   "id": "ch30-u9-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "recall",
+   "q": "In 3-beta HSD deficiency, ambiguous genitalia occur in:",
+   "opts": [
+    "Males only",
+    "Females only",
+    "Neither sex",
+    "Both males and females"
+   ],
+   "ans": 3,
+   "exp": "The block prints 'Ambiguous genitalia - males + females'."
+  },
+  {
+   "id": "ch30-u9-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "recall",
+   "q": "In 3-beta HSD deficiency, virilisation of the female fetus is attributed to:",
+   "opts": [
+    "Raised testosterone",
+    "Raised DHEA",
+    "Raised aldosterone",
+    "Raised cortisol"
+   ],
+   "ans": 1,
+   "exp": "'Female fetus: D/t ↑ DHEA'."
+  },
+  {
+   "id": "ch30-u9-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "recall",
+   "q": "Which two steroids are printed as deficient in 3-beta HSD deficiency?",
+   "opts": [
+    "Aldosterone and cortisol",
+    "Cortisol and testosterone only",
+    "Aldosterone and DHEA",
+    "Testosterone and androstenedione"
+   ],
+   "ans": 0,
+   "exp": "The block marks ↓Aldosterone and ↓Cortisol, alongside ↑DHEA and ↓Testosterone."
+  },
+  {
+   "id": "ch30-u9-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "match",
+   "q": "Match the fetal genital outcome to the mechanism - 1) 3-beta HSD deficiency, female fetus 2) 3-beta HSD deficiency, male fetus 3) 17-alpha hydroxylase deficiency, female fetus ... A) D/t decreased testosterone B) Normal external genitalia C) D/t increased DHEA",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "3-beta HSD: female virilised by DHEA, male undervirilised by low testosterone; 17-alpha hydroxylase: female normal."
+  },
+  {
+   "id": "ch30-u9-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 163,
+   "fmt": "recall",
+   "q": "Which deficiency is described as a 'newly diagnosed form of CAH'?",
+   "opts": [
+    "21-alpha hydroxylase deficiency",
+    "3-beta HSD deficiency",
+    "17,20 lyase deficiency",
+    "P450 oxidoreductase deficiency"
+   ],
+   "ans": 3,
+   "exp": "P450 OR deficiency is introduced as a newly diagnosed form of CAH."
+  },
+  {
+   "id": "ch30-u9-q11",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 163,
+   "fmt": "fillup",
+   "q": "Fill up: P450 is described as an electron ____ for many enzymes.",
+   "opts": [
+    "donor",
+    "acceptor",
+    "carrier protein",
+    "sink"
+   ],
+   "ans": 0,
+   "exp": "'P450: Electron donor for many enzymes'."
+  },
+  {
+   "id": "ch30-u9-q12",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 163,
+   "fmt": "recall",
+   "q": "The skeletal syndrome printed with P450 oxidoreductase deficiency is:",
+   "opts": [
+    "Marfan syndrome",
+    "Apert syndrome",
+    "Antley-Bixler syndrome",
+    "Crouzon syndrome"
+   ],
+   "ans": 2,
+   "exp": "Antley-Bixler syndrome is named beside P450 OR deficiency."
+  },
+  {
+   "id": "ch30-u9-q13",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 163,
+   "fmt": "recall",
+   "q": "The example of skeletal abnormality printed under Antley-Bixler syndrome is:",
+   "opts": [
+    "Scoliosis",
+    "Hemivertebra",
+    "Achondroplasia",
+    "Craniosynostosis"
+   ],
+   "ans": 3,
+   "exp": "'Skeletal abnormalities (Eg: craniosynostosis)'."
+  },
+  {
+   "id": "ch30-u9-q14",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 163,
+   "fmt": "tf",
+   "q": "True/False: P450 oxidoreductase deficiency produces ambiguous genitalia in females only.",
+   "opts": [
+    "True",
+    "False",
+    "True - it spares the male fetus entirely",
+    "True - it causes no genital ambiguity at all"
+   ],
+   "ans": 1,
+   "exp": "It is filed under 'male + females' in the summary."
+  },
+  {
+   "id": "ch30-u9-q15",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 163,
+   "fmt": "scenario",
+   "q": "Scenario: A newborn has ambiguous genitalia and craniosynostosis. Which enzyme block links both findings?",
+   "opts": [
+    "P450 oxidoreductase deficiency",
+    "21-alpha hydroxylase deficiency",
+    "17-alpha hydroxylase deficiency",
+    "5-alpha reductase deficiency"
+   ],
+   "ans": 0,
+   "exp": "P450 OR deficiency is the block printed with Antley-Bixler skeletal abnormalities."
+  },
+  {
+   "id": "ch30-u9-q16",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Other Enzyme Deficiencies Causing DSD",
+   "page": 162,
+   "fmt": "odd",
+   "q": "Odd one out - which enzyme block is NOT printed with a fetal-sex genital table on this page?",
+   "opts": [
+    "17-alpha hydroxylase / 17,20 lyase deficiency",
+    "3-beta HSD deficiency",
+    "21-alpha hydroxylase deficiency",
+    "P450 oxidoreductase deficiency"
+   ],
+   "ans": 2,
+   "exp": "The 21-alpha hydroxylase fetal table is on the CAH page; the 'other causes' page covers the other three."
+  },
+  {
+   "id": "ch30-u10-q1",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "fillup",
+   "q": "Fill up: In the summary table, the most common enzyme causing ambiguous genitalia is ____ hydroxylase.",
+   "opts": [
+    "11-beta",
+    "21-alpha",
+    "17-alpha",
+    "3-beta HSD"
+   ],
+   "ans": 1,
+   "exp": "21-alpha hydroxylase is marked (m/c)."
+  },
+  {
+   "id": "ch30-u10-q2",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "recall",
+   "q": "The two enzyme defects filed under 'female only' ambiguous genitalia are:",
+   "opts": [
+    "17-alpha hydroxylase and 17,20 lyase",
+    "3-beta HSD and P450 OR",
+    "21-alpha hydroxylase and 11-beta hydroxylase",
+    "21-alpha hydroxylase and 3-beta HSD"
+   ],
+   "ans": 2,
+   "exp": "The female-only column lists 21-alpha hydroxylase (m/c) and 11-beta hydroxylase."
+  },
+  {
+   "id": "ch30-u10-q3",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "recall",
+   "q": "The two defects filed under 'male only' are:",
+   "opts": [
+    "3-beta HSD and P450 OR",
+    "21-alpha hydroxylase and 11-beta hydroxylase",
+    "11-beta hydroxylase and 17,20 lyase",
+    "17-alpha hydroxylase and 17,20 lyase"
+   ],
+   "ans": 3,
+   "exp": "The male-only column lists 17-alpha hydroxylase and 17,20 lyase."
+  },
+  {
+   "id": "ch30-u10-q4",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "recall",
+   "q": "The two defects filed under 'male + females' are:",
+   "opts": [
+    "3-beta HSD and P450 oxidoreductase",
+    "21-alpha hydroxylase and 11-beta hydroxylase",
+    "17-alpha hydroxylase and 17,20 lyase",
+    "21-alpha hydroxylase and P450 OR"
+   ],
+   "ans": 0,
+   "exp": "The combined column lists 3-beta HSD and P450 OR."
+  },
+  {
+   "id": "ch30-u10-q5",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "match",
+   "q": "Match each defect with its summary column - 1) 11-beta hydroxylase 2) 17,20 lyase 3) P450 OR ... A) Male + females B) Female only C) Male only",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 2,
+   "exp": "11-beta is female only; 17,20 lyase is male only; P450 OR affects both."
+  },
+  {
+   "id": "ch30-u10-q6",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "tf",
+   "q": "True/False: 21-alpha hydroxylase deficiency appears in the summary under ambiguous genitalia in males only.",
+   "opts": [
+    "False",
+    "True",
+    "True - it spares the female fetus",
+    "True - it is listed under male + females"
+   ],
+   "ans": 0,
+   "exp": "It heads the female-only column and is marked most common."
+  },
+  {
+   "id": "ch30-u10-q7",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "recall",
+   "q": "Which single word marks 21-alpha hydroxylase in the summary?",
+   "opts": [
+    "L/c (least common)",
+    "m/c (most common)",
+    "Rare",
+    "Newly diagnosed"
+   ],
+   "ans": 1,
+   "exp": "Printed as '21-alpha hydroxylase (m/c)'."
+  },
+  {
+   "id": "ch30-u10-q8",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "odd",
+   "q": "Odd one out - which defect is NOT filed under 'female only'?",
+   "opts": [
+    "21-alpha hydroxylase deficiency",
+    "11-beta hydroxylase deficiency",
+    "Both 21-alpha and 11-beta hydroxylase deficiency",
+    "17-alpha hydroxylase deficiency"
+   ],
+   "ans": 3,
+   "exp": "17-alpha hydroxylase is in the male-only column."
+  },
+  {
+   "id": "ch30-u10-q9",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "scenario",
+   "q": "Scenario: A 46XX newborn has ambiguous genitalia and a salt-wasting crisis. Which defect best fits the 'female only, most common' entry?",
+   "opts": [
+    "11-beta hydroxylase deficiency",
+    "17-alpha hydroxylase deficiency",
+    "3-beta HSD deficiency",
+    "21-alpha hydroxylase deficiency"
+   ],
+   "ans": 3,
+   "exp": "21-alpha hydroxylase is the female-only most common defect and matches the CAH salt-wasting picture earlier in the chapter."
+  },
+  {
+   "id": "ch30-u10-q10",
+   "sec": "Classification of 46XX DSD",
+   "unit": "Summary of Ambiguous Genitalia by Enzyme Defect",
+   "page": 163,
+   "fmt": "recall",
+   "q": "Which summary heading covers enzyme defects that virilise the female fetus while undervirilising the male fetus?",
+   "opts": [
+    "Female only",
+    "Male + females",
+    "Male only",
+    "Neither sex"
+   ],
+   "ans": 1,
+   "exp": "3-beta HSD and P450 OR are grouped under 'male + females'."
+  },
+  {
+   "id": "ch30-u11-q1",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: In the 46XX tree, Turner's syndrome is the ____ numbered entry under abnormal development of gonads.",
+   "opts": [
+    "first",
+    "third",
+    "second",
+    "only"
+   ],
+   "ans": 2,
+   "exp": "Ovotestes is 1 and Turner's syndrome is 2."
+  },
+  {
+   "id": "ch30-u11-q2",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which two sub-lines are printed beneath Turner's syndrome in the tree?",
+   "opts": [
+    "45XO (m/c) giving streak ovary, and a mosaic arm",
+    "45XO giving dysgenetic testis, and a 47XXY arm",
+    "46XY giving streak ovaries, and a 45XO arm",
+    "46XX giving streak ovaries only"
+   ],
+   "ans": 0,
+   "exp": "The tree prints 45XO (m/c) → streak ovary plus the mosaic sub-branch."
+  },
+  {
+   "id": "ch30-u11-q3",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "fillup",
+   "q": "Fill up: In the mosaic arm, 45XO gives streak ovaries while 46XY gives ____ testes.",
+   "opts": [
+    "streak",
+    "dysgenetic",
+    "normal",
+    "undescended"
+   ],
+   "ans": 1,
+   "exp": "Printed: '46XY: dysgenetic testes'."
+  },
+  {
+   "id": "ch30-u11-q4",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "recall",
+   "q": "In the 46XX ambiguous-genitalia arm, which item is numbered 'a'?",
+   "opts": [
+    "Raised maternal androgens",
+    "Placental aromatase deficiency",
+    "Ovotestes",
+    "Turner's syndrome"
+   ],
+   "ans": 0,
+   "exp": "'a. ↑ maternal androgens' heads the ambiguous-genitalia arm."
+  },
+  {
+   "id": "ch30-u11-q5",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT printed as a source of raised maternal androgens?",
+   "opts": [
+    "Androgen secreting tumour",
+    "Luteoma",
+    "Androgenic drugs",
+    "Placental aromatase deficiency"
+   ],
+   "ans": 3,
+   "exp": "Placental aromatase deficiency is a separate numbered item, not a maternal androgen source."
+  },
+  {
+   "id": "ch30-u11-q6",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which karyotype is printed as MOST common in the Turner's branch of the 46XX tree?",
+   "opts": [
+    "46XY",
+    "45XO/46XX",
+    "45XO",
+    "47XXX"
+   ],
+   "ans": 2,
+   "exp": "'45 XO (m/c)'."
+  },
+  {
+   "id": "ch30-u11-q7",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "tf",
+   "q": "True/False: The 46XX chapter lists androgen insensitivity syndrome among its causes.",
+   "opts": [
+    "True",
+    "True - it is listed under ambiguous genitalia",
+    "False",
+    "True - it is the second gonadal cause"
+   ],
+   "ans": 2,
+   "exp": "AIS belongs to the 46XY chapter; the 46XX tree lists ovotestes, Turner's, maternal androgens and aromatase deficiency."
+  },
+  {
+   "id": "ch30-u11-q8",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "scenario",
+   "q": "Scenario: A virilised 46XX newborn's mother took danazol in early pregnancy. Which printed item covers this?",
+   "opts": [
+    "Luteoma",
+    "Androgen secreting tumour",
+    "Placental aromatase deficiency",
+    "Androgenic drugs"
+   ],
+   "ans": 3,
+   "exp": "Androgenic drugs is one of the three listed maternal androgen sources."
+  },
+  {
+   "id": "ch30-u11-q9",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "match",
+   "q": "Match each ovotesticular feature with its descriptor - 1) Old term 2) Karyotype order 3) Commonest pattern 4) Side of testis ... A) 46XX > 46XY B) Ovary on one side, testis on the other C) True hermaphrodite D) Male internal genitalia",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Old term true hermaphrodite; 46XX > 46XY; one ovary and one testis on each side; testis side gives male internal genitalia."
+  },
+  {
+   "id": "ch30-u11-q10",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Ovotestes and Classification - Second Pass",
+   "page": 160,
+   "fmt": "recall",
+   "q": "Which single pubertal feature is explicitly bracketed as being due to estrogen?",
+   "opts": [
+    "Menstruation",
+    "Gynaecomastia",
+    "Virilisation",
+    "Pubic hair growth"
+   ],
+   "ans": 1,
+   "exp": "'Gynaecomastia (+) (d/t estrogen)'."
+  },
+  {
+   "id": "ch30-u12-q1",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 161,
+   "fmt": "fillup",
+   "q": "Fill up: The diagram's topmost regulator, ACTH, is shown acting on the ____.",
+   "opts": [
+    "ovary",
+    "placenta",
+    "hypothalamus",
+    "adrenal gland"
+   ],
+   "ans": 3,
+   "exp": "ACTH is drawn pointing at the adrenal gland."
+  },
+  {
+   "id": "ch30-u12-q2",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 161,
+   "fmt": "recall",
+   "q": "In the printed diagram, 17-OH progesterone is the substrate for which enzyme on the cortisol route?",
+   "opts": [
+    "21-alpha hydroxylase",
+    "11-beta hydroxylase",
+    "17,20 lyase",
+    "3-beta HSD"
+   ],
+   "ans": 0,
+   "exp": "17-OH progesterone → 11-deoxycortisol via 21-alpha hydroxylase."
+  },
+  {
+   "id": "ch30-u12-q3",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 161,
+   "fmt": "fillup",
+   "q": "Fill up: 11-deoxycortisol is converted to cortisol by ____ hydroxylase.",
+   "opts": [
+    "21-alpha",
+    "17-alpha",
+    "11-beta",
+    "3-beta"
+   ],
+   "ans": 2,
+   "exp": "The final glucocorticoid step is 11-beta hydroxylase."
+  },
+  {
+   "id": "ch30-u12-q4",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which enzyme is printed on the progesterone-to-deoxycorticosterone arrow?",
+   "opts": [
+    "11-beta hydroxylase",
+    "21-alpha hydroxylase",
+    "3-beta HSD",
+    "17-alpha hydroxylase"
+   ],
+   "ans": 1,
+   "exp": "21-alpha hydroxylase converts progesterone to deoxycorticosterone."
+  },
+  {
+   "id": "ch30-u12-q5",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 162,
+   "fmt": "tf",
+   "q": "True/False: According to the printed map, DHEA is a weaker androgen than testosterone.",
+   "opts": [
+    "True",
+    "False",
+    "False - DHEA is described as the stronger androgen",
+    "False - potency is not compared"
+   ],
+   "ans": 0,
+   "exp": "DHEA is labelled a weak androgen and testosterone the stronger androgen."
+  },
+  {
+   "id": "ch30-u12-q6",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 161,
+   "fmt": "recall",
+   "q": "Which estrogen label is printed on the aromatase arrow from androstenedione rather than from testosterone?",
+   "opts": [
+    "E2 (estradiol)",
+    "E3 (estriol)",
+    "E4 (estetrol)",
+    "E1 (estrone)"
+   ],
+   "ans": 3,
+   "exp": "Androstenedione aromatises to E1; testosterone aromatises to E2."
+  },
+  {
+   "id": "ch30-u12-q7",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 161,
+   "fmt": "odd",
+   "q": "Odd one out - which steroid is NOT an end-product of the printed adrenal map?",
+   "opts": [
+    "Aldosterone",
+    "Cortisol",
+    "DHT",
+    "Estrogen"
+   ],
+   "ans": 2,
+   "exp": "DHT requires peripheral 5-alpha reductase and is not in this adrenal map."
+  },
+  {
+   "id": "ch30-u12-q8",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 162,
+   "fmt": "scenario",
+   "q": "Scenario: A 46XX neonate has ambiguous genitalia, hyponatraemia, hyperkalaemia and hypoglycaemia. Which single enzyme block explains all of these?",
+   "opts": [
+    "17-alpha hydroxylase deficiency",
+    "3-beta HSD deficiency",
+    "21-alpha hydroxylase deficiency",
+    "Aromatase deficiency"
+   ],
+   "ans": 1,
+   "exp": "3-beta HSD deficiency lowers aldosterone (hyponatraemia, hyperkalaemia), lowers cortisol (hypoglycaemia) and virilises the female fetus via DHEA."
+  },
+  {
+   "id": "ch30-u12-q9",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 163,
+   "fmt": "recall",
+   "q": "Which of the five named enzyme blocks is marked as most common?",
+   "opts": [
+    "11-beta hydroxylase deficiency",
+    "3-beta HSD deficiency",
+    "21-alpha hydroxylase deficiency",
+    "P450 oxidoreductase deficiency"
+   ],
+   "ans": 2,
+   "exp": "21-alpha hydroxylase carries the (m/c) tag in the summary."
+  },
+  {
+   "id": "ch30-u12-q10",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 163,
+   "fmt": "fillup",
+   "q": "Fill up: The summary table's three column heads are female only, male only and male ____ females.",
+   "opts": [
+    "plus",
+    "versus",
+    "or",
+    "but not"
+   ],
+   "ans": 0,
+   "exp": "The third column is headed 'male + females'."
+  },
+  {
+   "id": "ch30-u12-q11",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 162,
+   "fmt": "match",
+   "q": "Match the 17-OH progesterone band with its interpretation - 1) Less than 200 ng 2) 200 to 800 ng 3) 800 ng or more ... A) Confirm CAH B) ACTH stimulation test C) Rule out CAH",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Below 200 rules out; the middle band goes to stimulation testing; 800 and above confirms."
+  },
+  {
+   "id": "ch30-u12-q12",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 162,
+   "fmt": "recall",
+   "q": "Which drug class is named second in the emergency list, after glucocorticoids?",
+   "opts": [
+    "Androgen blockers",
+    "Mineralocorticoids",
+    "Vasopressors",
+    "Aromatase inhibitors"
+   ],
+   "ans": 1,
+   "exp": "Step 2 is mineralocorticoids."
+  },
+  {
+   "id": "ch30-u12-q13",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 162,
+   "fmt": "recall",
+   "q": "Why is the neonate with ambiguous genitalia and impalpable gonads labelled a medical emergency?",
+   "opts": [
+    "They have an intra-abdominal testis at high malignant risk",
+    "They need immediate vaginoplasty",
+    "They require urgent karyotyping before feeds",
+    "They are presumed to have CAH with a salt-wasting crisis"
+   ],
+   "ans": 3,
+   "exp": "The gonads-not-palpable arm routes to CAH and emergency glucocorticoid and mineralocorticoid replacement."
+  },
+  {
+   "id": "ch30-u12-q14",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 163,
+   "fmt": "fillup",
+   "q": "Fill up: Antenatal dexamethasone is continued only when CVS shows an affected ____ fetus.",
+   "opts": [
+    "male",
+    "mosaic",
+    "female",
+    "unaffected"
+   ],
+   "ans": 2,
+   "exp": "'Affected female fetus → Continue dexamethasone'."
+  },
+  {
+   "id": "ch30-u12-q15",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 163,
+   "fmt": "numeric",
+   "q": "Which sampling window makes CVS usable before the maximum dexamethasone delay lapses?",
+   "opts": [
+    "10 to 11 weeks, just after the 9-week maximum delay",
+    "4 to 5 weeks, before dexamethasone starts",
+    "16 to 18 weeks by amniocentesis",
+    "20 weeks by fetal blood sampling"
+   ],
+   "ans": 0,
+   "exp": "Dexamethasone must start by 9 weeks and CVS is done at 10-11 weeks."
+  },
+  {
+   "id": "ch30-u12-q16",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 163,
+   "fmt": "tf",
+   "q": "True/False: 3-beta HSD deficiency causes ambiguous genitalia exclusively in 46XX fetuses.",
+   "opts": [
+    "True",
+    "False",
+    "True - it is filed under female only",
+    "True - males are always normal"
+   ],
+   "ans": 1,
+   "exp": "It is filed under 'male + females'."
+  },
+  {
+   "id": "ch30-u12-q17",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 163,
+   "fmt": "odd",
+   "q": "Odd one out - which enzyme block is paired with a named skeletal syndrome?",
+   "opts": [
+    "17-alpha hydroxylase deficiency",
+    "P450 oxidoreductase deficiency",
+    "3-beta HSD deficiency",
+    "21-alpha hydroxylase deficiency"
+   ],
+   "ans": 1,
+   "exp": "Only P450 OR deficiency is printed with Antley-Bixler syndrome."
+  },
+  {
+   "id": "ch30-u12-q18",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 163,
+   "fmt": "scenario",
+   "q": "Scenario: A 46XY newborn has ambiguous genitalia; the 46XX sibling is entirely normal. Which defect fits the printed 'male only' column?",
+   "opts": [
+    "21-alpha hydroxylase deficiency",
+    "3-beta HSD deficiency",
+    "17-alpha hydroxylase or 17,20 lyase deficiency",
+    "P450 oxidoreductase deficiency"
+   ],
+   "ans": 2,
+   "exp": "The male-only column lists 17-alpha hydroxylase and 17,20 lyase deficiency."
+  },
+  {
+   "id": "ch30-u12-q19",
+   "sec": "Complete Coverage: 46XX DSD",
+   "unit": "Adrenal Map and CAH - Second Pass",
+   "page": 162,
+   "fmt": "recall",
+   "q": "Which enzyme block explicitly prints the phrase 'Leads to DSD in XY individuals'?",
+   "opts": [
+    "3-beta HSD deficiency",
+    "P450 oxidoreductase deficiency",
+    "11-beta hydroxylase deficiency",
+    "17-alpha hydroxylase / 17,20 lyase deficiency"
+   ],
+   "ans": 3,
+   "exp": "That sentence heads the 17-alpha hydroxylase / 17,20 lyase block."
+  }
+ ]
+}

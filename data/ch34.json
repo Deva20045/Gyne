@@ -1,0 +1,2053 @@
+{
+ "chapter": 34,
+ "questions": [
+  {
+   "id": "ch34-u1-q1",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Definition and Route of Spread",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: PID is defined as infection of the ____ female genital tract.",
+   "opts": [
+    "lower",
+    "entire",
+    "external",
+    "upper"
+   ],
+   "ans": 3,
+   "exp": "Page 184: 'Definition: Infection of upper female genital tract'."
+  },
+  {
+   "id": "ch34-u1-q2",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Definition and Route of Spread",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which three anatomical sites are listed as being included in PID?",
+   "opts": [
+    "Cervicitis, vaginitis and endometritis",
+    "Salpingitis, oophoritis and bartholinitis",
+    "Endometritis, salpingitis and oophoritis",
+    "Endometritis, cervicitis and peritonitis"
+   ],
+   "ans": 2,
+   "exp": "'Includes: Endometritis (uterus), Salpingitis (Fallopian tubes), Oophoritis (Ovaries)'."
+  },
+  {
+   "id": "ch34-u1-q3",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Definition and Route of Spread",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: The most common route of spread is an ascending infection travelling along with ____.",
+   "opts": [
+    "sperms",
+    "menstrual blood",
+    "lymphatics",
+    "instruments"
+   ],
+   "ans": 0,
+   "exp": "'m/c route of spread: Ascending infection along with sperms (STDs)'."
+  },
+  {
+   "id": "ch34-u1-q4",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Definition and Route of Spread",
+   "page": 184,
+   "fmt": "recall",
+   "q": "PID is most commonly seen in:",
+   "opts": [
+    "Postmenopausal women",
+    "Sexually active females aged 15 to 35 years",
+    "Prepubertal girls",
+    "Pregnant women in the third trimester"
+   ],
+   "ans": 1,
+   "exp": "'m/c seen in: Sexually active females (15-35 yrs)'."
+  },
+  {
+   "id": "ch34-u1-q5",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Definition and Route of Spread",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: PID is described as a ____ infection.",
+   "opts": [
+    "polymicrobial",
+    "monomicrobial",
+    "viral",
+    "fungal"
+   ],
+   "ans": 0,
+   "exp": "'PID: Polymicrobial infection'."
+  },
+  {
+   "id": "ch34-u1-q6",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Definition and Route of Spread",
+   "page": 184,
+   "fmt": "tf",
+   "q": "True/False: PID is an infection confined to the lower genital tract.",
+   "opts": [
+    "True",
+    "True - it begins in the vagina",
+    "True - the cervix is the upper limit",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "It is defined as infection of the upper female genital tract."
+  },
+  {
+   "id": "ch34-u1-q7",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Definition and Route of Spread",
+   "page": 184,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT one of the three components printed under 'includes'?",
+   "opts": [
+    "Endometritis",
+    "Salpingitis",
+    "Cervicitis",
+    "Oophoritis"
+   ],
+   "ans": 2,
+   "exp": "Cervicitis has its own chapter; PID includes endometritis, salpingitis and oophoritis."
+  },
+  {
+   "id": "ch34-u2-q1",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: Insertion of a copper T within ____ weeks is a risk factor.",
+   "opts": [
+    "6",
+    "3",
+    "12",
+    "1"
+   ],
+   "ans": 1,
+   "exp": "'CuT insertion (< 3 weeks)'."
+  },
+  {
+   "id": "ch34-u2-q2",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which four obstetric or procedural risk factors are printed?",
+   "opts": [
+    "Post abortion, caesarean section, nulliparity and endometriosis",
+    "Post abortion, post partum, history of instrumentation and previous history of PID",
+    "Post partum, lactation, sterilisation and fibroid",
+    "Instrumentation, laparoscopy, hysteroscopy and curettage"
+   ],
+   "ans": 1,
+   "exp": "The risk factor list prints 'multiple risk factors', post abortion, post partum, H/o instrumentation, previous H/o PID and CuT insertion."
+  },
+  {
+   "id": "ch34-u2-q3",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which two protective factors are printed?",
+   "opts": [
+    "Oral contraceptive pills and depot medroxyprogesterone",
+    "Tubal ligation and abstinence",
+    "Copper T and spermicides",
+    "Barrier contraceptives and MIRENA"
+   ],
+   "ans": 3,
+   "exp": "'Protective in PID: Barrier contraceptives (Condoms), MIRENA'."
+  },
+  {
+   "id": "ch34-u2-q4",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: Infection can spread to the abdomen causing peritonitis and ____.",
+   "opts": [
+    "appendicitis",
+    "cholecystitis",
+    "perihepatitis",
+    "splenic abscess"
+   ],
+   "ans": 2,
+   "exp": "'Infection can spread to abdomen: 1. Peritonitis, 2. Perihepatitis'."
+  },
+  {
+   "id": "ch34-u2-q5",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which intrauterine device is printed as protective?",
+   "opts": [
+    "MIRENA",
+    "Copper T",
+    "Multiload 375",
+    "Lippes loop"
+   ],
+   "ans": 0,
+   "exp": "MIRENA appears under the protective list."
+  },
+  {
+   "id": "ch34-u2-q6",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "match",
+   "q": "Match the factor with its category - 1) Condoms 2) CuT insertion within 3 weeks 3) Post partum state 4) MIRENA ... A) Risk factor B) Protective",
+   "opts": [
+    "1-B, 2-A, 3-A, 4-B",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-B, 2-B, 3-A, 4-A",
+    "1-A, 2-A, 3-B, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Condoms and MIRENA protect; recent CuT insertion and the post partum state increase risk."
+  },
+  {
+   "id": "ch34-u2-q7",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "scenario",
+   "q": "Scenario: A woman had a copper T inserted 10 days ago and now has lower abdominal pain and fever. Which printed risk factor applies?",
+   "opts": [
+    "Previous history of PID",
+    "Post partum state",
+    "CuT insertion within 3 weeks",
+    "Barrier contraceptive failure"
+   ],
+   "ans": 2,
+   "exp": "Insertion within 3 weeks is explicitly listed as a risk factor."
+  },
+  {
+   "id": "ch34-u2-q8",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "tf",
+   "q": "True/False: The copper T is listed as protective against PID.",
+   "opts": [
+    "True",
+    "False",
+    "True - after 3 weeks it becomes protective",
+    "True - it is protective in the MIRENA form"
+   ],
+   "ans": 1,
+   "exp": "Recent CuT insertion is a risk factor; MIRENA is the protective device."
+  },
+  {
+   "id": "ch34-u2-q9",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Risk Factors and Protective Factors",
+   "page": 184,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed risk factor for PID?",
+   "opts": [
+    "Post abortion",
+    "History of instrumentation",
+    "Previous history of PID",
+    "Barrier contraceptive use"
+   ],
+   "ans": 3,
+   "exp": "Barrier contraceptives are protective, not a risk factor."
+  },
+  {
+   "id": "ch34-u3-q1",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: The first step in the printed pathogenesis is ____ of the uterus.",
+   "opts": [
+    "salpingitis",
+    "oophoritis",
+    "peritonitis",
+    "endometritis"
+   ],
+   "ans": 3,
+   "exp": "'Pathogenesis: 1. Uterus: Endometritis'."
+  },
+  {
+   "id": "ch34-u3-q2",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which three symptoms are printed alongside endometritis?",
+   "opts": [
+    "Post-coital bleeding, dyspareunia and fever",
+    "Menstrual abnormalities, dysmenorrhoea and lower abdominal pain",
+    "Vaginal discharge, pruritus and dysuria",
+    "Infertility, amenorrhoea and weight loss"
+   ],
+   "ans": 1,
+   "exp": "The uterus block lists menstrual abnormalities, dysmenorrhoea, lower abdominal pain and endometrial biopsy."
+  },
+  {
+   "id": "ch34-u3-q3",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which investigation is printed in the endometritis block?",
+   "opts": [
+    "Hysteroscopy",
+    "Dilatation and curettage",
+    "Endometrial biopsy",
+    "Pipelle sampling"
+   ],
+   "ans": 2,
+   "exp": "'Endometrial biopsy' is listed in the uterus block."
+  },
+  {
+   "id": "ch34-u3-q4",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "recall",
+   "q": "How are the fallopian tubes described in salpingitis?",
+   "opts": [
+    "Thick, congested, hyperaemic and swollen",
+    "Thin, fibrotic and calcified",
+    "Normal in calibre with adhesions",
+    "Dilated with thin walls"
+   ],
+   "ans": 0,
+   "exp": "'Thick, congested, hyperemic, swollen tubes'."
+  },
+  {
+   "id": "ch34-u3-q5",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: Inflammation of the tubal lining is called ____.",
+   "opts": [
+    "perisalpingitis",
+    "mesosalpingitis",
+    "hydrosalpinx",
+    "endosalpingitis"
+   ],
+   "ans": 3,
+   "exp": "'Endosalpingitis'."
+  },
+  {
+   "id": "ch34-u3-q6",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which two late tubal outcomes are printed under the tubes heading?",
+   "opts": [
+    "Haematosalpinx and tubal torsion",
+    "Salpingitis isthmica nodosa and diverticula",
+    "Pyosalpinx and hydrosalpinx",
+    "Tubal carcinoma and adenofibroma"
+   ],
+   "ans": 2,
+   "exp": "'Pyosalpinx' and 'Hydrosalpinx'."
+  },
+  {
+   "id": "ch34-u3-q7",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: The third step in the pathogenesis is ____ of the ovaries.",
+   "opts": [
+    "salpingo-oophoritis",
+    "oophoritis",
+    "oophoropexy",
+    "ovarian abscess only"
+   ],
+   "ans": 1,
+   "exp": "'3. Oophoritis'."
+  },
+  {
+   "id": "ch34-u3-q8",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "recall",
+   "q": "The fourth step is:",
+   "opts": [
+    "Peritonitis and pelvic abscess",
+    "Perihepatitis alone",
+    "Tubo-ovarian mass alone",
+    "Fitz-Hugh-Curtis syndrome alone"
+   ],
+   "ans": 0,
+   "exp": "'4. Peritonitis + pelvic abscess'."
+  },
+  {
+   "id": "ch34-u3-q9",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "recall",
+   "q": "In women of reproductive age, which two organisms are most commonly implicated and in what order?",
+   "opts": [
+    "Gonorrhoea more than chlamydia",
+    "E. coli more than chlamydia",
+    "Actinomyces more than gonorrhoea",
+    "Chlamydia more than gonorrhoea"
+   ],
+   "ans": 3,
+   "exp": "'Reproductive age: Chlamydia > Gonorrhea'."
+  },
+  {
+   "id": "ch34-u3-q10",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: In virgins, PID is caused by genital ____ spreading by the haematogenous route.",
+   "opts": [
+    "chlamydia",
+    "tuberculosis",
+    "gonorrhoea",
+    "actinomycosis"
+   ],
+   "ans": 1,
+   "exp": "'Virgins: Genital TB (Hematogenous)'."
+  },
+  {
+   "id": "ch34-u3-q11",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which organism is named for menopausal females?",
+   "opts": [
+    "Chlamydia",
+    "Actinomyces",
+    "E. coli",
+    "Gonorrhoea"
+   ],
+   "ans": 2,
+   "exp": "'menopausal females: E. coli'."
+  },
+  {
+   "id": "ch34-u3-q12",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: In copper IUD users, the organism named is ____.",
+   "opts": [
+    "Actinomyces",
+    "Gardnerella",
+    "Mobiluncus",
+    "Mycoplasma"
+   ],
+   "ans": 0,
+   "exp": "'Cu-IUD users: Actinomyces'."
+  },
+  {
+   "id": "ch34-u3-q13",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "match",
+   "q": "Match each population with its organism - 1) Reproductive age 2) Virgins 3) Menopausal females 4) Cu-IUD users ... A) Actinomyces B) Chlamydia more than gonorrhoea C) E. coli D) Genital TB",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Reproductive age is chlamydia then gonorrhoea; virgins have haematogenous TB; menopausal women have E. coli; Cu-IUD users have Actinomyces."
+  },
+  {
+   "id": "ch34-u3-q14",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "scenario",
+   "q": "Scenario: A 58-year-old woman presents with a tubo-ovarian abscess. Which organism does the printed list favour?",
+   "opts": [
+    "Chlamydia trachomatis",
+    "E. coli",
+    "Neisseria gonorrhoeae",
+    "Actinomyces israelii"
+   ],
+   "ans": 1,
+   "exp": "Menopausal females are listed with E. coli."
+  },
+  {
+   "id": "ch34-u3-q15",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "tf",
+   "q": "True/False: In virgins, PID is most often due to ascending chlamydial infection.",
+   "opts": [
+    "True",
+    "True - virgins have the highest chlamydia rate",
+    "True - with gonorrhoea",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "In virgins the printed cause is genital tuberculosis by the haematogenous route."
+  },
+  {
+   "id": "ch34-u3-q16",
+   "sec": "Definition, Spread and Risk Factors",
+   "unit": "Pathogenesis and Organisms",
+   "page": 184,
+   "fmt": "odd",
+   "q": "Odd one out - which organism is NOT in the printed 'most common PID' list?",
+   "opts": [
+    "Chlamydia",
+    "Gonorrhoea",
+    "Gardnerella vaginalis",
+    "Actinomyces"
+   ],
+   "ans": 2,
+   "exp": "Gardnerella causes bacterial vaginosis, not PID."
+  },
+  {
+   "id": "ch34-u4-q1",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which symptom is printed as the most common?",
+   "opts": [
+    "Vaginal discharge",
+    "Post-coital bleeding",
+    "Fever",
+    "Lower abdominal pain, bilateral"
+   ],
+   "ans": 3,
+   "exp": "'m/c: Lower abdominal pain (B/L)'."
+  },
+  {
+   "id": "ch34-u4-q2",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: Pain during ____ is increased.",
+   "opts": [
+    "micturition",
+    "defaecation",
+    "coitus",
+    "menstruation"
+   ],
+   "ans": 2,
+   "exp": "'↑ Pain during coitus'."
+  },
+  {
+   "id": "ch34-u4-q3",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "recall",
+   "q": "What does fever lead to in the acute phase?",
+   "opts": [
+    "Menorrhagia",
+    "Amenorrhoea",
+    "Oligomenorrhoea",
+    "Metrorrhagia"
+   ],
+   "ans": 0,
+   "exp": "The acute phase arrow reads 'Fever → menorrhagia'."
+  },
+  {
+   "id": "ch34-u4-q4",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which two bleeding patterns are printed under AUB?",
+   "opts": [
+    "Menorrhagia and polymenorrhoea",
+    "Intermenstrual bleed and post-coital bleed",
+    "Hypomenorrhoea and oligomenorrhoea",
+    "Postmenopausal bleed and contact bleed"
+   ],
+   "ans": 1,
+   "exp": "'AUB: Intermenstrual bleed, Postcoital bleed'."
+  },
+  {
+   "id": "ch34-u4-q5",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: ____ is a long-term feature listed among the clinical features.",
+   "opts": [
+    "Weight gain",
+    "Hirsutism",
+    "Infertility",
+    "Galactorrhoea"
+   ],
+   "ans": 2,
+   "exp": "'Infertility'."
+  },
+  {
+   "id": "ch34-u4-q6",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: The perihepatitis of PID is Fitz-Hugh-____ syndrome.",
+   "opts": [
+    "Hugh",
+    "Curtis",
+    "Cushing",
+    "Martin"
+   ],
+   "ans": 1,
+   "exp": "'Complication: Fitz-Hugh-Curtis Syndrome: Perihepatitis'."
+  },
+  {
+   "id": "ch34-u4-q7",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "recall",
+   "q": "The adhesions of Fitz-Hugh-Curtis syndrome are described as:",
+   "opts": [
+    "Violin string adhesions between the liver capsule and anterior abdominal wall",
+    "Cobweb adhesions between bowel loops",
+    "Dense adhesions around the ovary",
+    "Bands between the uterus and bladder"
+   ],
+   "ans": 0,
+   "exp": "'Violin string adhesions: Between liver capsule & anterior abdominal wall'."
+  },
+  {
+   "id": "ch34-u4-q8",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: The pain of perihepatitis is in the ____ upper quadrant.",
+   "opts": [
+    "left",
+    "epigastric",
+    "mid",
+    "right"
+   ],
+   "ans": 3,
+   "exp": "'C/o right upper quadrant pain'."
+  },
+  {
+   "id": "ch34-u4-q9",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which organism order is given for Fitz-Hugh-Curtis syndrome?",
+   "opts": [
+    "Chlamydia more than gonorrhoea",
+    "Gonorrhoea more than chlamydia",
+    "E. coli more than chlamydia",
+    "Actinomyces most common"
+   ],
+   "ans": 0,
+   "exp": "'m/c Chlamydia > Gonorrhea'."
+  },
+  {
+   "id": "ch34-u4-q10",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "recall",
+   "q": "How is the diagnosis of PID described?",
+   "opts": [
+    "A laparoscopic diagnosis",
+    "A clinical diagnosis",
+    "A microbiological diagnosis",
+    "A radiological diagnosis"
+   ],
+   "ans": 1,
+   "exp": "'PID: Clinical diagnosis'."
+  },
+  {
+   "id": "ch34-u4-q11",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "match",
+   "q": "Match each clinical feature with its descriptor - 1) Lower abdominal pain 2) Fever in the acute phase 3) Intermenstrual bleed 4) Perihepatitis ... A) Fitz-Hugh-Curtis syndrome B) Most common, bilateral C) Menorrhagia D) AUB",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 3,
+   "exp": "Bilateral lower abdominal pain is commonest; fever drives menorrhagia; intermenstrual bleeding is AUB; perihepatitis is Fitz-Hugh-Curtis."
+  },
+  {
+   "id": "ch34-u4-q12",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "scenario",
+   "q": "Scenario: A young woman with PID complains of right upper quadrant pain. What is the printed explanation?",
+   "opts": [
+    "Cholecystitis from concurrent stones",
+    "Liver abscess from portal spread",
+    "Perihepatitis with violin string adhesions - Fitz-Hugh-Curtis syndrome",
+    "Pleurisy from basal pneumonia"
+   ],
+   "ans": 2,
+   "exp": "Right upper quadrant pain is the Fitz-Hugh-Curtis presentation."
+  },
+  {
+   "id": "ch34-u4-q13",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "tf",
+   "q": "True/False: The violin string adhesions of Fitz-Hugh-Curtis syndrome lie between the liver capsule and the diaphragm.",
+   "opts": [
+    "True",
+    "True - they are subdiaphragmatic",
+    "False",
+    "True - between liver and gallbladder"
+   ],
+   "ans": 2,
+   "exp": "They are printed between the liver capsule and the anterior abdominal wall."
+  },
+  {
+   "id": "ch34-u4-q14",
+   "sec": "Clinical Features and Complications",
+   "unit": "Clinical Features and Complications",
+   "page": 185,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed PID feature?",
+   "opts": [
+    "Haemoptysis",
+    "Dysmenorrhoea",
+    "Vaginal discharge",
+    "Infertility"
+   ],
+   "ans": 0,
+   "exp": "Haemoptysis is not among the printed features."
+  },
+  {
+   "id": "ch34-u5-q1",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: On USG, a tubo-ovarian ____ is one of the two findings.",
+   "opts": [
+    "cyst",
+    "abscess only",
+    "torsion",
+    "mass"
+   ],
+   "ans": 3,
+   "exp": "'1. USG: Tubo-ovarian mass'."
+  },
+  {
+   "id": "ch34-u5-q2",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "The second USG finding is:",
+   "opts": [
+    "Free fluid only",
+    "Swollen tubes",
+    "Thin tubes",
+    "Calcified tubes"
+   ],
+   "ans": 1,
+   "exp": "'Swollen tubes'."
+  },
+  {
+   "id": "ch34-u5-q3",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which three ultrasound signs are printed?",
+   "opts": [
+    "Whirlpool sign, target sign and cogwheel sign",
+    "Waist sign, bead on string sign and cogwheel sign",
+    "Snowstorm sign, bead on string and waist sign",
+    "String of pearls, waist sign and cogwheel sign"
+   ],
+   "ans": 1,
+   "exp": "The signs block lists waist sign, bead on string sign and cogwheel sign."
+  },
+  {
+   "id": "ch34-u5-q4",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Fill up: The waist sign is associated with ____.",
+   "opts": [
+    "pyosalpinx",
+    "tubo-ovarian abscess",
+    "endometriosis",
+    "hydrosalpinx"
+   ],
+   "ans": 3,
+   "exp": "The figure caption prints 'Waist sign (Hydrosalpinx)'."
+  },
+  {
+   "id": "ch34-u5-q5",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "recall",
+   "q": "The cogwheel sign is produced by:",
+   "opts": [
+    "Dilated tubal lumen with debris",
+    "Adhesions around the ovary",
+    "Thickened endosalpingeal walls",
+    "Calcification in the tubal wall"
+   ],
+   "ans": 2,
+   "exp": "'Cogwheel sign (Thickened endosalpingeal walls)'."
+  },
+  {
+   "id": "ch34-u5-q6",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Fill up: The beads-on-string sign is illustrated under the ____ section.",
+   "opts": [
+    "USG",
+    "HSG",
+    "laparoscopy",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "The note reads 'USG: PID / Beads on string' and 'HSG: Genital TB'."
+  },
+  {
+   "id": "ch34-u5-q7",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "What does endometrial biopsy demonstrate in PID?",
+   "opts": [
+    "Adenomyosis",
+    "Endometrial hyperplasia",
+    "Endometritis",
+    "Tuberculous granulomas"
+   ],
+   "ans": 2,
+   "exp": "'2. Endometrial biopsy: Endometritis'."
+  },
+  {
+   "id": "ch34-u5-q8",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: The gold standard investigation is ____.",
+   "opts": [
+    "laparoscopy",
+    "MRI",
+    "endometrial biopsy",
+    "hysterosalpingography"
+   ],
+   "ans": 0,
+   "exp": "'3. Laparoscopy: Gold standard'."
+  },
+  {
+   "id": "ch34-u5-q9",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which three roles are printed for laparoscopy?",
+   "opts": [
+    "Adhesiolysis, tubal cannulation and biopsy",
+    "Direct visualisation of tubes, adnexa and uterus; specimen collection; scoring for conception",
+    "Drainage of abscess, fulguration and biopsy",
+    "Chromopertubation, myomectomy and biopsy"
+   ],
+   "ans": 1,
+   "exp": "'Visualize tubes, adnexa, uterus directly; Specimen collection; Scoring for conception'."
+  },
+  {
+   "id": "ch34-u5-q10",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: The CDC minimum criteria require lower abdominal pain plus any ____ of the three per-vaginal findings.",
+   "opts": [
+    "two",
+    "three",
+    "none",
+    "one"
+   ],
+   "ans": 3,
+   "exp": "'Lower abdominal pain with any 1 of the following P/v findings'."
+  },
+  {
+   "id": "ch34-u5-q11",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which three per-vaginal findings make up the minimum criteria?",
+   "opts": [
+    "Uterine tenderness, adnexal mass and fever",
+    "Cervical motion tenderness, discharge and fever",
+    "Cervical movement tenderness, adnexal tenderness and uterine tenderness",
+    "Adnexal tenderness, cervical erosion and discharge"
+   ],
+   "ans": 2,
+   "exp": "The minimal criteria list cervical movement tenderness, adnexal tenderness and uterine tenderness."
+  },
+  {
+   "id": "ch34-u5-q12",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: The temperature threshold in the additional criteria is above ____ degrees Fahrenheit.",
+   "opts": [
+    "101",
+    "100",
+    "102",
+    "99"
+   ],
+   "ans": 0,
+   "exp": "'Temp > 101°F'."
+  },
+  {
+   "id": "ch34-u5-q13",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which two laboratory markers are listed in the additional criteria?",
+   "opts": [
+    "WBC count and procalcitonin",
+    "ESR and CRP",
+    "Serum amylase and lipase",
+    "Platelet count and ferritin"
+   ],
+   "ans": 1,
+   "exp": "'ESR' and 'CRP' are printed in the additional criteria."
+  },
+  {
+   "id": "ch34-u5-q14",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which microscopy finding is an additional criterion?",
+   "opts": [
+    "Clue cells on saline microscopy",
+    "Pseudohyphae on KOH mount",
+    "Motile trichomonads",
+    "Abundant white blood cells on saline microscopy of vaginal discharge"
+   ],
+   "ans": 3,
+   "exp": "'Saline microscopy of vaginal discharge: Abundant WBCs'."
+  },
+  {
+   "id": "ch34-u5-q15",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Fill up: The surest sign of PID at laparoscopy is pus trickling from the ____ end.",
+   "opts": [
+    "cornual",
+    "ampullary",
+    "fimbrial",
+    "ovarian"
+   ],
+   "ans": 2,
+   "exp": "'Surest sign of PID: Pus trickling from fimbrial end during laparoscopy'."
+  },
+  {
+   "id": "ch34-u5-q16",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "recall",
+   "q": "Which scoring system is used in PID and what is excluded from it?",
+   "opts": [
+    "Amsel score, which excludes pH",
+    "Nugent score, which excludes clue cells",
+    "Gainesville score, which excludes temperature",
+    "Boer-Meisel score, which does not include the type of organism"
+   ],
+   "ans": 3,
+   "exp": "'Scoring system for conception in PID: Boer-Meisel score (Type of organism not included)'."
+  },
+  {
+   "id": "ch34-u5-q17",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Fill up: The staging system named for PID is ____ staging.",
+   "opts": [
+    "Boer-Meisel",
+    "Gainesville",
+    "Amsel",
+    "Nugent"
+   ],
+   "ans": 1,
+   "exp": "'Staging of PID: Gainesville staging'."
+  },
+  {
+   "id": "ch34-u5-q18",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "recall",
+   "q": "What procedure is named for drainage of a pelvic abscess?",
+   "opts": [
+    "Culpotomy",
+    "Colpotomy-assisted laparoscopy",
+    "Laparotomy",
+    "Posterior colporrhaphy"
+   ],
+   "ans": 0,
+   "exp": "'Culpotomy: Drainage of pelvic abscess'."
+  },
+  {
+   "id": "ch34-u5-q19",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which two conditions must be ruled out in the differential?",
+   "opts": [
+    "Ectopic pregnancy and appendicitis",
+    "Ovarian torsion and endometriosis",
+    "Diverticulitis and cholecystitis",
+    "Urinary tract infection and renal colic"
+   ],
+   "ans": 0,
+   "exp": "The D/d block prints ectopic pregnancy and appendicitis."
+  },
+  {
+   "id": "ch34-u5-q20",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "match",
+   "q": "Match each investigation with its role - 1) USG 2) Endometrial biopsy 3) Laparoscopy ... A) Gold standard B) Tubo-ovarian mass and swollen tubes C) Endometritis",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "USG shows the mass and swelling; biopsy shows endometritis; laparoscopy is the gold standard."
+  },
+  {
+   "id": "ch34-u5-q21",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 185,
+   "fmt": "scenario",
+   "q": "Scenario: A woman has lower abdominal pain and adnexal tenderness but no fever, discharge or raised ESR. Does she meet CDC criteria?",
+   "opts": [
+    "No - additional criteria are mandatory",
+    "Yes - she meets the minimum criteria for PID",
+    "No - all three per-vaginal findings are needed",
+    "No - a raised CRP is required"
+   ],
+   "ans": 1,
+   "exp": "Lower abdominal pain with any one per-vaginal finding satisfies the minimum criteria."
+  },
+  {
+   "id": "ch34-u5-q22",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "tf",
+   "q": "True/False: The beads-on-string sign is described here as an HSG finding of genital tuberculosis.",
+   "opts": [
+    "False",
+    "False - it is an ultrasound sign of PID",
+    "True",
+    "False - it belongs to endometriosis"
+   ],
+   "ans": 2,
+   "exp": "The note prints 'USG: PID / Beads on string' and 'HSG: Genital TB'."
+  },
+  {
+   "id": "ch34-u5-q23",
+   "sec": "Diagnosis of PID",
+   "unit": "Diagnosis of PID",
+   "page": 186,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed ultrasound sign of PID?",
+   "opts": [
+    "Waist sign",
+    "Bead on string sign",
+    "Lead pipe appearance",
+    "Cogwheel sign"
+   ],
+   "ans": 2,
+   "exp": "Lead pipe appearance is an HSG description from the genital tuberculosis chapter."
+  },
+  {
+   "id": "ch34-u6-q1",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: Routine management of PID is on an ____ basis.",
+   "opts": [
+    "inpatient",
+    "day-care",
+    "intensive care",
+    "OPD"
+   ],
+   "ans": 3,
+   "exp": "'management: OPD basis'."
+  },
+  {
+   "id": "ch34-u6-q2",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which three drugs make up the printed broad-spectrum regimen?",
+   "opts": [
+    "Cefixime, doxycycline and azithromycin",
+    "Ceftriaxone injection, doxycycline and metronidazole",
+    "Ceftriaxone, azithromycin and metronidazole",
+    "Ciprofloxacin, doxycycline and clindamycin"
+   ],
+   "ans": 1,
+   "exp": "Inj. Ceftriaxone 250 mg IM single dose + Tab Doxycycline 100 mg BD x 14 days + Tab metronidazole 400 mg BD x 14 days."
+  },
+  {
+   "id": "ch34-u6-q3",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: Ceftriaxone is given as ____ mg intramuscularly in a single dose.",
+   "opts": [
+    "250",
+    "500",
+    "125",
+    "1000"
+   ],
+   "ans": 0,
+   "exp": "'Inj. Ceftriaxone 250mg IM single dose'."
+  },
+  {
+   "id": "ch34-u6-q4",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "numeric",
+   "q": "For how many days are doxycycline and metronidazole continued?",
+   "opts": [
+    "7",
+    "10",
+    "21",
+    "14"
+   ],
+   "ans": 3,
+   "exp": "Both are printed as BD for 14 days."
+  },
+  {
+   "id": "ch34-u6-q5",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: Doxycycline is given at ____ mg twice daily.",
+   "opts": [
+    "200",
+    "50",
+    "100",
+    "150"
+   ],
+   "ans": 2,
+   "exp": "'Tab Doxycycline 100mg BD x 14 days'."
+  },
+  {
+   "id": "ch34-u6-q6",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: Metronidazole is given at ____ mg twice daily for 14 days.",
+   "opts": [
+    "200",
+    "400",
+    "500",
+    "800"
+   ],
+   "ans": 1,
+   "exp": "'Tab metronidazole 400mg BD x 14 days'."
+  },
+  {
+   "id": "ch34-u6-q7",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which of the four admission indications relates to treatment failure?",
+   "opts": [
+    "Not responding to oral treatment",
+    "Pelvic abscess",
+    "Pregnancy",
+    "Hydrosalpinx"
+   ],
+   "ans": 0,
+   "exp": "'1. Not responding to oral treatment'."
+  },
+  {
+   "id": "ch34-u6-q8",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "numeric",
+   "q": "How many indications for admission are printed?",
+   "opts": [
+    "Four",
+    "Two",
+    "Six",
+    "Three"
+   ],
+   "ans": 0,
+   "exp": "Not responding to oral treatment, pelvic abscess, pregnant with severe disease, pregnant and unable to take oral medication."
+  },
+  {
+   "id": "ch34-u6-q9",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which two pregnancy-related indications are printed?",
+   "opts": [
+    "Ectopic risk and preterm labour",
+    "Fetal distress and pre-eclampsia",
+    "Clinically severe disease, and inability to take oral medications",
+    "First trimester and multiple gestation"
+   ],
+   "ans": 2,
+   "exp": "Both pregnancy indications are severe disease and inability to take oral drugs."
+  },
+  {
+   "id": "ch34-u6-q10",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: Intravenous antibiotics are continued for ____ hours after the patient becomes afebrile.",
+   "opts": [
+    "12",
+    "48",
+    "72",
+    "24"
+   ],
+   "ans": 3,
+   "exp": "'IV antibiotics continued for 24 hrs after patient becomes afebrile'."
+  },
+  {
+   "id": "ch34-u6-q11",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "numeric",
+   "q": "After the patient becomes afebrile, oral antibiotics are given for:",
+   "opts": [
+    "7 days",
+    "14 days",
+    "21 days",
+    "5 days"
+   ],
+   "ans": 1,
+   "exp": "'Oral antibiotics x 14 days'."
+  },
+  {
+   "id": "ch34-u6-q12",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: The first numbered long-term consequence of PID on this page is ____, described as the most common.",
+   "opts": [
+    "infertility",
+    "ectopic pregnancy",
+    "chronic pelvic pain",
+    "hydrosalpinx"
+   ],
+   "ans": 0,
+   "exp": "'1. Infertility: m/c'."
+  },
+  {
+   "id": "ch34-u6-q13",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "numeric",
+   "q": "How many numbered consequences are printed in that list?",
+   "opts": [
+    "Four",
+    "Five",
+    "Six",
+    "Seven"
+   ],
+   "ans": 2,
+   "exp": "Infertility, ectopic pregnancy, chronic pelvic pain, hydrosalpinx, recurrent PID and Fitz-Hugh-Curtis syndrome."
+  },
+  {
+   "id": "ch34-u6-q14",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which consequence is numbered fourth?",
+   "opts": [
+    "Chronic pelvic pain",
+    "Recurrent PID",
+    "Ectopic pregnancy",
+    "Hydrosalpinx"
+   ],
+   "ans": 3,
+   "exp": "'4. Hydrosalpinx'."
+  },
+  {
+   "id": "ch34-u6-q15",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: The sixth item in the list is Fitz-Hugh-____ syndrome.",
+   "opts": [
+    "Hugh",
+    "Curtis",
+    "Cushing",
+    "Martin"
+   ],
+   "ans": 1,
+   "exp": "'6. Fitz-Hugh Curtis syndrome'."
+  },
+  {
+   "id": "ch34-u6-q16",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Advice on sexual activity after treatment is abstinence for:",
+   "opts": [
+    "3 days",
+    "21 days",
+    "7 to 14 days",
+    "28 days"
+   ],
+   "ans": 2,
+   "exp": "'Abstinence x 7-14 days'."
+  },
+  {
+   "id": "ch34-u6-q17",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Why is alcohol to be avoided?",
+   "opts": [
+    "Because metronidazole is part of the regimen",
+    "Because of the doxycycline",
+    "Because of the ceftriaxone",
+    "Because of the cefixime"
+   ],
+   "ans": 0,
+   "exp": "The advice prints 'Avoid alcohol (metronidazole)'."
+  },
+  {
+   "id": "ch34-u6-q18",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "match",
+   "q": "Match each management element with its detail - 1) Ceftriaxone 2) Doxycycline 3) Metronidazole 4) IV antibiotics ... A) 400 mg BD x 14 days B) 250 mg IM single dose C) Continued 24 hours after fever settles D) 100 mg BD x 14 days",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Ceftriaxone single IM dose, doxycycline and metronidazole for 14 days, IV therapy until 24 hours afebrile."
+  },
+  {
+   "id": "ch34-u6-q19",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with PID is admitted with a pelvic abscess. She defervesces on day 3. When can intravenous antibiotics stop?",
+   "opts": [
+    "Immediately, with no oral follow-on",
+    "After a further 24 hours, then switch to oral therapy for 14 days",
+    "After 48 hours afebrile",
+    "After 7 days total"
+   ],
+   "ans": 1,
+   "exp": "IV antibiotics are continued for 24 hours after the patient becomes afebrile, then oral for 14 days."
+  },
+  {
+   "id": "ch34-u6-q20",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "tf",
+   "q": "True/False: Metronidazole is given as a single 2 g dose in the PID regimen.",
+   "opts": [
+    "True",
+    "True - as in trichomonas",
+    "True - with secnidazole",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "It is 400 mg twice daily for 14 days."
+  },
+  {
+   "id": "ch34-u6-q21",
+   "sec": "Management of PID",
+   "unit": "Management of PID",
+   "page": 187,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT printed advice after PID treatment?",
+   "opts": [
+    "Abstinence for 7 to 14 days",
+    "Partner treatment",
+    "Avoid all dairy products",
+    "Barrier contraception"
+   ],
+   "ans": 2,
+   "exp": "Dairy avoidance is not printed; alcohol avoidance is."
+  },
+  {
+   "id": "ch34-u7-q1",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: In the syndromic approach the patient receives yellow kit number ____.",
+   "opts": [
+    "6",
+    "1",
+    "2",
+    "4"
+   ],
+   "ans": 0,
+   "exp": "'No. 6: Yellow kit'."
+  },
+  {
+   "id": "ch34-u7-q2",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which three drugs are printed for the patient in the syndromic regimen?",
+   "opts": [
+    "Cefixime 400 mg stat, azithromycin 1 g and secnidazole 2 g",
+    "Cefixime 400 mg stat, metronidazole 400 mg BD for 14 days and doxycycline 100 mg BD for 14 days",
+    "Ceftriaxone 250 mg, doxycycline 100 mg and azithromycin 1 g",
+    "Azithromycin 1 g, cefixime 400 mg and metronidazole 400 mg"
+   ],
+   "ans": 1,
+   "exp": "The patient regimen prints those three drugs."
+  },
+  {
+   "id": "ch34-u7-q3",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: The partner receives grey kit number ____.",
+   "opts": [
+    "6",
+    "1",
+    "2",
+    "3"
+   ],
+   "ans": 1,
+   "exp": "'Partner: No. 1: Grey kit'."
+  },
+  {
+   "id": "ch34-u7-q4",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "What two drugs does the partner receive?",
+   "opts": [
+    "Cefixime 400 mg and metronidazole 400 mg",
+    "Azithromycin 1 g and secnidazole 2 g",
+    "Cefixime 400 mg single dose and azithromycin 1 g",
+    "Doxycycline 100 mg and azithromycin 1 g"
+   ],
+   "ans": 2,
+   "exp": "The partner block prints cefixime single dose and azithromycin."
+  },
+  {
+   "id": "ch34-u7-q5",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which mandatory exclusion is printed before starting the syndromic kit?",
+   "opts": [
+    "Rule out appendicitis",
+    "Rule out ovarian torsion",
+    "Exclude diabetes",
+    "Ensure the urine pregnancy test is negative"
+   ],
+   "ans": 3,
+   "exp": "'Ensure uPT (-)'."
+  },
+  {
+   "id": "ch34-u7-q6",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which three per-vaginal findings trigger the syndromic PID kit?",
+   "opts": [
+    "Uterine tenderness, cervical motion tenderness and adnexal tenderness",
+    "Uterine enlargement, adnexal mass and cervical erosion",
+    "Cervical motion tenderness, discharge and fever",
+    "Adnexal tenderness, abdominal rigidity and rebound"
+   ],
+   "ans": 0,
+   "exp": "The indications list any one of uterine, cervical motion or adnexal tenderness."
+  },
+  {
+   "id": "ch34-u7-q7",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: The syndromic advice includes abstinence and the use of ____.",
+   "opts": [
+    "condoms",
+    "spermicides",
+    "an intrauterine device",
+    "oral contraceptive pills"
+   ],
+   "ans": 0,
+   "exp": "'Advice: Abstinence x 7-14 days, Use of condoms'."
+  },
+  {
+   "id": "ch34-u7-q8",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "match",
+   "q": "Match each kit with its recipient - 1) Patient 2) Partner ... A) Grey kit 1 B) Yellow kit 6",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "The patient takes yellow kit 6 and the partner grey kit 1."
+  },
+  {
+   "id": "ch34-u7-q9",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with lower abdominal pain and cervical motion tenderness has a positive urine pregnancy test. What is the printed next step?",
+   "opts": [
+    "Give the yellow kit immediately",
+    "Give the grey kit",
+    "Rule out ectopic pregnancy before using the PID kit",
+    "Start metronidazole alone"
+   ],
+   "ans": 2,
+   "exp": "'Ensure uPT (-)' and the standing instruction to rule out ectopic pregnancy precede kit use."
+  },
+  {
+   "id": "ch34-u7-q10",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "tf",
+   "q": "True/False: In the syndromic approach, the partner receives the same yellow kit as the patient.",
+   "opts": [
+    "True",
+    "False",
+    "True - both receive kit 6",
+    "True - the partner receives double the dose"
+   ],
+   "ans": 1,
+   "exp": "The partner receives grey kit 1 with cefixime and azithromycin."
+  },
+  {
+   "id": "ch34-u7-q11",
+   "sec": "Syndromic Management of PID",
+   "unit": "Syndromic Management of PID",
+   "page": 187,
+   "fmt": "odd",
+   "q": "Odd one out - which drug is NOT in the syndromic PID patient kit?",
+   "opts": [
+    "Cefixime",
+    "Metronidazole",
+    "Doxycycline",
+    "Azithromycin"
+   ],
+   "ans": 3,
+   "exp": "Azithromycin is in the partner's grey kit, not the patient's yellow kit."
+  },
+  {
+   "id": "ch34-u8-q1",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: The pathogenesis is numbered through uterus, tubes, ovaries and finally peritonitis with pelvic ____.",
+   "opts": [
+    "adhesions",
+    "abscess",
+    "mass",
+    "collection"
+   ],
+   "ans": 1,
+   "exp": "Step 4 prints 'Peritonitis + pelvic abscess'."
+  },
+  {
+   "id": "ch34-u8-q2",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which phrase describes the tubal appearance in salpingitis?",
+   "opts": [
+    "Thick, congested, hyperaemic and swollen",
+    "Thin, pale and fibrotic",
+    "Beaded and rigid",
+    "Dilated with a lead pipe outline"
+   ],
+   "ans": 0,
+   "exp": "The printed descriptors are thick, congested, hyperemic and swollen."
+  },
+  {
+   "id": "ch34-u8-q3",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "Fill up: In reproductive-age women, chlamydia exceeds ____ as a cause of PID.",
+   "opts": [
+    "E. coli",
+    "Actinomyces",
+    "gonorrhoea",
+    "genital TB"
+   ],
+   "ans": 2,
+   "exp": "Printed: 'Reproductive age: Chlamydia > Gonorrhea'."
+  },
+  {
+   "id": "ch34-u8-q4",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 184,
+   "fmt": "recall",
+   "q": "Which organism is specifically linked to copper IUD use in the printed list?",
+   "opts": [
+    "Actinomyces",
+    "Gardnerella vaginalis",
+    "Trichomonas vaginalis",
+    "Candida albicans"
+   ],
+   "ans": 0,
+   "exp": "'Cu-IUD users: Actinomyces'."
+  },
+  {
+   "id": "ch34-u8-q5",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Fill up: The waist sign is captioned as ____ and the cogwheel sign as thickened endosalpingeal walls.",
+   "opts": [
+    "pyosalpinx",
+    "hydrosalpinx",
+    "tubo-ovarian abscess",
+    "haematosalpinx"
+   ],
+   "ans": 1,
+   "exp": "The caption prints 'Waist sign (Hydrosalpinx)'."
+  },
+  {
+   "id": "ch34-u8-q6",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 186,
+   "fmt": "recall",
+   "q": "Which investigation pairs with 'beads on string' in the printed note?",
+   "opts": [
+    "HSG for genital tuberculosis",
+    "MRI for endometriosis",
+    "CT for appendicitis",
+    "USG for PID"
+   ],
+   "ans": 3,
+   "exp": "The note prints 'USG: PID / Beads on string' and 'HSG: Genital TB'."
+  },
+  {
+   "id": "ch34-u8-q7",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 186,
+   "fmt": "recall",
+   "q": "Which statement about HSG in this chapter is correct?",
+   "opts": [
+    "HSG is the gold standard for PID",
+    "HSG replaces laparoscopy for scoring",
+    "HSG belongs to the genital tuberculosis chapter, not to PID diagnostics here",
+    "HSG is the screening test for PID"
+   ],
+   "ans": 2,
+   "exp": "The note assigns HSG to genital TB; PID imaging is by USG."
+  },
+  {
+   "id": "ch34-u8-q8",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "Fill up: The laparoscopy note says the operator can visualise tubes, adnexa and ____ directly.",
+   "opts": [
+    "ovaries",
+    "cervix",
+    "bowel",
+    "uterus"
+   ],
+   "ans": 3,
+   "exp": "'Visualize tubes, adnexa, uterus directly'."
+  },
+  {
+   "id": "ch34-u8-q9",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Which two diagnoses must be excluded before labelling pelvic pain as PID?",
+   "opts": [
+    "Ovarian cyst and fibroid",
+    "Endometriosis and adenomyosis",
+    "Ectopic pregnancy and appendicitis",
+    "Urinary infection and renal colic"
+   ],
+   "ans": 2,
+   "exp": "The D/d block lists ectopic pregnancy and appendicitis."
+  },
+  {
+   "id": "ch34-u8-q10",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 185,
+   "fmt": "scenario",
+   "q": "Scenario: A woman has lower abdominal pain, cervical motion tenderness and a temperature of 101.5 degrees Fahrenheit. Which CDC tier is satisfied?",
+   "opts": [
+    "Both the minimum criteria and the additional criteria",
+    "Neither tier",
+    "Minimum criteria only",
+    "Additional criteria only"
+   ],
+   "ans": 0,
+   "exp": "Pain plus cervical motion tenderness meets the minimum criteria, and the temperature above 101 F meets an additional criterion."
+  },
+  {
+   "id": "ch34-u8-q11",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 185,
+   "fmt": "tf",
+   "q": "True/False: A raised ESR and CRP are part of the CDC minimum criteria for PID.",
+   "opts": [
+    "True",
+    "False",
+    "True - they are mandatory",
+    "True - with fever"
+   ],
+   "ans": 1,
+   "exp": "They belong to the additional criteria."
+  },
+  {
+   "id": "ch34-u8-q12",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Pathogenesis and Diagnosis",
+   "page": 185,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT among the three per-vaginal minimum-criteria findings?",
+   "opts": [
+    "Uterine tenderness",
+    "Adnexal mass",
+    "Cervical movement tenderness",
+    "Adnexal tenderness"
+   ],
+   "ans": 1,
+   "exp": "A mass is not a minimum criterion; tenderness findings are."
+  },
+  {
+   "id": "ch34-u9-q1",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: The intramuscular cephalosporin in the OPD regimen is ____, given as a single dose.",
+   "opts": [
+    "cefixime",
+    "cefotaxime",
+    "ceftriaxone",
+    "cefpodoxime"
+   ],
+   "ans": 2,
+   "exp": "'Inj. Ceftriaxone 250mg IM single dose'."
+  },
+  {
+   "id": "ch34-u9-q2",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which two oral antibiotics in the OPD regimen share the same 14-day duration?",
+   "opts": [
+    "Doxycycline and azithromycin",
+    "Metronidazole and cefixime",
+    "Azithromycin and cefixime",
+    "Doxycycline and metronidazole"
+   ],
+   "ans": 3,
+   "exp": "Both are printed as twice daily for 14 days."
+  },
+  {
+   "id": "ch34-u9-q3",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: Pelvic ____ is the second indication for admission.",
+   "opts": [
+    "abscess",
+    "inflammatory disease",
+    "adhesions",
+    "mass"
+   ],
+   "ans": 0,
+   "exp": "'2. Pelvic abscess'."
+  },
+  {
+   "id": "ch34-u9-q4",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Why is pregnancy singled out among the admission indications?",
+   "opts": [
+    "Pregnancy makes metronidazole mandatory",
+    "Pregnancy excludes chlamydia",
+    "Pregnancy prevents laparoscopy",
+    "Severe disease or inability to take oral medication in pregnancy warrants admission"
+   ],
+   "ans": 3,
+   "exp": "Both pregnancy indications are clinical severity and inability to take oral drugs."
+  },
+  {
+   "id": "ch34-u9-q5",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: The list of six consequences begins with infertility and ends with Fitz-Hugh-Curtis ____.",
+   "opts": [
+    "disease",
+    "abscess",
+    "syndrome",
+    "adhesions"
+   ],
+   "ans": 2,
+   "exp": "Item 6 is Fitz-Hugh-Curtis syndrome."
+  },
+  {
+   "id": "ch34-u9-q6",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which two of the six consequences directly reflect tubal damage?",
+   "opts": [
+    "Chronic pelvic pain and recurrent PID",
+    "Infertility and ectopic pregnancy",
+    "Hydrosalpinx and Fitz-Hugh-Curtis syndrome",
+    "Recurrent PID and infertility"
+   ],
+   "ans": 1,
+   "exp": "Tubal damage produces infertility and ectopic pregnancy."
+  },
+  {
+   "id": "ch34-u9-q7",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: Alcohol is to be avoided because of the ____ in the regimen.",
+   "opts": [
+    "metronidazole",
+    "doxycycline",
+    "ceftriaxone",
+    "cefixime"
+   ],
+   "ans": 0,
+   "exp": "'Avoid alcohol (metronidazole)'."
+  },
+  {
+   "id": "ch34-u9-q8",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "recall",
+   "q": "What is the printed duration of abstinence after PID treatment?",
+   "opts": [
+    "7 to 14 days",
+    "3 to 5 days",
+    "21 days",
+    "Until the next menstrual period"
+   ],
+   "ans": 0,
+   "exp": "'Abstinence x 7-14 days'."
+  },
+  {
+   "id": "ch34-u9-q9",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Fill up: The syndromic patient kit is yellow kit 6; the partner kit is grey kit ____.",
+   "opts": [
+    "2",
+    "3",
+    "1",
+    "6"
+   ],
+   "ans": 2,
+   "exp": "Partner: No. 1 grey kit."
+  },
+  {
+   "id": "ch34-u9-q10",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which drug is common to the OPD regimen and the syndromic patient kit?",
+   "opts": [
+    "Ceftriaxone 250 mg",
+    "Metronidazole 400 mg twice daily",
+    "Azithromycin 1 g",
+    "Secnidazole 2 g"
+   ],
+   "ans": 1,
+   "exp": "Metronidazole 400 mg BD appears in both the OPD regimen and yellow kit 6."
+  },
+  {
+   "id": "ch34-u9-q11",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Which drug appears in the partner kit but not in the patient's yellow kit?",
+   "opts": [
+    "Cefixime",
+    "Metronidazole",
+    "Doxycycline",
+    "Azithromycin"
+   ],
+   "ans": 3,
+   "exp": "The partner receives cefixime plus azithromycin; the patient receives cefixime, metronidazole and doxycycline."
+  },
+  {
+   "id": "ch34-u9-q12",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "match",
+   "q": "Match each PID consequence with its number - 1) Infertility 2) Ectopic pregnancy 3) Chronic pelvic pain 4) Recurrent PID ... A) 5 B) 2 C) 1 (m/c) D) 3",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 3,
+   "exp": "Infertility is 1 and most common; ectopic pregnancy 2; chronic pelvic pain 3; recurrent PID 5."
+  },
+  {
+   "id": "ch34-u9-q13",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "scenario",
+   "q": "Scenario: A patient with PID has completed 24 hours without fever on intravenous antibiotics. What is the printed next step?",
+   "opts": [
+    "Switch to oral antibiotics for a total of 14 days",
+    "Stop all antibiotics",
+    "Continue intravenous therapy for another 7 days",
+    "Discharge with no further treatment"
+   ],
+   "ans": 0,
+   "exp": "IV therapy continues 24 hours past defervescence, then oral antibiotics for 14 days."
+  },
+  {
+   "id": "ch34-u9-q14",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "tf",
+   "q": "True/False: Fitz-Hugh-Curtis syndrome appears both as an acute complication on the features page and as item 6 in the consequence list.",
+   "opts": [
+    "False",
+    "False - it appears only on the features page",
+    "True",
+    "False - it appears only in the consequences list"
+   ],
+   "ans": 2,
+   "exp": "It is printed under complications on p185 and again as item 6 on p187."
+  },
+  {
+   "id": "ch34-u9-q15",
+   "sec": "Complete Coverage: PID",
+   "unit": "Second Pass - Treatment and Sequelae",
+   "page": 187,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed admission indication?",
+   "opts": [
+    "Not responding to oral treatment",
+    "Hydrosalpinx",
+    "Pelvic abscess",
+    "Pregnant patient unable to take oral medication"
+   ],
+   "ans": 1,
+   "exp": "Hydrosalpinx is a numbered consequence, not an admission indication."
+  }
+ ]
+}

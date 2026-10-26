@@ -1,0 +1,2149 @@
+{
+ "chapter": 35,
+ "questions": [
+  {
+   "id": "ch35-u1-q1",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: The causative organism printed is ____ tuberculosis.",
+   "opts": [
+    "Actinomyces",
+    "Nocardia",
+    "Mycobacterium",
+    "Chlamydia"
+   ],
+   "ans": 2,
+   "exp": "Page 188 names 'Causative organism (mycobacterium tuberculosis)'."
+  },
+  {
+   "id": "ch35-u1-q2",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "recall",
+   "q": "The primary source of infection is printed as:",
+   "opts": [
+    "Lymph nodes more than lung",
+    "Lung more than lymph nodes",
+    "Bowel more than lung",
+    "Kidney more than lymph nodes"
+   ],
+   "ans": 1,
+   "exp": "'1° source: Lung > LNs'."
+  },
+  {
+   "id": "ch35-u1-q3",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: The classic route of spread to the genital tract is ____.",
+   "opts": [
+    "haematogenous",
+    "lymphatic",
+    "direct contiguous",
+    "ascending canalicular"
+   ],
+   "ans": 0,
+   "exp": "'Hematogenous route' heads the pathogenesis flow."
+  },
+  {
+   "id": "ch35-u1-q4",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "recall",
+   "q": "Which second, less common route is printed?",
+   "opts": [
+    "Ascending infection along sperms",
+    "Iatrogenic instrumentation",
+    "Transplacental",
+    "Sexual transmission"
+   ],
+   "ans": 3,
+   "exp": "'Transmission: Sexual' appears in the diagram."
+  },
+  {
+   "id": "ch35-u1-q5",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: The organism enters and first involves the ____ tube.",
+   "opts": [
+    "uterine",
+    "fallopian",
+    "round",
+    "broad ligament"
+   ],
+   "ans": 1,
+   "exp": "'Enters Fallopian Tube (FT)'."
+  },
+  {
+   "id": "ch35-u1-q6",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "recall",
+   "q": "How is the tubal lining destroyed?",
+   "opts": [
+    "From within",
+    "From the serosal surface",
+    "From the fimbrial end only",
+    "From the muscularis outward"
+   ],
+   "ans": 0,
+   "exp": "'Lining destroyed from within → Endosalpingitis'."
+  },
+  {
+   "id": "ch35-u1-q7",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: In genital tuberculosis the tubal lining is destroyed from within, producing ____.",
+   "opts": [
+    "perisalpingitis",
+    "mesosalpingitis",
+    "salpingitis isthmica nodosa",
+    "endosalpingitis"
+   ],
+   "ans": 3,
+   "exp": "The chain prints 'Endosalpingitis → Caseous necrosis → Fibrosis/Adhesion'."
+  },
+  {
+   "id": "ch35-u1-q8",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "recall",
+   "q": "Which three pathological stages follow endosalpingitis?",
+   "opts": [
+    "Suppuration, calcification and perforation",
+    "Granuloma, ulceration and fistula",
+    "Caseous necrosis, fibrosis and adhesion",
+    "Oedema, haemorrhage and fibrosis"
+   ],
+   "ans": 2,
+   "exp": "The printed sequence is caseous necrosis then fibrosis or adhesion."
+  },
+  {
+   "id": "ch35-u1-q9",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: The tubal damage culminates in ____ cornual block.",
+   "opts": [
+    "unilateral",
+    "intermittent",
+    "bilateral",
+    "partial"
+   ],
+   "ans": 2,
+   "exp": "'B/L cornual block'."
+  },
+  {
+   "id": "ch35-u1-q10",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "recall",
+   "q": "From the uterus the infection spreads to the:",
+   "opts": [
+    "Myometrium",
+    "Cervix",
+    "Vagina",
+    "Endometrium"
+   ],
+   "ans": 3,
+   "exp": "'From uterus: Spreads to Endometrium'."
+  },
+  {
+   "id": "ch35-u1-q11",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: Fimbrial spread causes adhesions and ____.",
+   "opts": [
+    "pyosalpinx",
+    "hydrosalpinx",
+    "haematosalpinx",
+    "tubal torsion"
+   ],
+   "ans": 1,
+   "exp": "'Fimbriae spread: Causes adhesions, Causes hydrosalpinx'."
+  },
+  {
+   "id": "ch35-u1-q12",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "match",
+   "q": "Match each step of the tubal pathogenesis with its position - 1) Lining destroyed from within 2) Caseous necrosis 3) Fibrosis or adhesion 4) Bilateral cornual block ... A) 4 B) 1 C) 3 D) 2",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The flow is endosalpingitis, caseous necrosis, fibrosis or adhesion, then bilateral cornual block."
+  },
+  {
+   "id": "ch35-u1-q13",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "scenario",
+   "q": "Scenario: A young woman with infertility is found to have bilateral cornual block on HSG. Which organism does the printed pathogenesis point to?",
+   "opts": [
+    "Mycobacterium tuberculosis",
+    "Neisseria gonorrhoeae",
+    "Chlamydia trachomatis",
+    "Actinomyces israelii"
+   ],
+   "ans": 0,
+   "exp": "Bilateral cornual block is the end point of the genital tuberculosis tubal chain."
+  },
+  {
+   "id": "ch35-u1-q14",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "tf",
+   "q": "True/False: The fallopian tube is the first genital structure involved because the organism reaches it by the haematogenous route.",
+   "opts": [
+    "False",
+    "False - the ovary is involved first",
+    "False - the endometrium is involved first",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The diagram shows haematogenous seeding entering the fallopian tube first."
+  },
+  {
+   "id": "ch35-u1-q15",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Source and Route of Infection",
+   "page": 188,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed route or source in the pathogenesis diagram?",
+   "opts": [
+    "Haematogenous route",
+    "Ascending infection along with sperms",
+    "Lung as the primary source",
+    "Sexual transmission"
+   ],
+   "ans": 1,
+   "exp": "Ascending spread along sperms belongs to PID and cervicitis, not genital tuberculosis."
+  },
+  {
+   "id": "ch35-u2-q1",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Fill up: Genital tuberculosis of the tube is ____ (bilateral or unilateral).",
+   "opts": [
+    "unilateral",
+    "always right sided",
+    "bilateral",
+    "always left sided"
+   ],
+   "ans": 2,
+   "exp": "The sites block prints 'B/L'."
+  },
+  {
+   "id": "ch35-u2-q2",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Which part of the tube is most commonly affected?",
+   "opts": [
+    "Isthmus more than ampulla",
+    "Fimbria more than ampulla",
+    "Ampulla more than isthmus",
+    "Interstitial more than isthmus"
+   ],
+   "ans": 2,
+   "exp": "'m/c site: Ampulla > Isthmus'."
+  },
+  {
+   "id": "ch35-u2-q3",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "The most common presentation is:",
+   "opts": [
+    "Chronic pelvic pain",
+    "Menorrhagia",
+    "Vaginal discharge",
+    "Infertility"
+   ],
+   "ans": 3,
+   "exp": "'m/c presentation: Infertility'."
+  },
+  {
+   "id": "ch35-u2-q4",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Fill up: The investigation of choice for tubal patency is ____.",
+   "opts": [
+    "hysterosalpingography",
+    "laparoscopy",
+    "hysteroscopy",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "'IOC for tubal patency: HSG (Hysterosalpingography)'."
+  },
+  {
+   "id": "ch35-u2-q5",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Why is HSG contraindicated in untreated genital tuberculosis?",
+   "opts": [
+    "It is too painful",
+    "It can lead to dissemination",
+    "It causes anaphylaxis to contrast",
+    "It permanently blocks the tubes"
+   ],
+   "ans": 1,
+   "exp": "'- C/I: Can lead to dissemination'."
+  },
+  {
+   "id": "ch35-u2-q6",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "When is HSG performed in genital tuberculosis?",
+   "opts": [
+    "Before starting treatment",
+    "Only in virgins",
+    "Only in the proliferative phase",
+    "After anti-tuberculous treatment"
+   ],
+   "ans": 3,
+   "exp": "'- Done after ATT (Anti-Tuberculosis Treatment)'."
+  },
+  {
+   "id": "ch35-u2-q7",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "numeric",
+   "q": "How many characteristic appearances on HSG are printed?",
+   "opts": [
+    "Four",
+    "Five",
+    "Seven",
+    "Six"
+   ],
+   "ans": 2,
+   "exp": "Beaded, lead pipe, tobacco pouch, golf stick, bilateral cornual block, cotton wool and hydrosalpinx."
+  },
+  {
+   "id": "ch35-u2-q8",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Which three HSG appearances are illustrated with labelled figures?",
+   "opts": [
+    "Beaded appearance, tobacco pouch appearance and lead pipe appearance",
+    "Golf stick, cotton wool and hydrosalpinx",
+    "Beaded, golf stick and cornual block",
+    "Lead pipe, cotton wool and hydrosalpinx"
+   ],
+   "ans": 0,
+   "exp": "The figures are captioned beaded appearance, tobacco pouch appearance and lead pipe appearance."
+  },
+  {
+   "id": "ch35-u2-q9",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Fill up: The appearance resembling a smoking pipe is called the ____ appearance.",
+   "opts": [
+    "lead pipe",
+    "tobacco pouch",
+    "golf stick",
+    "cotton wool"
+   ],
+   "ans": 1,
+   "exp": "'Tobacco pouch appearance'."
+  },
+  {
+   "id": "ch35-u2-q10",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Which appearance is described as a golf stick?",
+   "opts": [
+    "Hockey stick appearance",
+    "Golfstick appearance",
+    "Crook appearance",
+    "Shepherd crook appearance"
+   ],
+   "ans": 1,
+   "exp": "The printed item is 'Golfstick appearance'."
+  },
+  {
+   "id": "ch35-u2-q11",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Fill up: A fluffy, ill-defined outline on HSG is the ____ appearance.",
+   "opts": [
+    "cotton wool",
+    "beaded",
+    "lead pipe",
+    "tobacco pouch"
+   ],
+   "ans": 0,
+   "exp": "'Cotton wool appearance'."
+  },
+  {
+   "id": "ch35-u2-q12",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "The 'lead pipe' appearance describes a tube that is:",
+   "opts": [
+    "Dilated and tortuous",
+    "Beaded throughout its length",
+    "Rigid and uniformly narrow",
+    "Blocked only at the cornua"
+   ],
+   "ans": 2,
+   "exp": "The lead pipe appearance is the rigid, pipe-like outline of a fibrosed tube."
+  },
+  {
+   "id": "ch35-u2-q13",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "match",
+   "q": "Match each HSG appearance with its descriptor - 1) Beaded 2) Lead pipe 3) Tobacco pouch 4) Cotton wool ... A) Rigid pipe-like tube B) Fluffy ill-defined outline C) Sac-like distal collection D) Alternating constrictions and dilatations",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 3,
+   "exp": "Beaded is alternating constrictions; lead pipe is rigid; tobacco pouch is a distal sac; cotton wool is fluffy."
+  },
+  {
+   "id": "ch35-u2-q14",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "Scenario: A patient with suspected genital tuberculosis needs tubal assessment. What is the correct printed sequence?",
+   "opts": [
+    "Perform HSG immediately",
+    "Start anti-tuberculous treatment first, then perform HSG",
+    "Perform HSG and then decide on treatment",
+    "Perform laparoscopy instead, as HSG is never used"
+   ],
+   "ans": 1,
+   "exp": "HSG is contraindicated before treatment because of dissemination risk and is done after ATT."
+  },
+  {
+   "id": "ch35-u2-q15",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "tf",
+   "q": "True/False: HSG is the investigation of choice for tubal patency and is safe at any stage of genital tuberculosis.",
+   "opts": [
+    "False",
+    "True",
+    "True - it is safe after the first month",
+    "True - dissemination only occurs with laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "It is contraindicated before treatment because it can disseminate infection."
+  },
+  {
+   "id": "ch35-u2-q16",
+   "sec": "Pathogenesis and Routes of Spread",
+   "unit": "Sites of Genital Tuberculosis",
+   "page": 189,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed HSG appearance in genital tuberculosis?",
+   "opts": [
+    "Beaded appearance",
+    "Golfstick appearance",
+    "Tobacco pouch appearance",
+    "Violin string appearance"
+   ],
+   "ans": 3,
+   "exp": "Violin string adhesions belong to Fitz-Hugh-Curtis syndrome in the PID chapter."
+  },
+  {
+   "id": "ch35-u3-q1",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: In genital tuberculosis of the uterus, the ____ layers of the endometrium are affected.",
+   "opts": [
+    "basal",
+    "myometrial",
+    "superficial",
+    "full thickness"
+   ],
+   "ans": 2,
+   "exp": "'Affected: Superficial layers of endometrium'."
+  },
+  {
+   "id": "ch35-u3-q2",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which layer is spared?",
+   "opts": [
+    "Basalis",
+    "Endocervix",
+    "Myometrium",
+    "Serosa"
+   ],
+   "ans": 2,
+   "exp": "'Spared: myometrium'."
+  },
+  {
+   "id": "ch35-u3-q3",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: Because only the superficial layers are involved, ____ day menstrual blood can be used for investigation.",
+   "opts": [
+    "last",
+    "mid-cycle",
+    "third",
+    "first"
+   ],
+   "ans": 3,
+   "exp": "'1st day menstrual blood can be used for Investigation'."
+  },
+  {
+   "id": "ch35-u3-q4",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which phase is printed as the best time for endometrial biopsy?",
+   "opts": [
+    "Premenstrual phase",
+    "Proliferative phase",
+    "Menstrual phase",
+    "Mid-secretory phase"
+   ],
+   "ans": 0,
+   "exp": "'Best time for endometrial biopsy: premenstrual'."
+  },
+  {
+   "id": "ch35-u3-q5",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Initially, when the endometrium is still normal, the menstrual pattern is:",
+   "opts": [
+    "Menorrhagic",
+    "Normal, with no menstrual symptoms",
+    "Amenorrhoeic",
+    "Irregularly heavy"
+   ],
+   "ans": 1,
+   "exp": "'Initially: endometrium normal → No menstrual symptoms'."
+  },
+  {
+   "id": "ch35-u3-q6",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: In the acute stage, endometritis causes ____.",
+   "opts": [
+    "menorrhagia",
+    "amenorrhoea",
+    "hypomenorrhoea",
+    "metrorrhagia"
+   ],
+   "ans": 0,
+   "exp": "'Acute: Endometritis → menorrhagia'."
+  },
+  {
+   "id": "ch35-u3-q7",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "recall",
+   "q": "In the chronic stage, adhesions produce:",
+   "opts": [
+    "Adenomyosis with menorrhagia",
+    "Endometrial hyperplasia with irregular bleeding",
+    "Cervical stenosis with haematometra",
+    "Asherman syndrome with secondary amenorrhoea or oligomenorrhoea"
+   ],
+   "ans": 3,
+   "exp": "'Chronic: Adhesions (Asherman syndrome) → 2° amenorrhea/oligomenorrhea'."
+  },
+  {
+   "id": "ch35-u3-q8",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: Ovarian tuberculosis is limited to the surface of the ovary by the tunica ____.",
+   "opts": [
+    "vaginalis",
+    "media",
+    "albuginea",
+    "externa"
+   ],
+   "ans": 2,
+   "exp": "'TB limited to: Surface of ovary by Tunica albuginea → Prevents spread to stroma'."
+  },
+  {
+   "id": "ch35-u3-q9",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "recall",
+   "q": "What keeps ovarian tuberculosis confined to the surface?",
+   "opts": [
+    "The germinal epithelium is resistant",
+    "The tunica albuginea prevents spread to the stroma",
+    "The ovary has no lymphatic supply",
+    "The capsule is calcified"
+   ],
+   "ans": 1,
+   "exp": "The printed mechanism is the tunica albuginea blocking stromal spread."
+  },
+  {
+   "id": "ch35-u3-q10",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: On laparoscopy the ovary shows ____ on its surface.",
+   "opts": [
+    "cysts",
+    "papillary excrescences",
+    "tubercles",
+    "endometriotic implants"
+   ],
+   "ans": 2,
+   "exp": "'Appearance: Tubercles on surface of ovary (on laparoscopy)'."
+  },
+  {
+   "id": "ch35-u3-q11",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Tubercular peritonitis associated with genital tuberculosis produces:",
+   "opts": [
+    "Haemoperitoneum",
+    "Ascites",
+    "Pneumoperitoneum",
+    "Loculated gas"
+   ],
+   "ans": 1,
+   "exp": "'Genital TB associated with peritonitis → Ascites'."
+  },
+  {
+   "id": "ch35-u3-q12",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "match",
+   "q": "Match each site with its printed feature - 1) Tube 2) Uterus 3) Ovary 4) Peritoneum ... A) Ascites B) Tubercles on the surface C) Ampulla most common D) Myometrium spared",
+   "opts": [
+    "1-D, 2-A, 3-C, 4-B",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-D, 3-B, 4-A"
+   ],
+   "ans": 3,
+   "exp": "Tube: ampulla; uterus: myometrium spared; ovary: surface tubercles; peritoneum: ascites."
+  },
+  {
+   "id": "ch35-u3-q13",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with genital tuberculosis develops secondary amenorrhoea. Which printed mechanism explains it?",
+   "opts": [
+    "Chronic endometrial adhesions producing Asherman syndrome",
+    "Ovarian destruction causing ovarian failure",
+    "Cervical stenosis from scarring",
+    "Pituitary involvement"
+   ],
+   "ans": 0,
+   "exp": "The chronic uterine stage produces adhesions (Asherman syndrome) with secondary amenorrhoea."
+  },
+  {
+   "id": "ch35-u3-q14",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 190,
+   "fmt": "tf",
+   "q": "True/False: Genital tuberculosis typically destroys the myometrium.",
+   "opts": [
+    "True",
+    "True - the myometrium is the main target",
+    "False",
+    "True - it causes pyometra"
+   ],
+   "ans": 2,
+   "exp": "Only the superficial endometrium is affected and the myometrium is spared."
+  },
+  {
+   "id": "ch35-u3-q15",
+   "sec": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "unit": "Genital Tuberculosis of the Uterus, Ovaries and Peritoneum",
+   "page": 189,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed site feature of genital tuberculosis?",
+   "opts": [
+    "Bilateral cornual block",
+    "Tubercles on the ovarian surface",
+    "Ascites with peritonitis",
+    "Cervical ulceration as the commonest finding"
+   ],
+   "ans": 3,
+   "exp": "The common presentations are tubal; cervical ulceration is not printed as the commonest finding."
+  },
+  {
+   "id": "ch35-u4-q1",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The most common age group affected is ____ years.",
+   "opts": [
+    "10 to 20",
+    "20 to 30",
+    "30 to 40",
+    "40 to 50"
+   ],
+   "ans": 1,
+   "exp": "'m/c age group: 20-30 years'."
+  },
+  {
+   "id": "ch35-u4-q2",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Genital tuberculosis is the most common cause of PID in:",
+   "opts": [
+    "Virgin females",
+    "Pregnant women",
+    "Postmenopausal women",
+    "Cu-IUD users"
+   ],
+   "ans": 0,
+   "exp": "'m/c cause of PID in virgin females'."
+  },
+  {
+   "id": "ch35-u4-q3",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The fever of genital tuberculosis is described as ____ grade.",
+   "opts": [
+    "low",
+    "high",
+    "hectic",
+    "intermittent spiking"
+   ],
+   "ans": 0,
+   "exp": "'Prodromal Symptoms: Fever (Low grade)'."
+  },
+  {
+   "id": "ch35-u4-q4",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which three prodromal symptoms are printed?",
+   "opts": [
+    "Night sweats, cough and haemoptysis",
+    "Low grade fever, malaise and loss of appetite with weight loss",
+    "Arthralgia, rash and lymphadenopathy",
+    "Headache, vomiting and photophobia"
+   ],
+   "ans": 1,
+   "exp": "The prodromal list is fever, malaise and decreased appetite with weight loss."
+  },
+  {
+   "id": "ch35-u4-q5",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The commonest presentation is infertility due to ____ blockage.",
+   "opts": [
+    "cervical",
+    "uterine",
+    "tubal",
+    "vaginal"
+   ],
+   "ans": 2,
+   "exp": "'m/c: Infertility d/t Tubal blockage'."
+  },
+  {
+   "id": "ch35-u4-q6",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Initially the menstrual abnormality is:",
+   "opts": [
+    "Amenorrhoea, from adhesions",
+    "Polymenorrhoea, from anovulation",
+    "Metrorrhagia, from polyps",
+    "Menorrhagia, from endometritis"
+   ],
+   "ans": 3,
+   "exp": "'Initially: menorrhagia d/t endometritis'."
+  },
+  {
+   "id": "ch35-u4-q7",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The most common menstrual abnormality is secondary ____ or hypomenorrhoea.",
+   "opts": [
+    "menorrhagia",
+    "amenorrhoea",
+    "metrorrhagia",
+    "dysmenorrhoea"
+   ],
+   "ans": 1,
+   "exp": "'m/c: 2° amenorrhea / hypomenorrhea d/t Asherman syndrome'."
+  },
+  {
+   "id": "ch35-u4-q8",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which pain symptom is marked as variable?",
+   "opts": [
+    "Chronic pelvic pain",
+    "Dyspareunia",
+    "Dysmenorrhoea",
+    "Cyclical pain"
+   ],
+   "ans": 0,
+   "exp": "'± Chronic pelvic pain' uses the plus-minus sign."
+  },
+  {
+   "id": "ch35-u4-q9",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The rare discharge is described as ____ (blood stained).",
+   "opts": [
+    "purulent",
+    "mucoid",
+    "watery",
+    "serosanguinous"
+   ],
+   "ans": 3,
+   "exp": "'Rare: Serosanguinous (Blood stained) discharge'."
+  },
+  {
+   "id": "ch35-u4-q10",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which future risk is flagged?",
+   "opts": [
+    "Preterm labour",
+    "Placenta praevia",
+    "Ectopic pregnancy",
+    "Gestational diabetes"
+   ],
+   "ans": 2,
+   "exp": "'Future risk of: ectopic pregnancy'."
+  },
+  {
+   "id": "ch35-u4-q11",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "match",
+   "q": "Match each clinical item with its descriptor - 1) Infertility 2) Menorrhagia 3) Secondary amenorrhoea 4) Serosanguinous discharge ... A) Most common menstrual abnormality B) Rare C) Initial menstrual abnormality D) Most common presentation",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Infertility is the commonest presentation; menorrhagia is initial; secondary amenorrhoea becomes commonest; the discharge is rare."
+  },
+  {
+   "id": "ch35-u4-q12",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "scenario",
+   "q": "Scenario: An 18-year-old virgin presents with pelvic inflammatory disease that has not responded to broad-spectrum antibiotics. Which diagnosis should be considered?",
+   "opts": [
+    "Chlamydial PID",
+    "Genital tuberculosis",
+    "Gonococcal PID",
+    "Actinomyces infection"
+   ],
+   "ans": 1,
+   "exp": "Genital TB is the commonest cause of PID in virgins and is flagged in the diagnostic history list."
+  },
+  {
+   "id": "ch35-u4-q13",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "tf",
+   "q": "True/False: Genital tuberculosis most commonly presents with menorrhagia.",
+   "opts": [
+    "False",
+    "True",
+    "True - menorrhagia dominates throughout",
+    "True - bleeding is the cardinal symptom"
+   ],
+   "ans": 0,
+   "exp": "Infertility is the commonest presentation; menorrhagia is only the initial menstrual change."
+  },
+  {
+   "id": "ch35-u4-q14",
+   "sec": "Clinical Features of Genital Tuberculosis",
+   "unit": "Clinical Features of Genital Tuberculosis",
+   "page": 190,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed prodromal symptom?",
+   "opts": [
+    "Low grade fever",
+    "Malaise",
+    "Weight loss",
+    "Haemoptysis"
+   ],
+   "ans": 3,
+   "exp": "Haemoptysis is a pulmonary symptom, not in the printed prodromal list."
+  },
+  {
+   "id": "ch35-u5-q1",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: On per-abdominal examination the abdomen is described as ____.",
+   "opts": [
+    "board-like",
+    "distended and tympanic",
+    "doughy",
+    "scaphoid"
+   ],
+   "ans": 2,
+   "exp": "'P/A examination: Doughy abdomen' with ascites."
+  },
+  {
+   "id": "ch35-u5-q2",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which per-speculum finding is printed?",
+   "opts": [
+    "Strawberry cervix",
+    "Cottage cheese discharge",
+    "Cervical polyp",
+    "Ulcers on the cervix, vagina or vulva"
+   ],
+   "ans": 3,
+   "exp": "'P/S examination: Ulcers on cervix / vagina / vulva'."
+  },
+  {
+   "id": "ch35-u5-q3",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: On per-vaginal examination, mobility is restricted - the ____ pelvis.",
+   "opts": [
+    "fixed retroverted",
+    "frozen",
+    "contracted",
+    "obliterated"
+   ],
+   "ans": 1,
+   "exp": "'Restricted mobility: Frozen pelvis'."
+  },
+  {
+   "id": "ch35-u5-q4",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which pelvic finding is noted on per-vaginal examination?",
+   "opts": [
+    "Adnexal mass, often bilateral",
+    "Uterine enlargement alone",
+    "Cervical motion tenderness alone",
+    "Vault granulation"
+   ],
+   "ans": 0,
+   "exp": "'P/V examination: Adnexal mass' with restricted mobility."
+  },
+  {
+   "id": "ch35-u5-q5",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which two historical clues are printed first under diagnosis?",
+   "opts": [
+    "Past history of tuberculosis and family history of tuberculosis",
+    "History of infertility and abortions",
+    "History of surgery and instrumentation",
+    "History of travel and overcrowding"
+   ],
+   "ans": 0,
+   "exp": "'History: Past H/o TB, Family H/o TB'."
+  },
+  {
+   "id": "ch35-u5-q6",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: Chronic PID that is unresponsive to ____ antibiotics suggests tuberculosis.",
+   "opts": [
+    "narrow spectrum",
+    "topical",
+    "broad spectrum",
+    "antifungal"
+   ],
+   "ans": 2,
+   "exp": "'Chronic PID: Unresponsive to broad spectrum antibiotics'."
+  },
+  {
+   "id": "ch35-u5-q7",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which demographic clue in the history list is printed?",
+   "opts": [
+    "PID in postmenopausal women",
+    "PID in young or pubertal females",
+    "PID after hysterectomy",
+    "PID during lactation"
+   ],
+   "ans": 1,
+   "exp": "'PID in young / pubertal females'."
+  },
+  {
+   "id": "ch35-u5-q8",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: Endometrial biopsy is taken from the ____, on both sides.",
+   "opts": [
+    "fundus",
+    "lower uterine segment",
+    "cervical canal",
+    "cornua"
+   ],
+   "ans": 3,
+   "exp": "'Sample site: Cornua (B/L)'."
+  },
+  {
+   "id": "ch35-u5-q9",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "In which phase is the endometrial sample taken?",
+   "opts": [
+    "Early proliferative phase",
+    "Premenstrual phase",
+    "Mid-cycle",
+    "During menstruation"
+   ],
+   "ans": 1,
+   "exp": "'Phase: Premenstrual phase'."
+  },
+  {
+   "id": "ch35-u5-q10",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: In virgins, endometrial biopsy is avoided and ____ day menstrual blood is taken instead.",
+   "opts": [
+    "first",
+    "last",
+    "fifth",
+    "mid-cycle"
+   ],
+   "ans": 0,
+   "exp": "'Virgins: Endometrial biopsy should not be done. Take 1st day menstrual blood'."
+  },
+  {
+   "id": "ch35-u5-q11",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which medium is the biopsy sample sent in for culture?",
+   "opts": [
+    "Formalin",
+    "Normal transport medium with charcoal",
+    "Saline",
+    "Robertson cooked meat medium"
+   ],
+   "ans": 2,
+   "exp": "'- Culture: In saline' is printed in the sample list."
+  },
+  {
+   "id": "ch35-u5-q12",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which test is described as confirmative?",
+   "opts": [
+    "NAAT",
+    "Culture",
+    "Histopathology",
+    "PCR"
+   ],
+   "ans": 3,
+   "exp": "'- PCR: Confirmative' is printed; NAAT is listed separately."
+  },
+  {
+   "id": "ch35-u5-q13",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "How is the histological diagnosis described?",
+   "opts": [
+    "Definitive",
+    "Gold standard",
+    "Not useful",
+    "In formation"
+   ],
+   "ans": 3,
+   "exp": "'- Histological Diagnosis: In formation'."
+  },
+  {
+   "id": "ch35-u5-q14",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which two ultrasound findings are printed alongside pelvic mass?",
+   "opts": [
+    "Hydrosalpinx and free fluid",
+    "Tubal dilatation and pyosalpinx",
+    "Ovarian cysts and calcification",
+    "Endometrial thickening and fluid"
+   ],
+   "ans": 1,
+   "exp": "'USG: Tubal dilatation, Pyosalpinx, Pelvic mass'."
+  },
+  {
+   "id": "ch35-u5-q15",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: On laparoscopy the fallopian tubes appear red and ____.",
+   "opts": [
+    "hyperaemic",
+    "pale",
+    "black",
+    "calcified"
+   ],
+   "ans": 0,
+   "exp": "'1. Fallopian Tube: Red-hyperemic, Swollen, Dilated'."
+  },
+  {
+   "id": "ch35-u5-q16",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 192,
+   "fmt": "numeric",
+   "q": "How many laparoscopic sites are listed?",
+   "opts": [
+    "Two",
+    "Four",
+    "Three",
+    "Five"
+   ],
+   "ans": 2,
+   "exp": "Fallopian tube, ovary and peritoneum."
+  },
+  {
+   "id": "ch35-u5-q17",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: The purpose of taking a sample at laparoscopy is to ____ the diagnosis.",
+   "opts": [
+    "confirm",
+    "exclude",
+    "stage",
+    "screen for"
+   ],
+   "ans": 0,
+   "exp": "'Take sample → To confirm'."
+  },
+  {
+   "id": "ch35-u5-q18",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "match",
+   "q": "Match each specimen with its test - 1) Culture 2) NAAT 3) PCR 4) Histopathology ... A) In saline B) Nucleic acid amplification C) Confirmative D) In formation",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Culture goes in saline; NAAT amplifies nucleic acid; PCR is confirmative; histology is in formation."
+  },
+  {
+   "id": "ch35-u5-q19",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "scenario",
+   "q": "Scenario: A virgin girl is suspected of having genital tuberculosis. Which diagnostic specimen is appropriate?",
+   "opts": [
+    "Endometrial biopsy from the cornua",
+    "Cervical biopsy",
+    "Culdocentesis aspirate",
+    "First day menstrual blood"
+   ],
+   "ans": 3,
+   "exp": "In virgins the biopsy is avoided and first day menstrual blood is used."
+  },
+  {
+   "id": "ch35-u5-q20",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 191,
+   "fmt": "tf",
+   "q": "True/False: The endometrial biopsy in suspected genital tuberculosis is taken in the early proliferative phase.",
+   "opts": [
+    "True",
+    "False",
+    "True - within 48 hours of menstruation",
+    "True - timing does not matter"
+   ],
+   "ans": 1,
+   "exp": "The premenstrual phase is the printed timing."
+  },
+  {
+   "id": "ch35-u5-q21",
+   "sec": "Examination and Diagnosis",
+   "unit": "Examination and Diagnosis",
+   "page": 192,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed laparoscopic finding?",
+   "opts": [
+    "Red hyperaemic tubes",
+    "Violin string adhesions",
+    "Dilated tubes",
+    "Tubercles on the ovary"
+   ],
+   "ans": 1,
+   "exp": "Violin string adhesions are the Fitz-Hugh-Curtis finding in the PID chapter."
+  },
+  {
+   "id": "ch35-u6-q1",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: Anti-tuberculous treatment is given as Category ____ for six months.",
+   "opts": [
+    "II",
+    "III",
+    "I",
+    "IV"
+   ],
+   "ans": 2,
+   "exp": "'ATT (Category I × 6 months)'."
+  },
+  {
+   "id": "ch35-u6-q2",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "numeric",
+   "q": "For how many months is ATT given?",
+   "opts": [
+    "Six",
+    "Three",
+    "Nine",
+    "Twelve"
+   ],
+   "ans": 0,
+   "exp": "'Category I × 6 months'."
+  },
+  {
+   "id": "ch35-u6-q3",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: The printed note says ATT can improve ____.",
+   "opts": [
+    "menstrual regularity",
+    "pain scores",
+    "ovarian reserve",
+    "fertility"
+   ],
+   "ans": 3,
+   "exp": "': Can improve fertility' follows the ATT entry."
+  },
+  {
+   "id": "ch35-u6-q4",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "recall",
+   "q": "Which procedure is printed for Asherman syndrome?",
+   "opts": [
+    "Dilatation and curettage",
+    "Abdominal myomectomy",
+    "Hysteroscopic adhesiolysis",
+    "Endometrial ablation"
+   ],
+   "ans": 2,
+   "exp": "'Asherman Syndrome: Hysteroscopic adhesiolysis'."
+  },
+  {
+   "id": "ch35-u6-q5",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: After adhesiolysis, a ____ Foley's catheter is placed in the cavity.",
+   "opts": [
+    "three-way",
+    "Malecot",
+    "large bore",
+    "paediatric"
+   ],
+   "ans": 3,
+   "exp": "'Hysteroscopic adhesiolysis + Pediatric Foley's Catheter'."
+  },
+  {
+   "id": "ch35-u6-q6",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "recall",
+   "q": "Which hormonal regimen follows adhesiolysis and for how long?",
+   "opts": [
+    "Estrogen plus progesterone for three months",
+    "Estrogen alone for one month",
+    "Progesterone alone for six months",
+    "Combined oral contraceptive for one year"
+   ],
+   "ans": 0,
+   "exp": "'(Estrogen + Progesterone) × 3 months'."
+  },
+  {
+   "id": "ch35-u6-q7",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: For infertility with distorted pelvic anatomy or tubal block, the treatment offered is ____.",
+   "opts": [
+    "tubal surgery",
+    "IVF",
+    "ovulation induction",
+    "donor insemination"
+   ],
+   "ans": 1,
+   "exp": "'Infertility: IVF + pelvic anatomy distorted / Tubal block'."
+  },
+  {
+   "id": "ch35-u6-q8",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "numeric",
+   "q": "How many rows does the management table have?",
+   "opts": [
+    "Three",
+    "Two",
+    "Four",
+    "Five"
+   ],
+   "ans": 0,
+   "exp": "TB, Asherman syndrome and infertility."
+  },
+  {
+   "id": "ch35-u6-q9",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "match",
+   "q": "Match each problem with its management - 1) Genital TB 2) Asherman syndrome 3) Infertility with tubal block ... A) IVF B) Hysteroscopic adhesiolysis with paediatric Foley catheter and estrogen plus progesterone for 3 months C) ATT Category I for 6 months",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 2,
+   "exp": "TB gets ATT; Asherman gets adhesiolysis and hormones; blocked tubes get IVF."
+  },
+  {
+   "id": "ch35-u6-q10",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with treated genital tuberculosis has Asherman syndrome with secondary amenorrhoea. What is the printed management?",
+   "opts": [
+    "ATT for six more months",
+    "Hysteroscopic adhesiolysis, paediatric Foley catheter and estrogen plus progesterone for three months",
+    "Immediate IVF",
+    "Hysterectomy"
+   ],
+   "ans": 1,
+   "exp": "That three-part regimen is the printed Asherman syndrome row."
+  },
+  {
+   "id": "ch35-u6-q11",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "tf",
+   "q": "True/False: The management table recommends tubal reconstructive surgery for blocked tubes in genital tuberculosis.",
+   "opts": [
+    "True",
+    "True - after ATT",
+    "True - if the patient is under 30",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "IVF is the printed option when pelvic anatomy is distorted or the tubes are blocked."
+  },
+  {
+   "id": "ch35-u6-q12",
+   "sec": "Management of Genital Tuberculosis",
+   "unit": "Management of Genital Tuberculosis",
+   "page": 192,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT part of the printed genital tuberculosis management?",
+   "opts": [
+    "Culpotomy drainage",
+    "ATT Category I for six months",
+    "Hysteroscopic adhesiolysis",
+    "IVF for tubal block"
+   ],
+   "ans": 0,
+   "exp": "Culpotomy drainage belongs to the PID chapter."
+  },
+  {
+   "id": "ch35-u7-q1",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: The chapter opens with the pathological heading ____.",
+   "opts": [
+    "pathophysiology",
+    "epidemiology",
+    "complications",
+    "pathogenesis"
+   ],
+   "ans": 3,
+   "exp": "The first heading on page 188 is 'PATHOGENESIS'."
+  },
+  {
+   "id": "ch35-u7-q2",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 188,
+   "fmt": "recall",
+   "q": "How is the genital lesion categorised relative to the primary focus?",
+   "opts": [
+    "It is a secondary implant from the bowel",
+    "It is a reactivation of a genital focus acquired at birth",
+    "It is a primary genital focus seeded from a lung or nodal source",
+    "It spreads contiguously from the kidney"
+   ],
+   "ans": 2,
+   "exp": "The diagram labels it '1° Genital TB' with the primary source being lung greater than lymph nodes."
+  },
+  {
+   "id": "ch35-u7-q3",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "Fill up: The transmission block lists haematogenous spread as the main route and ____ transmission as the other.",
+   "opts": [
+    "direct contact",
+    "sexual",
+    "occupational",
+    "vector borne"
+   ],
+   "ans": 1,
+   "exp": "'Transmission: Sexual' is the second route printed."
+  },
+  {
+   "id": "ch35-u7-q4",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 188,
+   "fmt": "recall",
+   "q": "Which statement best summarises the tubal sequence?",
+   "opts": [
+    "Salpingitis, then pyosalpinx, then hydrosalpinx, then recanalisation",
+    "Perisalpingitis, then abscess, then fistula",
+    "Endosalpingitis, then caseous necrosis, then fibrosis or adhesion, then bilateral cornual block",
+    "Endometriosis, then adhesion, then blockage"
+   ],
+   "ans": 2,
+   "exp": "That is the exact printed chain on page 188."
+  },
+  {
+   "id": "ch35-u7-q5",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Fill up: The two structures commonly involved are labelled ____, meaning the disease is bilateral.",
+   "opts": [
+    "B/L",
+    "U/L",
+    "R/L",
+    "M/L"
+   ],
+   "ans": 0,
+   "exp": "'SITES: B/L'."
+  },
+  {
+   "id": "ch35-u7-q6",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Which site within the tube is second most common after the ampulla?",
+   "opts": [
+    "Fimbria",
+    "Isthmus",
+    "Infundibulum",
+    "Interstitial portion"
+   ],
+   "ans": 1,
+   "exp": "'m/c site: Ampulla > Isthmus'."
+  },
+  {
+   "id": "ch35-u7-q7",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Why is HSG deferred until after anti-tuberculous treatment?",
+   "opts": [
+    "The tubes are too narrowed to cannulate before treatment",
+    "It is painful before treatment",
+    "It gives a false negative before treatment",
+    "Contrast injection into an untreated tuberculous tube can disseminate the infection"
+   ],
+   "ans": 3,
+   "exp": "The printed contraindication is the risk of dissemination."
+  },
+  {
+   "id": "ch35-u7-q8",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Fill up: ATT is expanded as anti-____ treatment in this chapter.",
+   "opts": [
+    "tubal",
+    "tumour",
+    "thrombotic",
+    "tuberculosis"
+   ],
+   "ans": 3,
+   "exp": "'- Done after ATT (Anti-Tuberculosis Treatment)'."
+  },
+  {
+   "id": "ch35-u7-q9",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Which HSG finding represents complete proximal occlusion?",
+   "opts": [
+    "Beaded appearance",
+    "Tobacco pouch appearance",
+    "Bilateral cornual block",
+    "Cotton wool appearance"
+   ],
+   "ans": 2,
+   "exp": "'B/L cornual block' is the proximal occlusion pattern."
+  },
+  {
+   "id": "ch35-u7-q10",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "match",
+   "q": "Match each HSG term with its place in the printed list - 1) a 2) d 3) e 4) g ... A) Cotton wool appearance B) B/L cornual block C) Beaded appearance D) Golfstick appearance",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The printed order is a beaded, b lead pipe, c tobacco pouch, d golfstick, e B/L cornual block, f cotton wool, g hydrosalpinx."
+  },
+  {
+   "id": "ch35-u7-q11",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "Scenario: An HSG in a treated patient shows a rigid, pipe-like tube with a sac-like distal swelling. Which two printed appearances are present?",
+   "opts": [
+    "Beaded and golfstick appearances",
+    "Lead pipe appearance and tobacco pouch appearance",
+    "Cotton wool and beaded appearances",
+    "Hydrosalpinx and cornual block"
+   ],
+   "ans": 1,
+   "exp": "A rigid tube is the lead pipe appearance and a distal sac is the tobacco pouch appearance."
+  },
+  {
+   "id": "ch35-u7-q12",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "tf",
+   "q": "True/False: The golfstick appearance is listed among the HSG findings of genital tuberculosis.",
+   "opts": [
+    "False",
+    "False - it belongs to uterine anomalies",
+    "False - it belongs to PID",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "It is printed as item d in the HSG list."
+  },
+  {
+   "id": "ch35-u7-q13",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Pathogenesis, Sites and HSG",
+   "page": 189,
+   "fmt": "odd",
+   "q": "Odd one out - which HSG term is NOT a printed genital tuberculosis appearance?",
+   "opts": [
+    "Beaded appearance",
+    "Lead pipe appearance",
+    "Cogwheel appearance",
+    "Tobacco pouch appearance"
+   ],
+   "ans": 2,
+   "exp": "The cogwheel sign is an ultrasound sign of PID."
+  },
+  {
+   "id": "ch35-u8-q1",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The significance line states that first day menstrual ____ can be used for investigation.",
+   "opts": [
+    "tissue",
+    "blood",
+    "clots",
+    "smear"
+   ],
+   "ans": 1,
+   "exp": "'1st day menstrual blood can be used for Investigation'."
+  },
+  {
+   "id": "ch35-u8-q2",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Why can first day menstrual blood be used instead of a biopsy sample?",
+   "opts": [
+    "The superficial endometrial layers are shed in the menstrual flow",
+    "Myometrial fragments are shed",
+    "The cervix is always involved",
+    "Menstrual blood is sterile and easy to culture"
+   ],
+   "ans": 0,
+   "exp": "Because only the superficial endometrium is affected, the shed superficial layer carries the organism."
+  },
+  {
+   "id": "ch35-u8-q3",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The chronic uterine lesion is named ____ syndrome.",
+   "opts": [
+    "Asherman",
+    "Fitz-Hugh-Curtis",
+    "Sheehan",
+    "McCune-Albright"
+   ],
+   "ans": 0,
+   "exp": "'Chronic: Adhesions (Asherman syndrome)'."
+  },
+  {
+   "id": "ch35-u8-q4",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which structure prevents spread of ovarian tuberculosis into the stroma?",
+   "opts": [
+    "Germinal epithelium",
+    "Ovarian medulla",
+    "Broad ligament",
+    "Tunica albuginea"
+   ],
+   "ans": 3,
+   "exp": "'TB limited to: Surface of ovary by Tunica albuginea'."
+  },
+  {
+   "id": "ch35-u8-q5",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: Ovarian tuberculosis is visible at laparoscopy as ____ on the ovarian surface.",
+   "opts": [
+    "chocolate cysts",
+    "dermoid plugs",
+    "tubercles",
+    "fimbrial cysts"
+   ],
+   "ans": 2,
+   "exp": "'Appearance: Tubercles on surface of ovary (on laparoscopy)'."
+  },
+  {
+   "id": "ch35-u8-q6",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which age qualifier is attached to the 20 to 30 year peak?",
+   "opts": [
+    "It is never seen before menarche",
+    "It may also be seen in young girls",
+    "It is exclusively post-pubertal",
+    "It is limited to parous women"
+   ],
+   "ans": 1,
+   "exp": "'± Seen in young girls' is printed beside the age group."
+  },
+  {
+   "id": "ch35-u8-q7",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: The menstrual abnormality that becomes most common is secondary amenorrhoea or ____.",
+   "opts": [
+    "menorrhagia",
+    "polymenorrhoea",
+    "metrorrhagia",
+    "hypomenorrhoea"
+   ],
+   "ans": 3,
+   "exp": "'m/c: 2° amenorrhea / hypomenorrhea d/t Asherman syndrome'."
+  },
+  {
+   "id": "ch35-u8-q8",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which single symptom is described as rare?",
+   "opts": [
+    "Infertility",
+    "Chronic pelvic pain",
+    "Serosanguinous blood-stained discharge",
+    "Menstrual irregularity"
+   ],
+   "ans": 2,
+   "exp": "'Rare: Serosanguinous (Blood stained) discharge'."
+  },
+  {
+   "id": "ch35-u8-q9",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Fill up: Genital tuberculosis carries a future risk of ____ pregnancy.",
+   "opts": [
+    "ectopic",
+    "molar",
+    "multiple",
+    "preterm"
+   ],
+   "ans": 0,
+   "exp": "'Future risk of: ectopic pregnancy'."
+  },
+  {
+   "id": "ch35-u8-q10",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "match",
+   "q": "Match each clinical feature with its frequency tag - 1) Infertility 2) Chronic pelvic pain 3) Serosanguinous discharge 4) Prodromal fever ... A) Rare B) Most common C) Plus-minus D) Low grade",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 1,
+   "exp": "Infertility is most common; pelvic pain carries the plus-minus sign; the discharge is rare; fever is low grade."
+  },
+  {
+   "id": "ch35-u8-q11",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "scenario",
+   "q": "Scenario: A 26-year-old woman presents with infertility and a 2-year history of low grade fever, malaise and weight loss. Which combination points to genital tuberculosis?",
+   "opts": [
+    "Anosmia plus primary amenorrhoea",
+    "Hirsutism plus oligomenorrhoea",
+    "Prodromal constitutional symptoms plus infertility from tubal blockage",
+    "Cyclical pain plus a bulging hymen"
+   ],
+   "ans": 2,
+   "exp": "Low grade fever, malaise and weight loss are the printed prodrome with infertility as the commonest presentation."
+  },
+  {
+   "id": "ch35-u8-q12",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "tf",
+   "q": "True/False: Genital tuberculosis is the commonest cause of PID in postmenopausal women.",
+   "opts": [
+    "True",
+    "True - after the age of 55",
+    "True - together with E. coli",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "It is the commonest cause in virgin females; menopausal PID is listed with E. coli."
+  },
+  {
+   "id": "ch35-u8-q13",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Uterine, Ovarian and Clinical Features",
+   "page": 190,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed clinical feature?",
+   "opts": [
+    "Low grade fever",
+    "Anosmia",
+    "Weight loss",
+    "Infertility"
+   ],
+   "ans": 1,
+   "exp": "Anosmia belongs to Kallmann syndrome in the primary amenorrhoea chapter."
+  },
+  {
+   "id": "ch35-u9-q1",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: The per-abdominal sign that accompanies tubercular peritonitis is a ____ abdomen with ascites.",
+   "opts": [
+    "doughy",
+    "rigid",
+    "tympanic",
+    "scaphoid"
+   ],
+   "ans": 0,
+   "exp": "'P/A examination: Doughy abdomen, Ascites'."
+  },
+  {
+   "id": "ch35-u9-q2",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which examination reveals the frozen pelvis?",
+   "opts": [
+    "Per vaginal examination",
+    "Per speculum examination",
+    "Per abdominal examination",
+    "Per rectal examination only"
+   ],
+   "ans": 0,
+   "exp": "'P/V examination: Adnexal mass, Restricted mobility: Frozen pelvis'."
+  },
+  {
+   "id": "ch35-u9-q3",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: Which three specimens of the endometrial sample are listed - culture in saline, NAAT and ____?",
+   "opts": [
+    "ELISA",
+    "Gram stain",
+    "PCR",
+    "KOH mount"
+   ],
+   "ans": 2,
+   "exp": "The sample list is culture, NAAT, PCR and histopathology."
+  },
+  {
+   "id": "ch35-u9-q4",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which ultrasound finding suggests acute suppuration rather than a chronic fibrosed tube?",
+   "opts": [
+    "Tubal dilatation",
+    "Pyosalpinx",
+    "Pelvic mass",
+    "Hydrosalpinx"
+   ],
+   "ans": 1,
+   "exp": "'USG: Tubal dilatation, Pyosalpinx, Pelvic mass'."
+  },
+  {
+   "id": "ch35-u9-q5",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: Laparoscopy lists three sites: fallopian tube, ovary and ____.",
+   "opts": [
+    "uterus",
+    "cervix",
+    "omentum",
+    "peritoneum"
+   ],
+   "ans": 3,
+   "exp": "'Site: 1. Fallopian Tube, 2. Ovary, 3. Peritoneum'."
+  },
+  {
+   "id": "ch35-u9-q6",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 192,
+   "fmt": "recall",
+   "q": "Which three descriptors are printed for the tuberculous tube at laparoscopy?",
+   "opts": [
+    "Red and hyperaemic, swollen and dilated",
+    "Pale, thin and fibrotic",
+    "Beaded, rigid and calcified",
+    "Purple, oedematous and ulcerated"
+   ],
+   "ans": 0,
+   "exp": "'Red-hyperemic, Swollen, Dilated'."
+  },
+  {
+   "id": "ch35-u9-q7",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: The management table's first row is anti-tuberculous treatment, category ____ for six months.",
+   "opts": [
+    "II",
+    "III",
+    "I",
+    "IV"
+   ],
+   "ans": 2,
+   "exp": "'ATT (Category I × 6 months)'."
+  },
+  {
+   "id": "ch35-u9-q8",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 192,
+   "fmt": "recall",
+   "q": "What follows hysteroscopic adhesiolysis in the printed regimen?",
+   "opts": [
+    "An intrauterine device and six months of estrogen",
+    "A paediatric Foley catheter and three months of estrogen plus progesterone",
+    "Immediate embryo transfer",
+    "A second look hysteroscopy at one week"
+   ],
+   "ans": 1,
+   "exp": "The Asherman row prints the catheter and the three-month hormone course."
+  },
+  {
+   "id": "ch35-u9-q9",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "Fill up: Hormonal therapy after adhesiolysis is estrogen plus ____ for three months.",
+   "opts": [
+    "testosterone",
+    "DHT",
+    "clomiphene",
+    "progesterone"
+   ],
+   "ans": 3,
+   "exp": "'(Estrogen + Progesterone) × 3 months'."
+  },
+  {
+   "id": "ch35-u9-q10",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 192,
+   "fmt": "match",
+   "q": "Match each management row with its goal - 1) ATT 2) Hysteroscopic adhesiolysis with catheter and hormones 3) IVF ... A) Restore the cavity and prevent re-adhesion B) Treat infection and possibly improve fertility C) Bypass distorted anatomy or tubal block",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "ATT treats infection; adhesiolysis restores the cavity; IVF bypasses the tubes."
+  },
+  {
+   "id": "ch35-u9-q11",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 192,
+   "fmt": "scenario",
+   "q": "Scenario: A treated patient has persistent tubal block and distorted pelvic anatomy. What does the table advise?",
+   "opts": [
+    "IVF",
+    "Repeat ATT for six more months",
+    "Tubal anastomosis",
+    "Hysteroscopic adhesiolysis"
+   ],
+   "ans": 0,
+   "exp": "Infertility with distorted anatomy or tubal block is the IVF row."
+  },
+  {
+   "id": "ch35-u9-q12",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "tf",
+   "q": "True/False: Endometrial biopsy is taken from the cornua because the disease preferentially affects the cornual endometrium.",
+   "opts": [
+    "False",
+    "False - the fundus is preferred",
+    "False - the lower segment is preferred",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The printed sample site is the cornua, on both sides."
+  },
+  {
+   "id": "ch35-u9-q13",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "odd",
+   "q": "Odd one out - which diagnostic item is NOT in the printed work-up?",
+   "opts": [
+    "Endometrial biopsy in the premenstrual phase",
+    "Pelvic ultrasound",
+    "Mantoux test",
+    "Diagnostic laparoscopy with biopsy"
+   ],
+   "ans": 2,
+   "exp": "The Mantoux test is not printed in this chapter's work-up."
+  },
+  {
+   "id": "ch35-u9-q14",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Fill up: In a virgin with suspected genital tuberculosis, the endometrial biopsy is ____.",
+   "opts": [
+    "mandatory",
+    "done under anaesthesia",
+    "replaced by a cervical biopsy",
+    "avoided"
+   ],
+   "ans": 3,
+   "exp": "'Virgins: Endometrial biopsy should not be done. Take 1st day menstrual blood'."
+  },
+  {
+   "id": "ch35-u9-q15",
+   "sec": "Complete Coverage: Genital Tuberculosis",
+   "unit": "Second Pass - Diagnosis and Management",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which two findings make the clinician suspect tuberculosis rather than ordinary PID?",
+   "opts": [
+    "Chronic PID unresponsive to broad-spectrum antibiotics, and PID in a young or pubertal female",
+    "Fever above 101 degrees Fahrenheit and a raised CRP",
+    "Cervical motion tenderness and mucopurulent discharge",
+    "Adnexal tenderness alone"
+   ],
+   "ans": 0,
+   "exp": "Both historical clues are printed in the diagnosis list."
+  }
+ ]
+}

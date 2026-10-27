@@ -1,0 +1,1957 @@
+{
+ "chapter": 43,
+ "questions": [
+  {
+   "id": "ch43-u1-q1",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "Endometrial cancer is said to be seen in ____ states.",
+   "opts": [
+    "hyperprolactinaemic",
+    "hyperestrogenic",
+    "hyperandrogenic",
+    "hypooestrogenic"
+   ],
+   "ans": 1,
+   "exp": "Seen in hyperestrogenic states opens the Associated Factors & Screening section at 00:01:03."
+  },
+  {
+   "id": "ch43-u1-q2",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "The risk-factor mnemonic printed is ____.",
+   "opts": [
+    "Familial old age",
+    "Family has old uncle",
+    "Family has old aunt",
+    "FAT old aunt"
+   ],
+   "ans": 2,
+   "exp": "Mnemonic: Family has old aunt; the risk list follows."
+  },
+  {
+   "id": "ch43-u1-q3",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "Among the risk factors, ____ is marked m/c (most common).",
+   "opts": [
+    "diabetes",
+    "nulliparity",
+    "obesity",
+    "hypertension"
+   ],
+   "ans": 2,
+   "exp": "Obesity: m/c is printed in the risk list."
+  },
+  {
+   "id": "ch43-u1-q4",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "odd",
+   "q": "Which is NOT in the source's endometrial-cancer risk list?",
+   "opts": [
+    "Atypical endometrial hyperplasia",
+    "Early menarche protection from early coitarche",
+    "Unopposed estrogen",
+    "Late menopause and early menarche"
+   ],
+   "ans": 1,
+   "exp": "Early coitarche is a cervix-cancer risk factor in a later chapter, not an endometrial-cancer risk here."
+  },
+  {
+   "id": "ch43-u1-q5",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "Unopposed estrogen risk is exemplified by PCOS, estrogen-only HRT and ____.",
+   "opts": [
+    "progesterone-only injectables",
+    "aromatase inhibitors",
+    "combined OCPs",
+    "estrogen-secreting granulosa cell tumours"
+   ],
+   "ans": 3,
+   "exp": "Unopposed estrogen -> PCOS, estrogen only HRT, estrogen secreting hormones (Granulosa cell tumours)."
+  },
+  {
+   "id": "ch43-u1-q6",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "Nulliparity and ____ are both listed as risk factors.",
+   "opts": [
+    "OCP use",
+    "pregnancy",
+    "multiparity",
+    "tamoxifen"
+   ],
+   "ans": 3,
+   "exp": "Nulliparity and Tamoxifen (2nd m/c) are risk entries; multiparity, pregnancy and OCP are protective."
+  },
+  {
+   "id": "ch43-u1-q7",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "Tamoxifen is annotated as the ____ most common drug-related risk in this list.",
+   "opts": [
+    "third",
+    "second",
+    "first",
+    "fourth"
+   ],
+   "ans": 1,
+   "exp": "Tamoxifen: 2nd m/c; the annotation is source shorthand about ranking, not a quantified incidence."
+  },
+  {
+   "id": "ch43-u1-q8",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "scenario",
+   "q": "Source-check: the tamoxifen bullet adds a 'time between tamoxifen and pregnancy' of min 2 months, ideal 3 months. What is the safest reading?",
+   "opts": [
+    "The interval is a WHO legal requirement",
+    "It is an edition-specific spacing annotation; individual oncology and reproductive counselling governs care",
+    "Tamoxifen is safe throughout pregnancy",
+    "Pregnancy must always occur exactly 3 months after tamoxifen"
+   ],
+   "ans": 1,
+   "exp": "The min/ideal line is study shorthand about a washout interval, not a universal rule; tamoxifen is not a drug to be used in pregnancy."
+  },
+  {
+   "id": "ch43-u1-q9",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "OCPs protect because progesterone ____ estrogen receptors on the endometrium.",
+   "opts": [
+    "blocks irreversibly",
+    "downregulates",
+    "phosphorylates",
+    "upregulates"
+   ],
+   "ans": 1,
+   "exp": "OCP: Progesterone downregulates estrogen receptors -> decreased proliferation -> endometrial atrophy."
+  },
+  {
+   "id": "ch43-u1-q10",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "The proposed (weaker) protective factors listed are ____.",
+   "opts": [
+    "physical exercise and green tea",
+    "radical surgery and radiotherapy",
+    "weight gain and smoking",
+    "antibiotics and antivirals"
+   ],
+   "ans": 0,
+   "exp": "Proposed protective factors: Physical exercise and green tea; multiparity, pregnancy and OCP are the main ones."
+  },
+  {
+   "id": "ch43-u1-q11",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "match",
+   "q": "Match the factor: 1) Obesity 2) OCP 3) Green tea with A) Protective, proposed B) Risk, most common C) Protective, hormonal.",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The three columns separate the leading risk, a hormonal protective factor and a merely proposed protective factor."
+  },
+  {
+   "id": "ch43-u1-q12",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "Corpus cancer syndrome is the triad of hypertension, obesity and ____.",
+   "opts": [
+    "smoking",
+    "nulliparity",
+    "tamoxifen",
+    "diabetes"
+   ],
+   "ans": 3,
+   "exp": "Hypertension, Obesity, Diabetes -> increased risk of endometrial Ca."
+  },
+  {
+   "id": "ch43-u1-q13",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "Lynch II syndrome is also called ____ syndrome.",
+   "opts": [
+    "Peutz-Jeghers",
+    "BRCA1",
+    "Cowden",
+    "HNPCC (hereditary non-polyposis colorectal carcinoma)"
+   ],
+   "ans": 3,
+   "exp": "Aka HNPCC syndrome: Hereditary non polyposis colorectal carcinoma."
+  },
+  {
+   "id": "ch43-u1-q14",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "The most common cancer associated with Lynch II in the source is ____ cancer.",
+   "opts": [
+    "breast",
+    "colon",
+    "thyroid",
+    "ovarian"
+   ],
+   "ans": 1,
+   "exp": "Cancers associated with Lynch II -> m/c: Colon cancer."
+  },
+  {
+   "id": "ch43-u1-q15",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "tf",
+   "q": "I) Obesity is labelled the most common risk factor. II) Multiparity is listed as protective.",
+   "opts": [
+    "I true; II false",
+    "Both false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "Obesity: m/c is in the risk column; multiparity is in the protective column."
+  },
+  {
+   "id": "ch43-u1-q16",
+   "sec": "Associated factors, protective factors and familial syndromes",
+   "unit": "Associated factors, protective factors and familial syndromes",
+   "page": 230,
+   "fmt": "scenario",
+   "q": "A student claims OCPs increase endometrial cancer risk because they contain estrogen. Which correction fits the source?",
+   "opts": [
+    "Only estrogen-only HRT is protective",
+    "OCPs are the most common risk factor",
+    "OCPs have no effect on the endometrium",
+    "OCPs are protective because progestin downregulates endometrial estrogen receptors"
+   ],
+   "ans": 3,
+   "exp": "The source's protective mechanism is progestin-driven receptor downregulation and endometrial atrophy."
+  },
+  {
+   "id": "ch43-u2-q1",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "In Lynch syndrome the second most common cancer after colon is ____ cancer, exceeding ovarian.",
+   "opts": [
+    "cervical",
+    "endometrial",
+    "vulval",
+    "breast"
+   ],
+   "ans": 1,
+   "exp": "2nd m/c: Endometrial Ca > Ovarian Ca."
+  },
+  {
+   "id": "ch43-u2-q2",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "The mismatch-repair genes named for Lynch syndrome are ____.",
+   "opts": [
+    "PTEN and KRAS",
+    "MLH1, MSH2 and MSH6",
+    "p53 and Rb",
+    "BRCA1 and BRCA2"
+   ],
+   "ans": 1,
+   "exp": "Genes involved: MLH1, MSH2, MSH6."
+  },
+  {
+   "id": "ch43-u2-q3",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "The source quotes a ____ chance of endometrial cancer in Lynch syndrome.",
+   "opts": [
+    "60%",
+    "90%",
+    "5%",
+    "10%"
+   ],
+   "ans": 0,
+   "exp": "60% chance of endometrial ca. in Lynch syndrome is the printed figure; it is a source statistic, not a personal-risk calculator."
+  },
+  {
+   "id": "ch43-u2-q4",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "Cowden syndrome is linked to a mutation in the ____ gene on chromosome 10.",
+   "opts": [
+    "p53",
+    "KRAS",
+    "BRCA2",
+    "PTEN"
+   ],
+   "ans": 3,
+   "exp": "Cowden syndrome: mutation in PTEN gene on chromosome 10."
+  },
+  {
+   "id": "ch43-u2-q5",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "BRCA1 and BRCA2 mutations are associated mainly with ____ cancer exceeding endometrial.",
+   "opts": [
+    "cervical",
+    "colon",
+    "thyroid",
+    "ovarian"
+   ],
+   "ans": 3,
+   "exp": "3) BRCA 1 & 2 mutation: Associated cancers: Ovarian ca > Endometrial ca."
+  },
+  {
+   "id": "ch43-u2-q6",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "odd",
+   "q": "Which is NOT a familial syndrome in this screening list?",
+   "opts": [
+    "Cowden syndrome",
+    "Gardner syndrome",
+    "Lynch II (HNPCC)",
+    "BRCA1/2 mutation"
+   ],
+   "ans": 1,
+   "exp": "The list names Lynch II, Cowden and BRCA1/2; Gardner is not printed here."
+  },
+  {
+   "id": "ch43-u2-q7",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "Universal screening for endometrial cancer ____ according to the source.",
+   "opts": [
+    "starts at 21 years",
+    "is not done",
+    "is done annually for all",
+    "uses only MRI"
+   ],
+   "ans": 1,
+   "exp": "Universal screening not done; indication: Hereditary cancer."
+  },
+  {
+   "id": "ch43-u2-q8",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "For hereditary-cancer families the source advises an annual ____.",
+   "opts": [
+    "colonoscopy from 50 years",
+    "endometrial biopsy from 35 years of age",
+    "CA-125 from 40 years",
+    "Pap smear from 21 years"
+   ],
+   "ans": 1,
+   "exp": "Annual endometrial biopsy: From 35 years of age; mx: OCPs if needed."
+  },
+  {
+   "id": "ch43-u2-q9",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "The best method of prevention in familial syndromes is ____.",
+   "opts": [
+    "tamoxifen",
+    "annual MRI",
+    "TAH plus BSO",
+    "Mirena alone"
+   ],
+   "ans": 2,
+   "exp": "Best method of prevention in familial syndromes: TAH + BSO."
+  },
+  {
+   "id": "ch43-u2-q10",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "In that prophylactic surgery, TAH prevents ____ cancer and BSO prevents ____ cancer.",
+   "opts": [
+    "endometrial; ovarian",
+    "ovarian; endometrial",
+    "cervical; vulval",
+    "colon; breast"
+   ],
+   "ans": 0,
+   "exp": "TAH: Prevents endometrial ca.; BSO: Prevents ovarian ca."
+  },
+  {
+   "id": "ch43-u2-q11",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "The indication for prophylactic TAH+BSO in the source is a completed family by ____.",
+   "opts": [
+    "65 years",
+    "40 years of age",
+    "21 years",
+    "35 years"
+   ],
+   "ans": 1,
+   "exp": "Indication: Completed family by 40 years of age; these are historical programme-style criteria, not a rule overriding individual choice."
+  },
+  {
+   "id": "ch43-u2-q12",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "scenario",
+   "q": "Source-check: the sheet offers risk-reducing TAH+BSO at 'completed family by 40 years'. What is the appropriate caution?",
+   "opts": [
+    "It is a source criterion; contemporary care requires genetic counselling, individual risk and autonomous informed consent",
+    "A spouse's consent is sufficient",
+    "Prophylactic surgery has no alternatives",
+    "Surgery must be performed on every BRCA carrier at 40"
+   ],
+   "ans": 0,
+   "exp": "The printed age/parity criterion is not a universal or compulsory rule."
+  },
+  {
+   "id": "ch43-u2-q13",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "The most common histopathologic type of endometrial cancer is ____.",
+   "opts": [
+    "adenocarcinoma",
+    "lymphoma",
+    "melanoma",
+    "sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma: m/c type."
+  },
+  {
+   "id": "ch43-u2-q14",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "The endometrioid adenocarcinoma is described as a tumour of a uterus lined by ____ epithelium.",
+   "opts": [
+    "squamous",
+    "transitional",
+    "columnar",
+    "cuboidal ciliated"
+   ],
+   "ans": 2,
+   "exp": "Uterus lined by columnar epithelium; a.k.a endometrioid tumour."
+  },
+  {
+   "id": "ch43-u2-q15",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "Adenocarcinoma of the endometrium is also called a(n) ____ tumour.",
+   "opts": [
+    "endometrioid",
+    "serous",
+    "clear cell",
+    "carcinosarcomatous"
+   ],
+   "ans": 0,
+   "exp": "A.k.a endometrioid tumour."
+  },
+  {
+   "id": "ch43-u2-q16",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "The most malignant histologic type in the source is ____.",
+   "opts": [
+    "carcinosarcoma",
+    "clear cell",
+    "endometrioid",
+    "mucinous"
+   ],
+   "ans": 1,
+   "exp": "Clear cell: most malignant (Clear cell > Papillary serous)."
+  },
+  {
+   "id": "ch43-u2-q17",
+   "sec": "Familial syndromes, screening and histopathologic types",
+   "unit": "Familial syndromes, screening and histopathologic types",
+   "page": 231,
+   "fmt": "odd",
+   "q": "Which is NOT among the histopathologic types listed?",
+   "opts": [
+    "Serous",
+    "Mucinous",
+    "Liposarcoma",
+    "Carcinosarcoma"
+   ],
+   "ans": 2,
+   "exp": "Serous, Mucinous and Carcinosarcoma are listed; liposarcoma is not."
+  },
+  {
+   "id": "ch43-u3-q1",
+   "sec": "Grading of adenocarcinoma",
+   "unit": "Grading of adenocarcinoma",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "Grading of adenocarcinoma is based on the ____ component.",
+   "opts": [
+    "necrotic",
+    "glandular",
+    "undifferentiated solid",
+    "stromal"
+   ],
+   "ans": 2,
+   "exp": "Based on undifferentiated solid component."
+  },
+  {
+   "id": "ch43-u3-q2",
+   "sec": "Grading of adenocarcinoma",
+   "unit": "Grading of adenocarcinoma",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "Grade 1 (well differentiated) has a solid component of ____.",
+   "opts": [
+    "at least 50%",
+    "more than 90%",
+    "6-50%",
+    "less than 5%"
+   ],
+   "ans": 3,
+   "exp": "Grade 1: <5% solid, well differentiated."
+  },
+  {
+   "id": "ch43-u3-q3",
+   "sec": "Grading of adenocarcinoma",
+   "unit": "Grading of adenocarcinoma",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "Grade 2 (moderately differentiated) corresponds to a solid component of ____.",
+   "opts": [
+    "at least 50%",
+    "less than 5%",
+    "6-50%",
+    "51-90%"
+   ],
+   "ans": 2,
+   "exp": "Grade 2: 6-50% solid, moderately differentiated."
+  },
+  {
+   "id": "ch43-u3-q4",
+   "sec": "Grading of adenocarcinoma",
+   "unit": "Grading of adenocarcinoma",
+   "page": 231,
+   "fmt": "fillup",
+   "q": "Grade 3 (poorly differentiated) has a solid component of ____.",
+   "opts": [
+    "at least 50%",
+    "exactly 5%",
+    "6-50%",
+    "less than 5%"
+   ],
+   "ans": 0,
+   "exp": "Grade 3: >=50% solid, poorly differentiated."
+  },
+  {
+   "id": "ch43-u3-q5",
+   "sec": "Grading of adenocarcinoma",
+   "unit": "Grading of adenocarcinoma",
+   "page": 231,
+   "fmt": "match",
+   "q": "Match the adenocarcinoma grade: 1) Grade 1 2) Grade 2 3) Grade 3 with A) >=50% solid B) <5% solid C) 6-50% solid.",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "The three solid-component bands ascend with worsening differentiation."
+  },
+  {
+   "id": "ch43-u3-q6",
+   "sec": "Grading of adenocarcinoma",
+   "unit": "Grading of adenocarcinoma",
+   "page": 231,
+   "fmt": "scenario",
+   "q": "A tumour shows 60% undifferentiated solid growth. Which source grade applies?",
+   "opts": [
+    "Grade 3, poorly differentiated",
+    "Not gradable by this scheme",
+    "Grade 2, moderately differentiated",
+    "Grade 1, well differentiated"
+   ],
+   "ans": 0,
+   "exp": ">=50% solid maps to Grade 3, poorly differentiated."
+  },
+  {
+   "id": "ch43-u3-q7",
+   "sec": "Grading of adenocarcinoma",
+   "unit": "Grading of adenocarcinoma",
+   "page": 231,
+   "fmt": "tf",
+   "q": "I) Higher grade corresponds to a larger solid component. II) Grade 1 is poorly differentiated.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I true; II true",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "Solid percentage rises with grade number, but Grade 1 is well differentiated."
+  },
+  {
+   "id": "ch43-u4-q1",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Type 1 endometrial carcinoma, the most common, comprises adenocarcinoma grades ____.",
+   "opts": [
+    "3 only",
+    "2 and 3",
+    "1 and 2",
+    "1 and 3"
+   ],
+   "ans": 2,
+   "exp": "Type 1: (m/c) Adenocarcinoma grade 1, 2."
+  },
+  {
+   "id": "ch43-u4-q2",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Type 2 carcinoma comprises grade 3 adenocarcinoma, clear cell and ____.",
+   "opts": [
+    "papillary serous",
+    "endometrioid",
+    "mucinous",
+    "carcinoid"
+   ],
+   "ans": 0,
+   "exp": "Type 2: Adenocarcinoma grade 3, Clear cell, Papillary serous."
+  },
+  {
+   "id": "ch43-u4-q3",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Prognosis is ____ for type 1 and ____ for type 2.",
+   "opts": [
+    "good; bad",
+    "bad; good",
+    "unknown; good",
+    "identical; identical"
+   ],
+   "ans": 0,
+   "exp": "Prognosis: Good (type 1), Bad (type 2)."
+  },
+  {
+   "id": "ch43-u4-q4",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Type 1 is associated with ____ estrogen and type 2 with decreased estrogen.",
+   "opts": [
+    "normal",
+    "absent",
+    "increased",
+    "cyclic"
+   ],
+   "ans": 2,
+   "exp": "Associated features: up-estrogen (type 1) versus down-estrogen (type 2)."
+  },
+  {
+   "id": "ch43-u4-q5",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The predisposing factor for type 1 is ____ and for type 2 it is endometrial atrophy.",
+   "opts": [
+    "endometrial hyperplasia",
+    "adenomyosis",
+    "PCOS only",
+    "cervical stenosis"
+   ],
+   "ans": 0,
+   "exp": "Predisposing factors: Endometrial hyperplasia (type 1), Endometrial atrophy (type 2)."
+  },
+  {
+   "id": "ch43-u4-q6",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Type 1 is described in a ____ woman aged 50-60; type 2 in a thin woman aged 60-70.",
+   "opts": [
+    "nulliparous",
+    "obese",
+    "pregnant",
+    "adolescent"
+   ],
+   "ans": 1,
+   "exp": "Age & features: type 1 = 50-60 years, Obese; type 2 = 60-70 years, Thin."
+  },
+  {
+   "id": "ch43-u4-q7",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Gene mutations for type 1 are ____ and for type 2 it is p53.",
+   "opts": [
+    "MLH1 and MSH2",
+    "BRCA1 and BRCA2",
+    "PTEN and KRAS",
+    "POLE and Rb"
+   ],
+   "ans": 2,
+   "exp": "Gene mutation: PTEN, KRAS (type 1); p53 gene (type 2)."
+  },
+  {
+   "id": "ch43-u4-q8",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "match",
+   "q": "Match the type: 1) Type 1 2) Type 2 with A) p53 mutation, thin, 60-70 y, bad prognosis B) PTEN/KRAS, obese, 50-60 y, good prognosis.",
+   "opts": [
+    "1-B, 2-A",
+    "Both B",
+    "Both A",
+    "1-A, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Each column of the comparison table is internally consistent; the two must not be mixed."
+  },
+  {
+   "id": "ch43-u4-q9",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The most common age group for endometrial cancer is 50-70 years with a median of ____.",
+   "opts": [
+    "60 years",
+    "75 years",
+    "35 years",
+    "45 years"
+   ],
+   "ans": 0,
+   "exp": "m/c: 50-70 years; median: 60 years."
+  },
+  {
+   "id": "ch43-u4-q10",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The most common presenting complaint is ____.",
+   "opts": [
+    "weight loss",
+    "irregular vaginal bleeding / AUB",
+    "postcoital bleeding only",
+    "pelvic mass"
+   ],
+   "ans": 1,
+   "exp": "Irregular vaginal bleeding/AUB: m/c complaint."
+  },
+  {
+   "id": "ch43-u4-q11",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The most specific presentation is ____.",
+   "opts": [
+    "infertility",
+    "dysmenorrhoea",
+    "postmenopausal bleeding (PMB)",
+    "vaginal discharge"
+   ],
+   "ans": 2,
+   "exp": "Post menopausal bleeding (PMB): most specific."
+  },
+  {
+   "id": "ch43-u4-q12",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "About ____ of postmenopausal bleeding is due to endometrial cancer in the source.",
+   "opts": [
+    "90%",
+    "30%",
+    "10%",
+    "37%"
+   ],
+   "ans": 2,
+   "exp": "10% of PMB -> Endometrial ca."
+  },
+  {
+   "id": "ch43-u4-q13",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The most common cause of PMB in the source is ____ (37%), exceeding endometrial atrophy (30%).",
+   "opts": [
+    "polyp",
+    "adenomyosis",
+    "cancer cervix",
+    "fibroid"
+   ],
+   "ans": 0,
+   "exp": "m/c cause of PMB: Polyp (37%) > Endometrial atrophy (30%)."
+  },
+  {
+   "id": "ch43-u4-q14",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Pain referred to the right hypochondrium is termed ____ pain in the source.",
+   "opts": [
+    "Rovsing",
+    "Mittelschmerz",
+    "Simpson",
+    "Murphy"
+   ],
+   "ans": 2,
+   "exp": "Pain referred to right hypochondrium: Simpson pain."
+  },
+  {
+   "id": "ch43-u4-q15",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The most common route of spread named is ____.",
+   "opts": [
+    "haematogenous",
+    "direct",
+    "lymphatic only",
+    "transcoelomic only"
+   ],
+   "ans": 1,
+   "exp": "Spread: Direct: m/c route."
+  },
+  {
+   "id": "ch43-u4-q16",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The note names ____ as the gatekeeper gene.",
+   "opts": [
+    "BRCA1",
+    "KRAS",
+    "p53",
+    "PTEN"
+   ],
+   "ans": 3,
+   "exp": "Note: GateKeeper gene: PTEN."
+  },
+  {
+   "id": "ch43-u4-q17",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "odd",
+   "q": "Which is NOT listed as a presentation of endometrial cancer?",
+   "opts": [
+    "Pelvic pressure/pain",
+    "Dirty vaginal discharge",
+    "Irregular vaginal bleeding",
+    "Painless jaundice"
+   ],
+   "ans": 3,
+   "exp": "Jaundice is not in the presentation list."
+  },
+  {
+   "id": "ch43-u4-q18",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "tf",
+   "q": "I) Type 2 has a worse prognosis than type 1. II) Type 2 arises on a background of endometrial hyperplasia.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "I true; II true",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "Type 2 is bad-prognosis but is linked to atrophy, not hyperplasia."
+  },
+  {
+   "id": "ch43-u4-q19",
+   "sec": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "unit": "Type 1 versus type 2 carcinoma, presentation and spread",
+   "page": 232,
+   "fmt": "scenario",
+   "q": "An obese 55-year-old has a grade 1 endometrioid tumour. Which type and gene profile does the source predict?",
+   "opts": [
+    "Type 2 with POLE mutation",
+    "Type 1 with PTEN/KRAS mutations",
+    "Type 2 with p53 mutation",
+    "Type 1 with p53 mutation"
+   ],
+   "ans": 1,
+   "exp": "Age, obesity, low grade and good-prognosis type 1 align with PTEN/KRAS."
+  },
+  {
+   "id": "ch43-u5-q1",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "In the diagnostic algorithm, ____ is the first investigation.",
+   "opts": [
+    "TVS",
+    "MRI",
+    "PET-CT",
+    "hysteroscopy"
+   ],
+   "ans": 0,
+   "exp": "TVS: First investigation -> Endometrial thickness."
+  },
+  {
+   "id": "ch43-u5-q2",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The TVS threshold that leads on to biopsy is endometrial thickness >= ____.",
+   "opts": [
+    "2 mm",
+    "20 mm",
+    "12 mm",
+    "4 mm"
+   ],
+   "ans": 3,
+   "exp": "Endometrial thickness >=4 mm -> Endometrial biopsy: IOC."
+  },
+  {
+   "id": "ch43-u5-q3",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The investigation of choice in the algorithm is ____.",
+   "opts": [
+    "endometrial biopsy",
+    "hysteroscopy",
+    "fractional curettage",
+    "CT"
+   ],
+   "ans": 0,
+   "exp": "Endometrial biopsy: IOC; malignancy +ve proceeds to further staging."
+  },
+  {
+   "id": "ch43-u5-q4",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "Fractional curettage plus hysteroscopy is described as the ____.",
+   "opts": [
+    "gold standard",
+    "palliative option",
+    "first test",
+    "screening test"
+   ],
+   "ans": 0,
+   "exp": "Fractional curettage + Hysteroscopy -> Gold standard: Assesses type, grade & histology."
+  },
+  {
+   "id": "ch43-u5-q5",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "fillup",
+   "q": "The gold-standard step assesses ____.",
+   "opts": [
+    "serum tumour markers",
+    "ovarian reserve",
+    "type, grade and histology",
+    "nodal metastases only"
+   ],
+   "ans": 2,
+   "exp": "Assesses type, grade & histology."
+  },
+  {
+   "id": "ch43-u5-q6",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "match",
+   "q": "Match the step to the modality: 1) First investigation 2) IOC 3) Gold standard with A) Fractional curettage + hysteroscopy B) TVS C) Endometrial biopsy.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "This repeats the EH-chapter hierarchy inside the cancer diagnostic algorithm."
+  },
+  {
+   "id": "ch43-u5-q7",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "scenario",
+   "q": "A postmenopausal woman has ET 8 mm on TVS. Which source step follows?",
+   "opts": [
+    "PET-CT first",
+    "Discharge with tranexamic acid",
+    "Immediate radiotherapy",
+    "Endometrial biopsy (IOC)"
+   ],
+   "ans": 3,
+   "exp": "ET >=4 mm leads to endometrial biopsy, the investigation of choice."
+  },
+  {
+   "id": "ch43-u5-q8",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "tf",
+   "q": "I) TVS is the first investigation in the algorithm. II) Endometrial biopsy is the gold standard.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "I true; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "TVS is first; the gold standard is FC + hysteroscopy."
+  },
+  {
+   "id": "ch43-u5-q9",
+   "sec": "Diagnostic algorithm",
+   "unit": "Diagnostic algorithm",
+   "page": 232,
+   "fmt": "scenario",
+   "q": "Source-check: the EH overview also said FC+hysteroscopy is gold standard, but called TVS first and EB the IOC. What consistent reading emerges?",
+   "opts": [
+    "TVS is first, EB the IOC, and FC+hysteroscopy the gold standard across both sheets",
+    "The two sheets contradict every role",
+    "EB is the gold standard and FC+hysteroscopy the first test",
+    "TVS is the gold standard"
+   ],
+   "ans": 0,
+   "exp": "The roles are consistent between the EH overview and the cancer algorithm."
+  },
+  {
+   "id": "ch43-u6-q1",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "If required, ____ is named the best investigation for involvement of myometrium and parametrium.",
+   "opts": [
+    "CT",
+    "ultrasound",
+    "MRI",
+    "PET-CT"
+   ],
+   "ans": 2,
+   "exp": "MRI (Best investigation): Involvement of myometrium & parametrium."
+  },
+  {
+   "id": "ch43-u6-q2",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "CT is named the best investigation for ____ metastases.",
+   "opts": [
+    "omental",
+    "bony",
+    "hepatic",
+    "pulmonary"
+   ],
+   "ans": 0,
+   "exp": "CT (Best investigation for omental mets)."
+  },
+  {
+   "id": "ch43-u6-q3",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "____ is named the best investigation for lymph node status.",
+   "opts": [
+    "hysteroscopy",
+    "TVS",
+    "MRI",
+    "PET-CT"
+   ],
+   "ans": 3,
+   "exp": "PET-CT: Best investigation for lymph node status."
+  },
+  {
+   "id": "ch43-u6-q4",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "match",
+   "q": "Match the imaging question: 1) Myometrial/parametrial involvement 2) Omental metastases 3) Nodal status with A) PET-CT B) MRI C) CT.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "The three 'best investigation' arrows map to three different modalities."
+  },
+  {
+   "id": "ch43-u6-q5",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "The staging sequence runs from surgical staging through histopathological examination and tumour staging to ____.",
+   "opts": [
+    "screening",
+    "post-op management",
+    "diagnosis",
+    "discharge"
+   ],
+   "ans": 1,
+   "exp": "Surgical staging -> Histopathological examination -> Staging of tumour -> Post-op mx."
+  },
+  {
+   "id": "ch43-u6-q6",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "The treatment of choice printed beside the staging sequence is ____.",
+   "opts": [
+    "chemotherapy",
+    "hormones",
+    "radiotherapy",
+    "surgery alone"
+   ],
+   "ans": 2,
+   "exp": "mx of choice: Radiotherapy is the note beside the staging flow."
+  },
+  {
+   "id": "ch43-u6-q7",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "Staging of endometrial cancer uses FIGO ____ in the source.",
+   "opts": [
+    "2018",
+    "2023",
+    "1988",
+    "2009"
+   ],
+   "ans": 3,
+   "exp": "STAGING: FIGO 2009: is the printed table heading; FIGO 2023 is noted separately at the bottom."
+  },
+  {
+   "id": "ch43-u6-q8",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "In FIGO 2009, stage IA means myometrial involvement of ____.",
+   "opts": [
+    "exactly 50%",
+    "less than 50%",
+    "100%",
+    "more than 50%"
+   ],
+   "ans": 1,
+   "exp": "IA: <50% of myometrium involvement; IB: >50%."
+  },
+  {
+   "id": "ch43-u6-q9",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "Stage II involves the ____.",
+   "opts": [
+    "pelvic nodes",
+    "ovarian surface",
+    "cervical stroma and glands",
+    "vaginal wall"
+   ],
+   "ans": 2,
+   "exp": "Involvement of cervical stroma and glands defines stage 2."
+  },
+  {
+   "id": "ch43-u6-q10",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "Stage IIIA involves ____.",
+   "opts": [
+    "bladder mucosa",
+    "para-aortic nodes only",
+    "vaginal wall only",
+    "serosa and adnexa (fallopian tube and ovaries)"
+   ],
+   "ans": 3,
+   "exp": "3A: Serosa & adnexa (Fallopian tube & ovaries) involvement."
+  },
+  {
+   "id": "ch43-u6-q11",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "Stage IIIB is involvement of the ____.",
+   "opts": [
+    "liver",
+    "bladder/bowel mucosa",
+    "lung",
+    "vagina/parametrium"
+   ],
+   "ans": 3,
+   "exp": "3B: Vagina/parametrium involvement."
+  },
+  {
+   "id": "ch43-u6-q12",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "Stage IIIC1 denotes ____ nodes and IIIC2 denotes para-aortic nodes.",
+   "opts": [
+    "cervical",
+    "inguinal",
+    "axillary",
+    "pelvic"
+   ],
+   "ans": 3,
+   "exp": "3C: Lymph node involvement -> 3C1 Pelvic nodes, 3C2 Para-aortic nodes."
+  },
+  {
+   "id": "ch43-u6-q13",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "Stage IVA is regional metastasis to ____.",
+   "opts": [
+    "brain",
+    "liver",
+    "bladder/bowel",
+    "bone"
+   ],
+   "ans": 2,
+   "exp": "4A: Regional metastasis to bladder/bowel."
+  },
+  {
+   "id": "ch43-u6-q14",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "Stage IVB is distant metastasis or ____ lymph node involvement.",
+   "opts": [
+    "superficial",
+    "para-aortic",
+    "pelvic",
+    "cervical"
+   ],
+   "ans": 0,
+   "exp": "4B: Distant metastasis or superficial lymph node involvement."
+  },
+  {
+   "id": "ch43-u6-q15",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "The source notes that superficial lymph node involvement (stage 4B) applies to endometrial, ovarian and ____ cancer.",
+   "opts": [
+    "vulval",
+    "breast",
+    "cervical",
+    "colon"
+   ],
+   "ans": 2,
+   "exp": "Superficial lymph nodes involvement - Stage 4B: endometrial ca, ovarian ca and cervical ca."
+  },
+  {
+   "id": "ch43-u6-q16",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "scenario",
+   "q": "A tumour extends to the cervical stroma but not beyond the cervix. Which FIGO 2009 stage does the source assign?",
+   "opts": [
+    "Stage II",
+    "Stage IIIA",
+    "Stage IA",
+    "Stage IVA"
+   ],
+   "ans": 0,
+   "exp": "Cervical stromal/glandular involvement is stage 2."
+  },
+  {
+   "id": "ch43-u6-q17",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "scenario",
+   "q": "The source contrasts spread to the cervix in endometrial cancer with spread to the uterus in cancer cervix. What is the difference?",
+   "opts": [
+    "Both leave the stage unchanged",
+    "Cervical spread in endometrial Ca downstages the tumour",
+    "Endometrial Ca spread to cervix moves stage I to II; cervical Ca spread to uterus does not change stage",
+    "Both always upstage to IV"
+   ],
+   "ans": 2,
+   "exp": "The two directional arrows are deliberately asymmetric in the note."
+  },
+  {
+   "id": "ch43-u6-q18",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "fillup",
+   "q": "FIGO 2023 staging is noted to combine surgical staging, histopathological staging and ____.",
+   "opts": [
+    "tumour size alone",
+    "serum markers",
+    "molecular classification",
+    "patient age"
+   ],
+   "ans": 2,
+   "exp": "FIGO 2023 Staging: Surgical + Histopathological + molecular classification."
+  },
+  {
+   "id": "ch43-u6-q19",
+   "sec": "Imaging, surgical staging and FIGO 2009",
+   "unit": "Imaging, surgical staging and FIGO 2009",
+   "page": 233,
+   "fmt": "tf",
+   "q": "I) Stage IA has <50% myometrial involvement. II) Stage IVB can include superficial lymph node involvement.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 2,
+   "exp": "Both statements match the printed FIGO 2009 table."
+  },
+  {
+   "id": "ch43-u7-q1",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "The molecular subtype with a good prognosis is ____ mutation.",
+   "opts": [
+    "KRAS",
+    "POLE",
+    "PTEN",
+    "p53"
+   ],
+   "ans": 1,
+   "exp": "Good prognosis: POLE mutation."
+  },
+  {
+   "id": "ch43-u7-q2",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "A bad prognosis in the molecular classification is linked to ____ abnormality.",
+   "opts": [
+    "MLH1",
+    "p53",
+    "POLE",
+    "MSH6"
+   ],
+   "ans": 1,
+   "exp": "Bad prognosis: p53 abnormality."
+  },
+  {
+   "id": "ch43-u7-q3",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "Intermediate prognosis is linked to mismatch repair defect (MMRD) and ____.",
+   "opts": [
+    "HER2 amplification",
+    "p53 abnormality",
+    "POLE mutation",
+    "microsatellite instability (MSI)"
+   ],
+   "ans": 3,
+   "exp": "Intermediate prognosis: MMRD, microsatellite instability (MSI)."
+  },
+  {
+   "id": "ch43-u7-q4",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "match",
+   "q": "Match the molecular group: 1) Good 2) Intermediate 3) Bad with A) p53 abnormality B) POLE mutation C) MMRD/MSI.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "The three prognosis groups map to distinct molecular alterations."
+  },
+  {
+   "id": "ch43-u7-q5",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "In the prognosis table, the good-prognosis column is ER/PR ____.",
+   "opts": [
+    "weakly positive",
+    "unknown",
+    "positive",
+    "negative"
+   ],
+   "ans": 2,
+   "exp": "ER +ve, PR +ve on the good side; ER -ve, PR -ve on the bad side."
+  },
+  {
+   "id": "ch43-u7-q6",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "The good-prognosis column is type ____ with grades 1 and 2.",
+   "opts": [
+    "1",
+    "4",
+    "2",
+    "3"
+   ],
+   "ans": 0,
+   "exp": "Good prognosis: Type 1, Grade 1,2; bad: Type 2, Grade 3."
+  },
+  {
+   "id": "ch43-u7-q7",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "The bad-prognosis spread criterion includes myometrial involvement of ____.",
+   "opts": [
+    "6-50%",
+    "at least 50%",
+    "less than 5%",
+    "exactly 5%"
+   ],
+   "ans": 1,
+   "exp": "To cervix or structures beyond / myometrium involvement >=50% is the bad-prognosis spread cell."
+  },
+  {
+   "id": "ch43-u7-q8",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "Simultaneous endometrioid tumour of uterus and ovary is assigned stage ____ in the good-prognosis column.",
+   "opts": [
+    "II",
+    "3A",
+    "IA3",
+    "4B"
+   ],
+   "ans": 2,
+   "exp": "Endometrioid tumour of uterus + ovary simultaneously: Stage IA3 (FIGO 2023-style notation)."
+  },
+  {
+   "id": "ch43-u7-q9",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "Spread of a uterine tumour to the ovary is assigned stage ____ in the bad-prognosis column.",
+   "opts": [
+    "IA3",
+    "IVB",
+    "IA",
+    "3A"
+   ],
+   "ans": 3,
+   "exp": "Spread of uterine tumour to ovary: Stage 3A, distinct from synchronous independent primaries."
+  },
+  {
+   "id": "ch43-u7-q10",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "scenario",
+   "q": "Two patients have a uterine endometrioid tumour plus ovarian involvement. What distinguishes IA3 from 3A in the source?",
+   "opts": [
+    "3A requires POLE mutation",
+    "Simultaneous independent tumours are IA3; metastatic spread of the uterine tumour to ovary is 3A",
+    "IA3 always has p53 abnormality",
+    "Both are stage 4B"
+   ],
+   "ans": 1,
+   "exp": "The two stage assignments are separated by synchronous primaries versus metastatic spread."
+  },
+  {
+   "id": "ch43-u7-q11",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "For stage I disease the surgical staging lists ____.",
+   "opts": [
+    "TAH + BSO (type 1 hysterectomy)",
+    "pelvic exenteration",
+    "Wertheim's hysterectomy",
+    "debulking surgery"
+   ],
+   "ans": 0,
+   "exp": "Stage 1: TAH + BSO (Type 1 Hysterectomy)."
+  },
+  {
+   "id": "ch43-u7-q12",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "For stages 2 and 3 the operation named is ____.",
+   "opts": [
+    "Wertheim's hysterectomy (type 2)",
+    "simple TAH",
+    "trachelectomy",
+    "cone biopsy"
+   ],
+   "ans": 0,
+   "exp": "Stages 2 & 3: Wertheim's Hysterectomy (Type 2 Hysterectomy)."
+  },
+  {
+   "id": "ch43-u7-q13",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "Stage 4 is managed by ____ surgery.",
+   "opts": [
+    "fertility-sparing",
+    "reconstructive",
+    "debulking",
+    "diagnostic"
+   ],
+   "ans": 2,
+   "exp": "Stage 4: Debulking Sx."
+  },
+  {
+   "id": "ch43-u7-q14",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "For papillary serous tumour or carcinosarcoma the source adds ____.",
+   "opts": [
+    "infracolic omentectomy",
+    "pelvic exenteration",
+    "appendicectomy",
+    "lymph node biopsy alone"
+   ],
+   "ans": 0,
+   "exp": "TAH + BSO + Infracolic omentectomy, due to increased chances of omental micrometastasis."
+  },
+  {
+   "id": "ch43-u7-q15",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "For mucinous tumour the source adds ____ because of association with appendix cancer.",
+   "opts": [
+    "splenectomy",
+    "colectomy",
+    "omentectomy",
+    "appendicectomy"
+   ],
+   "ans": 3,
+   "exp": "In mucinous tumour: TAH + BSO + Appendicectomy, d/t association with appendix cancer."
+  },
+  {
+   "id": "ch43-u7-q16",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "In stage IA, a tumour smaller than ____ receives no nodal dissection.",
+   "opts": [
+    "1 cm",
+    "4 cm",
+    "2 cm",
+    "5 cm"
+   ],
+   "ans": 2,
+   "exp": "Stage IA: <2 cm -> No nodal dissection; >=2 cm -> Pelvic node dissection."
+  },
+  {
+   "id": "ch43-u7-q17",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "fillup",
+   "q": "All stages other than stage IA receive ____ node dissection.",
+   "opts": [
+    "no",
+    "inguinal only",
+    "pelvic only",
+    "pelvic plus para-aortic"
+   ],
+   "ans": 3,
+   "exp": "All other stages -> Pelvic + para-aortic node dissection."
+  },
+  {
+   "id": "ch43-u7-q18",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "match",
+   "q": "Match the stage to surgery: 1) Stage 1 2) Stages 2 & 3 3) Stage 4 with A) Wertheim's hysterectomy B) TAH + BSO C) Debulking surgery.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The three operative tiers ascend with stage."
+  },
+  {
+   "id": "ch43-u7-q19",
+   "sec": "Molecular classification, prognosis and surgical staging",
+   "unit": "Molecular classification, prognosis and surgical staging",
+   "page": 234,
+   "fmt": "tf",
+   "q": "I) Wertheim's hysterectomy is listed for stage 1. II) Debulking surgery is listed for stage 4.",
+   "opts": [
+    "I true; II false",
+    "Both false",
+    "Both true",
+    "I false; II true"
+   ],
+   "ans": 3,
+   "exp": "Stage 1 uses TAH+BSO; Wertheim's is for stages 2/3 and debulking for stage 4."
+  },
+  {
+   "id": "ch43-u8-q1",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "Low-risk post-op disease (adenocarcinoma grade 1/2 + stage IA) receives ____.",
+   "opts": [
+    "no further treatment",
+    "radiotherapy",
+    "surgery again",
+    "chemotherapy plus radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Low: No mx."
+  },
+  {
+   "id": "ch43-u8-q2",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "High-risk disease (stage 3/4 or papillary serous/clear cell tumour) receives ____.",
+   "opts": [
+    "progesterone",
+    "observation",
+    "chemotherapy plus radiotherapy",
+    "no treatment"
+   ],
+   "ans": 2,
+   "exp": "Chemotherapy + Radiotherapy: Carboplatin + Paclitaxel."
+  },
+  {
+   "id": "ch43-u8-q3",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "The chemotherapy regimen named for high-risk disease is ____.",
+   "opts": [
+    "methotrexate",
+    "cisplatin plus 5-FU",
+    "carboplatin plus paclitaxel",
+    "doxorubicin alone"
+   ],
+   "ans": 2,
+   "exp": "Carboplatin + Paclitaxel."
+  },
+  {
+   "id": "ch43-u8-q4",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "The intermediate-risk group (all others) receives ____.",
+   "opts": [
+    "chemotherapy",
+    "radiotherapy",
+    "hormones",
+    "no treatment"
+   ],
+   "ans": 1,
+   "exp": "Intermediate: Radiotherapy."
+  },
+  {
+   "id": "ch43-u8-q5",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "match",
+   "q": "Match the risk group to post-op care: 1) Low 2) Intermediate 3) High with A) Radiotherapy B) No treatment C) Chemotherapy + radiotherapy.",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "The three-tier table assigns distinct post-op management."
+  },
+  {
+   "id": "ch43-u8-q6",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "scenario",
+   "q": "A woman has stage 3B papillary serous carcinoma after surgery. Which post-op plan does the source assign?",
+   "opts": [
+    "No further treatment",
+    "Radiotherapy alone",
+    "Progesterone alone",
+    "Chemotherapy plus radiotherapy with carboplatin-paclitaxel"
+   ],
+   "ans": 3,
+   "exp": "High risk (stage 3/4 or papillary serous/clear cell) gets chemoradiotherapy."
+  },
+  {
+   "id": "ch43-u8-q7",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "In the postmenopausal-bleeding algorithm, the first test is ____.",
+   "opts": [
+    "Pap smear",
+    "hysteroscopy",
+    "MRI",
+    "TVS for endometrial thickness"
+   ],
+   "ans": 3,
+   "exp": "Post-menopausal bleeding -> Transvaginal sonography (TVS) for endometrial thickness."
+  },
+  {
+   "id": "ch43-u8-q8",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "scenario",
+   "q": "In the PMB algorithm, a 4 mm endometrium is managed with tranexamic acid, but bleeding continues. What does the source advise next?",
+   "opts": [
+    "Suspect type 2 endometrial cancer and do fractional curettage + hysteroscopy",
+    "Start estrogen",
+    "Repeat TVS in one year",
+    "Stop all investigation"
+   ],
+   "ans": 0,
+   "exp": "4 mm -> Tranexamic acid -> Bleeding + -> Suspect type 2 endometrial cancer -> FC + Hysteroscopy."
+  },
+  {
+   "id": "ch43-u8-q9",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "In the PMB algorithm, an endometrial thickness >4 mm proceeds to ____.",
+   "opts": [
+    "discharge",
+    "endometrial biopsy",
+    "tranexamic acid",
+    "radiotherapy"
+   ],
+   "ans": 1,
+   "exp": ">4 mm -> Endometrial biopsy."
+  },
+  {
+   "id": "ch43-u8-q10",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "The most common cause of PMB in the causes list is ____.",
+   "opts": [
+    "atrophy",
+    "HRT",
+    "cancer",
+    "polyp"
+   ],
+   "ans": 3,
+   "exp": "Causes: Polyp (m/c), Endometrial atrophy (2nd m/c), HRT, Endometrial Ca (10%)."
+  },
+  {
+   "id": "ch43-u8-q11",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "The second most common cause of PMB listed is ____.",
+   "opts": [
+    "HRT",
+    "endometrial atrophy",
+    "cancer cervix",
+    "polyp"
+   ],
+   "ans": 1,
+   "exp": "Endometrial atrophy (2nd m/c)."
+  },
+  {
+   "id": "ch43-u8-q12",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "Endometrial cancer accounts for about ____ of PMB in the causes list.",
+   "opts": [
+    "90%",
+    "10%",
+    "37%",
+    "30%"
+   ],
+   "ans": 1,
+   "exp": "Endometrial Ca (10%)."
+  },
+  {
+   "id": "ch43-u8-q13",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "scenario",
+   "q": "Source-check: the causes list says polyp is m/c but also adds 'Cancer cervix: m/c cause of PMB in India'. What is the best reading?",
+   "opts": [
+    "Both statements are laboratory values",
+    "It is a setting-specific annotation; the two 'm/c' claims are not universally interchangeable",
+    "Polyp causes no PMB in India",
+    "Cancer cervix is always the global m/c cause"
+   ],
+   "ans": 1,
+   "exp": "The India note is a local epidemiological claim and should not silently override the general list."
+  },
+  {
+   "id": "ch43-u8-q14",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "fillup",
+   "q": "The section's postmenopausal-bleeding heading carries the printed timestamp ____.",
+   "opts": [
+    "00:49:08",
+    "00:11:44",
+    "00:01:03",
+    "00:21:26"
+   ],
+   "ans": 0,
+   "exp": "00:49:08 is on the PMB heading; the other times belong to earlier sections."
+  },
+  {
+   "id": "ch43-u8-q15",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "tf",
+   "q": "I) PMB with ET >4 mm proceeds to endometrial biopsy. II) Persistent bleeding with a 4 mm endometrium prompts suspicion of type 2 disease.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 2,
+   "exp": "Both branches of the printed PMB algorithm lead to further evaluation."
+  },
+  {
+   "id": "ch43-u8-q16",
+   "sec": "Post-op management and postmenopausal bleeding",
+   "unit": "Post-op management and postmenopausal bleeding",
+   "page": 235,
+   "fmt": "odd",
+   "q": "Which is NOT in the source's list of PMB causes?",
+   "opts": [
+    "Endometrial atrophy",
+    "Polyp",
+    "Cervical stenosis",
+    "HRT"
+   ],
+   "ans": 2,
+   "exp": "Cervical stenosis is an FC+hysteroscopy indication in the EH chapter, not a PMB cause here."
+  }
+ ]
+}

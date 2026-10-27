@@ -1,0 +1,1861 @@
+{
+ "chapter": 41,
+ "questions": [
+  {
+   "id": "ch41-u1-q1",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "In the Contraception: Images condom table, the male condom has ____ ring and the female condom has ____.",
+   "opts": [
+    "no; a single",
+    "three; four",
+    "two; a single",
+    "a single; two"
+   ],
+   "ans": 3,
+   "exp": "The Ring row contrasts one rolled rim on the male condom with the two rings sketched on the female condom."
+  },
+  {
+   "id": "ch41-u1-q2",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The Appearance row gives the male condom ____.",
+   "opts": [
+    "a bifid end",
+    "a short, broad shape with no pointed end",
+    "a dome with a flexible rim",
+    "a pointed end"
+   ],
+   "ans": 3,
+   "exp": "The pointed tip is the male-condom entry; the short, broad, blunt shape belongs to the female condom."
+  },
+  {
+   "id": "ch41-u1-q3",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The female condom is described in the Appearance row as ____.",
+   "opts": [
+    "mushroom shaped",
+    "T shaped",
+    "a pointed end",
+    "short, broad and with no pointed end"
+   ],
+   "ans": 3,
+   "exp": "Short/broad/no-pointed-end is printed opposite the male condom's pointed end."
+  },
+  {
+   "id": "ch41-u1-q4",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "odd",
+   "q": "Which is NOT a printed difference between the male and female condom columns?",
+   "opts": [
+    "Coitus dependence",
+    "Appearance",
+    "Number of ferrous fumarate tablets",
+    "Number of rings"
+   ],
+   "ans": 2,
+   "exp": "The tablet count belongs to the Mala N/D pill packet on the next sheet, not to the condom comparison."
+  },
+  {
+   "id": "ch41-u1-q5",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "Male condoms are ____ because they are used on an erect penis.",
+   "opts": [
+    "ovulation dependent",
+    "coitus independent",
+    "coitus dependent",
+    "cycle dependent"
+   ],
+   "ans": 2,
+   "exp": "Coitus dependent / used on erect penis is the male entry; the female condom is coitus independent."
+  },
+  {
+   "id": "ch41-u1-q6",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The female condom is labelled ____ in the Coitus row.",
+   "opts": [
+    "coitus dependent",
+    "coitus independent",
+    "hormone dependent",
+    "coitus enhancing"
+   ],
+   "ans": 1,
+   "exp": "The table contrasts coitus-independent female condoms with coitus-dependent male condoms."
+  },
+  {
+   "id": "ch41-u1-q7",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The Failure rate row prints ____ per HWY for male condoms.",
+   "opts": [
+    "2-15",
+    "5-20",
+    "0.1-1",
+    "20-30"
+   ],
+   "ans": 0,
+   "exp": "2-15/HWY is the male figure; 5-20/HWY is the female figure in the neighbouring cell."
+  },
+  {
+   "id": "ch41-u1-q8",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The Failure rate row prints ____ per HWY for female condoms.",
+   "opts": [
+    "2-15",
+    "1-2",
+    "30-40",
+    "5-20"
+   ],
+   "ans": 3,
+   "exp": "The female-condom cell reads 5-20/HWY, higher than the male 2-15/HWY."
+  },
+  {
+   "id": "ch41-u1-q9",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The footnote expands the abbreviation HWY as ____.",
+   "opts": [
+    "half-weekly yield",
+    "hormonal withdrawal year",
+    "hundred women years",
+    "high women yield"
+   ],
+   "ans": 2,
+   "exp": "HWY = Hundred women years, the exposure denominator for the Pearl-style failure rates."
+  },
+  {
+   "id": "ch41-u1-q10",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "Under Programme, the male condom is included in the National Family Planning Programme as ____.",
+   "opts": [
+    "NACO",
+    "Mala D",
+    "Nirodh",
+    "Antara"
+   ],
+   "ans": 2,
+   "exp": "Nirodh is the free male-condom brand named in the programme row; Mala D is an oral pill on the next sheet."
+  },
+  {
+   "id": "ch41-u1-q11",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "Female condoms are described as distributed ____ to female sex workers.",
+   "opts": [
+    "at subsidised rates by Nirodh",
+    "free of cost by NACO",
+    "free of cost by WHO",
+    "only on prescription by GoI"
+   ],
+   "ans": 1,
+   "exp": "The female-condom programme cell names NACO distribution to female sex workers, free of cost."
+  },
+  {
+   "id": "ch41-u1-q12",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The usage row calls the male condom ____ use.",
+   "opts": [
+    "reusable for 30 hours",
+    "twice",
+    "reusable for one year",
+    "single"
+   ],
+   "ans": 3,
+   "exp": "Single use sits beside the female-condom annotation that it can be used twice."
+  },
+  {
+   "id": "ch41-u1-q13",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "scenario",
+   "q": "Source-check: the table says a female condom 'can be used twice'. What is the safest reading?",
+   "opts": [
+    "Re-use doubles HIV protection",
+    "A female condom is designed for 30 hours of repeated intercourse",
+    "Washing and reusing female condoms is standard WHO advice",
+    "It is an edition-specific annotation; current guidance treats condoms as single-use, so re-use must not be taught as practice"
+   ],
+   "ans": 3,
+   "exp": "The twice-use line is preserved as printed source material; it is not a current product instruction or a basis for recommending re-use."
+  },
+  {
+   "id": "ch41-u1-q14",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The Advantage line ranks HIV protection as male condom ____ female condom.",
+   "opts": [
+    "less than",
+    "exactly equal to",
+    "greater than",
+    "unrelated to"
+   ],
+   "ans": 2,
+   "exp": "It reads protects against HIV (male condom > Female condom), then lists PID, STD, cervical dysplasia and pregnancy."
+  },
+  {
+   "id": "ch41-u1-q15",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "odd",
+   "q": "Which is NOT among the conditions the condom Advantage line says condoms protect against?",
+   "opts": [
+    "HIV",
+    "PID",
+    "Cervical dysplasia",
+    "Osteoporosis"
+   ],
+   "ans": 3,
+   "exp": "HIV, PID, STD, cervical dysplasia and pregnancy are listed; bone loss is not."
+  },
+  {
+   "id": "ch41-u1-q16",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "tf",
+   "q": "I) Male condoms are termed coitus dependent. II) Female condoms are termed coitus independent.",
+   "opts": [
+    "Both true",
+    "I false; II true",
+    "I true; II false",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The Coitus row assigns dependence to the male condom and independence to the female condom."
+  },
+  {
+   "id": "ch41-u1-q17",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "match",
+   "q": "Match the Ring row: 1) Male condom 2) Female condom with A) Two rings B) A single ring.",
+   "opts": [
+    "Both A",
+    "Both B",
+    "1-A, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "The figure shows one rolled ring on the male condom and two rings on the female condom."
+  },
+  {
+   "id": "ch41-u1-q18",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "scenario",
+   "q": "Source-check: the male-condom 'made of' cell reads 'Polyurethane condom'. What caution applies?",
+   "opts": [
+    "The material row refers only to the female condom",
+    "It is the source wording; most male condoms are latex and the actual product material must be checked",
+    "All male condoms are polyurethane by regulation",
+    "Only polyurethane condoms prevent HIV"
+   ],
+   "ans": 1,
+   "exp": "The printed material is study text, not a universal product description or a rule about STI protection."
+  },
+  {
+   "id": "ch41-u1-q19",
+   "sec": "Condoms, HWY and STI protection",
+   "unit": "Condoms, HWY and STI protection",
+   "page": 222,
+   "fmt": "scenario",
+   "q": "A programme worker needs the free-of-cost condom supplied to female sex workers. Which source row is being described?",
+   "opts": [
+    "Mala D at subsidised rates",
+    "Female condoms distributed by NACO",
+    "Male condoms as Nirodh under the National Family Planning Programme",
+    "Implanon, not free of cost by GoI"
+   ],
+   "ans": 1,
+   "exp": "NACO / free of cost / female sex workers is the female-condom programme cell."
+  },
+  {
+   "id": "ch41-u2-q1",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The Today Sponge is described as a ____ shaped device.",
+   "opts": [
+    "mushroom",
+    "T",
+    "dome",
+    "ring"
+   ],
+   "ans": 0,
+   "exp": "Mushroom shaped is the sponge; dome shaped with a flexible rim is the diaphragm below it."
+  },
+  {
+   "id": "ch41-u2-q2",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The Today Sponge contains ____ of nonoxynol-9, a spermicide.",
+   "opts": [
+    "20 mcg",
+    "150 mcg",
+    "1 g",
+    "68 mg"
+   ],
+   "ans": 2,
+   "exp": "1 g of nonoxynol-9 is the sponge dose; the other figures are Mala N, Mirena and Implanon hormone amounts from this chapter."
+  },
+  {
+   "id": "ch41-u2-q3",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "After insertion the Today Sponge is used multiple times for ____.",
+   "opts": [
+    "3 hours",
+    "24 hours",
+    "30 hours",
+    "1 year"
+   ],
+   "ans": 1,
+   "exp": "24 hrs is the multiple-use window; 30 hrs is the separate maximum permitted duration."
+  },
+  {
+   "id": "ch41-u2-q4",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The maximum permitted duration printed for the Today Sponge is ____.",
+   "opts": [
+    "48 hours",
+    "24 hours",
+    "1 week",
+    "30 hours"
+   ],
+   "ans": 3,
+   "exp": "30 hrs is the maximum permitted duration, printed below the 24-hour multiple-use line."
+  },
+  {
+   "id": "ch41-u2-q5",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "scenario",
+   "q": "Source-check: the sponge bullet reads 'Chances of toxic shock syndrome: Nil'. What should a learner conclude?",
+   "opts": [
+    "The sponge eliminates all menstrual toxic-shock risk",
+    "Toxic shock syndrome is caused only by nonoxynol-9",
+    "It is an overconfident source claim; barrier/device use can carry toxic-shock risk and current product guidance governs",
+    "Nil means a 30-hour insertion is always safe"
+   ],
+   "ans": 2,
+   "exp": "'Nil' is printed as an absolute; it should be read as source shorthand rather than a clinical guarantee."
+  },
+  {
+   "id": "ch41-u2-q6",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The Diaphragm is a ____ shaped device with a flexible rim.",
+   "opts": [
+    "dome",
+    "T",
+    "mushroom",
+    "rod"
+   ],
+   "ans": 0,
+   "exp": "Dome shaped with flexible rim is the diaphragm description."
+  },
+  {
+   "id": "ch41-u2-q7",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The diaphragm is washed and reused for up to ____.",
+   "opts": [
+    "1 year",
+    "24 hours",
+    "5 years",
+    "30 hours"
+   ],
+   "ans": 0,
+   "exp": "Upto 1 year of reuse is printed for the diaphragm; the 24/30-hour figures belong to the sponge."
+  },
+  {
+   "id": "ch41-u2-q8",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "odd",
+   "q": "Which is NOT listed as a diaphragm material?",
+   "opts": [
+    "Rubber",
+    "Silicone",
+    "Nylon thread",
+    "Latex"
+   ],
+   "ans": 2,
+   "exp": "Made of rubber/latex/silicone is the diaphragm; nylon thread is the multiload-375 and Gynefix component."
+  },
+  {
+   "id": "ch41-u2-q9",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "The diaphragm is described as not ____.",
+   "opts": [
+    "sperm-proof",
+    "reusable for one year",
+    "dome shaped",
+    "reusable"
+   ],
+   "ans": 0,
+   "exp": "'Not sperm-proof' is why a spermicidal agent is added."
+  },
+  {
+   "id": "ch41-u2-q10",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "fillup",
+   "q": "Because it is not sperm-proof, a ____ is added to the diaphragm.",
+   "opts": [
+    "progestin reservoir",
+    "barium sulfate stem",
+    "copper wire",
+    "spermicidal agent"
+   ],
+   "ans": 3,
+   "exp": "Spermicidal agent is added; the other options are IUCD and implant components elsewhere in the chapter."
+  },
+  {
+   "id": "ch41-u2-q11",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "tf",
+   "q": "I) The Today Sponge is a single-use device. II) The diaphragm can be reused for up to one year.",
+   "opts": [
+    "I false; II true",
+    "Both true",
+    "I true; II false",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The sponge is used multiple times over 24 hours, while the diaphragm is washed and reused up to a year."
+  },
+  {
+   "id": "ch41-u2-q12",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "scenario",
+   "q": "A learner confuses the sponge's 24-hour and 30-hour numbers. Which mapping is correct in the source?",
+   "opts": [
+    "24 days of reuse; 30 days maximum",
+    "24 mg of spermicide; 30 mg maximum",
+    "30 hours of repeated use; 24 hours maximum duration",
+    "24 hours of repeated use; 30 hours maximum permitted duration"
+   ],
+   "ans": 3,
+   "exp": "The two lines are separate: a 24-hour multiple-use window and a 30-hour maximum permitted duration."
+  },
+  {
+   "id": "ch41-u2-q13",
+   "sec": "Today sponge and diaphragm",
+   "unit": "Today sponge and diaphragm",
+   "page": 222,
+   "fmt": "match",
+   "q": "Match the barrier device to its shape: 1) Today Sponge 2) Diaphragm with A) Mushroom B) Dome with flexible rim.",
+   "opts": [
+    "Both A",
+    "1-A, 2-B",
+    "Both B",
+    "1-B, 2-A"
+   ],
+   "ans": 1,
+   "exp": "Mushroom shaped is the sponge; dome shaped with a flexible rim is the diaphragm."
+  },
+  {
+   "id": "ch41-u3-q1",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mala N and Mala D contain ethinylestradiol ____ plus levonorgestrel ____.",
+   "opts": [
+    "50 mcg; 68 mg",
+    "35 mcg; 150 mg",
+    "30 mcg; 150 mcg",
+    "20 mcg; 75 mcg"
+   ],
+   "ans": 2,
+   "exp": "Composition = Ethinylestradiol 30 mcg + Levonorgestrel (LNG) 150 mcg."
+  },
+  {
+   "id": "ch41-u3-q2",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "A Mala packet contains ____ hormonal pills and ____ ferrous fumarate tablets.",
+   "opts": [
+    "24; 4",
+    "7; 21",
+    "21; 7",
+    "28; 0"
+   ],
+   "ans": 2,
+   "exp": "21 hormonal pills + 7 ferrous fumarate tablets is the printed 28-day packet."
+  },
+  {
+   "id": "ch41-u3-q3",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mala N is distributed by the Government of India ____.",
+   "opts": [
+    "free of cost",
+    "at subsidised rates",
+    "only to female sex workers",
+    "only on private prescription"
+   ],
+   "ans": 0,
+   "exp": "Mala N is free of cost; Mala D is the subsidised version."
+  },
+  {
+   "id": "ch41-u3-q4",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mala D is distributed ____.",
+   "opts": [
+    "only by NACO",
+    "free of cost",
+    "as an emergency contraceptive",
+    "at subsidised rates"
+   ],
+   "ans": 3,
+   "exp": "The two lines separate free Mala N from subsidised Mala D."
+  },
+  {
+   "id": "ch41-u3-q5",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "match",
+   "q": "Match the brand to distribution: 1) Mala N 2) Mala D with A) Free of cost B) Subsidised rates.",
+   "opts": [
+    "Both B",
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both A"
+   ],
+   "ans": 2,
+   "exp": "Mala N is the free government supply; Mala D is sold at subsidised rates."
+  },
+  {
+   "id": "ch41-u3-q6",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The source lists the ____ loop as the first-generation IUCD.",
+   "opts": [
+    "Lippes",
+    "Gynefix",
+    "Copper T",
+    "Multiload"
+   ],
+   "ans": 0,
+   "exp": "1st gen = Lippes loop; 2nd gen = Copper IUCD."
+  },
+  {
+   "id": "ch41-u3-q7",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The third-generation IUCD named in the list is ____.",
+   "opts": [
+    "frameless (Gynefix)",
+    "Lippes loop",
+    "hormonal (Mirena)",
+    "multiload 375"
+   ],
+   "ans": 2,
+   "exp": "3rd gen = Hormonal IUCD (mirena); 4th gen = Frameless IUCD."
+  },
+  {
+   "id": "ch41-u3-q8",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The fourth-generation IUCD in the list is ____.",
+   "opts": [
+    "hormonal IUCD",
+    "Lippes loop",
+    "frameless (Gynefix)",
+    "copper IUCD"
+   ],
+   "ans": 2,
+   "exp": "4th gen = Frameless IUCD, later named Gynefix on the next sheet."
+  },
+  {
+   "id": "ch41-u3-q9",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "odd",
+   "q": "Which is NOT one of the four IUCD generations listed?",
+   "opts": [
+    "Essure",
+    "Hormonal IUCD",
+    "Copper IUCD",
+    "Lippes loop"
+   ],
+   "ans": 0,
+   "exp": "Essure is a hysteroscopic tubal-occlusion coil, not an intrauterine device generation."
+  },
+  {
+   "id": "ch41-u3-q10",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Copper T 380A, also called ____, is a T-shaped device.",
+   "opts": [
+    "Gynefix",
+    "Paraguard",
+    "Mirena",
+    "Flexiguard"
+   ],
+   "ans": 1,
+   "exp": "Copper T 380 A (Paraguard) is the printed name."
+  },
+  {
+   "id": "ch41-u3-q11",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "In 'Copper T 380A', 380 mm2 refers to the ____.",
+   "opts": [
+    "daily copper release in mcg",
+    "surface area of the copper wire",
+    "lifespan in months",
+    "length of the nylon thread"
+   ],
+   "ans": 1,
+   "exp": "380 mm2 = surface area of copper wire; A = copper on the arms of the T."
+  },
+  {
+   "id": "ch41-u3-q12",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The 'A' in Copper T 380A denotes copper present on the ____.",
+   "opts": [
+    "myometrium",
+    "arms of the T",
+    "nylon thread",
+    "vertical stem only"
+   ],
+   "ans": 1,
+   "exp": "A = copper present on the arms of the T tube."
+  },
+  {
+   "id": "ch41-u3-q13",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Copper T 380A releases about ____ of copper per day in the source.",
+   "opts": [
+    "150 mcg",
+    "20 mcg",
+    "60 mcg",
+    "50 mcg"
+   ],
+   "ans": 3,
+   "exp": "50 mcg/day is the source figure; 20 mcg/day is Mirena's LNG release."
+  },
+  {
+   "id": "ch41-u3-q14",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The lifespan printed for Copper T 380A is ____.",
+   "opts": [
+    "1 year",
+    "10 years",
+    "5 years",
+    "3 years"
+   ],
+   "ans": 1,
+   "exp": "Life span: 10 yrs; multiload 375 and Mirena are 5 years."
+  },
+  {
+   "id": "ch41-u3-q15",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The rounded end of the Copper T is annotated to prevent ____.",
+   "opts": [
+    "recanalization",
+    "perforation",
+    "anovulation",
+    "expulsion"
+   ],
+   "ans": 1,
+   "exp": "A diagram arrow labels the tip as preventing perforation, a device-safety annotation rather than a contraceptive mechanism."
+  },
+  {
+   "id": "ch41-u3-q16",
+   "sec": "Mala N/D, IUCD generations and Copper T 380A",
+   "unit": "Mala N/D, IUCD generations and Copper T 380A",
+   "page": 223,
+   "fmt": "scenario",
+   "q": "A student reads '380' as a hormone dose and 'A' as a drug name. Which correction fits the source?",
+   "opts": [
+    "380 is days of use and A is a sterilisation route",
+    "380 is 380 mg of LNG and A is the manufacturer",
+    "380 is the thread length and A is the applicator",
+    "380 is copper-wire surface area in mm2 and A marks copper on the arms"
+   ],
+   "ans": 3,
+   "exp": "The numeric and letter describe copper geometry, not a hormonal dose or product code."
+  },
+  {
+   "id": "ch41-u4-q1",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "In the multiload 375, copper is present on the ____.",
+   "opts": [
+    "arms of the T",
+    "myometrium",
+    "vertical stems",
+    "nylon thread"
+   ],
+   "ans": 2,
+   "exp": "Multiload 375 has copper on the vertical stems, contrasted with copper on the arms in CuT 380A."
+  },
+  {
+   "id": "ch41-u4-q2",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The bent arms of the multiload 375 carry spurs whose stated role is to ____.",
+   "opts": [
+    "cause anovulation",
+    "lessen expulsion",
+    "prevent perforation",
+    "release LNG"
+   ],
+   "ans": 1,
+   "exp": "Bent arms with spurs -> spurs lessen expulsion."
+  },
+  {
+   "id": "ch41-u4-q3",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The multiload 375 thread is made of ____.",
+   "opts": [
+    "nylon",
+    "barium sulfate",
+    "copper",
+    "chromic catgut"
+   ],
+   "ans": 0,
+   "exp": "Thread made of nylon is the multiload 375 line; chromic catgut is the Pomeroy suture."
+  },
+  {
+   "id": "ch41-u4-q4",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "The lifespan of the multiload 375 is ____.",
+   "opts": [
+    "10 years",
+    "5 years",
+    "1 year",
+    "3 months"
+   ],
+   "ans": 1,
+   "exp": "Life span: 5 years, shorter than CuT 380A's 10 years."
+  },
+  {
+   "id": "ch41-u4-q5",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "match",
+   "q": "Match the device to its lifespan: 1) Copper T 380A 2) Multiload 375 with A) 5 years B) 10 years.",
+   "opts": [
+    "Both B",
+    "Both A",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "CuT 380A is 10 years; multiload 375 is 5 years."
+  },
+  {
+   "id": "ch41-u4-q6",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mirena is a ____ IUCD (LNG 20).",
+   "opts": [
+    "inert",
+    "hormonal",
+    "frameless",
+    "copper"
+   ],
+   "ans": 1,
+   "exp": "Mirena is the 3rd-generation hormonal IUCD containing LNG."
+  },
+  {
+   "id": "ch41-u4-q7",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mirena releases ____ of levonorgestrel per day.",
+   "opts": [
+    "50 mcg",
+    "150 mcg",
+    "60 mcg",
+    "20 mcg"
+   ],
+   "ans": 3,
+   "exp": "Releases 20 mcg/day; 50 mcg/day is the copper figure for CuT 380A."
+  },
+  {
+   "id": "ch41-u4-q8",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mirena's lifespan in the source is ____.",
+   "opts": [
+    "1 year",
+    "6 months",
+    "5 years",
+    "10 years"
+   ],
+   "ans": 2,
+   "exp": "Life span: 5 yrs, matching multiload 375 rather than CuT 380A."
+  },
+  {
+   "id": "ch41-u4-q9",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mirena is used in AUB and ____.",
+   "opts": [
+    "endometrial hyperplasia without atypia",
+    "emergency contraception",
+    "endometrial hyperplasia with atypia",
+    "male infertility"
+   ],
+   "ans": 0,
+   "exp": "Used in AUB and endometrial hyperplasia without atypia."
+  },
+  {
+   "id": "ch41-u4-q10",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "scenario",
+   "q": "Source-check: the Mirena bullet says 'Not used as emergency contraception'. What is the best reading?",
+   "opts": [
+    "LNG-IUDs are abortifacients at any dose",
+    "It reflects this edition; evidence and guidance for 52-mg LNG-IUD emergency use have since evolved",
+    "Copper IUCDs also cannot be used for emergency contraception",
+    "Mirena is the only emergency method available"
+   ],
+   "ans": 1,
+   "exp": "The 2024 note is edition-specific and should not be generalised into a permanent rule."
+  },
+  {
+   "id": "ch41-u4-q11",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "fillup",
+   "q": "Mirena's stated mechanism is to prevent ____.",
+   "opts": [
+    "implantation",
+    "oocyte pick-up by the fimbriae",
+    "ovulation in every cycle",
+    "spermatogenesis"
+   ],
+   "ans": 0,
+   "exp": "moa: prevents implantation (does not cause anovulation)."
+  },
+  {
+   "id": "ch41-u4-q12",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "tf",
+   "q": "I) Mirena is described as containing LNG. II) It is described as working mainly by causing anovulation.",
+   "opts": [
+    "Both false",
+    "I true; II true",
+    "I false; II true",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "Contains LNG is printed, but the mechanism is prevention of implantation, explicitly not anovulation."
+  },
+  {
+   "id": "ch41-u4-q13",
+   "sec": "Multiload 375 and Mirena (LNG 20)",
+   "unit": "Multiload 375 and Mirena (LNG 20)",
+   "page": 223,
+   "fmt": "odd",
+   "q": "Which is NOT a Mirena statement on this sheet?",
+   "opts": [
+    "It is a frameless IUCD sutured to the myometrium",
+    "It is used for AUB",
+    "Its lifespan is 5 years",
+    "It releases 20 mcg/day"
+   ],
+   "ans": 0,
+   "exp": "The frameless/sutured description belongs to Gynefix on the next page."
+  },
+  {
+   "id": "ch41-u5-q1",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The two side effects continued under the hormonal IUCD are irregular bleeding and ____.",
+   "opts": [
+    "endometrial atrophy with amenorrhoea on continuous use",
+    "ovarian hyperstimulation",
+    "permanent infertility",
+    "copper accumulation"
+   ],
+   "ans": 0,
+   "exp": "Irregular bleeding and endometrial atrophy on continuous use -> amenorrhoea are the two bullets."
+  },
+  {
+   "id": "ch41-u5-q2",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The Gynefix is a ____ IUCD and the fourth-generation device.",
+   "opts": [
+    "inert",
+    "hormonal",
+    "copper-T",
+    "frameless"
+   ],
+   "ans": 3,
+   "exp": "Frameless IUCD: 4th gen IUCD, aka Copper fix IUCD/Flexiguard."
+  },
+  {
+   "id": "ch41-u5-q3",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The frameless IUCD is also called ____.",
+   "opts": [
+    "Paraguard",
+    "Lippes loop",
+    "Copper fix / Flexiguard",
+    "Mirena"
+   ],
+   "ans": 2,
+   "exp": "Aka Copper fix IUCD/Flexiguard; Paraguard is CuT 380A."
+  },
+  {
+   "id": "ch41-u5-q4",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "Gynefix is said to be used in ____ females.",
+   "opts": [
+    "pregnant",
+    "nulliparous",
+    "male",
+    "postmenopausal"
+   ],
+   "ans": 1,
+   "exp": "Used in nulliparous females; the copper cylinders are held by a nylon thread."
+  },
+  {
+   "id": "ch41-u5-q5",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The Gynefix copper cylinders are anchored by being ____.",
+   "opts": [
+    "attached to the abdominal wall",
+    "glued to the cervix",
+    "held by a plastic T-arm",
+    "sutured to the myometrium"
+   ],
+   "ans": 3,
+   "exp": "Sutured to myometrium is the anchoring method for the frameless device."
+  },
+  {
+   "id": "ch41-u5-q6",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The two Gynefix advantages printed are less pain and ____.",
+   "opts": [
+    "less expulsion rate",
+    "heavier bleeding",
+    "longer lifespan than CuT 380A",
+    "STI protection"
+   ],
+   "ans": 0,
+   "exp": "Advantages: less pain, less expulsion rate."
+  },
+  {
+   "id": "ch41-u5-q7",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "match",
+   "q": "Match the implant: 1) Implanon 2) Nexplanon with A) Barium sulfate in the stem B) A single etonogestrel rod.",
+   "opts": [
+    "1-A, 2-B",
+    "Both A",
+    "1-B, 2-A",
+    "Both B"
+   ],
+   "ans": 2,
+   "exp": "Implanon is the single rod; Nexplanon is the variant described with barium sulfate in the stem."
+  },
+  {
+   "id": "ch41-u5-q8",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "Implanon is a ____ rod implant.",
+   "opts": [
+    "single",
+    "double",
+    "frameless",
+    "triple"
+   ],
+   "ans": 0,
+   "exp": "Single rod implant is the printed description."
+  },
+  {
+   "id": "ch41-u5-q9",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "Implanon contains ____ of etonogestrel, released at ____ per day.",
+   "opts": [
+    "68 mg; 60 mcg",
+    "20 mg; 50 mcg",
+    "68 mcg; 60 mg",
+    "150 mg; 20 mcg"
+   ],
+   "ans": 0,
+   "exp": "Contains etonogestrel 68 mg -> released at 60 mcg/day."
+  },
+  {
+   "id": "ch41-u5-q10",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The implant is inserted on the ____ arm, medial side, on days ____ of the cycle.",
+   "opts": [
+    "dominant; D1-D7",
+    "non-dominant; D1-D7",
+    "non-dominant; D21-D28",
+    "dominant; D8-D14"
+   ],
+   "ans": 1,
+   "exp": "Inserted on non-dominant arm (medial side) on D1-D7 menstrual cycle."
+  },
+  {
+   "id": "ch41-u5-q11",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "If inserted after day 7, the source requires added contraception for ____.",
+   "opts": [
+    "48 hours",
+    "3 days",
+    "7 months",
+    "3 weeks"
+   ],
+   "ans": 1,
+   "exp": "If inserted after D7: added contraception required x 3 days."
+  },
+  {
+   "id": "ch41-u5-q12",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "Implanon is classified as a ____ (LARC).",
+   "opts": [
+    "short acting barrier",
+    "daily oral contraceptive",
+    "long acting reversible contraceptive",
+    "long acting permanent method"
+   ],
+   "ans": 2,
+   "exp": "Long acting reversible contraceptive (LARC)."
+  },
+  {
+   "id": "ch41-u5-q13",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The source notes Implanon is ____ by the Government of India.",
+   "opts": [
+    "distributed as Nirodh",
+    "sold as Mala D",
+    "provided free of cost",
+    "not provided free of cost"
+   ],
+   "ans": 3,
+   "exp": "Not provided free of cost by GoI, unlike the free Mala N."
+  },
+  {
+   "id": "ch41-u5-q14",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The source's LARC group consists of implants, IUCD and ____.",
+   "opts": [
+    "injectables",
+    "diaphragms",
+    "sterilisation",
+    "condoms"
+   ],
+   "ans": 0,
+   "exp": "Note: LARC: Implants, IUCD, Injectables."
+  },
+  {
+   "id": "ch41-u5-q15",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "scenario",
+   "q": "Source-check: Nexplanon is listed with both 'Barium sulfate in stem' and 'Not radiopaque'. What is the safest interpretation?",
+   "opts": [
+    "The two bullets conflict; barium sulfate is a radiopaque marker and product details must be checked",
+    "Radiopacity is unrelated to implant imaging",
+    "Barium sulfate makes every implant invisible on X-ray",
+    "Implanon and Nexplanon are identical in all respects"
+   ],
+   "ans": 0,
+   "exp": "The source lines are internally inconsistent; barium sulfate is added precisely to make the rod radiopaque, so the note is not a reliable product statement."
+  },
+  {
+   "id": "ch41-u5-q16",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "Essure is a ____ device with an outer and an inner cylinder.",
+   "opts": [
+    "coiled",
+    "frameless rod",
+    "T shaped",
+    "dome shaped"
+   ],
+   "ans": 0,
+   "exp": "Coiled device with outer & inner cylinder; inserted hysteroscopically."
+  },
+  {
+   "id": "ch41-u5-q17",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The Essure outer cylinder is made of ____ and the inner of stainless steel.",
+   "opts": [
+    "barium plus silicone",
+    "copper plus nylon",
+    "rubber plus latex",
+    "nickel plus titanium"
+   ],
+   "ans": 3,
+   "exp": "Outer cylinder: Nickel + Titanium; inner cylinder: Stainless steel."
+  },
+  {
+   "id": "ch41-u5-q18",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "Essure is inserted into the ____ part of the fallopian tube via hysteroscopy.",
+   "opts": [
+    "intramural/interstitial",
+    "fimbrial",
+    "ampullary",
+    "ovarian"
+   ],
+   "ans": 0,
+   "exp": "Inserted into Intramural/Interstitial part of fallopian tube via hysteroscopy."
+  },
+  {
+   "id": "ch41-u5-q19",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "Essure produces tubal occlusion by ____, complete by about ____.",
+   "opts": [
+    "inflammation; 3 months",
+    "sperm antibodies; 3 weeks",
+    "immediate cautery; 3 days",
+    "fibrosis; 3 years"
+   ],
+   "ans": 0,
+   "exp": "Tubal occlusion by inflammation; occlusion by 3 months."
+  },
+  {
+   "id": "ch41-u5-q20",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "scenario",
+   "q": "The Essure pathway requires confirmation of occlusion by HSG after 3 months. What else does the source advise during that interval?",
+   "opts": [
+    "Use other contraceptives until occlusion is confirmed",
+    "Repeat hysteroscopy monthly",
+    "Start attempting conception at once",
+    "Stop all contraception immediately"
+   ],
+   "ans": 0,
+   "exp": "Female advised for other contraceptives until 3 months; HSG confirms occlusion after 3 months."
+  },
+  {
+   "id": "ch41-u5-q21",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "fillup",
+   "q": "The success rate printed for Essure is ____.",
+   "opts": [
+    "1.1%",
+    "85-90%",
+    "99%",
+    "55%"
+   ],
+   "ans": 2,
+   "exp": "Success rate: 99% is the source figure for the historical device."
+  },
+  {
+   "id": "ch41-u5-q22",
+   "sec": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "unit": "Mirena effects, Gynefix, implants, LARC and Essure",
+   "page": 224,
+   "fmt": "scenario",
+   "q": "Source-check: a learner wants to recommend Essure today. What is the appropriate response?",
+   "opts": [
+    "Essure is a copper IUCD",
+    "Essure is a historical/withdrawn device; study the mechanism but do not present it as an available option",
+    "Essure is an emergency contraceptive",
+    "Essure is the current first-line LARC in India"
+   ],
+   "ans": 1,
+   "exp": "The 2024 note describes a device no longer marketed in many settings; it is covered as printed history, not a current method."
+  },
+  {
+   "id": "ch41-u6-q1",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "Laparoscopic tubal ligation is described as the ____ method of ligation.",
+   "opts": [
+    "experimental",
+    "least common",
+    "only postpartum",
+    "most common"
+   ],
+   "ans": 3,
+   "exp": "m/c method of ligation opens the surgical-contraceptives section at 00:21:46."
+  },
+  {
+   "id": "ch41-u6-q2",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "The ring used in laparoscopic tubal ligation is the ____ ring.",
+   "opts": [
+    "Yuzpe",
+    "Fallope (silastic)",
+    "Lippes",
+    "Parkland"
+   ],
+   "ans": 1,
+   "exp": "Ring: Fallope rings, also labelled Silastic (Fallope) Ring."
+  },
+  {
+   "id": "ch41-u6-q3",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "Fallope rings are applied to the ____ part of the fallopian tube.",
+   "opts": [
+    "fimbria",
+    "isthmus",
+    "ampulla",
+    "ovary"
+   ],
+   "ans": 1,
+   "exp": "Rings applied in isthmus part of fallopian tube."
+  },
+  {
+   "id": "ch41-u6-q4",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "odd",
+   "q": "Which is NOT a situation in which the source says the ring is not used?",
+   "opts": [
+    "Post-partum period",
+    "Both post-partum and second-trimester abortion",
+    "Interval sterilisation in a non-pregnant woman",
+    "Second-trimester abortion"
+   ],
+   "ans": 2,
+   "exp": "Not used in: post-partum period and 2nd trimester abortion; interval sterilisation is not an exclusion."
+  },
+  {
+   "id": "ch41-u6-q5",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "The instrument drawn for applying the rings is the ____ with an extended tip holding silastic rings.",
+   "opts": [
+    "lap. tubal ring applicator",
+    "Babcock forceps",
+    "Karman cannula",
+    "Vabra aspirator"
+   ],
+   "ans": 0,
+   "exp": "Lap. tubal ring applicator with extended tip and one/two silastic rings."
+  },
+  {
+   "id": "ch41-u6-q6",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "match",
+   "q": "Match the technique: 1) Mini lap 2) Laparoscopy with A) Fallope rings B) A loop in the isthmus occluded by ligature and cut.",
+   "opts": [
+    "1-A, 2-B",
+    "Both A",
+    "1-B, 2-A",
+    "Both B"
+   ],
+   "ans": 2,
+   "exp": "Mini lap makes and cuts a ligated isthmic loop; laparoscopy applies Fallope rings."
+  },
+  {
+   "id": "ch41-u6-q7",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "The MINI LAP TECHNIQUE begins by making a ____ in the isthmus of the fallopian tube.",
+   "opts": [
+    "loop",
+    "cone",
+    "window",
+    "ring"
+   ],
+   "ans": 0,
+   "exp": "Step 1: loop made in isthmus of fallopian tube."
+  },
+  {
+   "id": "ch41-u6-q8",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "In mini lap the loop is occluded with a ____ ligature before it is cut.",
+   "opts": [
+    "non-absorbable steel",
+    "triple",
+    "spiral",
+    "single/double"
+   ],
+   "ans": 3,
+   "exp": "Step 2: loop occluded with single/double ligature; step 3: loop is cut."
+  },
+  {
+   "id": "ch41-u6-q9",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "The two 'm/c techniques' of mini lap named are Pomeroy and ____.",
+   "opts": [
+    "Uchida",
+    "modified Pomeroy",
+    "Irving",
+    "Parkland"
+   ],
+   "ans": 1,
+   "exp": "Pomeroy and modified pomeroy are bracketed as the m/c techniques."
+  },
+  {
+   "id": "ch41-u6-q10",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "Pomeroy uses ____ catgut, which is absorbable but takes time to dissolve.",
+   "opts": [
+    "stainless steel",
+    "plain",
+    "chromic",
+    "nylon"
+   ],
+   "ans": 2,
+   "exp": "Pomeroy: Chromic catgut, absorbable, takes time to dissolve."
+  },
+  {
+   "id": "ch41-u6-q11",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "Modified Pomeroy uses ____ catgut, which dissolves quickly.",
+   "opts": [
+    "chromic",
+    "titanium",
+    "nylon",
+    "plain"
+   ],
+   "ans": 3,
+   "exp": "Modified pomeroy: Plain catgut, absorbable, dissolves quickly."
+  },
+  {
+   "id": "ch41-u6-q12",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "match",
+   "q": "Match the suture: 1) Pomeroy 2) Modified Pomeroy with A) Chromic catgut B) Plain catgut.",
+   "opts": [
+    "Both B",
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "Both A"
+   ],
+   "ans": 1,
+   "exp": "Chromic catgut (slow) is Pomeroy; plain catgut (quick) is modified Pomeroy."
+  },
+  {
+   "id": "ch41-u6-q13",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "The Pomeroy-type sterilisation is done ____ and as interval sterilisation.",
+   "opts": [
+    "during the second trimester abortion",
+    "postpartum",
+    "during menstruation only",
+    "only laparoscopically"
+   ],
+   "ans": 1,
+   "exp": "Done: 1. Postpartum, 2. As interval sterilization."
+  },
+  {
+   "id": "ch41-u6-q14",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "The Parkland technique makes a ____ ligation in the loop of the isthmus before cutting it.",
+   "opts": [
+    "double",
+    "single",
+    "spiral",
+    "triple"
+   ],
+   "ans": 0,
+   "exp": "Parkland: double ligation made in the loop of isthmus; loop is cut."
+  },
+  {
+   "id": "ch41-u6-q15",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "The stated advantage of the Parkland technique is ____ of the two ends of the tube.",
+   "opts": [
+    "delayed absorption",
+    "STI protection",
+    "immediate separation",
+    "reversal of sterilisation"
+   ],
+   "ans": 2,
+   "exp": "Advantages: Immediate separation of two ends of tube."
+  },
+  {
+   "id": "ch41-u6-q16",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "fillup",
+   "q": "Babcock's forceps and a window made in the mesentery are figure labels for the ____ technique.",
+   "opts": [
+    "Pomeroy",
+    "Irving",
+    "Kroener",
+    "Parkland"
+   ],
+   "ans": 3,
+   "exp": "These labels sit under the Parkland technique drawings."
+  },
+  {
+   "id": "ch41-u6-q17",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "tf",
+   "q": "I) Pomeroy uses chromic catgut. II) Modified Pomeroy uses plain catgut and dissolves quickly.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "Both true",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "The two catgut types and their dissolution speeds are printed side by side."
+  },
+  {
+   "id": "ch41-u6-q18",
+   "sec": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "unit": "Laparoscopic ligation, mini lap, Pomeroy and Parkland",
+   "page": 225,
+   "fmt": "scenario",
+   "q": "A diagram shows a loop in the tubal isthmus, double ligation, then cutting of the loop. Which named technique is it?",
+   "opts": [
+    "Fallope ring application",
+    "Kroener fimbriectomy",
+    "Parkland",
+    "Pomeroy"
+   ],
+   "ans": 2,
+   "exp": "Double ligation of an isthmic loop followed by cutting is the Parkland technique."
+  },
+  {
+   "id": "ch41-u7-q1",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "In the Irving method the ____ part is buried in the myometrium and the distal part is ligated.",
+   "opts": [
+    "fimbrial",
+    "ampullary",
+    "proximal",
+    "ovarian"
+   ],
+   "ans": 2,
+   "exp": "Irving method: proximal part buried in myometrium; distal part ligated."
+  },
+  {
+   "id": "ch41-u7-q2",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "Uchida's technique begins with ____, injecting saline into the mesentery of the fallopian tube.",
+   "opts": [
+    "fimbriectomy",
+    "cauterisation",
+    "cryoablation",
+    "hydrodissection"
+   ],
+   "ans": 3,
+   "exp": "Hydrodissection: saline injected into mesentery -> clear demarcation of muscularis layers."
+  },
+  {
+   "id": "ch41-u7-q3",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "In Uchida's technique the proximal end is ligated and the distal end is ligated and ____.",
+   "opts": [
+    "removed entirely",
+    "buried in the ovary",
+    "clipped with a Fallope ring",
+    "sutured along the mesentery"
+   ],
+   "ans": 3,
+   "exp": "Distal end is ligated and sutured along mesentery."
+  },
+  {
+   "id": "ch41-u7-q4",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "The Madlener technique ligates the base of the tube and ____ the tube.",
+   "opts": [
+    "sutures to the ovary",
+    "crushes",
+    "freezes",
+    "buries"
+   ],
+   "ans": 1,
+   "exp": "Base of the tube is ligated and tube is crushed."
+  },
+  {
+   "id": "ch41-u7-q5",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "The failure rate printed for the Madlener technique is ____.",
+   "opts": [
+    "zero",
+    "low",
+    "intermediate",
+    "high"
+   ],
+   "ans": 3,
+   "exp": "Failure rate: High is the only outcome annotation beside the Madlener bullet."
+  },
+  {
+   "id": "ch41-u7-q6",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "Kroener surgery is a ____ that leads to failure of oocyte pick-up.",
+   "opts": [
+    "oophorectomy",
+    "hysterectomy",
+    "salpingectomy",
+    "fimbriectomy"
+   ],
+   "ans": 3,
+   "exp": "Kroener surgery: Fimbriectomy -> failure of oocyte pick-up."
+  },
+  {
+   "id": "ch41-u7-q7",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "match",
+   "q": "Match the method to its defining step: 1) Irving 2) Uchida 3) Kroener 4) Madlener with A) Fimbriectomy B) Proximal stump buried in myometrium C) Crushing the tube base D) Hydrodissection of the mesentery.",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 1,
+   "exp": "Each named operation has one distinctive printed step."
+  },
+  {
+   "id": "ch41-u7-q8",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "In the FAILURE RATE line, the method at the 'least' end is ____.",
+   "opts": [
+    "modified Pomeroy",
+    "Pomeroy",
+    "cautery",
+    "clips"
+   ],
+   "ans": 2,
+   "exp": "Least -> Cautery, Uchida, Irving, modified Pomeroy, Pomeroy -> most."
+  },
+  {
+   "id": "ch41-u7-q9",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "In the FAILURE RATE line, the method at the 'most' end is ____.",
+   "opts": [
+    "Pomeroy",
+    "Uchida",
+    "cautery",
+    "Irving"
+   ],
+   "ans": 0,
+   "exp": "The arrow ends at Pomeroy as the highest failure rate in the source ranking."
+  },
+  {
+   "id": "ch41-u7-q10",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "In the CHANCES OF RECANALIZATION line, the method at the 'most' end is ____.",
+   "opts": [
+    "Irving",
+    "Uchida",
+    "cautery",
+    "clips"
+   ],
+   "ans": 3,
+   "exp": "Most -> Clips, Fallope rings, Pomeroy, modified Pomeroy, Irving, Uchida, Cautery -> Least."
+  },
+  {
+   "id": "ch41-u7-q11",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "fillup",
+   "q": "In the CHANCES OF RECANALIZATION line, the method at the 'least' end is ____.",
+   "opts": [
+    "clips",
+    "cautery",
+    "Pomeroy",
+    "Fallope rings"
+   ],
+   "ans": 1,
+   "exp": "Cautery is placed at the least-recanalization end, opposite clips."
+  },
+  {
+   "id": "ch41-u7-q12",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "scenario",
+   "q": "A student claims Pomeroy has both the highest failure rate and the highest recanalization chance. Which correction is needed?",
+   "opts": [
+    "Cautery is highest on both lists",
+    "Pomeroy is highest for failure but only mid-ranked for recanalization, where clips and Fallope rings lead",
+    "Pomeroy is lowest on both lists",
+    "Clips rank last for recanalization"
+   ],
+   "ans": 1,
+   "exp": "The two arrows order the methods differently; do not transpose one ranking onto the other."
+  },
+  {
+   "id": "ch41-u7-q13",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "tf",
+   "q": "I) Cautery is at the least-failure end. II) Cautery is at the least-recanalization end.",
+   "opts": [
+    "Both true",
+    "I false; II true",
+    "I true; II false",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Cautery sits at the least end of both printed arrows."
+  },
+  {
+   "id": "ch41-u7-q14",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "odd",
+   "q": "Which is NOT in the FAILURE RATE ranking line?",
+   "opts": [
+    "Uchida",
+    "Cautery",
+    "Clips",
+    "Modified Pomeroy"
+   ],
+   "ans": 2,
+   "exp": "Clips appear only in the recanalization line, not in the failure-rate sequence."
+  },
+  {
+   "id": "ch41-u7-q15",
+   "sec": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "unit": "Irving, Uchida, Madlener, Kroener and outcome rankings",
+   "page": 226,
+   "fmt": "scenario",
+   "q": "Source-check: the two ranking lines mix method names and clip/ring devices. What should a learner do?",
+   "opts": [
+    "Read 'least failure' as 'least recanalization'",
+    "Treat them as the source's qualitative orderings, not absolute failure probabilities",
+    "Assume clips are a surgical ligation technique",
+    "Convert each position into an exact percentage"
+   ],
+   "ans": 1,
+   "exp": "The arrows are ordinal study aids; no numeric probabilities are supplied."
+  }
+ ]
+}

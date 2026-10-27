@@ -6,10 +6,10 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 - Repository: `Deva20045/Gyne`
 - Published app: `obg-mastery-path.html` (single offline HTML, no build step to run)
 - Editable source of truth for built chapters: `data_src/chNN.py` → `data/chNN.json`
-- Rebuild any chapter: `python3 build_chapters.py 36 37 38 39 40`
+- Rebuild any chapter: `python3 build_chapters.py 41 42 43 44`
 - Validate: `python3 validate.py`
 
-## Build status — 40 of 49 chapters built · 3,536 questions · 424 units
+## Build status — 44 of 49 chapters built · 4,053 questions · 458 units
 
 | Chapters | Scan sequence | Questions | Units |
 |---|---:|---:|---:|
@@ -25,36 +25,45 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 | 38 Male Infertility | 203–210 | 144 | 8 |
 | 39 Contraception: Part 1 | 211–216 | 115 | 6 |
 | 40 Contraception: Part 2 | 217–221 | 104 | 6 |
-| **Cumulative 1–40** | **1–221** | **3,536** | **424** |
+| 41 Contraception: Images | 222–226 | 116 | 7 |
+| 42 Endometrial Hyperplasia | 227–229 | 79 | 6 |
+| 43 Endometrial Cancer | 230–235 | 122 | 8 |
+| 44 CIN: Part 1 | 236–245 | 200 | 13 |
+| **Cumulative 1–44** | **1–245** | **4,053** | **458** |
 
-## Current release — Chapters 36–40
+## Current release — Chapters 41–44
 
-**511 new questions / 30 units** in source order, across all 29 sheets from scan
-193–221 (**printed folios 185–213**, part-05 PDF pages 13–41).
+**517 new questions / 34 units** in source order, across all 24 sheets from scan
+222–245 (**printed folios 214–237**, part-05 PDF pages 42–45 and part-06 pages 1–20).
 Earlier progress notes called scan positions “Book pages”; use the mapping above
-when locating printed page numbers.
+when locating printed page numbers. Chapter boundaries were checked against the
+actual page headings: **CIN: Part 2 starts at scan 246 / printed 238** and is not
+included in this batch.
 
-- 269 fill-ups, 126 clinical/source-check scenarios, 55 match-the-following,
-  43 odd-one-out and 18 paired-statement true/false questions.
+- 369 fill-ups, 51 clinical/source-check scenarios, 39 match-the-following,
+  30 paired-statement true/false and 28 odd-one-out questions.
 - All five requested formats appear in each chapter. Each question has four
   distinct options and an explanatory answer; paired T/F uses four truth combinations.
 - Reviewed each rasterised source sheet and its tables, arrows, captions and
-  continuation headings. Selected unclear numerals were reviewed in magnified crops.
-  Full topic/question-ID map: [`audit/ch36-40-coverage.md`](audit/ch36-40-coverage.md).
-- Source inconsistencies are identified where they occur, rather than silently
-  turning erroneous or obsolete annotations into clinical recommendations.
-- Improved answer shuffling: globally balanced slots without the prior forced
-  permutation every four questions; distractor order is shuffled too.
-- Rebuilding any chapter now retains numerical chapter order. Corrected the
-  pre-existing 35-before-34 block ordering. Existing progress IDs remain stable.
-- The strengthened validator also found a double-quoted legacy duplicate stem
-  missed by the old regular expression; reworded `ch29-u10-q6` without changing
-  its answer, options, ID or meaning.
+  continuation headings. Ambiguous numerals (condom failure rates, Mala N/D doses,
+  IUCD lifespans/release rates, implant dose/day, Essure timeline, sterilisation
+  rankings, EH thresholds, cancer grades/stages, Bethesda counts, vaccine
+  valencies/doses) were re-read in magnified crops.
+  Full topic/question-ID map: [`audit/ch41-44-coverage.md`](audit/ch41-44-coverage.md).
+- Source inconsistencies and obsolete/unsafe annotations are flagged in explanations
+  rather than silently turned into clinical recommendations — including the female
+  condom “can be used twice” line, sponge “TSS: Nil”, Nexplanon radiopacity
+  contradiction, withdrawn Essure, edition-specific Mirena/emergency-contraception
+  note, “cancer cervix: m/c cause of PMB in India”, E2→E6/E7 shorthand, ACOG
+  5-yearly label and old versus WHO SAGE vaccine schedules.
+- Balanced answer slots without a predictable four-item cycle; distractor order
+  is shuffled too. Rebuilds remain in numeric book order and existing progress IDs
+  are unchanged.
 
 ### Verification
 
 ```sh
-python3 build_chapters.py 36 37 38 39 40
+python3 build_chapters.py 41 42 43 44
 python3 validate.py
 python3 -m unittest discover -s tests -v
 npm ci
@@ -65,7 +74,7 @@ node tests/quiz-smoke.cjs
 Validation fails on duplicate IDs/stems, bad options/answers, stale new-chapter
 source/JSON/HTML, missing formats, out-of-order source pages or unbalanced new
 answer slots. JavaScript syntax is checked by Node. The DOM smoke test plays
-**all 511 new questions**, checks feedback and unit completion, and tests mistake
+**all 517 new questions**, checks feedback and unit completion, and tests mistake
 review and saved-progress reload without losing an existing chapter's progress.
 Automated tests check structure/behaviour, not medical accuracy or a formal proof
 of exhaustive source coverage.
@@ -73,7 +82,14 @@ of exhaustive source coverage.
 The app remains a single offline HTML file; Node/jsdom are development-test
 requirements only. No runtime dependency or network call was added.
 
-## Previous release — Chapters 30 to 35 (scan p160–192)
+## Previous release — Chapters 36–40 (scan p193–221)
+
+**511 questions / 30 units** across 29 sheets (printed folios 185–213, part-05 PDF
+pages 13–41): Female Infertility Parts 1–2, Male Infertility and Contraception
+Parts 1–2. Full page/topic map and source caveats:
+[`audit/ch36-40-coverage.md`](audit/ch36-40-coverage.md).
+
+## Earlier release — Chapters 30 to 35 (scan p160–192)
 
 All 33 scanned sheets covering Book p160–192 were rasterised, OCR'd and re-read at
 high zoom for every numeral, table cell, arrow label and figure caption before a single

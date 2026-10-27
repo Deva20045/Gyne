@@ -2,49 +2,53 @@
 
 ## Current release (2026-10-27)
 
-- **Built chapters: 1–40 of 49**; **3,536 questions / 424 units**.
-- Latest batch: **Chapters 36–40, 511 questions / 30 units**.
+- **Built chapters: 1–44 of 49**; **4,053 questions / 458 units**.
+- Latest batch: **Chapters 41–44, 517 questions / 34 units**.
 
 | Chapter | Scan sequence | Printed folios | Questions | Units |
 |---|---|---|---:|---:|
-| 36 Female Infertility: Part 1 | 193–198 | 185–190 | 90 | 6 |
-| 37 Female Infertility: Part 2 | 199–202 | 191–194 | 58 | 4 |
-| 38 Male Infertility | 203–210 | 195–202 | 144 | 8 |
-| 39 Contraception: Part 1 | 211–216 | 203–208 | 115 | 6 |
-| 40 Contraception: Part 2 | 217–221 | 209–213 | 104 | 6 |
+| 41 Contraception: Images | 222–226 | 214–218 | 116 | 7 |
+| 42 Endometrial Hyperplasia | 227–229 | 219–221 | 79 | 6 |
+| 43 Endometrial Cancer | 230–235 | 222–227 | 122 | 8 |
+| 44 CIN: Part 1 | 236–245 | 228–237 | 200 | 13 |
 
 The metadata `page` field retains the repository's **scan-sequence** convention.
 Earlier notes called those “Book pages”; do not confuse them with the printed
-folio. This batch uses part-05 PDF pages 13–41 inclusive.
+folio. This batch uses part-05 PDF pages 42–45 (scans 222–225) and part-06 PDF
+pages 1–20 (scans 226–245). Raw OCR aid is saved at `audit/ocr_222_246.txt`;
+it is not authoritative. Full coverage map: `audit/ch41-44-coverage.md`.
 
 ## Next work
 
-**Chapter 41 — Contraception: Images** begins at **scan 222 / printed 214**.
-The supplied part-05 PDF covers scans 181–225; part-06 covers 226–270 and
-part-07 covers 271–272. Check chapter boundaries from the actual page headings.
-Chapters 41–49 are not built. Do not include them in the completed batch.
+**Chapter 45 — CIN: Part 2** begins at **scan 246 / printed 238** (part-06 PDF
+page 21). Boundary confirmed from the actual page heading; do not pull scan 246
+content into the completed 41–44 batch. The supplied part-06 PDF covers scans
+226–270 and part-07 covers 271–272. Check subsequent chapter boundaries from the
+actual page headings as before. Chapters 45–49 are not built.
 
 ## Files
 
 - `obg-mastery-path.html`: offline deliverable; `index.html` redirects here.
 - `data_src/chNN.py`: hand-authored chapter source.
-- `data_src/authoring.py`: strict seven-field text parser used by chapters 36–40.
+- `data_src/authoring.py`: strict seven-field text parser used by chapters 36–44.
   It parses authored questions, never generates them from OCR.
 - `data/chNN.json`: generated questions plus source-page/format metadata.
 - `build_chapters.py`: deterministic balanced shuffling, distractor shuffling,
   embedding and numerically ordered idempotent upsert.
 - `validate.py`: fail-closed validation using actual JS parsing via Node.
-- `tests/test_build.py`: authoring, shuffle, order/idempotency and negative tests.
-- `tests/quiz-smoke.cjs`: jsdom interaction test of all 511 new questions,
+- `tests/test_build.py`: authoring, shuffle, order/idempotency, page coverage
+  for chapters 36–44 and negative tests.
+- `tests/quiz-smoke.cjs`: jsdom interaction test of all 517 new questions,
   feedback/completion, mistake review and progress persistence/reload.
-- `audit/ch36-40-coverage.md`: page/topic/question-ID map and source caveats.
-- `audit/ocr_193_221.txt`: uncorrected OCR, not an authoritative transcription.
+- `audit/ch41-44-coverage.md`: page/topic/question-ID map and source caveats.
+- `audit/ch36-40-coverage.md`: previous batch coverage record.
+- `audit/ocr_222_246.txt`: uncorrected OCR, not an authoritative transcription.
 - `PROGRESS.md`: release totals and detailed history.
 
 ## Build and test
 
 ```sh
-python3 build_chapters.py 36 37 38 39 40
+python3 build_chapters.py 41 42 43 44
 python3 validate.py
 python3 -m unittest discover -s tests -v
 npm ci

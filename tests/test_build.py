@@ -33,20 +33,21 @@ class BuildTests(unittest.TestCase):
             app = Path(d) / 'app.html'
             app.write_text(original)
             with patch.object(build, 'APP', app):
-                for ch in (40, 36, 39, 37, 38):
+                for ch in (44, 40, 36, 43, 39, 37, 42, 38, 41):
                     groups, _ = build.build_chapter(ch, ch-1)
                     build.upsert(ch, build.render_chapter(ch, ch-1, groups))
                 first = app.read_text()
-                for ch in (36, 37, 38, 39, 40):
+                for ch in range(36, 45):
                     groups, _ = build.build_chapter(ch, ch-1)
                     build.upsert(ch, build.render_chapter(ch, ch-1, groups))
                 self.assertEqual(first, app.read_text())
                 self.assertEqual(original, app.read_text())
                 nums = [int(n) for n in re.findall(r"    id: 'ch(\d+)',", first)]
-                self.assertEqual(nums, list(range(1,41)))
+                self.assertEqual(nums, list(range(1,45)))
 
     def test_every_source_scan_in_requested_batch_is_represented(self):
-        boundaries = {36:(193,198),37:(199,202),38:(203,210),39:(211,216),40:(217,221)}
+        boundaries = {36:(193,198),37:(199,202),38:(203,210),39:(211,216),40:(217,221),
+                      41:(222,226),42:(227,229),43:(230,235),44:(236,245)}
         for ch,(start,end) in boundaries.items():
             _, qs = build.build_chapter(ch, ch-1)
             pages = [q['page'] for q in qs]

@@ -1,0 +1,10 @@
+{
+  "name": "pulse-obg-mastery-path",
+  "private": true,
+  "scripts": {
+    "test": "python3 -m unittest discover -s tests -v && python3 validate.py && node tests/quiz-smoke.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "30.1.3"
+  }
+}

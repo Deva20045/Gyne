@@ -47,23 +47,16 @@ def load(chapter: int):
 
 def balanced_slots(rng: random.Random, n: int) -> list[int]:
     """Positions 0-3, balanced counts, no run of 4 identical slots."""
-    best = None
-    for _ in range(4000):
-        counts = [0, 0, 0, 0]
-        seq = []
-        for _ in range(n):
-            pool = [i for i in range(4) if not (len(seq) >= 3 and seq[-1] == seq[-2] == seq[-3] == i)]
-            lo = min(counts)
-            pref = [i for i in pool if counts[i] == lo] or pool
-            pick = rng.choice(pref)
-            seq.append(pick)
-            counts[pick] += 1
-        spread = max(counts) - min(counts)
-        if best is None or spread < best[0]:
-            best = (spread, seq, counts)
-        if spread <= 1:
-            break
-    return best[1]
+    # Shuffle a balanced multiset globally. Choosing the least-used slot after
+    # each answer forced every consecutive group of four to be a permutation,
+    # making the fourth answer predictable. Balance is a chapter-level property.
+    slots = [i for i in range(4) for _ in range(n // 4)]
+    slots.extend(rng.sample(range(4), n % 4))
+    for _ in range(10000):
+        rng.shuffle(slots)
+        if not any(len(set(slots[j:j + 4])) == 1 for j in range(n - 3)):
+            return slots
+    raise RuntimeError("Could not shuffle balanced answer positions")
 
 
 def js_quote(s: str) -> str:
@@ -98,6 +91,7 @@ def build_chapter(chapter: int, title: str):
             rotated = [None] * 4
             rotated[pos] = opts[0]
             rest = [o for o in opts[1:]]
+            rng.shuffle(rest)
             j = 0
             for i in range(4):
                 if rotated[i] is None:
@@ -171,6 +165,12 @@ def upsert(chapter: int, block: str):
     if ANCHOR not in text:
         raise SystemExit("anchor not found in app")
     text = text.replace(ANCHOR, block + "\n" + ANCHOR, 1)
+    # Rebuilding an earlier chapter must not move it to the end of the book.
+    pattern = re.compile(r"  \{\n    id: 'ch(\d+)',.*?\n  \},", re.S)
+    matches = list(pattern.finditer(text))
+    ordered = sorted(matches, key=lambda match: int(match.group(1)))
+    text = (text[:matches[0].start()] + "\n".join(m.group(0) for m in ordered)
+            + text[matches[-1].end():])
     APP.write_text(text, encoding="utf-8")
 
 

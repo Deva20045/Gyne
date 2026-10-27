@@ -1,0 +1,1445 @@
+{
+ "chapter": 36,
+ "questions": [
+  {
+   "id": "ch36-u1-q1",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "fillup",
+   "q": "In the opening infertility list, the commonest female cause accounts for ____ and is ovarian.",
+   "opts": [
+    "70–80%",
+    "5–10%",
+    "50–65%",
+    "20–40%"
+   ],
+   "ans": 3,
+   "exp": "The opening line assigns 20–40% to ovarian causes and ranks these first."
+  },
+  {
+   "id": "ch36-u1-q2",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "fillup",
+   "q": "The tubal cause ranks ____ among female infertility causes in this chapter.",
+   "opts": [
+    "Fourth",
+    "Third",
+    "Second",
+    "First"
+   ],
+   "ans": 2,
+   "exp": "The handwritten line says second most common; OCR had misread this as third."
+  },
+  {
+   "id": "ch36-u1-q3",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "An infertile woman has a fibroid projecting into the uterine cavity. Which location is singled out in the uterine-cause list?",
+   "opts": [
+    "Subserosal",
+    "Pedunculated extrauterine",
+    "Broad ligament",
+    "Submucous"
+   ],
+   "ans": 3,
+   "exp": "The listed cavity-related fibroid is submucous, not a purely external lesion."
+  },
+  {
+   "id": "ch36-u1-q4",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "odd",
+   "q": "Which does NOT belong to the opening uterine-cause group?",
+   "opts": [
+    "Septate uterus",
+    "Endometrial polyp",
+    "Cervicitis",
+    "Asherman syndrome"
+   ],
+   "ans": 2,
+   "exp": "Cervicitis is in the following cervical/unexplained group; all other options are uterine causes."
+  },
+  {
+   "id": "ch36-u1-q5",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "fillup",
+   "q": "Fill both gaps: The two opening cervical/unexplained examples are ____ and ____.",
+   "opts": [
+    "Antiovarian antibodies; septate uterus",
+    "Antisperm antibodies; Asherman syndrome",
+    "Anticardiolipin antibodies; endometriosis",
+    "Antisperm antibodies; cervicitis"
+   ],
+   "ans": 3,
+   "exp": "Antisperm antibodies and cervicitis are listed together after the uterine causes."
+  },
+  {
+   "id": "ch36-u1-q6",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "An infertile patient with Kallmann syndrome has low FSH and low estrogen. Which WHO ovarian class fits?",
+   "opts": [
+    "Hyperprolactinaemia within Class II",
+    "Class III: hypergonadotropic hypogonadism",
+    "Class I: hypogonadotropic hypogonadism",
+    "Class II: normogonadotropic normogonadism"
+   ],
+   "ans": 2,
+   "exp": "Class I has low gonadotropins and low estrogen; Kallmann syndrome is the example."
+  },
+  {
+   "id": "ch36-u1-q7",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "Anovulation in PCOS with normal FSH and normal estrogen belongs to which ovarian class?",
+   "opts": [
+    "Class II",
+    "The separate prolactin category",
+    "Class III",
+    "Class I"
+   ],
+   "ans": 0,
+   "exp": "The Class II row is normogonadotropic, normogonadal anovulation, exemplified by PCOS."
+  },
+  {
+   "id": "ch36-u1-q8",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "High FSH with low estrogen in premature ovarian insufficiency maps to ____.",
+   "opts": [
+    "Class II: normogonadotropic normogonadism",
+    "Class I: hypogonadotropic hypogonadism",
+    "An unclassified prolactin disorder",
+    "Class III: hypergonadotropic hypogonadism"
+   ],
+   "ans": 3,
+   "exp": "Loss of ovarian feedback raises FSH while estrogen falls; POI is the Class III example."
+  },
+  {
+   "id": "ch36-u1-q9",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "match",
+   "q": "Match I, II, III with A) POI B) Kallmann syndrome C) PCOS anovulation.",
+   "opts": [
+    "I-B, II-C, III-A",
+    "I-A, II-B, III-C",
+    "I-B, II-A, III-C",
+    "I-C, II-A, III-B"
+   ],
+   "ans": 0,
+   "exp": "The table proceeds Kallmann, PCOS, then POI."
+  },
+  {
+   "id": "ch36-u1-q10",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "fillup",
+   "q": "Hyperprolactinaemia is placed ____ the three WHO ovarian classes in these notes.",
+   "opts": [
+    "Outside, as a separate cause",
+    "In Class II only",
+    "In Class I only",
+    "In Class III only"
+   ],
+   "ans": 0,
+   "exp": "The explicit note calls hyperprolactinaemia not classified and a separate cause."
+  },
+  {
+   "id": "ch36-u1-q11",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "Both partners present for infertility evaluation. Which endocrine pair is named for males and females?",
+   "opts": [
+    "Serum prolactin and TSH",
+    "Serum DHEAS and cortisol",
+    "Serum progesterone and estradiol",
+    "Serum AMH and inhibin B"
+   ],
+   "ans": 0,
+   "exp": "The applied note points both males and females toward prolactin and TSH testing."
+  },
+  {
+   "id": "ch36-u1-q12",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "fillup",
+   "q": "The Class I Kallmann management line specifies ____ GnRH.",
+   "opts": [
+    "Antagonistic blockade of",
+    "Depot suppressive",
+    "Continuous high-dose",
+    "Pulsatile"
+   ],
+   "ans": 3,
+   "exp": "Pulsatile GnRH reproduces hypothalamic stimulation; continuous suppressive exposure does not."
+  },
+  {
+   "id": "ch36-u1-q13",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "fillup",
+   "q": "Class II anovulation is both the commonest ovarian infertility cause and the ____ form to treat in the notes.",
+   "opts": [
+    "Most easily treatable",
+    "Form requiring donor eggs first",
+    "Least reversible",
+    "Most resistant to induction"
+   ],
+   "ans": 0,
+   "exp": "Both superlatives are written in the Class II block."
+  },
+  {
+   "id": "ch36-u1-q14",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "Irregular, heavy but painless bleeding in an anovulatory patient is attributed to which mechanism?",
+   "opts": [
+    "Cyclical prostaglandin release after ovulation",
+    "Progesterone withdrawal after a normal luteal phase",
+    "Recurrent follicular rupture",
+    "Estrogen breakthrough bleeding"
+   ],
+   "ans": 3,
+   "exp": "The anovulatory-cycle list links irregularity to estrogen breakthrough and describes heavy painless bleeding."
+  },
+  {
+   "id": "ch36-u1-q15",
+   "sec": "Causes and WHO ovarian classification",
+   "unit": "Causes and WHO ovarian classification",
+   "page": 193,
+   "fmt": "tf",
+   "q": "Judge the statements about the chapter's anovulatory cycles: I) They may be irregular. II) They are characteristically painful because ovulation occurs.",
+   "opts": [
+    "I true; II false",
+    "Both false",
+    "Both true",
+    "I false; II true"
+   ],
+   "ans": 0,
+   "exp": "Irregular cycles and painless bleeding are listed; anovulation does not imply follicular rupture."
+  },
+  {
+   "id": "ch36-u2-q1",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "odd",
+   "q": "Which is NOT one of the four history-based retrospective clues to ovulation?",
+   "opts": [
+    "Dysmenorrhoea",
+    "Regular cycles",
+    "Persistently positive urinary LH kits",
+    "Mittelschmerz"
+   ],
+   "ans": 2,
+   "exp": "Regularity, dysmenorrhoea, mittelschmerz and premenstrual syndrome form the history list; LH testing is predictive."
+  },
+  {
+   "id": "ch36-u2-q2",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "fillup",
+   "q": "The fourth history clue, alongside regular cycles, dysmenorrhoea and mittelschmerz, is ____.",
+   "opts": [
+    "Galactorrhoea",
+    "Intermenstrual fever",
+    "Postcoital spotting",
+    "Premenstrual syndrome"
+   ],
+   "ans": 3,
+   "exp": "Premenstrual syndrome completes the four-item retrospective list."
+  },
+  {
+   "id": "ch36-u2-q3",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "fillup",
+   "q": "Progesterone-based testing is timed around day ____ in a 28-day cycle, or ____ before the next period.",
+   "opts": [
+    "14; two weeks",
+    "21; one week",
+    "26; two days",
+    "7; three weeks"
+   ],
+   "ans": 1,
+   "exp": "The source anchors the timing to peak progesterone and one week before menstruation; day 21 is not universal for every cycle length."
+  },
+  {
+   "id": "ch36-u2-q4",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "A patient's basal temperature chart becomes biphasic after mid-cycle. Which interpretation fits?",
+   "opts": [
+    "Ovulation has occurred, with thermogenic progesterone",
+    "Estrogen alone has caused the luteal rise",
+    "No inference is possible because progesterone lowers temperature",
+    "Ovulation will definitely occur in the next 24 hours"
+   ],
+   "ans": 0,
+   "exp": "The BBT rise is retrospective evidence of progesterone secretion after ovulation."
+  },
+  {
+   "id": "ch36-u2-q5",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "fillup",
+   "q": "The basal body temperature rise specified in the notes is ____.",
+   "opts": [
+    "0.5–0.8°C",
+    "0.5–0.8°F",
+    "2.0–3.0°C",
+    "1.5–2.0°F"
+   ],
+   "ans": 1,
+   "exp": "The units are Fahrenheit; confusing the same numeric range with Celsius changes the magnitude."
+  },
+  {
+   "id": "ch36-u2-q6",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "Cervical mucus is profuse, watery, elastic and fern-like microscopically. Which hormone predominates?",
+   "opts": [
+    "Estrogen",
+    "Inhibin B",
+    "Progesterone",
+    "Prolactin"
+   ],
+   "ans": 0,
+   "exp": "The estrogen-dominant arm has stretchable mucus with ferning."
+  },
+  {
+   "id": "ch36-u2-q7",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "fillup",
+   "q": "Spinnbarkeit refers specifically to cervical mucus ____.",
+   "opts": [
+    "Stretchability",
+    "Ferning under microscopy",
+    "Leukocyte concentration",
+    "Acidity"
+   ],
+   "ans": 0,
+   "exp": "The notes define spinnbarkeit as stretchability; ferning is a separate observation."
+  },
+  {
+   "id": "ch36-u2-q8",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "A luteal cervical sample is scanty, thick, viscous, non-stretchable and does not fern. Which interpretation fits?",
+   "opts": [
+    "An isolated rise in FSH",
+    "Progesterone predominance after ovulation",
+    "Estrogen predominance before ovulation",
+    "Absent ovarian hormonal influence"
+   ],
+   "ans": 1,
+   "exp": "Progesterone produces thick mucus and abolishes stretchability and ferning."
+  },
+  {
+   "id": "ch36-u2-q9",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "match",
+   "q": "Match mucus patterns: I) Watery/elastic II) Thick/non-stretchable with A) Progesterone B) Estrogen.",
+   "opts": [
+    "Both B",
+    "I-B, II-A",
+    "Both A",
+    "I-A, II-B"
+   ],
+   "ans": 1,
+   "exp": "The two hormone columns have opposite mucus properties."
+  },
+  {
+   "id": "ch36-u2-q10",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "tf",
+   "q": "I) Ferning is present in the estrogen-dominant mucus column. II) Ferning is absent in the progesterone-dominant column.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "Both true",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "Ferning and its loss parallel estrogen and progesterone predominance respectively."
+  },
+  {
+   "id": "ch36-u2-q11",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "fillup",
+   "q": "Vaginal epithelial cells for the hormonal study are sampled from the ____.",
+   "opts": [
+    "Endocervical canal",
+    "Posterior cervical lip",
+    "Lateral vaginal wall",
+    "Endometrial cavity"
+   ],
+   "ans": 2,
+   "exp": "The stated site is the lateral vaginal wall, not a cervical screening sample."
+  },
+  {
+   "id": "ch36-u2-q12",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "Vaginal cytology shows eosinophilic superficial cells. Which hormonal state does the page associate with this?",
+   "opts": [
+    "Progesterone predominance",
+    "Isolated inhibin B predominance",
+    "Estrogen predominance",
+    "No hormonal predominance"
+   ],
+   "ans": 2,
+   "exp": "Superficial eosinophilic cells are in the estrogen arm, labelled ovulation negative in this diagram."
+  },
+  {
+   "id": "ch36-u2-q13",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "Basophilic intermediate cells predominate in vaginal cytology. Which hormonal state fits?",
+   "opts": [
+    "Progesterone predominance",
+    "Estrogen predominance",
+    "Complete absence of hormonal effect",
+    "Isolated LH predominance"
+   ],
+   "ans": 0,
+   "exp": "Intermediate basophilic cells correspond to progesterone and the ovulation-positive arm."
+  },
+  {
+   "id": "ch36-u2-q14",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "fillup",
+   "q": "No hormonal predominance produces ____ cells, described as having blurred margins and large nuclei.",
+   "opts": [
+    "Intermediate basophilic",
+    "Parabasal",
+    "Endocervical columnar",
+    "Superficial eosinophilic"
+   ],
+   "ans": 1,
+   "exp": "The third cytology arm describes parabasal cells with these morphological features."
+  },
+  {
+   "id": "ch36-u2-q15",
+   "sec": "Retrospective ovulation tests and vaginal cytology",
+   "unit": "Retrospective ovulation tests and vaginal cytology",
+   "page": 194,
+   "fmt": "match",
+   "q": "Match A) Estrogen B) Progesterone C) No hormonal predominance with 1) Parabasal 2) Intermediate basophilic 3) Superficial eosinophilic.",
+   "opts": [
+    "A-2, B-3, C-1",
+    "A-1, B-2, C-3",
+    "A-3, B-1, C-2",
+    "A-3, B-2, C-1"
+   ],
+   "ans": 3,
+   "exp": "Each hormonal arm has its own epithelial pattern; sampling site is shared."
+  },
+  {
+   "id": "ch36-u3-q1",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "The maturation index counts ____ cells and writes A/B/C as ____.",
+   "opts": [
+    "50; parabasal/superficial/intermediate",
+    "100; parabasal/intermediate/superficial",
+    "200; intermediate/parabasal/superficial",
+    "100; superficial/intermediate/parabasal"
+   ],
+   "ans": 1,
+   "exp": "The definition at the top of the page fixes both denominator and order."
+  },
+  {
+   "id": "ch36-u3-q2",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "scenario",
+   "q": "In a maturation index written A/B/C, which entry corresponds to progesterone-associated intermediate cells?",
+   "opts": [
+    "C",
+    "A",
+    "A plus C only",
+    "B"
+   ],
+   "ans": 3,
+   "exp": "A is parabasal, B intermediate, and C superficial."
+  },
+  {
+   "id": "ch36-u3-q3",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "scenario",
+   "q": "Source-check: the scan labels 0/10/90 as ovulation with B predominance. What is the safest interpretation?",
+   "opts": [
+    "Ninety represents intermediate cells because B is third",
+    "The index uses a denominator of ten",
+    "The example conflicts with A/B/C: 90 is C, not B",
+    "The example proves progesterone increases superficial cells"
+   ],
+   "ans": 2,
+   "exp": "The handwritten example is internally inconsistent; preserve awareness of it without teaching the reversed cell assignment."
+  },
+  {
+   "id": "ch36-u3-q4",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "scenario",
+   "q": "Source-check: 0/40/60 is labelled non-ovulation with C predominance. Which population is C?",
+   "opts": [
+    "Parabasal cells",
+    "Intermediate cells",
+    "Superficial cells",
+    "Endometrial cells"
+   ],
+   "ans": 2,
+   "exp": "Unlike the preceding B label, the C-predominant label agrees with the defined third-position superficial cells."
+  },
+  {
+   "id": "ch36-u3-q5",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "In the source's karyopyknotic-index expression, the numerator is ____ and the denominator is ____.",
+   "opts": [
+    "Superficial cells; intermediate plus parabasal cells",
+    "Parabasal cells; superficial plus intermediate cells",
+    "Intermediate cells; superficial plus parabasal cells",
+    "All cells; superficial cells"
+   ],
+   "ans": 0,
+   "exp": "This question tests the expression as drawn, rather than silently substituting a different index convention."
+  },
+  {
+   "id": "ch36-u3-q6",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "The karyopyknotic-index block states a maximum at ____ and dependence on ____.",
+   "opts": [
+    "Implantation; prolactin",
+    "Menstruation; progesterone",
+    "Ovulation; estrogen",
+    "Early follicular phase; inhibin A"
+   ],
+   "ans": 2,
+   "exp": "Both timing and hormone are written directly under the expression."
+  },
+  {
+   "id": "ch36-u3-q7",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "Endometrial biopsy for the illustrated dating assessment is timed to day ____ in the premenstrual phase.",
+   "opts": [
+    "21",
+    "26",
+    "14",
+    "7"
+   ],
+   "ans": 1,
+   "exp": "The scan clearly says day 26; progesterone blood testing on day 21 is a different item."
+  },
+  {
+   "id": "ch36-u3-q8",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "scenario",
+   "q": "A premenstrual biopsy still shows single tubular glands under estrogen influence. Which phase is illustrated?",
+   "opts": [
+    "Decidual, proving implantation",
+    "Secretory, proving ovulation",
+    "Menstrual, proving luteolysis",
+    "Proliferative, without secretory evidence of ovulation"
+   ],
+   "ans": 3,
+   "exp": "The left histology panel links straight single tubular glands to estrogen and ovulation negative."
+  },
+  {
+   "id": "ch36-u3-q9",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "scenario",
+   "q": "Biopsy shows corkscrew/saw-tooth glands containing secretions. Which association is correct?",
+   "opts": [
+    "FSH; proliferative phase; ovulation positive",
+    "Prolactin; secretory phase; ovulation negative",
+    "Progesterone; secretory phase; ovulation positive",
+    "Estrogen; proliferative phase; ovulation negative"
+   ],
+   "ans": 2,
+   "exp": "The right histology panel links secretory tortuous glands to progesterone after ovulation."
+  },
+  {
+   "id": "ch36-u3-q10",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "match",
+   "q": "Match 1) Straight tubular glands 2) Saw-tooth secretory glands with A) Progesterone B) Estrogen.",
+   "opts": [
+    "Both A",
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both B"
+   ],
+   "ans": 1,
+   "exp": "The morphology distinguishes proliferative estrogen effect from secretory progesterone effect."
+  },
+  {
+   "id": "ch36-u3-q11",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "The notes' luteal-phase-defect dating criterion is a history-versus-biopsy discrepancy of ____.",
+   "opts": [
+    "At least 2 days",
+    "Exactly 14 days",
+    "At least 7 days",
+    "Less than 1 day"
+   ],
+   "ans": 0,
+   "exp": "The source specifies a difference of ≥2 days; this is a historical biopsy-based criterion, not a stand-alone modern diagnostic rule."
+  },
+  {
+   "id": "ch36-u3-q12",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "scenario",
+   "q": "The luteal-phase-defect block links low progesterone to which pregnancy consequence?",
+   "opts": [
+    "Obligatory tubal implantation",
+    "Increased chance of molar pregnancy",
+    "Increased chance of abortion",
+    "Reduced chance of early loss"
+   ],
+   "ans": 2,
+   "exp": "Low progesterone and increased abortion risk are linked in the notes."
+  },
+  {
+   "id": "ch36-u3-q13",
+   "sec": "Maturation indices, biopsy and luteal defect",
+   "unit": "Maturation indices, biopsy and luteal defect",
+   "page": 195,
+   "fmt": "tf",
+   "q": "I) The chapter recommends biopsy solely to establish ovulation. II) The biopsy illustrations compare proliferative and secretory glands.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 1,
+   "exp": "The final line explicitly says biopsy is not done solely to test ovulation."
+  },
+  {
+   "id": "ch36-u4-q1",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "match",
+   "q": "Match TB biopsy handling: 1) Histopathology 2) AFB testing with A) Normal saline B) Formalin.",
+   "opts": [
+    "Both A",
+    "1-B, 2-A",
+    "Both B",
+    "1-A, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Formalin is for histology; saline is used for the microbiological AFB sample."
+  },
+  {
+   "id": "ch36-u4-q2",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "odd",
+   "q": "Which is NOT an indication for endometrial biopsy in this block?",
+   "opts": [
+    "Genital TB histopathology",
+    "Genital TB AFB work-up",
+    "Abnormal uterine bleeding",
+    "Routine confirmation of ovulation alone"
+   ],
+   "ans": 3,
+   "exp": "TB diagnosis and AUB are listed; the preceding page excludes biopsy solely for ovulation."
+  },
+  {
+   "id": "ch36-u4-q3",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "The simple, easy and cheapest biochemical test for ovulation named here is ____.",
+   "opts": [
+    "Serum AMH",
+    "Serum progesterone",
+    "Serum inhibin B",
+    "Day-3 FSH"
+   ],
+   "ans": 1,
+   "exp": "Progesterone tests whether ovulation has occurred; AMH and FSH address reserve."
+  },
+  {
+   "id": "ch36-u4-q4",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "scenario",
+   "q": "A correctly timed luteal serum progesterone is 4 ng/mL. Using the chapter threshold, what does it support?",
+   "opts": [
+    "Ovulation is guaranteed within 24 hours",
+    "Ovulation has occurred",
+    "PCOS is ruled out",
+    "POI is confirmed"
+   ],
+   "ans": 1,
+   "exp": "The source uses ≥3 ng/mL as evidence of ovulation, not as a complete measure of luteal quality."
+  },
+  {
+   "id": "ch36-u4-q5",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "Progesterone reaches the source's approximate maximum of ____ at ____ after ovulation.",
+   "opts": [
+    "15 ng/mL; 6–8 days",
+    "3 ng/mL; 24 hours",
+    "15 ng/mL; 1–2 days",
+    "25 ng/mL; 14 days"
+   ],
+   "ans": 0,
+   "exp": "The serum-progesterone block gives both the peak value and its timing."
+  },
+  {
+   "id": "ch36-u4-q6",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "Urinary LH surge predicts ovulation about ____ later; the serum LH surge note gives ____.",
+   "opts": [
+    "36 hours; 24 hours",
+    "48 hours; 12 hours",
+    "24 hours; 36 hours",
+    "12 hours; 48 hours"
+   ],
+   "ans": 2,
+   "exp": "Urinary and serum surge timing are distinct in the notes."
+  },
+  {
+   "id": "ch36-u4-q7",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "tf",
+   "q": "I) A positive LH surge guarantees follicular rupture. II) Persistently elevated LH in PCOS can make urinary kits unreliable.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "Both false",
+    "I false; II true"
+   ],
+   "ans": 3,
+   "exp": "The two stated drawbacks are no guarantee of ovulation and constantly raised LH in PCOS."
+  },
+  {
+   "id": "ch36-u4-q8",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "The most commonly performed predictive test here is ____ starting day ____ on alternate days.",
+   "opts": [
+    "Endometrial biopsy; 26",
+    "Follicular monitoring by TVS; 10",
+    "Basal temperature charting; 21",
+    "AMH sampling; 3"
+   ],
+   "ans": 1,
+   "exp": "TVS follicular monitoring begins day 10 and is repeated on alternate days."
+  },
+  {
+   "id": "ch36-u4-q9",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "During monitoring, follicular growth is about ____ until the follicle reaches ____.",
+   "opts": [
+    "1 mm/day; 8–10 mm",
+    "4 mm/day; 28–30 mm",
+    "0.5 mm/day; 12–14 mm",
+    "2 mm/day; 18–20 mm"
+   ],
+   "ans": 3,
+   "exp": "The source follows growth to a mature-size follicle before its collapse and irregularity."
+  },
+  {
+   "id": "ch36-u4-q10",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "scenario",
+   "q": "A previously round mature follicle becomes smaller and irregular, with fluid in the pouch of Douglas. What is the best interpretation?",
+   "opts": [
+    "An endometrial polyp",
+    "Follicular rupture with ovulation",
+    "POI diagnosed from a low AFC",
+    "A persistently unruptured growing follicle"
+   ],
+   "ans": 1,
+   "exp": "Size reduction, irregular contour and free fluid are all listed sonographic signs."
+  },
+  {
+   "id": "ch36-u4-q11",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "odd",
+   "q": "Which is NOT a listed sonographic sign that ovulation has occurred?",
+   "opts": [
+    "Continued enlargement of a smooth round follicle",
+    "Irregular follicle outline",
+    "Reduction in follicle size",
+    "Fluid in the pouch of Douglas"
+   ],
+   "ans": 0,
+   "exp": "The ovulatory signs indicate collapse/rupture rather than continued smooth growth."
+  },
+  {
+   "id": "ch36-u4-q12",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "Fluid in the pouch of Douglas after ovulation is attributed to rupture of the ____ follicle.",
+   "opts": [
+    "Primordial",
+    "Antral",
+    "Primary pre-antral",
+    "Atretic stromal"
+   ],
+   "ans": 1,
+   "exp": "The note explicitly links free fluid to antral follicle rupture."
+  },
+  {
+   "id": "ch36-u4-q13",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "A triple-layered/trilaminar endometrium is most associated here with ____ more than the ovulatory phase.",
+   "opts": [
+    "Late proliferative phase",
+    "Late secretory phase",
+    "Menstrual phase",
+    "Early secretory phase"
+   ],
+   "ans": 0,
+   "exp": "The USG note writes late proliferative > ovulatory phase; the image illustrates the trilaminar appearance."
+  },
+  {
+   "id": "ch36-u4-q14",
+   "sec": "Biopsy indications, progesterone and prediction of ovulation",
+   "unit": "Biopsy indications, progesterone and prediction of ovulation",
+   "page": 196,
+   "fmt": "scenario",
+   "q": "The notes' general anovulation drug choice is ____, while PCOS-associated anovulation favours ____.",
+   "opts": [
+    "hCG; clomiphene citrate",
+    "HMG; progesterone",
+    "Clomiphene citrate; letrozole",
+    "Letrozole; pulsatile GnRH"
+   ],
+   "ans": 2,
+   "exp": "The closing treatment lines distinguish general anovulation from the PCOS-specific preference."
+  },
+  {
+   "id": "ch36-u5-q1",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "match",
+   "q": "Match induction settings: 1) Pituitary ablation 2) Kallmann syndrome 3) IVF hyperovulation with A) Pulsatile GnRH B) HMG C) HMG with GnRH protocol.",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "The continuation lines distinguish pituitary replacement from hypothalamic stimulation and IVF stimulation."
+  },
+  {
+   "id": "ch36-u5-q2",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "The Class III premature-menopause/POI block describes loss of ovarian follicles before age ____.",
+   "opts": [
+    "50 years",
+    "35 years",
+    "45 years",
+    "40 years"
+   ],
+   "ans": 3,
+   "exp": "The source's age boundary is under 40; POI can have intermittent activity, so this is the source's simplified follicle-loss description."
+  },
+  {
+   "id": "ch36-u5-q3",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "match",
+   "q": "Match follicular cells: 1) Granulosa 2) Theca with A) Androgen B) Inhibin B and estrogen.",
+   "opts": [
+    "1-B, 2-A",
+    "Both A",
+    "Both B",
+    "1-A, 2-B"
+   ],
+   "ans": 0,
+   "exp": "The follicle diagram places inhibin B, estrogen and AMH under granulosa and androgen under theca."
+  },
+  {
+   "id": "ch36-u5-q4",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "Inhibin B and estrogen from granulosa cells exert ____ feedback on ____.",
+   "opts": [
+    "Negative; TSH",
+    "Positive; prolactin",
+    "Negative; FSH",
+    "Positive; FSH throughout the cycle"
+   ],
+   "ans": 2,
+   "exp": "The bracket beside inhibin B and estrogen explicitly points to negative feedback on FSH."
+  },
+  {
+   "id": "ch36-u5-q5",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "scenario",
+   "q": "Source-check: AMH is annotated as being produced 'from menarche to puberty'. What should a learner recognise?",
+   "opts": [
+    "AMH is secreted exclusively by theca cells",
+    "Menarche normally precedes puberty by a decade",
+    "AMH is only a postmenopausal hormone",
+    "The chronology is erroneous; AMH is not confined to that interval"
+   ],
+   "ans": 3,
+   "exp": "The annotation is internally impossible as an interval; the useful tested concept is granulosa/pre-antral follicular AMH production."
+  },
+  {
+   "id": "ch36-u5-q6",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "Tests of ovarian reserve assess whether sufficient ____ remain in the ovary.",
+   "opts": [
+    "Fallopian cilia",
+    "Endometrial glands",
+    "Follicles",
+    "Cervical crypts"
+   ],
+   "ans": 2,
+   "exp": "The reserve-test heading states that the tests estimate the remaining follicular pool."
+  },
+  {
+   "id": "ch36-u5-q7",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "The cycle-restricted reserve tests on this page are performed on days ____.",
+   "opts": [
+    "21–26",
+    "2–3",
+    "7–10",
+    "12–14"
+   ],
+   "ans": 1,
+   "exp": "Inhibin B and basal FSH are grouped under days 2–3; AMH is grouped separately as any-day testing."
+  },
+  {
+   "id": "ch36-u5-q8",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "The diminished-reserve inhibin B threshold written here is ____.",
+   "opts": [
+    "Below 3 ng",
+    "Above 15 ng",
+    "Above 45 pg",
+    "Below 45 pg"
+   ],
+   "ans": 3,
+   "exp": "The handwritten inhibin line says decreased inhibin B <45 pg; these are the source's reported units."
+  },
+  {
+   "id": "ch36-u5-q9",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "scenario",
+   "q": "Ovarian reserve falls, reducing inhibin and estrogen. Why does basal FSH rise?",
+   "opts": [
+    "Increased progesterone-driven pituitary suppression",
+    "Increased inhibin secretion",
+    "Loss of negative feedback",
+    "Increased ovarian positive feedback throughout the cycle"
+   ],
+   "ans": 2,
+   "exp": "The FSH block traces low inhibin/estrogen to high FSH through lost feedback."
+  },
+  {
+   "id": "ch36-u5-q10",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "The most commonly done reserve test in the notes is ____, whereas the best test is ____.",
+   "opts": [
+    "Inhibin B; estradiol",
+    "Progesterone; AFC",
+    "FSH; AMH",
+    "AMH; FSH"
+   ],
+   "ans": 2,
+   "exp": "These superlatives belong to separate tests and should not be interchanged."
+  },
+  {
+   "id": "ch36-u5-q11",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "scenario",
+   "q": "Day-3 FSH is 8 IU. Which row of the chapter's interpretation table applies?",
+   "opts": [
+    "Reduced reserve, 10–15 IU",
+    "Normal, 2–10 IU",
+    "Diagnostic of POI, ≥40 IU",
+    "Suggestive of POI, >25 IU"
+   ],
+   "ans": 1,
+   "exp": "Eight falls within the source's normal 2–10 IU interval."
+  },
+  {
+   "id": "ch36-u5-q12",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "scenario",
+   "q": "Day-3 FSH is 12 IU. Which interpretation is supplied by the table?",
+   "opts": [
+    "Reduced ovarian reserve",
+    "Diagnostic POI at the ≥40 IU row",
+    "Confirmed PCOS",
+    "Normal reserve"
+   ],
+   "ans": 0,
+   "exp": "The 10–15 IU row denotes decreased ovarian reserve."
+  },
+  {
+   "id": "ch36-u5-q13",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "The source table labels FSH ____ as suggestive of POI and ____ as diagnostic.",
+   "opts": [
+    ">25 IU; ≥40 IU",
+    ">15 IU; ≥25 IU",
+    ">40 IU; ≥25 IU",
+    ">10 IU; ≥15 IU"
+   ],
+   "ans": 0,
+   "exp": "These are source-table categories, not a substitute for current clinical diagnostic criteria and repeat assessment when indicated."
+  },
+  {
+   "id": "ch36-u5-q14",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "A practical drawback of basal FSH reserve testing is its restriction to ____.",
+   "opts": [
+    "Day 26 only",
+    "The day after urinary LH positivity",
+    "Days 2–3 of the cycle",
+    "The first postpartum week"
+   ],
+   "ans": 2,
+   "exp": "The source repeats the day-2/day-3 limitation directly below the table."
+  },
+  {
+   "id": "ch36-u5-q15",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "Antral follicle count uses ____ to count follicles in ____ ovaries.",
+   "opts": [
+    "HSG; both",
+    "Hysteroscopy; only the right",
+    "MRI; only the dominant",
+    "TVS; both"
+   ],
+   "ans": 3,
+   "exp": "AFC counts follicles sonographically in both ovaries."
+  },
+  {
+   "id": "ch36-u5-q16",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "The antral follicles counted are ____ in size; the source links AFC ____ to POI.",
+   "opts": [
+    "18–20 mm; >10",
+    "10–17 mm; <5",
+    "2–9 mm; <10",
+    "1–2 cm; >20"
+   ],
+   "ans": 2,
+   "exp": "Both the follicle-size definition and source AFC cut-off occur on the same line; low AFC alone does not diagnose clinical POI."
+  },
+  {
+   "id": "ch36-u5-q17",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "AMH can be measured on ____ and is chemically a ____.",
+   "opts": [
+    "Any cycle day; glycoprotein hormone",
+    "Days 2–3 only; catecholamine",
+    "Day 14 only; lipid mediator",
+    "Day 21 only; steroid"
+   ],
+   "ans": 0,
+   "exp": "AMH is under any-day tests and is identified as a glycoprotein."
+  },
+  {
+   "id": "ch36-u5-q18",
+   "sec": "Induction extensions, POI and ovarian reserve",
+   "unit": "Induction extensions, POI and ovarian reserve",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "AMH is released mainly by ____ with an additional contribution from ____.",
+   "opts": [
+    "Pre-antral follicles; small antral follicles",
+    "Mature dominant follicles; cervical crypts",
+    "Corpora lutea; primordial germ cells",
+    "Theca cells; endometrial glands"
+   ],
+   "ans": 0,
+   "exp": "The source distinguishes mainly pre-antral follicles plus small antral follicles."
+  },
+  {
+   "id": "ch36-u6-q1",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "scenario",
+   "q": "AMH is 2 ng in the source table. Which category applies?",
+   "opts": [
+    "Borderline reserve, <1",
+    "Normal reserve, 1–3",
+    "High/PCOS, >3",
+    "Poor reserve/POI, <0.5"
+   ],
+   "ans": 1,
+   "exp": "Two lies in the 1–3 normal interval; the source labels are reserve categories rather than stand-alone diagnoses."
+  },
+  {
+   "id": "ch36-u6-q2",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "scenario",
+   "q": "AMH is 0.7 ng in the chapter's interpretation table. Which category is most appropriate?",
+   "opts": [
+    "The <0.5 poor-reserve category",
+    "High reserve/PCOS",
+    "Normal reserve",
+    "Borderline reserve"
+   ],
+   "ans": 3,
+   "exp": "A value below one but not below 0.5 fits the borderline row."
+  },
+  {
+   "id": "ch36-u6-q3",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "scenario",
+   "q": "Which source-table AMH category best fits 0.3 ng?",
+   "opts": [
+    "High reserve",
+    "Normal reserve",
+    "Poor reserve, labelled POI in the notes",
+    "Borderline reserve without qualifying for poor reserve"
+   ],
+   "ans": 2,
+   "exp": "The more specific <0.5 row applies. AMH alone must not be used to diagnose clinical POI."
+  },
+  {
+   "id": "ch36-u6-q4",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "fillup",
+   "q": "The high-AMH/PCOS row begins above ____ in the source's reported units.",
+   "opts": [
+    "1 ng",
+    "15 ng",
+    "0.5 ng",
+    "3 ng"
+   ],
+   "ans": 3,
+   "exp": "The final AMH row is >3, labelled high/PCOS; AMH alone is not sufficient to diagnose PCOS."
+  },
+  {
+   "id": "ch36-u6-q5",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "fillup",
+   "q": "The clomiphene citrate challenge test is described as ____.",
+   "opts": [
+    "Obsolete",
+    "The best current reserve test",
+    "A direct sperm-function test",
+    "A tubal-patency test"
+   ],
+   "ans": 0,
+   "exp": "It appears under other tests with the explicit label obsolete."
+  },
+  {
+   "id": "ch36-u6-q6",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "match",
+   "q": "Put the obsolete challenge in order: A) Day-10 FSH B) Day-3 FSH C) Clomiphene days 5–9.",
+   "opts": [
+    "B-C-A",
+    "B-A-C",
+    "C-B-A",
+    "A-C-B"
+   ],
+   "ans": 0,
+   "exp": "The protocol compares basal day-3 FSH with day-10 FSH after clomiphene."
+  },
+  {
+   "id": "ch36-u6-q7",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "scenario",
+   "q": "In the challenge diagram, raised FSH on day 3 or persistent elevation on day 10 indicates ____.",
+   "opts": [
+    "Cervical antisperm antibodies",
+    "Proven tubal obstruction",
+    "Decreased ovarian reserve",
+    "Normal reserve in every case"
+   ],
+   "ans": 2,
+   "exp": "Reduced estrogen feedback in low reserve permits persistently high FSH."
+  },
+  {
+   "id": "ch36-u6-q8",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "fillup",
+   "q": "The challenge mechanism runs: clomiphene reduces estrogen feedback, ____ rises, multiple follicles mature and ____ is released.",
+   "opts": [
+    "Prolactin; inhibin A",
+    "LH; progesterone",
+    "TSH; AMH",
+    "FSH; estrogen"
+   ],
+   "ans": 3,
+   "exp": "Follicular estrogen then regulates FSH in the normal-reserve arm."
+  },
+  {
+   "id": "ch36-u6-q9",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "tf",
+   "q": "I) Normal day-10 FSH in the challenge is associated with normal reserve. II) Low estrogen prevents FSH regulation in the reduced-reserve arm.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "The two day-10 branches explicitly contrast restored regulation with persistent FSH elevation."
+  },
+  {
+   "id": "ch36-u6-q10",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "odd",
+   "q": "Which pair is explicitly excluded from ovarian-reserve tests in this source block?",
+   "opts": [
+    "Basal FSH and inhibin B",
+    "AMH and inhibin B",
+    "AMH and AFC",
+    "Serum progesterone and serum estradiol"
+   ],
+   "ans": 3,
+   "exp": "The notes place progesterone under ovulation and list estradiol with tests not done for reserve; this is the source's grouping, not a claim that estradiol never has an adjunctive role."
+  },
+  {
+   "id": "ch36-u6-q11",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "match",
+   "q": "Match basic couple tests: 1) Male factor 2) Ovulation 3) Tubal patency with A) HSG B) Semen analysis C) Serum progesterone.",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "The couple work-up lists semen analysis, progesterone and HSG in that order."
+  },
+  {
+   "id": "ch36-u6-q12",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "odd",
+   "q": "Which is NOT a listed reason to add ovarian-reserve testing?",
+   "opts": [
+    "Isolated cervicitis without reserve risk factors",
+    "Previous chemotherapy/radiotherapy",
+    "Female age ≥35 years",
+    "Family history of POI"
+   ],
+   "ans": 0,
+   "exp": "The listed indications are age, gonadotoxic therapy, POI family history and unexplained infertility."
+  },
+  {
+   "id": "ch36-u6-q13",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "scenario",
+   "q": "A young woman has unexplained infertility despite the basic work-up. Which additional assessment is included among reserve-test indications?",
+   "opts": [
+    "Immediate bilateral salpingectomy",
+    "Ovarian reserve testing",
+    "Routine day-26 biopsy solely for ovulation",
+    "Routine postcoital testing"
+   ],
+   "ans": 1,
+   "exp": "Unexplained infertility is the fourth indication for reserve assessment in the notes."
+  },
+  {
+   "id": "ch36-u6-q14",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "scenario",
+   "q": "In the POI management block, amenorrhoea and hot flushes without a fertility request lead to ____.",
+   "opts": [
+    "Clomiphene plus IUI as symptom therapy",
+    "Hormone replacement therapy",
+    "Progesterone testing alone",
+    "Hysteroscopic tubal cannulation"
+   ],
+   "ans": 1,
+   "exp": "The first management line addresses hypoestrogenic symptoms with HRT."
+  },
+  {
+   "id": "ch36-u6-q15",
+   "sec": "Reserve interpretation, challenge test and management",
+   "unit": "Reserve interpretation, challenge test and management",
+   "page": 198,
+   "fmt": "scenario",
+   "q": "In the same POI block, the patient instead seeks pregnancy. Which treatment is listed?",
+   "opts": [
+    "IUI alone using her absent follicular reserve",
+    "Cervical cerclage alone",
+    "IVF with donor eggs",
+    "HSG as definitive fertility treatment"
+   ],
+   "ans": 2,
+   "exp": "The infertility line specifies IVF with donor eggs, distinct from HRT for symptoms."
+  }
+ ]
+}

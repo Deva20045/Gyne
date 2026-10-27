@@ -6,12 +6,12 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 - Repository: `Deva20045/Gyne`
 - Published app: `obg-mastery-path.html` (single offline HTML, no build step to run)
 - Editable source of truth for built chapters: `data_src/chNN.py` → `data/chNN.json`
-- Rebuild any chapter: `python3 build_chapters.py 30 31 32 33 34 35`
+- Rebuild any chapter: `python3 build_chapters.py 36 37 38 39 40`
 - Validate: `python3 validate.py`
 
-## Build status — 35 of 49 chapters live · 3,025 questions · 394 units
+## Build status — 40 of 49 chapters built · 3,536 questions · 424 units
 
-| Chapters | Book pages | Questions | Units |
+| Chapters | Scan sequence | Questions | Units |
 |---|---:|---:|---:|
 | 1–29 | 1–159 | 2,120 | 326 |
 | 30 Disorders of Sexual Development (46XX) | 160–164 | 151 | 12 |
@@ -20,9 +20,60 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 | 33 Vaginitis and Cervicitis | 178–183 | 149 | 11 |
 | 34 Pelvic Inflammatory Disease (PID) | 184–187 | 128 | 9 |
 | 35 Genital Tuberculosis | 188–192 | 134 | 9 |
-| **Cumulative 1–35** | **1–192** | **3,025** | **394** |
+| 36 Female Infertility: Part 1 | 193–198 | 90 | 6 |
+| 37 Female Infertility: Part 2 | 199–202 | 58 | 4 |
+| 38 Male Infertility | 203–210 | 144 | 8 |
+| 39 Contraception: Part 1 | 211–216 | 115 | 6 |
+| 40 Contraception: Part 2 | 217–221 | 104 | 6 |
+| **Cumulative 1–40** | **1–221** | **3,536** | **424** |
 
-## This release — Chapters 30 to 35 (Book p160–192)
+## Current release — Chapters 36–40
+
+**511 new questions / 30 units** in source order, across all 29 sheets from scan
+193–221 (**printed folios 185–213**, part-05 PDF pages 13–41).
+Earlier progress notes called scan positions “Book pages”; use the mapping above
+when locating printed page numbers.
+
+- 269 fill-ups, 126 clinical/source-check scenarios, 55 match-the-following,
+  43 odd-one-out and 18 paired-statement true/false questions.
+- All five requested formats appear in each chapter. Each question has four
+  distinct options and an explanatory answer; paired T/F uses four truth combinations.
+- Reviewed each rasterised source sheet and its tables, arrows, captions and
+  continuation headings. Selected unclear numerals were reviewed in magnified crops.
+  Full topic/question-ID map: [`audit/ch36-40-coverage.md`](audit/ch36-40-coverage.md).
+- Source inconsistencies are identified where they occur, rather than silently
+  turning erroneous or obsolete annotations into clinical recommendations.
+- Improved answer shuffling: globally balanced slots without the prior forced
+  permutation every four questions; distractor order is shuffled too.
+- Rebuilding any chapter now retains numerical chapter order. Corrected the
+  pre-existing 35-before-34 block ordering. Existing progress IDs remain stable.
+- The strengthened validator also found a double-quoted legacy duplicate stem
+  missed by the old regular expression; reworded `ch29-u10-q6` without changing
+  its answer, options, ID or meaning.
+
+### Verification
+
+```sh
+python3 build_chapters.py 36 37 38 39 40
+python3 validate.py
+python3 -m unittest discover -s tests -v
+npm ci
+node tests/quiz-smoke.cjs
+# Or, after npm ci: npm test
+```
+
+Validation fails on duplicate IDs/stems, bad options/answers, stale new-chapter
+source/JSON/HTML, missing formats, out-of-order source pages or unbalanced new
+answer slots. JavaScript syntax is checked by Node. The DOM smoke test plays
+**all 511 new questions**, checks feedback and unit completion, and tests mistake
+review and saved-progress reload without losing an existing chapter's progress.
+Automated tests check structure/behaviour, not medical accuracy or a formal proof
+of exhaustive source coverage.
+
+The app remains a single offline HTML file; Node/jsdom are development-test
+requirements only. No runtime dependency or network call was added.
+
+## Previous release — Chapters 30 to 35 (scan p160–192)
 
 All 33 scanned sheets covering Book p160–192 were rasterised, OCR'd and re-read at
 high zoom for every numeral, table cell, arrow label and figure caption before a single
@@ -262,8 +313,9 @@ infertility with distorted pelvic anatomy or tubal block.
   thresholds rather than generic wrong words; all match items are true bijections.
 - Answer positions are assigned by a seeded balanced shuffle: every new chapter finishes at
   24.6–25.8% per slot with no run of four identical slots.
-- `validate.py` enforces zero duplicate question IDs, zero duplicate stems, four distinct
-  options per item and a 20–30% answer distribution per chapter.
+- The current validator parses the actual embedded JavaScript, checks all question IDs,
+  stems, option uniqueness and answers, and applies strict new-chapter synchronisation,
+  order, format and answer-balance gates. Legacy answer distributions are retained.
 - Printed source quirks are preserved verbatim rather than silently corrected — for example
   the p163 `CAH: X-linked recessive disorder` note, the p182 `Doxycycline 100 mg OD × 7 days`
   (once daily, as printed) for cervicitis, and the p187 six-item consequence list that repeats
@@ -271,7 +323,5 @@ infertility with distorted pelvic anatomy or tubal block.
 
 ## Next chapters to build
 
-**Chapter 36 — Female Infertility: Part 1** (Book p193 onward) — continues into the
-infertility and contraception section: causes of infertility, the ovulation-test group
-(basal body temperature, cervical mucus, vaginal epithelial cell study with the karyopyknotic
-index, endometrial biopsy and serum progesterone) and the tests that predict ovulation.
+**Chapter 41 — Contraception: Images**, starting at scan 222 / printed 214.
+Chapters 41–49 remain unbuilt. Chapters 36–40 stop before that chapter.

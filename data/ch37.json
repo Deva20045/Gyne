@@ -1,0 +1,933 @@
+{
+ "chapter": 37,
+ "questions": [
+  {
+   "id": "ch37-u1-q1",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "odd",
+   "q": "Which is outside the opening tubal-cause trio in Female Infertility Part 2?",
+   "opts": [
+    "PID",
+    "Cervical stenosis",
+    "Endometriosis",
+    "Salpingitis"
+   ],
+   "ans": 1,
+   "exp": "PID, salpingitis and endometriosis are bracketed as causes of unilateral or bilateral tubal blockage."
+  },
+  {
+   "id": "ch37-u1-q2",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "The initial investigation of choice for tubal patency in this chapter is ____.",
+   "opts": [
+    "HSG",
+    "Endometrial biopsy",
+    "Laparoscopic chromopertubation",
+    "Serum AMH"
+   ],
+   "ans": 0,
+   "exp": "HSG is labelled IOC; laparoscopic chromopertubation is separately labelled the gold standard."
+  },
+  {
+   "id": "ch37-u1-q3",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "HSG introduces ____ into the uterus and follows it using ____.",
+   "opts": [
+    "Air; transabdominal MRI",
+    "Methylene blue; direct laparoscopy",
+    "Radiopaque dye; serial X-rays",
+    "Saline alone; histopathology"
+   ],
+   "ans": 2,
+   "exp": "HSG assesses contrast passage and spillage on serial radiographs."
+  },
+  {
+   "id": "ch37-u1-q4",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "scenario",
+   "q": "HSG shows contrast spilling freely on both sides. Which interpretation fits the image caption?",
+   "opts": [
+    "Unilateral patency only",
+    "Bilateral tubal patency",
+    "Bilateral cornual obstruction",
+    "Bilateral fimbrial obstruction"
+   ],
+   "ans": 1,
+   "exp": "The illustrated HSG is captioned bilateral spilling of dye."
+  },
+  {
+   "id": "ch37-u1-q5",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "The cannula pictured beside the HSG section is the ____ cannula.",
+   "opts": [
+    "Novak",
+    "Rubin",
+    "Karman",
+    "Leech Wilkinson"
+   ],
+   "ans": 3,
+   "exp": "The spiral-tipped illustration is labelled Leech Wilkinson; Rubin appears later with CO2 insufflation."
+  },
+  {
+   "id": "ch37-u1-q6",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "The source schedules HSG on cycle days ____.",
+   "opts": [
+    "7–10",
+    "2–3",
+    "12–14",
+    "21–26"
+   ],
+   "ans": 0,
+   "exp": "Days 7–10 are in the early postmenstrual, preovulatory interval used in this work-up."
+  },
+  {
+   "id": "ch37-u1-q7",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "scenario",
+   "q": "An HSG is painful and reports cornual blockage, but a later test finds patency. Which limitation explains the discrepancy?",
+   "opts": [
+    "Cornual spasm causing a false-positive block",
+    "Progesterone permanently closes the cornua",
+    "Contrast guarantees elimination of all spasms",
+    "HSG directly visualises exterior adhesions"
+   ],
+   "ans": 0,
+   "exp": "The chapter explicitly links pain to cornual spasm and false-positive tubal blockage."
+  },
+  {
+   "id": "ch37-u1-q8",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "tf",
+   "q": "I) HSG visualises the exterior of the tubes. II) Pain during HSG can cause cornual spasm.",
+   "opts": [
+    "Both false",
+    "I false; II true",
+    "Both true",
+    "I true; II false"
+   ],
+   "ans": 1,
+   "exp": "HSG does not visualise the tubal exterior; pain-induced spasm can mimic obstruction."
+  },
+  {
+   "id": "ch37-u1-q9",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "match",
+   "q": "Match basic investigations: 1) Female 2) Male 3) Female >35 years, additional with A) Sperm analysis B) HSG and ovulation tests C) Reserve tests.",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 1,
+   "exp": "The side note assigns HSG/ovulation to females, semen to males and reserve testing to older females."
+  },
+  {
+   "id": "ch37-u1-q10",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "The gold-standard tubal-patency test is ____.",
+   "opts": [
+    "Rubin CO2 insufflation",
+    "HSG",
+    "Postcoital testing",
+    "Laparoscopic chromopertubation"
+   ],
+   "ans": 3,
+   "exp": "It allows direct observation of dye spillage and the tubal exterior."
+  },
+  {
+   "id": "ch37-u1-q11",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "The two dyes named for laparoscopic chromopertubation are ____.",
+   "opts": [
+    "Iodinated contrast and barium",
+    "Haematoxylin and eosin",
+    "Methylene blue and indigo carmine",
+    "Eosin and trypan blue"
+   ],
+   "ans": 2,
+   "exp": "The blue dyes are used for direct laparoscopic visualisation; HSG requires radiopaque contrast."
+  },
+  {
+   "id": "ch37-u1-q12",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "match",
+   "q": "Order the laparoscopic test: A) Observe spillage B) Insert laparoscope C) Pass dye through the cannula.",
+   "opts": [
+    "A-B-C",
+    "B-A-C",
+    "B-C-A",
+    "C-A-B"
+   ],
+   "ans": 2,
+   "exp": "The procedural list runs insertion, dye passage, then direct visualisation."
+  },
+  {
+   "id": "ch37-u1-q13",
+   "sec": "Tubal causes, HSG and chromopertubation",
+   "unit": "Tubal causes, HSG and chromopertubation",
+   "page": 199,
+   "fmt": "scenario",
+   "q": "Peritubal adhesions need assessment as well as patency. Which advantage favours laparoscopy over HSG?",
+   "opts": [
+    "Direct visualisation of the tubal exterior",
+    "Measurement of serum ovarian reserve",
+    "No need for any uterine dye passage",
+    "Demonstration of antisperm antibodies"
+   ],
+   "ans": 0,
+   "exp": "The stated advantage is visualising the exterior, which HSG cannot show."
+  },
+  {
+   "id": "ch37-u2-q1",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "scenario",
+   "q": "One tube is blocked and the other is patent. What pathway does the source assign to unilateral tubal block?",
+   "opts": [
+    "Manage like unexplained infertility: clomiphene plus IUI",
+    "Immediate donor-oocyte IVF in every case",
+    "Bilateral salpingectomy without further assessment",
+    "HRT alone"
+   ],
+   "ans": 0,
+   "exp": "The unilateral branch is explicitly managed like unexplained infertility, unlike confirmed bilateral disease."
+  },
+  {
+   "id": "ch37-u2-q2",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "scenario",
+   "q": "HSG suggests bilateral block. What is the confirmation step in the main algorithm?",
+   "opts": [
+    "Repeat serum progesterone",
+    "Day-3 FSH",
+    "Postcoital test",
+    "Laparoscopic chromopertubation"
+   ],
+   "ans": 3,
+   "exp": "The bilateral branch proceeds to laparoscopy before differentiating proximal and distal block."
+  },
+  {
+   "id": "ch37-u2-q3",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "Bilateral proximal block is also called ____ block; bilateral distal block is ____ block.",
+   "opts": [
+    "Ampullary; uterine",
+    "Cornual; fimbrial",
+    "Fimbrial; cornual",
+    "Isthmic; cervical"
+   ],
+   "ans": 1,
+   "exp": "The algorithm uses proximal/cornual and distal/fimbrial as paired terms."
+  },
+  {
+   "id": "ch37-u2-q4",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "The commonest cause of apparent bilateral proximal/cornual block in the notes is ____.",
+   "opts": [
+    "Physiological spasm",
+    "Hydrosalpinx",
+    "Tubal ligation",
+    "Genital TB"
+   ],
+   "ans": 0,
+   "exp": "Spasm is the commonest overall cause; TB is specifically the commonest pathological cause in this source."
+  },
+  {
+   "id": "ch37-u2-q5",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "scenario",
+   "q": "Proximal obstruction may be due to cornual spasm or a mucus plug. Which procedure is the next directed step?",
+   "opts": [
+    "Fimbrioplasty",
+    "Endometrial ablation",
+    "Cervical cerclage",
+    "Hysteroscopic cannulation"
+   ],
+   "ans": 3,
+   "exp": "A guide wire is passed from the uterus into the tube under hysteroscopic guidance."
+  },
+  {
+   "id": "ch37-u2-q6",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "Hysteroscopic tubal cannulation aims both to ____ and to ____.",
+   "opts": [
+    "Increase ovarian reserve; suppress LH",
+    "Release cornual spasm; dislodge mucus plugs",
+    "Remove endometrial polyps; stimulate estrogen",
+    "Open fimbriae; remove ovaries"
+   ],
+   "ans": 1,
+   "exp": "These two actions are explicitly listed under cannulation."
+  },
+  {
+   "id": "ch37-u2-q7",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "After the cannulation branch, the next assessment named is ____.",
+   "opts": [
+    "Serum AMH",
+    "Laparoscopic chromopertubation",
+    "Huhner testing",
+    "Semen fructose alone"
+   ],
+   "ans": 1,
+   "exp": "The source returns to laparoscopic confirmation of tubal passage."
+  },
+  {
+   "id": "ch37-u2-q8",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "The commonest pathological cause of bilateral cornual block in these notes is ____, with fertility management listed as ____.",
+   "opts": [
+    "Endometriosis; progesterone alone",
+    "Cervicitis; HRT",
+    "Genital TB; IVF",
+    "PCOS; IUI"
+   ],
+   "ans": 2,
+   "exp": "The TB branch distinguishes pathological obstruction from physiological spasm; active TB still requires appropriate treatment."
+  },
+  {
+   "id": "ch37-u2-q9",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "scenario",
+   "q": "Laparoscopy confirms bilateral fimbrial block. Besides confirming diagnosis, what determines the next treatment branch?",
+   "opts": [
+    "Cervical mucus pH alone",
+    "Serum prolactin alone",
+    "Extent/severity of disease",
+    "Whether ovulation kits are positive"
+   ],
+   "ans": 2,
+   "exp": "Mild disease and severe disease/hydrosalpinx have different paths in the diagram."
+  },
+  {
+   "id": "ch37-u2-q10",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "Mild fimbrial disease is treated in the diagram by ____, using small nicks at the fimbrial ends.",
+   "opts": [
+    "Cornual cannulation",
+    "Fimbrioplasty",
+    "Salpingectomy in every case",
+    "Myomectomy"
+   ],
+   "ans": 1,
+   "exp": "Fimbrioplasty aims to reopen the distal fimbrial end in mild disease."
+  },
+  {
+   "id": "ch37-u2-q11",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "scenario",
+   "q": "Severe bilateral fimbrial disease has produced hydrosalpinx. Which fertility route is shown?",
+   "opts": [
+    "Postcoital testing followed by observation",
+    "Pulsatile GnRH alone",
+    "IUI alone",
+    "IVF"
+   ],
+   "ans": 3,
+   "exp": "The severe-disease branch leads to IVF; hydrosalpinx is addressed before transfer."
+  },
+  {
+   "id": "ch37-u2-q12",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "The management of choice in tubal infertility is stated as ____.",
+   "opts": [
+    "IUI irrespective of patency",
+    "Clomiphene alone",
+    "HRT",
+    "IVF"
+   ],
+   "ans": 3,
+   "exp": "This explicit note follows the mild/severe distal-disease branches."
+  },
+  {
+   "id": "ch37-u2-q13",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "Hydrosalpinx is a collection of ____ within the fallopian tube; the fluid is labelled ____.",
+   "opts": [
+    "Secretions; fetotoxic",
+    "Pus; non-inflammatory",
+    "Air; sperm-nourishing",
+    "Blood; physiologically protective"
+   ],
+   "ans": 0,
+   "exp": "The source distinguishes retained tubal secretions from blood or pus and notes their adverse reproductive effect."
+  },
+  {
+   "id": "ch37-u2-q14",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "scenario",
+   "q": "Before IVF, a hydrosalpinx risks exposing the uterus to harmful fluid. Which two preparatory alternatives are listed?",
+   "opts": [
+    "Fimbrioplasty or IUI without fluid isolation",
+    "Proximal clipping or salpingectomy",
+    "Endometrial biopsy or HRT",
+    "Cervical dilatation or luteal progesterone only"
+   ],
+   "ans": 1,
+   "exp": "Either proximal isolation or tube removal is followed by IVF in the diagram."
+  },
+  {
+   "id": "ch37-u2-q15",
+   "sec": "Unilateral, cornual and fimbrial block algorithms",
+   "unit": "Unilateral, cornual and fimbrial block algorithms",
+   "page": 200,
+   "fmt": "match",
+   "q": "Match 1) Mild distal disease 2) Severe hydrosalpinx before IVF 3) Suspected cornual spasm with A) Cannulation B) Fimbrioplasty C) Clip/salpingectomy.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Location and severity, rather than a single universal operation, determine these source pathways."
+  },
+  {
+   "id": "ch37-u3-q1",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "A mid-segment tubal block occurs at the ____ and is the typical site of ____.",
+   "opts": [
+    "Infundibulum; cervical cerclage",
+    "Isthmus; tubal ligation",
+    "Cornua; endometrial biopsy",
+    "Fimbria; ovulation"
+   ],
+   "ans": 1,
+   "exp": "The continuation above uterine causes describes an isthmic block after permanent tubal ligation."
+  },
+  {
+   "id": "ch37-u3-q2",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "Recanalisation after tubal ligation is described as being undertaken in ____ circumstances.",
+   "opts": [
+    "All routine",
+    "Exclusively postmenopausal",
+    "Exceptional",
+    "Only immediately postpartum"
+   ],
+   "ans": 2,
+   "exp": "Sterilisation is intended as permanent; reversal is an exceptional rather than guaranteed pathway."
+  },
+  {
+   "id": "ch37-u3-q3",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "scenario",
+   "q": "Which patient factor favours successful tubal reversal in the source list?",
+   "opts": [
+    "Undetectable ovarian reserve at any age",
+    "Menopause for more than five years",
+    "Female age >45 years",
+    "Female age <35 years"
+   ],
+   "ans": 3,
+   "exp": "Age under 35 is the first favourable factor."
+  },
+  {
+   "id": "ch37-u3-q4",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "The preferred reversal anastomosis is ____ over ____.",
+   "opts": [
+    "Fimbrio-cervical; isthmo-isthmic",
+    "Isthmo-ampullary; isthmo-isthmic",
+    "Isthmo-isthmic; isthmo-ampullary",
+    "Cornuo-cervical; isthmo-ampullary"
+   ],
+   "ans": 2,
+   "exp": "The source ranks like-calibre isthmo-isthmic anastomosis above isthmo-ampullary."
+  },
+  {
+   "id": "ch37-u3-q5",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "A favourable reconstructed tubal length is ____.",
+   "opts": [
+    "Less than 2 cm",
+    "More than 4 cm",
+    "Exactly 1 cm",
+    "Less than 4 mm"
+   ],
+   "ans": 1,
+   "exp": "The source's threshold is >4 cm after reconstruction."
+  },
+  {
+   "id": "ch37-u3-q6",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "Which prior sterilisation method is more favourable for reversal in the notes?",
+   "opts": [
+    "Fallope rings over Hulka clips",
+    "Extensive salpingectomy over Hulka clips",
+    "Fimbriectomy over either clips or rings",
+    "Hulka clips over Fallope rings"
+   ],
+   "ans": 3,
+   "exp": "The list gives Hulka clips > Fallope rings, reflecting less tubal destruction."
+  },
+  {
+   "id": "ch37-u3-q7",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "tf",
+   "q": "I) The notes say the ligation-to-reversal interval determines tubal reversal success. II) They contrast this with vasectomy reversal.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "Both true",
+    "I false; II true"
+   ],
+   "ans": 3,
+   "exp": "The note says tubal reversal chances do not depend on interval, unlike vasectomy; this is the source's comparison."
+  },
+  {
+   "id": "ch37-u3-q8",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "scenario",
+   "q": "A cavity-distorting fibroid is linked to infertility. Which type and fertility-preserving operation are paired?",
+   "opts": [
+    "Submucous fibroid; myomectomy",
+    "Subserosal fibroid; routine hysterectomy",
+    "Cervical fibroid; endometrial ablation",
+    "Broad-ligament fibroid; cervical cerclage"
+   ],
+   "ans": 0,
+   "exp": "The uterine-cause list names submucous fibroid most commonly and myomectomy as management."
+  },
+  {
+   "id": "ch37-u3-q9",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "odd",
+   "q": "Which is a cervical rather than uterine factor in the page's lists?",
+   "opts": [
+    "Chronic chlamydial endometritis",
+    "Asherman syndrome",
+    "Endometrial polyps",
+    "Antisperm antibodies"
+   ],
+   "ans": 3,
+   "exp": "The uterine block includes polyps, adhesions and chronic endometritis; antibodies appear under cervical causes."
+  },
+  {
+   "id": "ch37-u3-q10",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "Chronic endometritis in the uterine-cause list is attributed to ____.",
+   "opts": [
+    "Candida",
+    "HPV",
+    "Chlamydia",
+    "Trichomonas"
+   ],
+   "ans": 2,
+   "exp": "The source specifically writes chronic endometritis due to chlamydia."
+  },
+  {
+   "id": "ch37-u3-q11",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "scenario",
+   "q": "A woman exposed to DES in utero has a uterine factor. Which shape is associated with that exposure?",
+   "opts": [
+    "Unicornuate uterus by definition",
+    "Globular adenomyotic uterus",
+    "Heart-shaped external fundus alone",
+    "T-shaped/hypoplastic uterus"
+   ],
+   "ans": 3,
+   "exp": "DES exposure is linked to a T-shaped or hypoplastic uterus."
+  },
+  {
+   "id": "ch37-u3-q12",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "Mullerian malformations more commonly cause ____ than infertility, although ____ may cause infertility.",
+   "opts": [
+    "Azoospermia; bicornuate uterus",
+    "Cervicitis; arcuate uterus",
+    "Recurrent pregnancy loss; septate uterus",
+    "POI; unicornuate uterus"
+   ],
+   "ans": 2,
+   "exp": "The note distinguishes reproductive loss from failure to conceive and singles out septate uterus."
+  },
+  {
+   "id": "ch37-u3-q13",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "match",
+   "q": "Match 1) Uterine cavity investigation labelled gold standard 2) Initial imaging listed with it with A) USG B) Hysteroscopy.",
+   "opts": [
+    "Both A",
+    "Both B",
+    "1-A, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "USG and hysteroscopy are listed together; hysteroscopy is explicitly labelled gold standard in this uterine-cavity context."
+  },
+  {
+   "id": "ch37-u3-q14",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "A Mullerian malformation may be a ____ finding during the uterine work-up.",
+   "opts": [
+    "Coincidental",
+    "Mandatory",
+    "Seminal",
+    "Hormonal"
+   ],
+   "ans": 0,
+   "exp": "The bracket beside USG and hysteroscopy notes coincidental identification of a malformation."
+  },
+  {
+   "id": "ch37-u3-q15",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "odd",
+   "q": "Which does NOT belong to the cervical-cause trio?",
+   "opts": [
+    "Chronic endometritis",
+    "Antisperm antibodies",
+    "Cervical stenosis",
+    "Cervicitis"
+   ],
+   "ans": 0,
+   "exp": "Chronic endometritis belongs to the uterine list; the other three are cervical factors."
+  },
+  {
+   "id": "ch37-u3-q16",
+   "sec": "Mid-segment reversal, uterine and cervical factors",
+   "unit": "Mid-segment reversal, uterine and cervical factors",
+   "page": 201,
+   "fmt": "fillup",
+   "q": "Antisperm antibodies in females are described as ____ and as an ____ cause of infertility.",
+   "opts": [
+    "Ovulation-inducing; endocrine",
+    "Follicle-depleting; gonadal",
+    "Spermicidal; immunological",
+    "Tubal-relaxing; mechanical"
+   ],
+   "ans": 2,
+   "exp": "The final lines identify both the sperm-killing effect and the immunological category."
+  },
+  {
+   "id": "ch37-u4-q1",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "The obsolete postcoital test for antisperm antibodies is also called the ____ test.",
+   "opts": [
+    "Rubin",
+    "Endtz",
+    "Huhner",
+    "Schiller"
+   ],
+   "ans": 2,
+   "exp": "Huhner is the historical postcoital test; Rubin concerns CO2 tubal insufflation."
+  },
+  {
+   "id": "ch37-u4-q2",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "The Huhner-test timing is days ____ with a cervical smear within ____ after intercourse.",
+   "opts": [
+    "2–3; 24 hours",
+    "12–14; 2 hours",
+    "21–26; 30 minutes",
+    "7–10; 12 hours"
+   ],
+   "ans": 1,
+   "exp": "Both cycle day and postcoital collection interval are specified in the historical protocol."
+  },
+  {
+   "id": "ch37-u4-q3",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "match",
+   "q": "Match sperm motion in the Huhner diagram: 1) Progressive 2) Rotatory with A) Antisperm antibodies B) Normal.",
+   "opts": [
+    "1-A, 2-B",
+    "Both A",
+    "1-B, 2-A",
+    "Both B"
+   ],
+   "ans": 2,
+   "exp": "Forward progressive movement is normal; rotatory motion suggests antibodies in this obsolete test."
+  },
+  {
+   "id": "ch37-u4-q4",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "scenario",
+   "q": "Why do the notes group cervical causes with unexplained infertility rather than routinely perform ASA testing?",
+   "opts": [
+    "Huhner testing is the best current reserve test",
+    "Both are treated with clomiphene plus IUI in the stated pathway",
+    "IUI requires complete bilateral tubal block",
+    "Antisperm antibodies never affect sperm"
+   ],
+   "ans": 1,
+   "exp": "The management is the same in the notes, so the obsolete ASA test does not alter the pathway."
+  },
+  {
+   "id": "ch37-u4-q5",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "Clomiphene may start on any day from ____ and continues for ____.",
+   "opts": [
+    "Day 7–10; 3 days",
+    "Day 12–14; 7 days",
+    "Day 21–26; 10 days",
+    "Day 2–5; 5 days"
+   ],
+   "ans": 3,
+   "exp": "The source gives a start window of D2–D5 and a five-day course."
+  },
+  {
+   "id": "ch37-u4-q6",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "The common clomiphene course highlighted is days ____.",
+   "opts": [
+    "5–9",
+    "21–25",
+    "2–4",
+    "10–14"
+   ],
+   "ans": 0,
+   "exp": "D5–D9 is the most commonly written five-day schedule in this block."
+  },
+  {
+   "id": "ch37-u4-q7",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "scenario",
+   "q": "After clomiphene, monitoring starts on day 10. A follicle reaches ≥17 mm. Which trigger is named?",
+   "opts": [
+    "Continuous GnRH suppression alone",
+    "hCG injection",
+    "Depot progesterone",
+    "AMH injection"
+   ],
+   "ans": 1,
+   "exp": "hCG triggers ovulation; the source notes that a trigger is not absolutely necessary in every cycle."
+  },
+  {
+   "id": "ch37-u4-q8",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "After the hCG trigger, IUI is timed approximately ____ later in this protocol.",
+   "opts": [
+    "32–36 hours",
+    "12–14 days",
+    "6–8 hours",
+    "72–96 hours"
+   ],
+   "ans": 0,
+   "exp": "The arrow between trigger and IUI is labelled 32–36 hours."
+  },
+  {
+   "id": "ch37-u4-q9",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "tf",
+   "q": "I) hCG triggering is described as absolutely compulsory in every clomiphene-IUI cycle. II) Follicular monitoring begins on day 10 in this example.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The source says the trigger is not absolutely necessary, while monitoring begins D10."
+  },
+  {
+   "id": "ch37-u4-q10",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "HyCoSy stands for ____.",
+   "opts": [
+    "Hyperosmotic sperm cytometry",
+    "Hysteroscopic cornual surgery",
+    "Hystero-contrast sonography",
+    "Hystero-cervical cytology"
+   ],
+   "ans": 2,
+   "exp": "The term refers to ultrasound assessment of contrast passage through the tubes."
+  },
+  {
+   "id": "ch37-u4-q11",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "The source's Lignosol mixture for HyCoSy contains ____.",
+   "opts": [
+    "2% methylene blue plus formalin",
+    "Iodinated oil plus progesterone",
+    "2% lignocaine jelly plus saline",
+    "CO2 plus barium"
+   ],
+   "ans": 2,
+   "exp": "The contrast-enhancing mixture is injected into the uterus and followed through the tubes by ultrasound."
+  },
+  {
+   "id": "ch37-u4-q12",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "scenario",
+   "q": "A patient wants a less painful outpatient tubal-patency assessment without serial X-rays. Which named method fits the listed advantages?",
+   "opts": [
+    "Day-26 biopsy",
+    "Huhner test",
+    "HyCoSy",
+    "Karyotyping"
+   ],
+   "ans": 2,
+   "exp": "HyCoSy is described as OPD, less painful, safe and cost-effective; tubal passage is visualised sonographically."
+  },
+  {
+   "id": "ch37-u4-q13",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "odd",
+   "q": "Which is NOT a stated advantage of HyCoSy?",
+   "opts": [
+    "Outpatient performance",
+    "Direct laparoscopic inspection of peritubal adhesions",
+    "Cost effectiveness",
+    "Less pain"
+   ],
+   "ans": 1,
+   "exp": "Direct external inspection is the advantage of laparoscopy, not HyCoSy."
+  },
+  {
+   "id": "ch37-u4-q14",
+   "sec": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "unit": "Postcoital test, stimulation-IUI and alternative tubal tests",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "Rubin's cannula belongs to the obsolete ____ test for ____.",
+   "opts": [
+    "CO2 insufflation; tubal patency",
+    "Challenge; ovarian reserve",
+    "Endtz; seminal leukocytes",
+    "Postcoital; antisperm antibodies"
+   ],
+   "ans": 0,
+   "exp": "The illustration and caption identify Rubin's CO2 insufflation test as an obsolete patency test."
+  }
+ ]
+}

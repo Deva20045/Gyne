@@ -80,9 +80,16 @@ def build_chapter(chapter: int, title: str):
     k = 0
     idx = 0
     for sname, utitle, si, ui, qs in flat:
-        uid = f"ch{chapter:02d}-u{len(out_sections) + 1}" if False else f"ch{chapter:02d}-u{idx + 1}"
+        uid = f"ch{chapter:02d}-u{idx + 1}"
         items = []
-        for qi, (q, correct, distractors, why, fmt, page) in enumerate(qs):
+        for qi, raw in enumerate(qs):
+            if len(raw) == 7:
+                q, correct, distractors, why, fmt, page, explicit_qid = raw
+                if not explicit_qid.startswith(f"{uid}-q"):
+                    raise SystemExit(f"ch{chapter} {utitle}: qid {explicit_qid} does not match unit {uid}")
+            else:
+                q, correct, distractors, why, fmt, page = raw
+                explicit_qid = None
             if len(distractors) != 3:
                 raise SystemExit(f"ch{chapter} {utitle}: need exactly 3 distractors -> {q[:60]}")
             opts = [correct] + list(distractors)
@@ -97,7 +104,7 @@ def build_chapter(chapter: int, title: str):
                 if rotated[i] is None:
                     rotated[i] = rest[j]
                     j += 1
-            qid = f"{uid}-q{qi + 1}"
+            qid = explicit_qid or f"{uid}-q{qi + 1}"
             items.append({
                 "id": qid,
                 "q": q,

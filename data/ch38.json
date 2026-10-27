@@ -7,15 +7,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "The opening infertility definition uses failure to conceive after ____ of unprotected intercourse.",
+   "q": "The opening infertility definition is inability to conceive even after ____ of unprotected intercourse.",
    "opts": [
-    "1 year",
-    "2 years",
     "6 months for every age",
-    "3 months for every age"
+    "1 year",
+    "3 months for every age",
+    "2 years"
    ],
-   "ans": 0,
-   "exp": "The general definition is one year; the following age table shortens the investigation interval."
+   "ans": 1,
+   "exp": "Source (scan 203 / printed 195): 'Definition : Inability to conceive even after 1 yr of unprotected intercourse.'"
   },
   {
    "id": "ch38-u1-q2",
@@ -23,31 +23,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "match",
-   "q": "Match female age with the source's waiting period: A) <35 B) ≥35 C) >45; 1) 3 months 2) 1 year 3) 6 months.",
+   "q": "Match female age with the source's period of unprotected intercourse before investigating infertility: A) <35 yrs B) ≥35 yrs C) >45 yrs — 1) 3 months 2) 1 yr 3) 6 months.",
    "opts": [
-    "A-2, B-3, C-1",
-    "A-3, B-2, C-1",
     "A-1, B-3, C-2",
-    "A-2, B-1, C-3"
+    "A-2, B-1, C-3",
+    "A-2, B-3, C-1",
+    "A-3, B-2, C-1"
    ],
-   "ans": 0,
-   "exp": "These are the source-table intervals. In clinical practice, women over 40 generally merit prompt evaluation rather than waiting for the >45 row."
-  },
-  {
-   "id": "ch38-u1-q3",
-   "sec": "Infertility definitions, evaluation and male causes",
-   "unit": "Infertility definitions, evaluation and male causes",
-   "page": 203,
-   "fmt": "scenario",
-   "q": "A woman previously conceived but miscarried and now cannot conceive. Which type fits the definition here?",
-   "opts": [
-    "Neither, because a live birth is required",
-    "Primary infertility",
-    "Fecundity without infertility",
-    "Secondary infertility"
-   ],
-   "ans": 3,
-   "exp": "Any previous conception, irrespective of outcome, distinguishes secondary from primary infertility."
+   "ans": 2,
+   "exp": "Source (scan 203): reproduces the 'Age of investigating infertility' table (<35 yrs: 1 yr; ≥35 yrs: 6 months; >45 yrs: 3 months). Clinical clarification: contemporary guidelines (e.g. ASRM) advise immediate or prompt evaluation over age 40 rather than waiting until >45 for shorter assessment windows."
   },
   {
    "id": "ch38-u1-q4",
@@ -55,15 +39,47 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "Primary infertility means the female partner has ____.",
+   "q": "Primary (`1°`) infertility means the female partner has ____.",
    "opts": [
     "Had only ectopic pregnancies",
     "Never conceived",
-    "Conceived only once",
-    "Never delivered a live infant despite prior conception"
+    "Never delivered a live infant despite prior conception",
+    "Conceived only once"
    ],
    "ans": 1,
-   "exp": "The definition depends on conception, not the outcome of a pregnancy."
+   "exp": "Source (scan 203): 'Types : 1° infertility : Female has never conceived.'"
+  },
+  {
+   "id": "ch38-u1-q3",
+   "sec": "Infertility definitions, evaluation and male causes",
+   "unit": "Infertility definitions, evaluation and male causes",
+   "page": 203,
+   "fmt": "scenario",
+   "q": "[Scenario] A woman previously conceived an early pregnancy that ended in miscarriage and is currently unable to conceive. How is this classified under `Types`?",
+   "opts": [
+    "Primary (`1°`) infertility because no live birth occurred",
+    "Neither, unless at least two prior pregnancies occurred",
+    "Secondary (`2°`) infertility, irrespective of the prior pregnancy outcome",
+    "Fecundity without infertility"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 203): '2° infertility : • Female had conceived (irrespective of outcome). • Unable to conceive currently.'"
+  },
+  {
+   "id": "ch38-u1-q4a",
+   "sec": "Infertility definitions, evaluation and male causes",
+   "unit": "Infertility definitions, evaluation and male causes",
+   "page": 203,
+   "fmt": "fillup",
+   "q": "Under `Causes` on scan 203, the handwritten figure printed beside `Female factors` is ____.",
+   "opts": [
+    "40–35%",
+    "70–80%",
+    "5–10%",
+    "10–15%"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 203): magnified inspection confirms the handwritten descending notation 'Female factors : 40–35%' (an unusual reverse-written 35–40% style range; do not silently rewrite it to 40–55%)."
   },
   {
    "id": "ch38-u1-q5",
@@ -71,15 +87,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "In the source's cause list, male-factor contribution is ____ while male factors alone account for ____.",
+   "q": "In the `Causes` list, `Male factor contribution` is ____ whereas `Male factors (Alone)` account for ____.",
    "opts": [
-    "20%; 40%",
     "10%; 20%",
-    "40%; 20%",
-    "55%; 40%"
+    "55%; 40%",
+    "20%; 40%",
+    "40%; 20%"
    ],
-   "ans": 2,
-   "exp": "The contribution including combined causes is higher than the male-only percentage."
+   "ans": 3,
+   "exp": "Source (scan 203): 'Male factor contribution : 40%. Male factors (Alone) : 20%.' (the 40% figure includes combined male-plus-female factor couples)."
   },
   {
    "id": "ch38-u1-q6",
@@ -87,15 +103,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "The source writes a descending female-factor range '40–35%'; the separate unexplained-infertility figure is ____.",
+   "q": "Completing the `Causes` breakdown on scan 203, `Unexplained` infertility accounts for ____.",
    "opts": [
-    "55%",
+    "35%",
+    "50%",
     "10%",
-    "40%",
     "20%"
    ],
-   "ans": 1,
-   "exp": "Magnified review confirms the unusual handwritten 40–35% range, not 40–55%. Do not silently normalise that annotation; the unexplained figure is clearly 10%."
+   "ans": 2,
+   "exp": "Source (scan 203): 'Unexplained : 10%.'"
   },
   {
    "id": "ch38-u1-q7",
@@ -103,15 +119,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "match",
-   "q": "Match 1) Fecundability 2) Fecundity with A) Probability of live birth in a cycle B) Probability of conception in a cycle.",
+   "q": "Match the reproductive epidemiology terms in the `Note` table: 1) Fecundability 2) Fecundity — A) Probability of having a live birth in one cycle B) Probability of conceiving in one cycle.",
    "opts": [
     "Both A",
+    "1-A, 2-B",
     "1-B, 2-A",
-    "Both B",
-    "1-A, 2-B"
+    "Both B"
    ],
-   "ans": 1,
-   "exp": "Conception and live-birth probabilities are distinct endpoints."
+   "ans": 2,
+   "exp": "Source (scan 203): row 1 defines Fecundability as probability of conceiving in one cycle and Fecundity as probability of having a live birth in one cycle."
   },
   {
    "id": "ch38-u1-q8",
@@ -119,15 +135,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "The fecundability figure written for the first cycle after marriage is ____.",
+   "q": "In the `Note` table, the `Fecundability` figure printed for the first cycle after marriage is ____, while the adjacent `Fecundity` cell prints ____.",
    "opts": [
-    "50%",
-    "20%",
-    "5%",
-    "80%"
+    "80%; 20%",
+    "50%; 20%",
+    "20%; 50%",
+    "10%; 5%"
    ],
-   "ans": 1,
-   "exp": "The conception-probability column gives 20%."
+   "ans": 2,
+   "exp": "Source (scan 203): row 2 prints '20% in the first cycle after marriage' under Fecundability and '50% in the first cycle after marriage' under Fecundity (flagged in the next question as internally incompatible)."
   },
   {
    "id": "ch38-u1-q9",
@@ -135,15 +151,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "scenario",
-   "q": "Source-check: the adjacent table gives fecundability 20% but live-birth fecundity 50% for the same cycle. What is the problem?",
+   "q": "Source-check: the table lists fecundability `20%` and live-birth fecundity `50%` both `in the first cycle after marriage`. Why is this pair internally inconsistent?",
    "opts": [
-    "Live-birth probability must be multiplied by two before comparing the values",
-    "The two percentages can be compared directly without a common denominator",
-    "Fecundability counts only pregnancies after three failed treatment cycles",
-    "For the same cohort and cycle, live births cannot exceed conceptions"
+    "Fifty percent represents cumulative 5-year sterility",
+    "In a single menstrual cycle for the same cohort, live births cannot exceed conceptions",
+    "Fecundability counts only twin gestations",
+    "Live-birth probability is always twice the conception probability"
    ],
-   "ans": 3,
-   "exp": "Retain the definitions but recognise the incompatible percentages; do not memorise 50% as a valid linked live-birth probability."
+   "ans": 1,
+   "exp": "Source (scan 203): because every live birth requires a prior conception, single-cycle fecundity cannot exceed single-cycle fecundability (~20–25% monthly fecundability vs lower single-cycle live-birth probability, or ~50% cumulative pregnancy over several months). Retain awareness of the printed cells without treating 50% single-cycle live birth as valid."
   },
   {
    "id": "ch38-u1-q10",
@@ -151,15 +167,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "match",
-   "q": "Match initial tests: 1) Male factor 2) Ovulation 3) Tubal patency with A) HSG days 7–10 B) Semen analysis C) Luteal progesterone.",
+   "q": "Match `Basic investigations` 1–3 on scan 203: 1) Male evaluation 2) Test for ovulation 3) Test for tubal patency — A) HSG between day 7 – day 10 B) Semen analysis C) Serum progesterone levels on day 22 of cycle.",
    "opts": [
-    "1-B, 2-A, 3-C",
     "1-A, 2-B, 3-C",
     "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
     "1-B, 2-C, 3-A"
    ],
    "ans": 3,
-   "exp": "The source lists all three before diagnosing unexplained infertility."
+   "exp": "Source (scan 203): lists '1. Semen analysis', '2. Test for ovulation : S. Progesterone levels on day 22 of cycle', and '3. Test for tubal patency : HSG between day 7 – day 10.'"
   },
   {
    "id": "ch38-u1-q11",
@@ -167,15 +183,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "The male-infertility chapter writes progesterone on day ____, while the earlier chapter uses day 21. What timing principle reconciles the examples?",
+   "q": "Scan 203 writes luteal progesterone on cycle day ____ (whereas scan 194 wrote day 21); the underlying rule is sampling about ____ before expected menses.",
    "opts": [
-    "22; sample about a week before the expected period",
-    "14; sample only before ovulation",
-    "3; always use the first day of bleeding",
-    "26; sample only during menstruation"
+    "3; 2 weeks",
+    "26; 1 day",
+    "22; 1 week",
+    "14; 3 weeks"
    ],
-   "ans": 0,
-   "exp": "Day 21/22 are illustrative luteal dates; the clinically meaningful timing is about seven days before menstruation."
+   "ans": 2,
+   "exp": "Source (scans 194, 203): day 21/22 are illustrative mid-luteal days (e.g. in 28–29 day cycles), anchored clinically to ~7 days before menstruation."
   },
   {
    "id": "ch38-u1-q12",
@@ -183,15 +199,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "scenario",
-   "q": "Semen analysis, ovulation assessment and HSG are all normal. Which diagnosis and treatment are shown?",
+   "q": "[Scenario] Semen analysis, mid-luteal serum progesterone, and day 7–10 HSG are all normal. What diagnosis and management (`Mx`) follow the brace on scan 203?",
    "opts": [
-    "Cervical stenosis; hysterectomy",
-    "Unexplained infertility; clomiphene plus IUI",
-    "Complete bilateral block; IUI alone",
-    "POI; donor eggs automatically"
+    "Unexplained infertility; clomiphene citrate + IUI",
+    "Bilateral cornual block; hysteroscopic cannulation",
+    "Obstructive azoospermia; TESA + ICSI",
+    "Primary ovarian insufficiency; donor-egg IVF"
    ],
-   "ans": 1,
-   "exp": "Normal basic investigations lead to the unexplained-infertility branch in the notes."
+   "ans": 0,
+   "exp": "Source (scan 203): '{ 1, 2, 3 } If normal → Unexplained infertility → Mx : Clomiphene citrate + IUI'."
   },
   {
    "id": "ch38-u1-q13",
@@ -199,15 +215,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "For a female partner aged ≥35, which reserve test is added in this opening work-up?",
+   "q": "When the female partner is aged `≥35 yrs`, the additional baseline line specifies `Test for ovarian reserve` → ____.",
    "opts": [
+    "Seminal fructose",
+    "Urinary LH kit alone",
     "Serum AMH",
-    "Semen fructose",
-    "Postcoital smear",
-    "Urinary LH alone"
+    "Postcoital Huhner smear"
    ],
-   "ans": 0,
-   "exp": "The additional line specifies ovarian reserve testing with serum AMH."
+   "ans": 2,
+   "exp": "Source (scan 203): 'Female partner ≥35yrs : Test for ovarian reserve → Serum AMH.'"
   },
   {
    "id": "ch38-u1-q14",
@@ -215,15 +231,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "The commonest male-infertility cause in the chapter is abnormal spermatogenesis due to ____ causes.",
+   "q": "Under `Causes & Evaluation of Male Infertility`, the `m/c cause` is ____ due to ____ leading to gonadal failure, exemplified by ____.",
    "opts": [
-    "Isolated cervical",
-    "Purely behavioural",
-    "Endometrial",
-    "Testicular/gonadal failure"
+    "Erectile failure; psychogenic causes; diabetes",
+    "Abnormal spermatogenesis; testicular causes; Klinefelter syndrome",
+    "Retrograde ejaculation; bladder-neck causes; prostatectomy",
+    "Ductal obstruction; post-testicular causes; vasectomy"
    ],
-   "ans": 3,
-   "exp": "The first male-cause line links testicular dysfunction to gonadal failure and gives Klinefelter as an example."
+   "ans": 1,
+   "exp": "Source (scan 203): 'm/c cause : Abnormal spermatogenesis d/t testicular causes → Gonadal failure. Eg : Klinefelter syndrome.'"
   },
   {
    "id": "ch38-u1-q15",
@@ -231,15 +247,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "The commonest reversible male-infertility cause named is ____.",
+   "q": "The `m/c reversible cause` of male infertility named on scan 203 is ____.",
    "opts": [
+    "Complete Sertoli-cell-only syndrome",
     "Klinefelter syndrome",
-    "Longstanding bilateral gonadal dysgenesis",
-    "Complete congenital bilateral absence of the vas",
-    "Varicocele"
+    "Varicocele",
+    "Congenital bilateral absence of vas deferens"
    ],
-   "ans": 3,
-   "exp": "Varicocele is explicitly distinguished from the commonest overall testicular category."
+   "ans": 2,
+   "exp": "Source (scan 203): 'm/c reversible cause : Varicocele.'"
   },
   {
    "id": "ch38-u1-q16",
@@ -247,15 +263,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "scenario",
-   "q": "A couple asks about increasing paternal age. Which sperm change is highlighted?",
+   "q": "[Scenario] A couple asks about the effect of `↑ Paternal age` noted at the bottom of scan 203. Which sperm abnormality is stated?",
    "opts": [
-    "Absence of DNA damage",
-    "Inevitable CFTR mutation in every sperm",
-    "Guaranteed increased motility",
-    "Increased structural and chromosomal defects"
+    "Structural and chromosomal defects in sperms",
+    "Obligatory Y-chromosome microdeletion in all offspring",
+    "Guaranteed rise in progressive motility",
+    "Complete immunity to DNA fragmentation"
    ],
-   "ans": 3,
-   "exp": "The age note points to structural and chromosomal defects, not improved semen quality."
+   "ans": 0,
+   "exp": "Source (scan 203): 'Note : ↑ Paternal age → Structural & chromosomal defects in sperms.'"
   },
   {
    "id": "ch38-u1-q17",
@@ -263,15 +279,15 @@
    "unit": "Infertility definitions, evaluation and male causes",
    "page": 203,
    "fmt": "fillup",
-   "q": "The sperm-quality monitoring test named before IVF is ____.",
+   "q": "For `Quality of sperms monitoring`, the test stated to be `Done before IVF` is the ____.",
    "opts": [
-    "Serum AMH",
-    "Sperm DNA fragmentation testing",
-    "Endometrial biopsy",
-    "Huhner testing"
+    "Rubin insufflation test",
+    "Postcoital Huhner test",
+    "Clomiphene challenge test",
+    "Sperm DNA fragmentation test"
    ],
-   "ans": 1,
-   "exp": "The source names DNA fragmentation testing before IVF; this is a source-specific statement, not a requirement for every couple."
+   "ans": 3,
+   "exp": "Source (scan 203): 'Quality of sperms monitoring - Sperm DNA fragmentation test : Done before IVF.' Clarification: clinically, sperm DNA fragmentation testing is selective (e.g. recurrent pregnancy loss or unexplained/ART failure) rather than mandatory before every IVF cycle."
   },
   {
    "id": "ch38-u2-q1",
@@ -279,15 +295,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The recommended abstinence interval for semen collection is typically ____ within an acceptable ____ range.",
+   "q": "Semen analysis is ideally collected after ____ of abstinence, within a permitted window of ____.",
    "opts": [
-    "10 days; 7–14 days",
     "1 day; 0–2 days",
+    "3 days; 2–7 days",
     "14 days; 10–21 days",
-    "3 days; 2–7 days"
+    "10 days; 7–14 days"
    ],
-   "ans": 3,
-   "exp": "The page specifies three days, with two to seven as the range."
+   "ans": 1,
+   "exp": "Source (scan 204 / printed 196): 'SEMEN ANALYSIS • After 3 days of abstinence (2–7 days).'"
   },
   {
    "id": "ch38-u2-q2",
@@ -295,15 +311,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "match",
-   "q": "Match collection errors: 1) <2 days abstinence 2) >7 days abstinence with A) Falsely high dead-sperm concentration B) Falsely low sperm concentration.",
+   "q": "Match abstinence errors with their artefactual semen findings: 1) <2 days abstinence 2) >7 days abstinence — A) False high dead sperm concentration B) False low sperm concentration.",
    "opts": [
     "Both B",
-    "1-B, 2-A",
+    "1-A, 2-B",
     "Both A",
-    "1-A, 2-B"
+    "1-B, 2-A"
    ],
-   "ans": 1,
-   "exp": "Short abstinence can lower concentration; prolonged abstinence increases dead-sperm representation."
+   "ans": 3,
+   "exp": "Source (scan 204): '- < 2 days : False low sperm concentration. - > 7 days : False high dead sperm concentration.'"
   },
   {
    "id": "ch38-u2-q3",
@@ -311,15 +327,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "A semen sample should reach the laboratory within ____.",
+   "q": "After collection, a semen sample should reach the laboratory within ____.",
    "opts": [
     "6 hours",
     "12 hours",
-    "1 hour",
-    "24 hours"
+    "24 hours",
+    "1 hour"
    ],
-   "ans": 2,
-   "exp": "The source sets a one-hour transport interval."
+   "ans": 3,
+   "exp": "Source (scan 204): 'Sample should reach lab within 1 hr.'"
   },
   {
    "id": "ch38-u2-q4",
@@ -327,15 +343,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "Semen analysis is performed after liquefaction, normally taking ____ in these notes.",
+   "q": "Semen analysis is performed on ____ semen, and normal liquefaction time is ____.",
    "opts": [
-    "2–3 minutes",
-    "2–3 hours",
-    "20–30 minutes",
-    "12–24 hours"
+    "Formalin-fixed; 12 hours",
+    "Liquefied; 20 to 30 minutes",
+    "Coagulated; 2 to 3 minutes",
+    "Frozen; 2 to 3 hours"
    ],
-   "ans": 2,
-   "exp": "The liquefaction interval is distinct from the one-hour transport limit."
+   "ans": 1,
+   "exp": "Source (scan 204): 'Analysis is done on liquefied semen → Liquefaction time : 20 to 30 mins.'"
   },
   {
    "id": "ch38-u2-q5",
@@ -343,15 +359,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "scenario",
-   "q": "Which collection method matches the chapter's instructions?",
+   "q": "[Scenario] A man is given instructions for semen sample collection. Which paired instruction matches both sub-bullets on scan 204?",
    "opts": [
-    "Collection in a routine latex condom",
-    "Masturbation into a sterile container",
-    "A cervical postcoital smear instead of semen",
-    "Collection in formalin"
+    "Collect from the posterior vaginal fornix 6 hours postcoitally; place in formalin",
+    "Collect in a regular spermicidal latex condom; transfer after 4 hours",
+    "Collect after 14 days of abstinence into a non-sterile paper cup",
+    "Collect by masturbation into a sterile container; do NOT collect in a latex condom"
    ],
-   "ans": 1,
-   "exp": "The source specifies a sterile container and explicitly excludes latex condoms."
+   "ans": 3,
+   "exp": "Source (scan 204): 'Sample collection : - By masturbation into a sterile container. - Not collected in latex condom' (latex/lubricants are spermicidal)."
   },
   {
    "id": "ch38-u2-q6",
@@ -359,15 +375,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "match",
-   "q": "Match epididymal function: 1) Proximal end 2) Distal end with A) Motility B) Maturity.",
+   "q": "Match epididymal regions with sperm attributes acquired there: 1) Proximal end of epididymis 2) Distal end of epididymis — A) Motility B) Maturity.",
    "opts": [
     "1-A, 2-B",
     "1-B, 2-A",
-    "Both A",
-    "Both B"
+    "Both B",
+    "Both A"
    ],
    "ans": 1,
-   "exp": "The maturity/motility lines place maturation proximally and motility distally."
+   "exp": "Source (scan 204): 'Maturity & motility of sperms : - Maturity : Proximal end of epididymis. - Motility : Distal end of epididymis.'"
   },
   {
    "id": "ch38-u2-q7",
@@ -375,31 +391,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The semen-reference table is labelled WHO ____ and gives minimum volume ____.",
+   "q": "The semen reference table is titled `WHO ____ Semen Analysis Parameters` and sets the minimum semen `Volume` cut-off at ____.",
    "opts": [
-    "2010; 2.5 mL",
+    "2022; 1.4 mL",
     "1999; 3.0 mL",
     "2022; 0.5 mL",
-    "2022; 1.4 mL"
+    "2010; 2.5 mL"
    ],
-   "ans": 3,
-   "exp": "These are the source table's year label and volume value; reference limits do not by themselves define fertility."
-  },
-  {
-   "id": "ch38-u2-q8",
-   "sec": "Semen collection and reference-parameter table",
-   "unit": "Semen collection and reference-parameter table",
-   "page": 204,
-   "fmt": "fillup",
-   "q": "The pH minimum in the semen table is ____.",
-   "opts": [
-    "5.5",
-    "8.2",
-    "7.2",
-    "6.2"
-   ],
-   "ans": 2,
-   "exp": "The table lists 7.2 in the pH row."
+   "ans": 0,
+   "exp": "Source (scan 204): table heading 'WHO 2022 Semen Analysis Parameters' with 'Volume : 1.4 mL'. Clarification: WHO's 6th edition semen manual was published in 2021 (5th percentile lower reference limits, 1.4 mL); the notes title it 'WHO 2022'."
   },
   {
    "id": "ch38-u2-q9",
@@ -407,15 +407,31 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "scenario",
-   "q": "No semen is produced at ejaculation. Which term is correct?",
+   "q": "[Scenario] In the `Volume` row of the semen table, complete `Absence of semen` at ejaculation is termed ____.",
    "opts": [
-    "Teratozoospermia",
-    "Aspermia",
     "Azoospermia",
-    "Asthenospermia"
+    "Aspermia",
+    "Asthenospermia",
+    "Teratozoospermia"
    ],
    "ans": 1,
-   "exp": "Aspermia is absence of semen; azoospermia is absence of sperm in semen."
+   "exp": "Source (scan 204): 'Volume → 1.4 mL → Aspermia : Absence of semen' (distinct from azoospermia = no sperms in semen)."
+  },
+  {
+   "id": "ch38-u2-q8",
+   "sec": "Semen collection and reference-parameter table",
+   "unit": "Semen collection and reference-parameter table",
+   "page": 204,
+   "fmt": "fillup",
+   "q": "In row 2 of the semen-analysis table, the minimum cut-off for semen `pH` is ____.",
+   "opts": [
+    "7.2",
+    "8.2",
+    "5.5",
+    "6.2"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 204): row 2 prints 'pH → 7.2 → -'."
   },
   {
    "id": "ch38-u2-q10",
@@ -423,15 +439,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The lower sperm-concentration reference in the table is ____ million/mL.",
+   "q": "In row 3, the minimum `Concentration` cut-off is ____ million/mL.",
    "opts": [
-    "16",
     "5",
+    "16",
     "54",
     "39"
    ],
-   "ans": 0,
-   "exp": "Sixteen is the concentration limit; 39 is total sperm number per ejaculate."
+   "ans": 1,
+   "exp": "Source (scan 204): 'Concentration → 16 million/ml' (39 million is per ejaculate)."
   },
   {
    "id": "ch38-u2-q11",
@@ -439,15 +455,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "scenario",
-   "q": "Semen concentration is 12 million/mL. Which concentration term applies under the notes' definitions?",
+   "q": "[Scenario] A patient's sperm concentration is 12 million/mL. Which term in the `Concentration` conditions cell applies?",
    "opts": [
-    "Aspermia",
-    "Azoospermia",
-    "Necrozoospermia by concentration alone",
-    "Oligospermia"
+    "Severe oligospermia (<5 million/mL)",
+    "Azoospermia (no sperms)",
+    "Aspermia (absence of semen)",
+    "Oligospermia (<16 million/mL)"
    ],
    "ans": 3,
-   "exp": "Oligospermia is below 16 million/mL; the severe group is below 5 million/mL."
+   "exp": "Source (scan 204): 'Oligospermia : < 16 million/ml' (12 million/mL is a scenario value between 5 and 16 million/mL)."
   },
   {
    "id": "ch38-u2-q12",
@@ -455,15 +471,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "Severe oligospermia is defined here as ____ million/mL.",
+   "q": "In the `Concentration` row, `Severe oligospermia` is defined as ____, and `Azoospermia` is defined as ____.",
    "opts": [
-    "<5",
-    "<39",
-    "<16",
-    "<10"
+    "<39 million/mL; <4% normal forms",
+    "<16 million/mL; absence of semen",
+    "<10 million/mL; <30% motility",
+    "<5 million/mL; no sperms"
    ],
-   "ans": 0,
-   "exp": "The severe threshold is less than five, not merely below the reference limit of sixteen."
+   "ans": 3,
+   "exp": "Source (scan 204): '• Severe oligospermia : < 5 million/ml • Azoospermia : No sperms'."
   },
   {
    "id": "ch38-u2-q13",
@@ -471,15 +487,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "scenario",
-   "q": "Severe oligospermia or azoospermia prompts which further assessment in the table?",
+   "q": "[Scenario] In the `Concentration` row, a bracket joins `Severe oligospermia (<5 million/mL)` and `Azoospermia`. Which work-up and target diagnosis does that arrow specify?",
    "opts": [
-    "Semen culture and antibiotics alone before any hormonal assessment",
-    "Repeat morphology alone, deferring all endocrine and genetic assessment",
-    "Hormonal and genetic assessment, including Klinefelter evaluation",
-    "Fructose measurement alone, assuming a distal obstructive cause"
+    "Hormonal profile + genetic testing to rule out Klinefelter syndrome",
+    "Immediate varicocelectomy without endocrine or karyotype testing",
+    "Semen fructose + postcoital smear to rule out cervicitis",
+    "Empirical sildenafil + SSRI to treat erectile dysfunction"
    ],
-   "ans": 2,
-   "exp": "The bracket links severe oligospermia and azoospermia to hormonal/genetic work-up."
+   "ans": 0,
+   "exp": "Source (scan 204): '{ Severe oligospermia : < 5 million/ml ; Azoospermia : No sperms } → Hormonal profile + Genetic testing → To rule out Klinefelter syndrome'."
   },
   {
    "id": "ch38-u2-q14",
@@ -487,15 +503,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The minimum normal morphology reference is ____ using strict ____ criteria.",
+   "q": "In row 4, minimum normal sperm `Morphology` is ____ as per ____ criteria.",
    "opts": [
-    "30%; Tanner",
+    "4%; Strict Tygerberg",
     "14%; Rotterdam",
-    "54%; Prader",
-    "4%; Tygerberg"
+    "30%; Kruger-WHO 1980",
+    "54%; Prader"
    ],
-   "ans": 3,
-   "exp": "Four percent and strict Tygerberg criteria belong to the morphology row; the IUI block later uses a different historical figure."
+   "ans": 0,
+   "exp": "Source (scan 204): 'Morphology → 4% as per Strict Tygerberg criteria'."
   },
   {
    "id": "ch38-u2-q15",
@@ -503,15 +519,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "scenario",
-   "q": "The main abnormality is an excess of morphologically abnormal sperm. Which term fits?",
+   "q": "[Scenario] Semen analysis shows an increased proportion of morphologically abnormal sperms (`↑ in abnormal sperms`). Which term in row 4 applies?",
    "opts": [
-    "Azoospermia",
+    "Necrozoospermia",
     "Teratozoospermia",
     "Aspermia",
     "Asthenospermia"
    ],
    "ans": 1,
-   "exp": "Teratozoospermia concerns form, not concentration or movement."
+   "exp": "Source (scan 204): 'Teratozoospermia : ↑ in abnormal sperms'."
   },
   {
    "id": "ch38-u2-q16",
@@ -519,15 +535,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "Minimum total motility and progressive motility are respectively ____.",
+   "q": "In row 5 (`Motility`), minimum `Total motility` is ____ and minimum `Progressive motility` is ____.",
    "opts": [
-    "54% and 4%",
-    "39% and 16%",
-    "30% and 42%",
-    "42% and 30%"
+    "54%; 30%",
+    "30%; 42%",
+    "42%; 16%",
+    "42%; 30%"
    ],
    "ans": 3,
-   "exp": "Total movement includes non-progressive movement and therefore exceeds progressive motility."
+   "exp": "Source (scan 204): 'Motility → • Total motility : 42% • Progressive motility : 30%'."
   },
   {
    "id": "ch38-u2-q17",
@@ -535,15 +551,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "scenario",
-   "q": "Motility is reduced without proof that sperm are dead. Which term is appropriate?",
+   "q": "[Scenario] Semen analysis shows decreased sperm motility (`↓ Sperm motility`) without testing whether immobile sperms are dead. Which row-5 term applies?",
    "opts": [
-    "Asthenospermia",
     "Necrozoospermia",
     "Azoospermia",
-    "Aspermia"
+    "Asthenospermia",
+    "Teratozoospermia"
    ],
-   "ans": 0,
-   "exp": "Motility and viability are separate; immobile sperm may still be alive."
+   "ans": 2,
+   "exp": "Source (scan 204): 'Asthenospermia : ↓ Sperm motility'."
   },
   {
    "id": "ch38-u2-q18",
@@ -551,15 +567,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The semen viability reference is ____; increased nonviable sperm is termed ____.",
+   "q": "In row 6, minimum sperm `Viability` is ____, and an increased number of non-viable sperms is termed ____.",
    "opts": [
     "4%; azoospermia",
-    "42%; asthenospermia",
+    "54%; necrozoospermia",
     "30%; teratozoospermia",
-    "54%; necrozoospermia"
+    "42%; asthenospermia"
    ],
-   "ans": 3,
-   "exp": "Viability is not interchangeable with motility or morphology."
+   "ans": 1,
+   "exp": "Source (scan 204): 'Viability → 54% → Necrozoospermia: ↑ in no. of non viable sperms'."
   },
   {
    "id": "ch38-u2-q19",
@@ -567,15 +583,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The minimum total sperm number is ____ per ejaculate.",
+   "q": "In row 7, minimum `Total sperm count` is ____.",
    "opts": [
-    "54 million",
-    "5 million",
-    "16 million",
-    "39 million"
+    "39 million/ejaculate",
+    "5 million/ejaculate",
+    "16 million/ejaculate",
+    "54 million/mL"
    ],
-   "ans": 3,
-   "exp": "Total number per ejaculate is a different measure from concentration per millilitre."
+   "ans": 0,
+   "exp": "Source (scan 204): 'Total sperm count → 39 million/ejaculate → -'."
   },
   {
    "id": "ch38-u2-q20",
@@ -583,15 +599,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "match",
-   "q": "Match 1) Concentration 2) Morphology 3) Total number with A) 4% B) 39 million/ejaculate C) 16 million/mL.",
+   "q": "Match semen parameters with their exact minimum cut-offs: 1) Concentration 2) Morphology 3) Total sperm count — A) 4% B) 39 million/ejaculate C) 16 million/mL.",
    "opts": [
     "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
     "1-C, 2-A, 3-B",
-    "1-C, 2-B, 3-A"
+    "1-A, 2-B, 3-C"
    ],
    "ans": 2,
-   "exp": "The units prevent mixing percentages, concentrations and total counts."
+   "exp": "Source (scan 204): consolidates rows 3, 4 and 7 with their distinct units."
   },
   {
    "id": "ch38-u2-q21",
@@ -599,15 +615,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The source ranks the importance of semen parameters as ____.",
+   "q": "Below the table, `Most important parameters` ranks the three key semen variables in the order ____.",
    "opts": [
-    "Concentration > motility > morphology",
     "Morphology > motility > concentration",
-    "Viability > pH > volume",
+    "Volume > viability > pH",
+    "Concentration > motility > morphology",
     "Motility > concentration > morphology"
    ],
-   "ans": 1,
-   "exp": "This is the source's teaching hierarchy, not a stand-alone clinical prognostic rule."
+   "ans": 0,
+   "exp": "Source (scan 204): 'Most important parameters : Morphology > Motility > Concentration.' (source teaching hierarchy; clinical prognosis integrates all parameters and female factors)."
   },
   {
    "id": "ch38-u2-q22",
@@ -615,15 +631,15 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The two semen parameters described as unchanged from 2010 to 2022 are ____.",
+   "q": "The two `Sperm parameters constant from 2010 to 2022` listed on scan 204 are ____ and ____.",
    "opts": [
-    "Progressive motility and pH",
-    "Volume and concentration",
-    "Morphology and total sperm count",
-    "Total motility and viability"
+    "Semen volume; sperm concentration",
+    "Total motility; sperm viability",
+    "Sperm morphology; total sperm count",
+    "Progressive motility; semen pH"
    ],
    "ans": 2,
-   "exp": "The two-item note follows the parameter hierarchy."
+   "exp": "Source (scan 204): 'Sperm parameters constant from 2010 to 2022 : • Sperm morphology. • Total sperm count.' (4% and 39 million/ejaculate in both WHO 5th [2010] and 6th [2021] editions)."
   },
   {
    "id": "ch38-u2-q23",
@@ -631,31 +647,31 @@
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
    "fmt": "fillup",
-   "q": "The karyotype named for Klinefelter-associated azoospermia is ____.",
+   "q": "Under `Common causes of azoospermia` at the bottom of scan 204, the two main causes listed are ____ (`47XXY`) and ____.",
    "opts": [
-    "47,XXY",
-    "46,XY",
-    "47,XYY",
-    "45,X"
+    "Turner syndrome; Kartagener syndrome",
+    "Kallmann syndrome; hypospadias",
+    "Klinefelter syndrome; cystic fibrosis",
+    "Swyer syndrome; varicocele"
    ],
-   "ans": 0,
-   "exp": "The common-cause line gives 47XXY, with an extra X chromosome."
+   "ans": 2,
+   "exp": "Source (scan 204): 'Common causes of azoospermia : • Klinefelter syndrome : 47XXY. • Cystic fibrosis : ...'"
   },
   {
    "id": "ch38-u2-q24",
    "sec": "Semen collection and reference-parameter table",
    "unit": "Semen collection and reference-parameter table",
    "page": 204,
-   "fmt": "scenario",
-   "q": "Azoospermia is accompanied by congenital absence of both vasa and seminal-vesicle abnormalities. Which gene is named?",
+   "fmt": "fillup",
+   "q": "Under `Cystic fibrosis` at the bottom of scan 204, azoospermia results from congenital bilateral absence of ____ and ____, associated with ____ mutation.",
    "opts": [
-    "FMR1",
-    "CFTR",
-    "SHOX",
-    "SRY"
+    "Bulbourethral glands; urethra; WT1 gene",
+    "Seminiferous tubules; Leydig cells; FMR1 gene",
+    "Epididymal head; prostate; SRY gene",
+    "Vas deferens; seminal vesicles; CFTR gene"
    ],
-   "ans": 1,
-   "exp": "Cystic fibrosis/CFTR-related absence is the second common-cause example; anatomy can vary and the source is simplified."
+   "ans": 3,
+   "exp": "Source (scan 204): 'Cystic fibrosis : - Congenital B/L absence of vas deferens & seminal vesicles. - CFTR gene mutation.'"
   },
   {
    "id": "ch38-u3-q1",
@@ -663,15 +679,31 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "scenario",
-   "q": "Infertility, recurrent sinusitis and recurrent chest infection from bronchiectasis suggest which cause of asthenospermia?",
+   "q": "[Scenario] An infertile man with asthenospermia has recurrent sinusitis and recurrent chest infections due to bronchiectasis. Which syndrome named at the top of scan 205 fits?",
    "opts": [
-    "Turner syndrome",
-    "Kallmann syndrome",
-    "Kartagener/immotile cilia syndrome",
-    "Swyer syndrome"
+    "Kartagener / immotile cilia syndrome",
+    "Klinefelter seminiferous dysgenesis",
+    "Kallmann anosmic hypogonadism syndrome",
+    "Sertoli-cell-only germinal aplasia"
    ],
-   "ans": 2,
-   "exp": "The asthenospermia block links respiratory ciliary dysfunction with sperm immotility."
+   "ans": 0,
+   "exp": "Source (scan 205 / printed 197): 'Common causes of asthenospermia : • Kartagener syndrome/Immotile cilia syndrome : C/o Infertility + Recurrent sinusitis + Recurrent chest infection d/t Bronchiectasis.'"
+  },
+  {
+   "id": "ch38-u3-q1a",
+   "sec": "Asthenospermia, Klinefelter and sperm pathway",
+   "unit": "Asthenospermia, Klinefelter and sperm pathway",
+   "page": 205,
+   "fmt": "fillup",
+   "q": "In Kartagener / immotile cilia syndrome, the clinical triad written on scan 205 is infertility plus ____ plus ____ due to ____.",
+   "opts": [
+    "Gynaecomastia; tall stature; hypoplastic testes",
+    "Recurrent sinusitis; recurrent chest infection; bronchiectasis",
+    "Haemoptysis; renal agenesis; situs solitus",
+    "Anosmia; colour blindness; midline cleft"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 205): directly tests the three presenting components printed under Kartagener/immotile cilia syndrome."
   },
   {
    "id": "ch38-u3-q2",
@@ -679,31 +711,31 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "The non-syndromic exposure listed beside immotile cilia syndrome as a cause of asthenospermia is ____.",
+   "q": "Alongside Kartagener/immotile cilia syndrome, the second bullet under `Common causes of asthenospermia` is ____.",
    "opts": [
-    "DES exposure in the female partner",
     "Smoking",
-    "A low-estrogen pill in the partner",
-    "Luteal progesterone therapy"
+    "Alcohol abstinence",
+    "Low-dose folic acid",
+    "Paternal age <25 years"
    ],
-   "ans": 1,
-   "exp": "Smoking appears both in this list and in the OATS associations."
+   "ans": 0,
+   "exp": "Source (scan 205): '• Smoking.' is the second bullet under Common causes of asthenospermia."
   },
   {
    "id": "ch38-u3-q3",
    "sec": "Asthenospermia, Klinefelter and sperm pathway",
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
-   "fmt": "scenario",
-   "q": "Young syndrome causes thick mucus blocking the nose, bronchi and vas deferens. Which presentation is listed?",
+   "fmt": "fillup",
+   "q": "In the `Note` on `Young's syndrome`, ____ causes blockade of the ____, presenting with infertility, sinusitis and bronchiectasis.",
    "opts": [
-    "Infertility, sinusitis and bronchiectasis",
-    "Hot flushes, high FSH and low AMH",
-    "Amenorrhoea, anosmia and absent uterus",
-    "Cyclical pain, urinary retention and haematocolpos"
+    "CFTR deletion; seminal vesicles and renal pelvis",
+    "Androgen deficiency; seminiferous tubules and prostate",
+    "Dynein-arm absence; fallopian fimbriae and cochlea",
+    "Mucus thickening; nose, bronchi and vas deferens"
    ],
-   "ans": 0,
-   "exp": "Young syndrome is a mucus-obstructive comparison beside the immotile-cilia cause."
+   "ans": 3,
+   "exp": "Source (scan 205): 'Note : Young's syndrome → { Mucus thickening → Blockade of nose, bronchi & vas deferens ; C/o Infertility, sinusitis, bronchiectasis }'."
   },
   {
    "id": "ch38-u3-q4",
@@ -711,15 +743,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "OATS expands to oligospermia plus ____ plus ____.",
+   "q": "`OATS` stands for oligospermia + ____ + ____.",
    "opts": [
     "Asthenospermia; teratozoospermia",
     "Azoospermia; aspermia",
-    "Asthenospermia; thyroid suppression",
-    "Antisperm antibodies; testicular torsion"
+    "Necrozoospermia; antisperm antibodies",
+    "Aspermia; testicular atrophy"
    ],
    "ans": 0,
-   "exp": "OATS combines low concentration, poor movement and abnormal morphology."
+   "exp": "Source (scan 205): 'OATS : • Oligospermia + Asthenospermia + Teratozoospermia'."
   },
   {
    "id": "ch38-u3-q5",
@@ -727,15 +759,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "The two associations named for OATS are ____.",
+   "q": "On scan 205, `OATS` is stated to be seen in ____ and ____.",
    "opts": [
-    "Varicocele and smoking",
-    "Cervicitis and septate uterus",
-    "Kallmann syndrome and DES",
-    "Turner syndrome and endometriosis"
+    "Varicocele; smoking",
+    "Klinefelter syndrome; mumps",
+    "Kallmann syndrome; DES exposure",
+    "Cystic fibrosis; vasectomy"
    ],
    "ans": 0,
-   "exp": "These are the two exposures/conditions immediately below the OATS expansion."
+   "exp": "Source (scan 205): '• Seen in varicocele & smoking.'"
   },
   {
    "id": "ch38-u3-q6",
@@ -743,15 +775,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "The Klinefelter incidence range written here is ____ pregnancies.",
+   "q": "Under `KLINEFELTER SYNDROME` (`47XXY`), the stated incidence is ____ pregnancies.",
    "opts": [
-    "10–25 per 100",
     "1–2.5 per 100",
-    "1 per 100,000",
+    "1–2.5 per 10,000",
+    "1–2.5 per 100,000",
     "1–2.5 per 1,000"
    ],
    "ans": 3,
-   "exp": "The source gives a range per thousand pregnancies."
+   "exp": "Source (scan 205): 'KLINEFELTER SYNDROME • 47XXY • Incidence : 1 – 2.5/1000 pregnancies.'"
   },
   {
    "id": "ch38-u3-q7",
@@ -759,15 +791,31 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "scenario",
-   "q": "A tall infertile man has long limbs, gynaecomastia and small hypoplastic testes. Which diagnosis fits?",
+   "q": "[Scenario] A 47,XXY male presents with infertility. Which body habitus, breast finding and testicular morphology are listed together under `Characteristics`?",
    "opts": [
-    "Klinefelter syndrome",
-    "Congenital absence of vas with normal testes only",
-    "Kallmann syndrome by stature alone",
-    "Complete AIS in a phenotypic female"
+    "Short limbs, macroorchidism, and gynecological precocity",
+    "Short webbed neck, shield chest, and streak ovaries",
+    "Normal stature, absent testes, and Mullerian uterus",
+    "Tall stature with long limbs, gynaecomastia, and small hypoplastic testes"
    ],
-   "ans": 0,
-   "exp": "This is the characteristic phenotype listed under 47XXY."
+   "ans": 3,
+   "exp": "Source (scan 205): 'Characteristics : • Tall, long limbs, gynaecomastia • Testis : Small, hypoplastic.'"
+  },
+  {
+   "id": "ch38-u3-q8a",
+   "sec": "Asthenospermia, Klinefelter and sperm pathway",
+   "unit": "Asthenospermia, Klinefelter and sperm pathway",
+   "page": 205,
+   "fmt": "fillup",
+   "q": "The three malignancies with increased risk listed under Klinefelter syndrome are ____, ____ and ____.",
+   "opts": [
+    "Prostate adenocarcinoma; seminoma only; renal cell carcinoma",
+    "Thyroid medullary cancer; chronic myeloid leukaemia; choriocarcinoma",
+    "Breast cancer; Non-Hodgkin's lymphoma; extragonadal germ cell tumour",
+    "Hepatocellular carcinoma; Hodgkin lymphoma; Wilms tumour"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 205): '• ↑ Risk of Breast cancer, Non-Hodgkin's lymphoma, Extragonadal germ cell tumour'."
   },
   {
    "id": "ch38-u3-q8",
@@ -777,13 +825,13 @@
    "fmt": "odd",
    "q": "Which is NOT in the source's increased-tumour-risk list for Klinefelter syndrome?",
    "opts": [
-    "Extragonadal germ-cell tumour",
-    "Non-Hodgkin lymphoma",
-    "Cervical squamous carcinoma",
-    "Breast cancer"
+    "Breast cancer",
+    "Extragonadal germ cell tumour",
+    "Prostate adenocarcinoma",
+    "Non-Hodgkin's lymphoma"
    ],
    "ans": 2,
-   "exp": "The three listed risks are breast cancer, NHL and extragonadal germ-cell tumours."
+   "exp": "Source (scan 205): breast cancer, Non-Hodgkin's lymphoma, and extragonadal germ cell tumour are the three listed tumours."
   },
   {
    "id": "ch38-u3-q9",
@@ -791,15 +839,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "The notes additionally describe ____ lifespan and ____ IQ in Klinefelter syndrome.",
+   "q": "The final bullet under Klinefelter characteristics prints ____ lifespan and ____ IQ.",
    "opts": [
-    "Reduced; reduced",
-    "Reduced; uniformly increased",
-    "Increased; increased",
-    "Increased; uniformly absent"
+    "Unchanged; absent",
+    "Increased (`↑`); increased (`↑`)",
+    "Decreased (`↓`); uniformly supranormal",
+    "Decreased (`↓`); decreased (`↓`)"
    ],
-   "ans": 0,
-   "exp": "These are source annotations, not universal traits; cognitive profiles and life expectancy vary between individuals."
+   "ans": 3,
+   "exp": "Source (scan 205): '• ↓ Life span, ↓ IQ.' Clarification: clinically, cognitive and survival outcomes in 47,XXY vary widely (many individuals have normal general intelligence with selective verbal/executive differences)."
   },
   {
    "id": "ch38-u3-q10",
@@ -807,15 +855,31 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "The pictured bead-based instrument used to estimate testicular size is the ____.",
+   "q": "The string of numbered ellipsoid beads (`1` to `25`) illustrated beside Klinefelter syndrome is the ____, which ____.",
    "opts": [
-    "Rubin cannula",
-    "Cook catheter",
-    "Leech Wilkinson cannula",
-    "Prader orchidometer"
+    "Cook catheter; transfers blastocysts",
+    "Leech Wilkinson cannula; injects HSG dye",
+    "Prader orchidometer; measures testis size",
+    "Rubin olive cannula; insufflates CO2"
    ],
-   "ans": 3,
-   "exp": "The illustration is labelled Prader orchidometer and measures testis size."
+   "ans": 2,
+   "exp": "Source (scan 205): figure caption 'Prader orchidometer (measures testis size)'."
+  },
+  {
+   "id": "ch38-u3-q10a",
+   "sec": "Asthenospermia, Klinefelter and sperm pathway",
+   "unit": "Asthenospermia, Klinefelter and sperm pathway",
+   "page": 205,
+   "fmt": "fillup",
+   "q": "Under `Spermatogenesis & Sperm pathway`, male infertility is bracketed as arising from two broad mechanisms: ____ and ____.",
+   "opts": [
+    "Premature menarche; luteal phase defect",
+    "Defect in spermatogenesis; obstruction in sperm passage",
+    "Failure of capacitation; failure of acrosome loss",
+    "Absent seminal fructose; excess prostatic zinc"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 205): '{ • Defect in spermatogenesis. • Obstruction in sperm passage. } → Infertility in males.'"
   },
   {
    "id": "ch38-u3-q11",
@@ -823,15 +887,31 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "Spermatogenesis begins at ____ and occurs in ____.",
+   "q": "In the HPG diagram on scan 205, spermatogenesis begins at ____ and takes place in the ____.",
    "opts": [
-    "Birth; prostate ducts",
-    "Menarche; epididymis",
-    "Fetal life; seminal vesicles",
-    "Puberty; seminiferous tubules"
+    "Birth; seminal vesicle",
+    "Puberty; seminiferous tubule",
+    "Fetal week 8; epididymal tail",
+    "Adrenarche; rete testis"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 205): 'Spermatogenesis : Begins at puberty' and bottom label 'Spermatogenesis in Seminiferous tubule'."
+  },
+  {
+   "id": "ch38-u3-q11a",
+   "sec": "Asthenospermia, Klinefelter and sperm pathway",
+   "unit": "Asthenospermia, Klinefelter and sperm pathway",
+   "page": 205,
+   "fmt": "fillup",
+   "q": "Tracing the top of the HPG diagram: the hypothalamus secretes ____ to stimulate the ____ to release FSH and LH, with positive (`⊕`) arrows from FSH, LH and testosterone toward ____.",
+   "opts": [
+    "Dopamine; median eminence; fructose synthesis in Leydig cells",
+    "TRH; posterior pituitary; spermiation in the vas deferens",
+    "Inhibin B; adrenal zona reticularis; epididymal capacitation",
+    "GnRH; anterior pituitary; spermatogenesis in the seminiferous tubule"
    ],
    "ans": 3,
-   "exp": "The page separately states pubertal onset and depicts the seminiferous-tubule site."
+   "exp": "Source (scan 205): 'Hypothalamus → GnRH → Anterior pituitary → FSH & LH', with ⊕ arrows leading down to 'Spermatogenesis in Seminiferous tubule'."
   },
   {
    "id": "ch38-u3-q12",
@@ -839,15 +919,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "match",
-   "q": "Match gonadotropins: 1) FSH 2) LH with A) Leydig cells B) Sertoli cells.",
+   "q": "Match anterior-pituitary gonadotropins with their testicular target cells in the diagram: 1) FSH 2) LH — A) Leydig cells B) Sertoli cells.",
    "opts": [
-    "1-B, 2-A",
     "1-A, 2-B",
+    "1-B, 2-A",
     "Both A",
     "Both B"
    ],
-   "ans": 0,
-   "exp": "The hypothalamic-pituitary diagram sends FSH to Sertoli and LH to Leydig cells."
+   "ans": 1,
+   "exp": "Source (scan 205): 'FSH → Sertoli cells' and 'LH → Leydig cells'."
   },
   {
    "id": "ch38-u3-q13",
@@ -855,15 +935,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "Sertoli cells release ____ while Leydig cells release ____.",
+   "q": "In the testicular endocrine diagram, Sertoli cells secrete ____ while Leydig cells secrete ____.",
    "opts": [
     "Testosterone; inhibin B",
-    "Estradiol only; FSH",
-    "AMH only; prolactin",
-    "Inhibin B; testosterone"
+    "Androstenedione; AMH only",
+    "Inhibin B; testosterone",
+    "Prolactin; estradiol only"
    ],
-   "ans": 3,
-   "exp": "Inhibin B feeds back to FSH; testosterone supports spermatogenesis and feeds back centrally."
+   "ans": 2,
+   "exp": "Source (scan 205): 'Sertoli cells → Inhibin B' and 'Leydig cells → Testosterone'."
   },
   {
    "id": "ch38-u3-q14",
@@ -871,15 +951,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "tf",
-   "q": "I) Inhibin B inhibits FSH through feedback. II) Testosterone contributes to spermatogenesis and negative central feedback.",
+   "q": "Evaluate the dashed negative-feedback (`⊖`) arrows in the scan 205 HPG diagram: I) Inhibin B sends a negative-feedback arrow to FSH. II) Testosterone sends a negative-feedback arrow to hypothalamic GnRH while stimulating spermatogenesis (`⊕`).",
    "opts": [
-    "I false; II true",
-    "Both false",
+    "Both true",
     "I true; II false",
-    "Both true"
+    "I false; II true",
+    "Both false"
    ],
-   "ans": 3,
-   "exp": "Both feedback loops are shown with dashed inhibitory arrows in the diagram."
+   "ans": 0,
+   "exp": "Source (scan 205): dashed ⊖ arrows run from Inhibin B to FSH and from Testosterone back to GnRH."
   },
   {
    "id": "ch38-u3-q15",
@@ -887,15 +967,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "match",
-   "q": "Arrange the main sperm passage route: A) Vas deferens B) Testis C) Epididymis D) Ejaculatory duct.",
+   "q": "Order the four transport structures numbered along the `Sperm pathway` diagram: A) `3. Vas deferens` B) `1. Testis` C) `2. Epididymis (motile + mature)` D) `7. Ejaculatory duct`.",
    "opts": [
     "C-B-D-A",
-    "A-C-B-D",
+    "B-A-C-D",
     "B-C-A-D",
-    "B-A-C-D"
+    "A-C-B-D"
    ],
    "ans": 2,
-   "exp": "Sperm leave the testis, mature in the epididymis and pass through the vas to the ejaculatory duct."
+   "exp": "Source (scan 205): traces 1. Testis → 2. Epididymis : motile + mature → 3. Vas deferens → 7. Ejaculatory duct (note: the stylized pointer line for 7 sits distally on the sketch, whereas anatomically the ejaculatory duct traverses the prostate to enter the prostatic urethra)."
   },
   {
    "id": "ch38-u3-q16",
@@ -903,15 +983,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "Seminal-vesicle secretion is rich in ____ and forms a ____ component of semen.",
+   "q": "In the `Sperm pathway` diagram, `4. Seminal vesicle` pours secretions that are rich in ____ and form a ____ component of semen.",
    "opts": [
+    "Hyaluronidase; negligible",
+    "Citric acid; minor",
     "Fructose; major",
-    "Glucose; negligible",
-    "AMH; dominant sperm-cell",
-    "Progesterone; cellular"
+    "Acid phosphatase; cellular sperm"
    ],
-   "ans": 0,
-   "exp": "The vesicles contribute fructose-rich fluid, not sperm production."
+   "ans": 2,
+   "exp": "Source (scan 205): '4. Seminal vesicle : Pours secretions • Rich in fructose • Major component of semen.'"
   },
   {
    "id": "ch38-u3-q17",
@@ -919,15 +999,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "fillup",
-   "q": "The gland also called Cowper's is the ____ gland.",
+   "q": "Alongside `4. Seminal vesicle` and `5. Prostate`, structure `6.` pouring secretions into the pathway is the ____, also called ____ gland.",
    "opts": [
-    "Bulbourethral",
-    "Pituitary",
-    "Prostate",
-    "Seminal vesicle"
+    "Bartholin; greater vestibular",
+    "Bulbourethral; Cowper's",
+    "Skene; paraurethral",
+    "Littre; preputial"
    ],
-   "ans": 0,
-   "exp": "The pathway diagram labels bulbourethral/Cowper's gland as an additional secretory source."
+   "ans": 1,
+   "exp": "Source (scan 205): '5. Prostate : Pours secretions. 6. Bulbourethral/Cowper's gland : Pours secretions.'"
   },
   {
    "id": "ch38-u3-q18",
@@ -935,15 +1015,15 @@
    "unit": "Asthenospermia, Klinefelter and sperm pathway",
    "page": 205,
    "fmt": "odd",
-   "q": "Which structure in the pathway diagram produces sperm rather than adding secretions or transporting them?",
+   "q": "Among the seven numbered labels in the `Sperm pathway` diagram, which structure produces spermatozoa rather than transporting them or pouring accessory secretions?",
    "opts": [
-    "Seminal vesicle",
-    "Testis",
-    "Vas deferens",
-    "Prostate"
+    "Prostate (`5.`)",
+    "Testis (`1.`)",
+    "Seminal vesicle (`4.`)",
+    "Vas deferens (`3.`)"
    ],
    "ans": 1,
-   "exp": "The testis performs spermatogenesis; the others contribute fluid or passage."
+   "exp": "Source (scan 205): spermatogenesis occurs in the seminiferous tubules of 1. Testis; epididymis/vas/ejaculatory duct transport sperm and vesicles/prostate/Cowper's gland pour secretions."
   },
   {
    "id": "ch38-u4-q1",
@@ -951,15 +1031,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "match",
-   "q": "Match 1) Pretesticular 2) Testicular 3) Post-testicular with A) Testis B) Hypothalamus/pituitary C) Epididymis/vas/ejaculatory tract.",
+   "q": "Match `Levels of organs involved in spermatogenesis` at the top of scan 206: 1) Pre-testicular organs 2) Testicular organs 3) Post-testicular organs — A) Testis B) Hypothalamus and pituitary C) Seminal vesicles, epididymis, ejaculatory duct, vas deferens.",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A",
     "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
     "1-B, 2-C, 3-A"
    ],
-   "ans": 0,
-   "exp": "The source classifies dysfunction by central control, sperm production and passage."
+   "ans": 2,
+   "exp": "Source (scan 206 / printed 198): reproduces all three organ levels and all four named post-testicular structures verbatim."
   },
   {
    "id": "ch38-u4-q2",
@@ -967,15 +1047,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "tf",
-   "q": "I) Post-testicular organs are necessary for sperm passage. II) They are the site of spermatogenesis.",
+   "q": "Evaluate the two functional bullets under `Post-testicular organs`: I) They are necessary for sperm passage. II) They are necessary for spermatogenesis itself.",
    "opts": [
+    "I false; II true",
     "I true; II false",
     "Both true",
-    "I false; II true",
     "Both false"
    ],
-   "ans": 0,
-   "exp": "The page explicitly says necessary for passage, not necessary for spermatogenesis."
+   "ans": 1,
+   "exp": "Source (scan 206): '• Not necessary for spermatogenesis. • Necessary for sperm passage.'"
   },
   {
    "id": "ch38-u4-q3",
@@ -983,15 +1063,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "fillup",
-   "q": "Prostatic enzymes are responsible for semen ____.",
+   "q": "Under `Semen` (listing seminal vesicle, prostate gland, and bulbourethral gland), `Prostatic enzymes` cause ____ of semen.",
    "opts": [
-    "Epididymal maturation",
-    "Chromosomal segregation",
-    "Spermatogenesis",
-    "Liquefaction"
+    "Initial coagulation",
+    "Liquefaction",
+    "Fructose synthesis",
+    "Acrosomal capacitation"
    ],
-   "ans": 3,
-   "exp": "The semen-source list assigns liquefaction to prostatic enzymes."
+   "ans": 1,
+   "exp": "Source (scan 206): 'Semen : • Seminal vesicle. • Prostate gland : Prostatic enzymes → Liquefaction of semen.'"
   },
   {
    "id": "ch38-u4-q4",
@@ -999,15 +1079,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "fillup",
-   "q": "The bulbourethral gland adds secretion at the time of ____.",
+   "q": "Under `Semen`, the `Bulbourethral gland` adds its secretion at the time of ____.",
    "opts": [
-    "Menstruation",
-    "Oocyte retrieval only",
+    "Renal filtration",
     "Intercourse",
-    "Fetal gonadal differentiation only"
+    "Epididymal transit",
+    "Pubertal onset only"
    ],
-   "ans": 2,
-   "exp": "This timing is given in the third semen-source bullet."
+   "ans": 1,
+   "exp": "Source (scan 206): '• Bulbourethral gland : Adds secretion at the time of intercourse.'"
   },
   {
    "id": "ch38-u4-q5",
@@ -1015,15 +1095,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "scenario",
-   "q": "A first semen analysis shows azoospermia. Before committing to an aetiological diagnosis, what is the next step?",
+   "q": "[Scenario] A patient has `Azoospermia in 1st semen analysis`. What is the immediate next step in the `AZOOSPERMIA ON SEMEN ANALYSIS` flowchart before endocrine testing?",
    "opts": [
-    "Diagnose Klinefelter solely from one sample",
+    "Proceed directly to testicular biopsy",
+    "Measure serum FSH, LH and testosterone immediately without repeating semen",
     "Repeat semen analysis",
-    "Start donor insemination without confirmation",
-    "Perform the female partner's hysterectomy"
+    "Start empirical pulsatile GnRH"
    ],
-   "ans": 1,
-   "exp": "The algorithm first repeats the semen analysis to confirm azoospermia."
+   "ans": 2,
+   "exp": "Source (scan 206): 'Azoospermia in 1st semen analysis → Repeat semen analysis → Azoospermia → FSH, LH, Testosterone levels.'"
   },
   {
    "id": "ch38-u4-q6",
@@ -1031,15 +1111,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "fillup",
-   "q": "The source's repeat-semen interval is ideally ____ and at minimum ____.",
+   "q": "In the box beside `Repeat semen analysis`, the `Ideal` interval is after ____ and the `Min` interval is after ____.",
    "opts": [
-    "1 year; 6 months",
-    "1 week; 24 hours",
     "1 month; 7 days",
-    "3 months; 1 hour"
+    "6 months; 1 month",
+    "3 months; 14 days",
+    "2 weeks; 48 hours"
    ],
-   "ans": 2,
-   "exp": "Both intervals are boxed beside repeat semen analysis."
+   "ans": 0,
+   "exp": "Source (scan 206): boxed note '• Ideal : After 1 month. • Min : After 7 days.'"
   },
   {
    "id": "ch38-u4-q7",
@@ -1047,15 +1127,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "fillup",
-   "q": "Confirmed azoospermia is followed by measurement of ____.",
+   "q": "Once repeat semen analysis confirms azoospermia, the next investigation line measures ____ levels.",
    "opts": [
-    "Estradiol alone",
-    "FSH, LH and testosterone",
-    "TSH alone",
-    "AMH, progesterone and hCG"
+    "Seminal zinc, citric acid and PSA",
+    "Prolactin, cortisol and DHEAS",
+    "AMH, inhibin B and estradiol",
+    "FSH, LH and testosterone"
    ],
-   "ans": 1,
-   "exp": "The three-hormone panel precedes the low, high and normal FSH branches."
+   "ans": 3,
+   "exp": "Source (scan 206): 'Azoospermia → FSH, LH, Testosterone levels.'"
   },
   {
    "id": "ch38-u4-q8",
@@ -1063,15 +1143,31 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "scenario",
-   "q": "Azoospermia with low FSH and low testosterone points to which level?",
+   "q": "[Scenario] Confirmed azoospermia with `↓ FSH & ↓ Testosterone` maps to which endocrine state and anatomical level in the left branch?",
    "opts": [
-    "Primary testicular hypergonadotropic failure",
-    "Obstruction with intact hormone production",
-    "Hypothalamic/pituitary hypogonadotropic hypogonadism",
-    "Isolated cervical factor"
+    "Hypogonadotropic hypogonadism due to hypothalamus/pituitary causes",
+    "Hypergonadotropic hypogonadism due to testicular causes",
+    "Obstructive azoospermia due to post-testicular block",
+    "Normogonadotropic unexplained infertility"
    ],
-   "ans": 2,
-   "exp": "Low gonadotropins and low gonadal hormone suggest a pretesticular central cause."
+   "ans": 0,
+   "exp": "Source (scan 206): '↓ FSH & ↓ Testosterone → Hypogonadotropic hypogonadism → Hypothalamus/pituitary causes'."
+  },
+  {
+   "id": "ch38-u4-q8a",
+   "sec": "Levels of dysfunction and azoospermia algorithm",
+   "unit": "Levels of dysfunction and azoospermia algorithm",
+   "page": 206,
+   "fmt": "fillup",
+   "q": "The three numbered `Hypothalamus/pituitary causes` of azoospermia listed in the left branch are ____, ____ and ____.",
+   "opts": [
+    "Kallmann syndrome; hyperprolactinaemia; chronic hypothyroidism",
+    "Varicocele; cystic fibrosis; vasectomy",
+    "Klinefelter syndrome; testicular tumour; mumps orchitis",
+    "Young's syndrome; Kartagener syndrome; genital TB"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 206): '1. Kallman syndrome. 2. Hyperprolactinemia d/t -ve feedback on GnRH. 3. Chronic hypothyroidism : ↓ T3 → ↑ TRH → ↑ TSH, ↑ Prolactin.'"
   },
   {
    "id": "ch38-u4-q9",
@@ -1079,15 +1175,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "odd",
-   "q": "Which is NOT in the central hypogonadotropic-cause list?",
+   "q": "Which is NOT in the left-branch list of hypothalamic/pituitary hypogonadotropic causes?",
    "opts": [
     "Mumps orchitis",
+    "Chronic hypothyroidism",
     "Hyperprolactinaemia",
-    "Kallmann syndrome",
-    "Chronic hypothyroidism"
+    "Kallmann syndrome"
    ],
    "ans": 0,
-   "exp": "Mumps orchitis is in the testicular branch, not the central branch."
+   "exp": "Source (scan 206): mumps orchitis sits in the middle (testicular) branch."
   },
   {
    "id": "ch38-u4-q10",
@@ -1095,15 +1191,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "fillup",
-   "q": "Hyperprolactinaemia suppresses ____ in the central azoospermia pathway.",
+   "q": "In item `2.` of the hypogonadotropic branch, hyperprolactinaemia causes azoospermia via negative feedback on ____.",
    "opts": [
-    "CFTR",
-    "Seminal fructose directly",
+    "Epididymal CFTR channels",
     "GnRH",
-    "Cervical mucus directly"
+    "Leydig-cell 5α-reductase",
+    "Sertoli-cell inhibin B"
    ],
-   "ans": 2,
-   "exp": "The source attributes its central effect to inhibition of GnRH."
+   "ans": 1,
+   "exp": "Source (scan 206): '2. Hyperprolactinemia d/t -ve feedback on GnRH.'"
   },
   {
    "id": "ch38-u4-q11",
@@ -1111,15 +1207,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "match",
-   "q": "Arrange the chronic-hypothyroidism mechanism: A) Raised TRH B) Low T3 C) Raised TSH and prolactin.",
+   "q": "Arrange the endocrine chain written for `3. Chronic hypothyroidism` in the azoospermia diagram: A) `↑ TRH` B) `↓ T3` C) `↑ TSH, ↑ Prolactin`.",
    "opts": [
-    "B-A-C",
-    "A-C-B",
     "C-B-A",
-    "B-C-A"
+    "B-A-C",
+    "B-C-A",
+    "A-C-B"
    ],
-   "ans": 0,
-   "exp": "Low thyroid hormone increases TRH, which stimulates both TSH and prolactin."
+   "ans": 1,
+   "exp": "Source (scan 206): '3. Chronic hypothyroidism : ↓ T3 → ↑ TRH → ↑ TSH, ↑ Prolactin.'"
   },
   {
    "id": "ch38-u4-q12",
@@ -1127,15 +1223,31 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "scenario",
-   "q": "Confirmed azoospermia with high FSH and low testosterone suggests ____.",
+   "q": "[Scenario] Confirmed azoospermia with `↑ FSH & ↓ Testosterone` maps to which diagnosis and frequency label in the middle branch?",
    "opts": [
-    "Unexplained infertility with all tests normal",
-    "Purely obstructive azoospermia with normal gonadal function",
-    "Central hypogonadotropic hypogonadism",
-    "Primary testicular hypergonadotropic hypogonadism"
+    "Hypogonadotropic hypogonadism — pituitary cause (`m/c`)",
+    "Obstructive azoospermia — ductal cause (`m/c`)",
+    "Hypergonadotropic hypogonadism — testicular cause (`m/c`)",
+    "Retrograde ejaculation — bladder-neck cause"
    ],
-   "ans": 3,
-   "exp": "Failed testicular function reduces testosterone and raises gonadotropins."
+   "ans": 2,
+   "exp": "Source (scan 206): '↑ FSH & ↓ Testosterone → Hypergonadotropic hypogonadism → Testicular cause : m/c'."
+  },
+  {
+   "id": "ch38-u4-q12a",
+   "sec": "Levels of dysfunction and azoospermia algorithm",
+   "unit": "Levels of dysfunction and azoospermia algorithm",
+   "page": 206,
+   "fmt": "fillup",
+   "q": "The four numbered `Testicular cause` examples under hypergonadotropic hypogonadism are ____, ____, ____ and ____.",
+   "opts": [
+    "Klinefelter syndrome; testicular tumour; mumps orchitis; increased heat exposure (miners)",
+    "Varicocele; cystic fibrosis; vasectomy; genital TB",
+    "Hypospadias; premature ejaculation; erectile dysfunction; retrograde ejaculation",
+    "Kallmann syndrome; hyperprolactinaemia; chronic hypothyroidism; pituitary adenoma"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 206): '1. Klinefelter syndrome. 2. Testicular tumor 3. Mumps orchitis. 4. ↑ Heat exposure (miners).'"
   },
   {
    "id": "ch38-u4-q13",
@@ -1143,15 +1255,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "odd",
-   "q": "Which is outside the source's testicular-failure example list?",
+   "q": "Which is outside the middle-branch testicular-cause list on scan 206?",
    "opts": [
     "Klinefelter syndrome",
-    "Vasectomy",
+    "Mumps orchitis",
     "Testicular tumour",
-    "Mumps orchitis"
+    "Vasectomy"
    ],
-   "ans": 1,
-   "exp": "Vasectomy obstructs the pathway; the testicular list also includes heat exposure in miners."
+   "ans": 3,
+   "exp": "Source (scan 206): vasectomy is in the right-hand obstructive branch."
   },
   {
    "id": "ch38-u4-q14",
@@ -1159,15 +1271,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "fillup",
-   "q": "The occupational example linked to testicular heat exposure is ____.",
+   "q": "For testicular cause `4. ↑ Heat exposure`, the parenthetical occupation named in the notes is ____.",
    "opts": [
-    "Office typing",
-    "Mining",
-    "Deep-sea navigation without heat",
-    "Cold-storage packing"
+    "Cold-storage workers",
+    "Airline pilots",
+    "Radiographers",
+    "Miners"
    ],
-   "ans": 1,
-   "exp": "The notes specifically give miners as the heat-exposure example."
+   "ans": 3,
+   "exp": "Source (scan 206): '4. ↑ Heat exposure (miners).'"
   },
   {
    "id": "ch38-u4-q15",
@@ -1175,15 +1287,31 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "scenario",
-   "q": "Azoospermia with normal FSH and normal testosterone enters which source algorithm branch?",
+   "q": "[Scenario] Confirmed azoospermia with `Normal FSH & Normal Testosterone` enters which right-hand branch of the scan 206 algorithm?",
    "opts": [
-    "Hypogonadotropic hypogonadism",
-    "Definitive endocrine POI",
-    "Obstructive azoospermia",
-    "Hypergonadotropic hypogonadism"
+    "Obstructive azoospermia (obstruction in sperm pathway)",
+    "Hypergonadotropic testicular failure",
+    "Primary ovarian insufficiency",
+    "Hypogonadotropic hypogonadism"
    ],
-   "ans": 2,
-   "exp": "The source uses this simplified hormonal branch to investigate passage obstruction; normal hormones alone do not prove obstruction clinically."
+   "ans": 0,
+   "exp": "Source (scan 206): 'Normal FSH & Normal Testosterone → Obstructive azoospermia → Obstruction in sperm pathway'. Clarification: clinically, maturation arrest can also present with normal FSH and testosterone, so normal hormones favour—rather than prove—obstruction."
+  },
+  {
+   "id": "ch38-u4-q16a",
+   "sec": "Levels of dysfunction and azoospermia algorithm",
+   "unit": "Levels of dysfunction and azoospermia algorithm",
+   "page": 206,
+   "fmt": "fillup",
+   "q": "Alongside `1. Varicocele` (flagged separately), items `2` to `5` printed under `Obstruction in sperm pathway` are ____, ____, ____ and ____.",
+   "opts": [
+    "Cystic fibrosis; vasectomy; retrograde ejaculation; genital TB",
+    "Klinefelter syndrome; mumps orchitis; miners; testicular tumour",
+    "Hypospadias; vaginismus; erectile dysfunction; premature ejaculation",
+    "Kallmann syndrome; hyperprolactinaemia; hypothyroidism; Kartagener syndrome"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 206): lists '1. Varicocele. 2. Cystic fibrosis. 3. Vasectomy 4. Retrograde ejaculation. 5. Genital TB'. (Note: retrograde ejaculation is a functional antegrade-emission disorder rather than an anatomical lumen block, though grouped here under post-testicular pathway causes.)"
   },
   {
    "id": "ch38-u4-q16",
@@ -1191,15 +1319,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "odd",
-   "q": "Which is NOT among the passage-branch examples in the source?",
+   "q": "Which is NOT among the five items printed under `Obstruction in sperm pathway` on scan 206?",
    "opts": [
-    "Genital TB",
-    "Kallmann syndrome",
     "Cystic fibrosis",
-    "Vasectomy"
+    "Vasectomy",
+    "Genital TB",
+    "Kallmann syndrome"
    ],
-   "ans": 1,
-   "exp": "Kallmann is pretesticular. The passage branch also lists retrograde ejaculation and, controversially, varicocele."
+   "ans": 3,
+   "exp": "Source (scan 206): Kallmann syndrome is in the pretesticular hypothalamic/pituitary branch."
   },
   {
    "id": "ch38-u4-q17",
@@ -1207,15 +1335,15 @@
    "unit": "Levels of dysfunction and azoospermia algorithm",
    "page": 206,
    "fmt": "scenario",
-   "q": "Source-check: varicocele appears under obstructive azoospermia in the diagram. Which clarification is needed?",
+   "q": "Source-check: `1. Varicocele` is printed as the first item under `Obstructive azoospermia / Obstruction in sperm pathway` on scan 206. What medical clarification is essential?",
    "opts": [
-    "Varicocele usually causes congenital absence of both vasa and vesicles",
-    "Varicocele usually impairs testicular function, not sperm passage",
-    "Varicocele usually suppresses pituitary FSH with preserved spermatogenesis",
-    "Varicocele usually causes ejaculatory-duct obstruction with absent fructose"
+    "Varicocele causes congenital bilateral agenesis of both seminal vesicles",
+    "Varicocele impairs testicular spermatogenesis (heat/stasis), not ductal passage",
+    "Varicocele mechanically obliterates the distal ejaculatory duct on TRUS",
+    "Varicocele is a central hypothalamic GnRH-deficiency endocrine syndrome"
    ],
    "ans": 1,
-   "exp": "Preserve the source location while flagging the misclassification; varicocele is not a typical obstructive cause."
+   "exp": "Source (scan 206): keep awareness that the notes list '1. Varicocele' under the right-hand branch, but clinically varicocele is a non-obstructive testicular cause (thermoregulatory/oxidative dysfunction), not a ductal obstruction."
   },
   {
    "id": "ch38-u5-q1",
@@ -1223,15 +1351,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "scenario",
-   "q": "Azoospermia occurs with low-volume semen and low fructose. Which contribution is deficient in the diagram?",
+   "q": "[Scenario] In the `Obstructive azoospermia` flowchart at the top of scan 207, semen shows `Low semen volume, ↓ Fructose`. Loss of contribution from which structure is inferred?",
    "opts": [
-    "Cervical crypt",
-    "Pituitary",
-    "Granulosa cell",
-    "Seminal vesicle"
+    "Bulbourethral gland (no mucus)",
+    "Seminal vesicle (no contribution)",
+    "Proximal epididymis (no transit)",
+    "Testicular Leydig cells (no LH)"
    ],
-   "ans": 3,
-   "exp": "Low volume and fructose suggest loss of seminal-vesicle contribution, prompting an anatomical work-up."
+   "ans": 1,
+   "exp": "Source (scan 207 / printed 199): 'Low semen volume, ↓ Fructose → No contribution from seminal vesicle.'"
   },
   {
    "id": "ch38-u5-q2",
@@ -1239,15 +1367,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "fillup",
-   "q": "The imaging step for the low-volume, low-fructose branch is ____.",
+   "q": "When low semen volume and low fructose indicate no seminal-vesicle contribution, the next imaging test in the algorithm is ____ to assess the ____.",
    "opts": [
-    "Transrectal ultrasound",
-    "HSG",
-    "Endometrial MRI alone",
-    "Follicular TVS"
+    "HSG; fallopian cornua",
+    "Scrotal USG; pampiniform plexus",
+    "Transrectal ultrasound (TRUS); seminal vesicles",
+    "Pelvic MRI; anterior pituitary"
    ],
-   "ans": 0,
-   "exp": "TRUS assesses the seminal vesicles and ejaculatory pathway."
+   "ans": 2,
+   "exp": "Source (scan 207): 'No contribution from seminal vesicle → Trans rectal ultrasound → Seminal vesicles'."
   },
   {
    "id": "ch38-u5-q3",
@@ -1255,15 +1383,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "scenario",
-   "q": "Seminal vesicles are not seen in the low-volume branch, with suspected absent vasa. What confirms the named genetic cause?",
+   "q": "[Scenario] On transrectal ultrasound for low-volume, low-fructose azoospermia, the seminal vesicles are `Not seen`. What condition, anatomical defect, and confirmatory test follow this branch?",
    "opts": [
-    "SRY point-mutation testing",
-    "SHOX deletion testing",
-    "FMR1 testing alone",
-    "CFTR mutation testing"
+    "Ejaculatory duct obstruction with mega-vesicles; confirmed by Endtz test",
+    "Cystic fibrosis with absence of vas deferens and seminal vesicle; confirmed by CFTR gene mutation",
+    "Retrograde ejaculation with normal vasa; confirmed by scrotal USG",
+    "Klinefelter syndrome with streak vasa; confirmed by 47,XXY karyotype"
    ],
-   "ans": 3,
-   "exp": "The absent-vesicle/vas branch is attributed to cystic fibrosis/CFTR-related disease in the source."
+   "ans": 1,
+   "exp": "Source (scan 207): 'Seminal vesicles → Not seen → Cystic fibrosis : Absence of vas deferens & seminal vesicle → Confirmation : CFTR gene mutation.'"
   },
   {
    "id": "ch38-u5-q4",
@@ -1271,15 +1399,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "scenario",
-   "q": "TRUS shows dilated seminal vesicles in the low-volume azoospermia work-up. Which diagnosis is shown?",
+   "q": "[Scenario] On transrectal ultrasound in the low-volume, low-fructose branch, seminal vesicles are `Seen` and `Dilated`. Which diagnosis is shown?",
    "opts": [
-    "Kallmann syndrome",
-    "Primary ovarian insufficiency",
-    "Antisperm antibodies in the cervix",
-    "Ejaculatory duct obstruction"
+    "Ejaculatory duct obstruction",
+    "Congenital absence of seminal vesicles",
+    "Pretesticular Kallmann syndrome",
+    "Retrograde ejaculation"
    ],
-   "ans": 3,
-   "exp": "Dilatation upstream of the distal duct suggests ejaculatory duct obstruction."
+   "ans": 0,
+   "exp": "Source (scan 207): 'Seminal vesicles → Seen → Dilated → Ejaculatory duct obstruction.'"
   },
   {
    "id": "ch38-u5-q5",
@@ -1287,15 +1415,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "scenario",
-   "q": "Seminal vesicles are present and normal in the low-volume branch. Which diagnosis is suggested by the notes?",
+   "q": "[Scenario] On transrectal ultrasound in the low-volume, low-fructose branch, seminal vesicles are `Seen` and `Normal`. Which diagnosis does the diagram assign?",
    "opts": [
-    "Hypergonadotropic failure by imaging alone",
-    "Endometriosis",
-    "Retrograde ejaculation",
-    "Congenital absence of both seminal vesicles"
+    "Testicular mumps orchitis",
+    "Ejaculatory duct obstruction",
+    "Cystic fibrosis CBAVD",
+    "Retrograde ejaculation"
    ],
-   "ans": 2,
-   "exp": "The normal-vesicle arm points to retrograde ejaculation; postejaculatory urine can help assess it."
+   "ans": 3,
+   "exp": "Source (scan 207): 'Seminal vesicles → Seen → Normal → Retrograde ejaculation.' (Clinically confirmed by finding sperm in post-ejaculatory urine.)"
   },
   {
    "id": "ch38-u5-q6",
@@ -1303,15 +1431,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "scenario",
-   "q": "Semen volume is normal and fructose is present despite azoospermia. Where does the diagram localise a block?",
+   "q": "[Scenario] In the right-hand branch of `Obstructive azoospermia`, semen has `Normal semen volume, Fructose +`. What inference and block site follow?",
    "opts": [
-    "In the uterine cornua",
-    "Within the endometrium",
-    "Above the seminal vesicle, in the vas/epididymis",
-    "In the hypothalamus"
+    "Seminal-vesicle agenesis confirmed → block at prostatic urethral crest",
+    "Hostile cervical mucus barrier → mechanical block at external os",
+    "Pituitary gonadotropin deficiency → isolated block inside rete testis",
+    "Seminal-vesicle contribution intact → block above it (vas or epididymis)"
    ],
-   "ans": 2,
-   "exp": "Preserved vesicle contribution favours a more proximal sperm-transport obstruction."
+   "ans": 3,
+   "exp": "Source (scan 207): 'Normal semen volume, Fructose + → Contribution of seminal vesicle to semen → Block above seminal vesicle • Vas deferens • Epididymus.'"
   },
   {
    "id": "ch38-u5-q7",
@@ -1319,15 +1447,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "fillup",
-   "q": "The imaging test named for the normal-volume, fructose-positive branch is ____.",
+   "q": "When obstruction is localised above the seminal vesicle (`Vas deferens` / `Epididymus`), the imaging step below it is ____.",
    "opts": [
-    "Cervical ultrasound only",
-    "Hysteroscopy",
-    "HSG",
-    "Scrotal ultrasound"
+    "Diagnostic hysteroscopy",
+    "Transrectal ultrasound",
+    "Scrotal USG",
+    "Hysterosalpingography"
    ],
-   "ans": 3,
-   "exp": "Scrotal USG follows the vas/epididymal localisation in the diagram."
+   "ans": 2,
+   "exp": "Source (scan 207): 'Block above seminal vesicle (• Vas deferens • Epididymus) → Scrotal USG'."
   },
   {
    "id": "ch38-u5-q8",
@@ -1335,15 +1463,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "fillup",
-   "q": "IUI deposits sperm into the ____ rather than simply into the vagina.",
+   "q": "Under `Treatment Procedures`, `INTRAUTERINE INSEMINATION` is defined in the opening line as ____.",
    "opts": [
-    "Endometrial stroma",
-    "Peritoneal cavity",
-    "Uterine cavity",
-    "Ovarian cortex"
+    "Injecting a single sperm into oocyte cytoplasm",
+    "Injecting sperm into the uterus",
+    "Co-incubating gametes in a pyruvate Petri dish",
+    "Placing gametes laparoscopically into the ampulla"
    ],
-   "ans": 2,
-   "exp": "Intrauterine insemination bypasses the cervix while sperm still travel to the fallopian tube."
+   "ans": 1,
+   "exp": "Source (scan 207): 'INTRAUTERINE INSEMINATION : Injecting sperm into uterus.'"
   },
   {
    "id": "ch38-u5-q9",
@@ -1351,15 +1479,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "fillup",
-   "q": "The source's IUI prerequisite figures are concentration ____ and morphology ____.",
+   "q": "The two `Prerequisite` thresholds printed for IUI on scan 207 are sperm concentration ____ and sperm morphology ____.",
    "opts": [
+    "16 million/mL; 42%",
+    "39 million/mL; 54%",
     "5 million/mL; 4%",
-    "16 million/mL; 54%",
-    "10 million/mL; 14%",
-    "39 million/mL; 30%"
+    "10 million/mL; 14%"
    ],
-   "ans": 2,
-   "exp": "These are the source's historical prerequisite figures, not universal modern eligibility thresholds; 14% differs from its earlier 4% morphology reference."
+   "ans": 3,
+   "exp": "Source (scan 207): 'Prerequisite : • Sperm concentration : 10 million/ml. • Sperm morphology : 14%.' Clarification: 14% reflects older pre-2010 WHO morphology criteria rather than the 4% Strict Tygerberg WHO 2022 limit on scan 204; modern IUI eligibility commonly relies on post-wash total motile sperm count."
   },
   {
    "id": "ch38-u5-q10",
@@ -1367,15 +1495,31 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "match",
-   "q": "Match 1) IUI-H 2) IUI-D with A) Donor semen B) Husband's semen.",
+   "q": "Match `Obtaining semen` labels for IUI: 1) From husband 2) From donor — A) `IUI-D` B) `IUI-H`.",
    "opts": [
-    "Both B",
-    "1-A, 2-B",
+    "Both A",
     "1-B, 2-A",
-    "Both A"
+    "1-A, 2-B",
+    "Both B"
    ],
-   "ans": 2,
-   "exp": "The suffix identifies the semen source."
+   "ans": 1,
+   "exp": "Source (scan 207): 'Obtaining semen : • From husband : IUI-H. • From donor : IUI-D.'"
+  },
+  {
+   "id": "ch38-u5-q10a",
+   "sec": "Obstructive localisation and IUI technique",
+   "unit": "Obstructive localisation and IUI technique",
+   "page": 207,
+   "fmt": "fillup",
+   "q": "The four `Processing of semen` techniques listed before IUI (producing `Sperm in sterile medium`) are ____, ____, ____ and ____.",
+   "opts": [
+    "Formalin fixation; saline wash; lignocaine gel; pyruvate freezing",
+    "Swim-up; swim-down; density centrifugation; glass-wool filtration",
+    "Eosin staining; trypan blue; hypo-osmotic swelling; Endtz assay",
+    "TESA; TESE; PESA; MESA"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 207): lists all four techniques under 'Processing of semen', alongside the vial captioned 'Sperm in sterile medium'."
   },
   {
    "id": "ch38-u5-q11",
@@ -1383,15 +1527,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "odd",
-   "q": "Which is NOT one of the four semen-processing techniques listed before IUI?",
+   "q": "Which is NOT one of the four semen-processing techniques listed for IUI on scan 207?",
    "opts": [
-    "Density centrifugation",
-    "Swim-up",
-    "Swim-down",
-    "Formalin fixation"
+    "Formalin fixation technique",
+    "Density centrifugation technique",
+    "Swim-down technique",
+    "Swim-up technique"
    ],
-   "ans": 3,
-   "exp": "Glass-wool filtration completes the list; fixation kills sperm and is not preparation for insemination."
+   "ans": 0,
+   "exp": "Source (scan 207): swim-up, swim-down, density centrifugation, and glass-wool filtration are the four listed methods."
   },
   {
    "id": "ch38-u5-q12",
@@ -1399,15 +1543,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "fillup",
-   "q": "The semen-processing technique labelled best in the source is ____.",
+   "q": "Among the four listed semen-processing methods, the one explicitly labelled `Best` in the notes is the ____.",
    "opts": [
-    "Swim-down",
-    "Glass-wool filtration",
-    "Density centrifugation",
-    "Swim-up"
+    "Glass-wool filtration technique",
+    "Swim-down technique",
+    "Swim-up technique",
+    "Density centrifugation technique"
    ],
-   "ans": 1,
-   "exp": "This is the source's stated superlative, not a universal ranking for every contemporary laboratory."
+   "ans": 0,
+   "exp": "Source (scan 207): '• Glasswool filtration technique : Best.' (source-specific teaching superlative; density-gradient and swim-up are widely used in contemporary andrology labs)."
   },
   {
    "id": "ch38-u5-q13",
@@ -1415,15 +1559,15 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "fillup",
-   "q": "The volume of concentrated processed sperm injected in the illustrated IUI procedure is ____.",
+   "q": "In the IUI `Procedure` flowchart, ____ of concentrated processed sperm is injected into the uterus using an ____.",
    "opts": [
-    "50 mL",
-    "5 mL",
-    "15 mL",
-    "0.5 mL"
+    "5.0 mL; Leech Wilkinson cannula",
+    "0.05 mL; Rubin cannula",
+    "0.5 mL; IUI catheter",
+    "10 mL; Foley catheter"
    ],
-   "ans": 3,
-   "exp": "The small processed volume is placed into the uterus with an IUI catheter."
+   "ans": 2,
+   "exp": "Source (scan 207): 'Procedure : 0.5 mL of conc. processed sperm → Injected into uterus with IUI catheter, bypassing cervix → Sperm travel to fallopian tube.'"
   },
   {
    "id": "ch38-u5-q14",
@@ -1431,15 +1575,31 @@
    "unit": "Obstructive localisation and IUI technique",
    "page": 207,
    "fmt": "scenario",
-   "q": "Why can IUI help a cervical factor but not replace patent tubes?",
+   "q": "[Scenario] According to the IUI `Procedure` arrows and pelvic illustration (`Sperm injected into uterus`), why can IUI overcome a cervical factor yet still require tubal patency?",
    "opts": [
-    "It bypasses the cervix, but sperm must still reach the fallopian tube",
-    "It injects an embryo directly into the ovary",
-    "It repairs fimbrial adhesions mechanically",
-    "It bypasses both tubes by intracytoplasmic injection"
+    "Catheter bypasses the cervix, after which sperm still travel to the tube",
+    "Catheter mechanically dilates bilateral fimbrial hydrosalpinx ostia",
+    "Catheter injects capacitated sperm directly into the ovarian follicle",
+    "Catheter deposits day-5 blastocysts 2 cm below the uterine fundus"
    ],
    "ans": 0,
-   "exp": "The diagram shows uterine deposition followed by sperm travel into the tubes."
+   "exp": "Source (scan 207): 'Injected into uterus with IUI catheter, bypassing cervix → Sperm travel to fallopian tube.'"
+  },
+  {
+   "id": "ch38-u6-q0a",
+   "sec": "IUI indications, ART grouping and IVF outline",
+   "unit": "IUI indications, ART grouping and IVF outline",
+   "page": 208,
+   "fmt": "fillup",
+   "q": "At the top of scan 208, IUI is broadly summarised as `Done in` ____ and ____.",
+   "opts": [
+    "Mullerian agenesis; pre-implantation genetic testing",
+    "Bilateral cornual block; severe hydrosalpinx",
+    "Non-obstructive azoospermia; premature ovarian insufficiency",
+    "Cervix abnormalities; ejaculatory abnormalities"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 208 / printed 200): 'Done in : • Cervix abnormalities. • Ejaculatory abnormalities.'"
   },
   {
    "id": "ch38-u6-q1",
@@ -1447,15 +1607,31 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "scenario",
-   "q": "Which female condition precludes IUI in this source pathway?",
+   "q": "[Scenario] Immediately below `Done in`, the line `Not done : In females with ____` excludes IUI in which setting?",
    "opts": [
-    "Bilateral tubal blockage",
-    "Unexplained infertility with patent tubes",
-    "Cervical abnormality with patent tubes",
-    "Mild endometriosis with patent tubes"
+    "Cervical antisperm antibodies",
+    "Vaginismus",
+    "Tubal blockage",
+    "Mild endometriosis"
    ],
-   "ans": 0,
-   "exp": "IUI still requires tubal passage; cervical and ejaculatory abnormalities can be indications."
+   "ans": 2,
+   "exp": "Source (scan 208): 'Not done : In females with tubal blockage.' (Compare scan 200, where unilateral tubal block can still use CC + IUI, whereas bilateral tubal blockage precludes IUI.)"
+  },
+  {
+   "id": "ch38-u6-q2a",
+   "sec": "IUI indications, ART grouping and IVF outline",
+   "unit": "IUI indications, ART grouping and IVF outline",
+   "page": 208,
+   "fmt": "fillup",
+   "q": "Under `Note : Assisted Reproductive Techniques`, ART `Includes` the four procedures ____, ____, ____ and ____.",
+   "opts": [
+    "IUI; HSG; HyCoSy; Huhner test",
+    "Pomeroy; Parkland; Irving; Uchida",
+    "TESA; TESE; PESA; MESA",
+    "IVF; ICSI; GIFT; ZIFT"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 208): 'Note : Assisted Reproductive Techniques • Includes : - IVF - ICSI - GIFT - ZIFT • Does not include IUI.'"
   },
   {
    "id": "ch38-u6-q2",
@@ -1463,15 +1639,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "odd",
-   "q": "Which procedure is excluded from the source's ART group?",
+   "q": "Which procedure is explicitly excluded (`Does not include`) from the `Assisted Reproductive Techniques` group on scan 208?",
    "opts": [
-    "IVF",
-    "GIFT",
+    "ICSI",
     "IUI",
-    "ICSI"
+    "IVF",
+    "GIFT"
    ],
-   "ans": 2,
-   "exp": "IVF, ICSI, GIFT and ZIFT are listed as ART; IUI is explicitly excluded from this classification."
+   "ans": 1,
+   "exp": "Source (scan 208): '• Does not include IUI.'"
   },
   {
    "id": "ch38-u6-q3",
@@ -1479,31 +1655,31 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "fillup",
-   "q": "The fourth ART procedure listed with IVF, ICSI and GIFT is ____.",
+   "q": "Alongside IVF, ICSI and GIFT, the fourth procedure in the ART list is ____.",
    "opts": [
-    "Huhner test",
-    "Rubin test",
-    "ZIFT",
-    "HSG"
+    "IUI",
+    "TRUS",
+    "HyCoSy",
+    "ZIFT"
    ],
-   "ans": 2,
-   "exp": "Zygote intrafallopian transfer completes the list."
+   "ans": 3,
+   "exp": "Source (scan 208): '- ZIFT' (zygote intrafallopian transfer) completes the four-item ART list."
   },
   {
    "id": "ch38-u6-q4",
    "sec": "IUI indications, ART grouping and IVF outline",
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
-   "fmt": "scenario",
-   "q": "A man has mild oligospermia of 12 million/mL and the partner has patent tubes. Which assisted method is listed at this level?",
+   "fmt": "fillup",
+   "q": "Under IUI `Indications` on scan 208, the sperm-count range written beside `Oligospermia` is ____ (whereas the summary table on scan 210 writes `10–15 million/mL`).",
    "opts": [
-    "Donor-oocyte IVF only",
-    "Tubal cannulation",
-    "IUI",
-    "ICSI in every case"
+    ">39 million/mL",
+    "1–4 million/mL",
+    "5–10 million/mL",
+    "10–16 million/mL"
    ],
-   "ans": 2,
-   "exp": "The IUI indication range is 10–16 million/mL on this page; the later management table uses 10–15."
+   "ans": 3,
+   "exp": "Source (scan 208): 'Indications : • Oligospermia : 10–16 million/mL.' (reflecting <16 million/mL WHO oligospermia down to the 10 million/mL IUI prerequisite)."
   },
   {
    "id": "ch38-u6-q5",
@@ -1511,15 +1687,31 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "match",
-   "q": "Match IUI indication examples: 1) Hypospadias 2) Cervical ASA 3) Vaginismus with A) Immunological cervical barrier B) Ejaculatory delivery problem C) Involuntary vaginal muscle contraction.",
+   "q": "Match three IUI indications on scan 208 with their descriptions/categories: 1) Hypospadias 2) Antisperm antibodies in cervix 3) Vaginismus — A) Cervical immunological factor B) Ejaculatory cause C) Involuntary contraction of vaginal muscles.",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
     "1-A, 2-C, 3-B",
-    "1-B, 2-C, 3-A"
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 208): '• Ejaculatory causes : Hypospadias', '• Vaginismus : Involuntary contraction of vaginal muscles', and '• Anti sperm antibodies in cervix'."
+  },
+  {
+   "id": "ch38-u6-q5a",
+   "sec": "IUI indications, ART grouping and IVF outline",
+   "unit": "IUI indications, ART grouping and IVF outline",
+   "page": 208,
+   "fmt": "fillup",
+   "q": "Completing the eight-bullet IUI `Indications` list on scan 208 alongside oligospermia, hypospadias, vaginismus and cervical antisperm antibodies are ____, ____, ____ and ____.",
+   "opts": [
+    "Retrograde ejaculation; discordant HIV status in the partners; mild endometriosis; unexplained infertility",
+    "Severe endometriosis; bilateral hydrosalpinx; azoospermia; premature ovarian insufficiency",
+    "Mullerian agenesis; Kartagener asthenospermia <5%; Klinefelter syndrome; PGT",
+    "Pituitary ablation; Kallmann syndrome; cervical cancer; Asherman syndrome"
    ],
    "ans": 0,
-   "exp": "These mechanisms explain why bypassing intercourse/cervical passage may help."
+   "exp": "Source (scan 208): directly tests the remaining four bullets in the two-column IUI Indications list. (Clarification: in HIV-discordant couples, modern care relies on antiretroviral viral suppression ± sperm washing per current guidelines.)"
   },
   {
    "id": "ch38-u6-q6",
@@ -1527,15 +1719,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "odd",
-   "q": "Which is NOT listed as an IUI indication on this page?",
+   "q": "Which is NOT among the eight listed indications for IUI on scan 208?",
    "opts": [
+    "Discordant HIV status in the partners",
     "Mild endometriosis",
-    "Retrograde ejaculation",
     "Severe bilateral hydrosalpinx",
-    "Discordant HIV status"
+    "Retrograde ejaculation"
    ],
    "ans": 2,
-   "exp": "Other indications include unexplained infertility and cervical antisperm antibodies; bilateral tubal disease requires a different route."
+   "exp": "Source (scan 208): tubal blockage precludes IUI; severe hydrosalpinx requires proximal clipping/salpingectomy + IVF."
   },
   {
    "id": "ch38-u6-q7",
@@ -1543,15 +1735,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "fillup",
-   "q": "IUI is performed at the time of ____.",
+   "q": "The first bullet in the `Note` above IVF states: `IUI done at the time of` ____.",
    "opts": [
-    "Day-3 ovarian reserve testing",
-    "Menstrual shedding",
     "Ovulation",
-    "Late luteolysis regardless of ovulation"
+    "Mid-luteal day 22",
+    "Day-3 FSH sampling",
+    "Menstruation"
    ],
-   "ans": 2,
-   "exp": "Timing aims to align sperm availability with the oocyte."
+   "ans": 0,
+   "exp": "Source (scan 208): 'Note : • IUI done at the time of ovulation.'"
   },
   {
    "id": "ch38-u6-q8",
@@ -1559,15 +1751,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "scenario",
-   "q": "Source-check: a note says 'HCG is done before IUI to rule out tubal blockage'. Which correction is appropriate?",
+   "q": "Source-check: the second bullet in that `Note` reads `HCG is done before IUI to rule out tubal blockage`. What error in the handwritten note must be recognised?",
    "opts": [
-    "Serum AMH is a radiographic patency test",
-    "Progesterone opens both tubes permanently",
-    "HSG assesses tubal patency; hCG is an ovulation trigger",
-    "hCG directly visualises tubal spill"
+    "`HSG` is an intramuscular gonadotropin injected 36 hours prior to IUI",
+    "`HSG` (hysterosalpingography), not `HCG`, tests tubal patency; hCG triggers ovulation",
+    "Neither tubal-patency imaging nor ovulation timing is needed before IUI",
+    "Injection `hCG` is instilled transcervically to opacify fallopian spill on X-ray"
    ],
-   "ans": 2,
-   "exp": "The handwritten abbreviation is erroneous in this sentence; distinguish HSG investigation from hCG trigger."
+   "ans": 1,
+   "exp": "Source (scan 208): the note miswrites 'HCG' where 'HSG' (hysterosalpingography) is meant for ruling out tubal blockage."
   },
   {
    "id": "ch38-u6-q9",
@@ -1575,15 +1767,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "fillup",
-   "q": "Conventional IVF's sperm-count prerequisite is written as ____ million/mL in the notes.",
+   "q": "Under `IN VITRO FERTILISATION`, the stated `Pre-requisite` is `Sperm count` : ____.",
    "opts": [
-    "5",
-    "16",
-    "39",
-    "1"
+    "16 million/mL",
+    "1 million/mL",
+    "39 million/mL",
+    "5 million/mL"
    ],
-   "ans": 0,
-   "exp": "This is the source's teaching threshold; actual technique selection depends on the complete semen assessment."
+   "ans": 3,
+   "exp": "Source (scan 208): 'IN VITRO FERTILISATION Pre-requisite : Sperm count : 5 million/mL.' (5–10 million/mL is directed to conventional IVF, <5 million/mL to ICSI in this chapter)."
   },
   {
    "id": "ch38-u6-q10",
@@ -1591,15 +1783,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "match",
-   "q": "Order the female IVF outline: A) Trigger B) Stimulate ovary C) TVS monitoring D) Oocyte retrieval.",
+   "q": "Order the female steps in the IVF `Procedure` overview on scan 208: A) Trigger ovulation B) Stimulate ovary C) Follicular monitoring in TVS (`Follicle > 17mm`) D) `2° Oocyte` picked up under US guidance.",
    "opts": [
+    "C-D-B-A",
     "B-A-D-C",
     "B-C-A-D",
-    "A-B-C-D",
-    "C-D-B-A"
+    "A-B-C-D"
    ],
-   "ans": 1,
-   "exp": "Stimulation precedes follicle monitoring and trigger, then timed oocyte collection."
+   "ans": 2,
+   "exp": "Source (scan 208): 'Females : Stimulate ovary → Follicular monitoring in TVS → Follicle > 17mm → Trigger ovulation → Ovulation occurs → Same day 2° Oocyte picked up under US guidance.'"
   },
   {
    "id": "ch38-u6-q11",
@@ -1607,15 +1799,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "fillup",
-   "q": "The simplified IVF outline uses a follicle size above ____ before triggering.",
+   "q": "In the scan 208 IVF overview flowchart, the follicle threshold written above `Trigger ovulation` is ____ (refined on scan 209 to `≥2 follicles with ≥17 mm`).",
    "opts": [
-    "30 mm",
-    "10 mm",
-    "7 mm",
-    "17 mm"
+    "Follicle >17 mm",
+    "Follicle >28 mm",
+    "Follicle >7 mm",
+    "Follicle >10 mm"
    ],
-   "ans": 3,
-   "exp": "The size criterion precedes the ovulation-trigger step."
+   "ans": 0,
+   "exp": "Source (scan 208): 'Follicular monitoring in TVS → Follicle > 17mm → Trigger ovulation.'"
   },
   {
    "id": "ch38-u6-q12",
@@ -1623,15 +1815,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "fillup",
-   "q": "The male semen sample is collected on the same day as ____.",
+   "q": "In the `Males` arm of the IVF flowchart, the semen sample is collected on ____ and then ____.",
    "opts": [
-    "The previous menstrual period",
-    "Starting a three-month contraceptive course",
-    "Oocyte pick-up",
-    "Day-3 reserve testing in every case"
+    "Three days after embryo transfer; stained with eosin",
+    "The day of oocyte pick-up; processed",
+    "The day of HSG; left unwashed",
+    "Day 2 of the female cycle; frozen in formalin"
    ],
-   "ans": 2,
-   "exp": "The male and female branches join at same-day gamete collection and processing."
+   "ans": 1,
+   "exp": "Source (scan 208): 'Males : Semen sample collected on the day of oocyte pick up → Semen processed.'"
   },
   {
    "id": "ch38-u6-q13",
@@ -1639,15 +1831,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "fillup",
-   "q": "The gamete collected for IVF is a ____ oocyte, obtained under ____ guidance.",
+   "q": "In the female IVF arm, the gamete retrieved is a ____ oocyte, picked up under ____ guidance.",
    "opts": [
-    "Polar-body; blind cervical",
-    "Primary; radiographic",
-    "Secondary; ultrasound",
-    "Primordial; hysteroscopic"
+    "Primordial; hysteroscopic",
+    "Secondary (`2°`); ultrasound (`US`)",
+    "Oogonial; blind tactile",
+    "Primary (`1°`); fluoroscopic X-ray"
    ],
-   "ans": 2,
-   "exp": "The source states secondary oocyte and ultrasound-guided retrieval."
+   "ans": 1,
+   "exp": "Source (scan 208): '2° Oocyte picked up under US guidance.'"
   },
   {
    "id": "ch38-u6-q14",
@@ -1655,15 +1847,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "scenario",
-   "q": "How does conventional IVF achieve fertilisation in the outline?",
+   "q": "[Scenario] After `2° Oocyte` pick-up and `Semen processed` join in the IVF flowchart, what happens next to achieve fertilisation?",
    "opts": [
-    "Sperm are placed only in the cervix",
-    "A single sperm is injected into every oocyte by definition",
-    "Processed sperm and oocyte are incubated together outside the body",
-    "Fertilisation occurs only after embryo transfer"
+    "A single immobilized sperm is microinjected into cytoplasm",
+    "Unwashed semen is instilled into the fallopian ampulla",
+    "Gametes are transferred immediately into the cervix",
+    "They are incubated together → fertilisation occurs in vitro"
    ],
-   "ans": 2,
-   "exp": "Conventional IVF co-incubates gametes; direct cytoplasmic injection is ICSI."
+   "ans": 3,
+   "exp": "Source (scan 208): joined arrow reads 'Incubated together → Fertilization → Embryo transfer on day 3 or 5.'"
   },
   {
    "id": "ch38-u6-q15",
@@ -1671,15 +1863,15 @@
    "unit": "IUI indications, ART grouping and IVF outline",
    "page": 208,
    "fmt": "fillup",
-   "q": "The embryo-transfer days named in the IVF overview are ____.",
+   "q": "The final line of the scan 208 IVF overview states `Embryo transfer on` ____.",
    "opts": [
-    "Day 3 or day 5",
-    "Day 7 or day 10",
-    "Day 14 or day 21",
-    "Day 1 or day 2 only"
+    "Day 14 or 21",
+    "Day 1 or 2",
+    "Day 3 or 5",
+    "Day 7 or 10"
    ],
-   "ans": 0,
-   "exp": "The detailed following page labels cleavage stage and blastocyst stage."
+   "ans": 2,
+   "exp": "Source (scan 208): 'Embryo transfer on day 3 or 5'."
   },
   {
    "id": "ch38-u7-q1",
@@ -1687,15 +1879,31 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "Controlled ovarian hyperstimulation is used to obtain multiple ____ for IVF.",
+   "q": "Scan 209 begins under `Female ovarian stimulation` → `Controlled ovarian hyperstimulation`, where hyperstimulation yields multiple ____.",
    "opts": [
-    "Seminal vesicles",
-    "Secondary oocytes",
-    "Cervical mucus crypts",
-    "Endometrial polyps"
+    "Primary (`1°`) oocytes",
+    "Primordial follicles",
+    "Polar bodies",
+    "Secondary (`2°`) oocytes"
    ],
-   "ans": 1,
-   "exp": "The notes link multiple oocytes to embryo availability; embryo number transferred must be individualised to avoid multiple pregnancy."
+   "ans": 3,
+   "exp": "Source (scan 209 / printed 201): 'Hyperstimulation → multiple 2° oocytes → 2–3 embryo implantation.'"
+  },
+  {
+   "id": "ch38-u7-q1a",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "scenario",
+   "q": "Source-check: the opening sub-bullets under `Controlled ovarian hyperstimulation` write `Success rate of IVF : 20–30%` and `multiple 2° oocytes → 2–3 embryo implantation`. What clinical caution applies to transferring 2–3 embryos?",
+   "opts": [
+    "Multi-embryo transfer raises twin/preterm risks; guidelines favour single-embryo transfer",
+    "Transferring three embryos eliminates dizygotic twin and triplet gestations",
+    "Routine transfer of ≥4 embryos is mandatory across all IVF age groups",
+    "Embryo transfer number has no influence on maternal or neonatal morbidity"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 209): records the exact printed '2–3 embryo implantation' shorthand while separating it from modern single-embryo transfer safety standards."
   },
   {
    "id": "ch38-u7-q2",
@@ -1703,15 +1911,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "The stimulation drugs named are ____ with a ____ protocol.",
+   "q": "Under `Female ovarian stimulation`, `Drug used` is written as ____.",
    "opts": [
-    "AMH; hCG-only daily suppression",
-    "Progesterone; TSH",
-    "Sildenafil; estrogen-only",
-    "HMG; GnRH analogue"
+    "Clomiphene citrate alone",
+    "HMG / GnRH analogue",
+    "Pulsatile oxytocin",
+    "Oral micronised progesterone"
    ],
-   "ans": 3,
-   "exp": "HMG/GnRH analogue is the source's stimulation regimen shorthand, not a single universal modern protocol."
+   "ans": 1,
+   "exp": "Source (scan 209): '• Drug used : HMG/GnRH analogue.'"
   },
   {
    "id": "ch38-u7-q3",
@@ -1719,15 +1927,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "match",
-   "q": "Match IVF monitoring: 1) TVS 2) Blood test with A) Serum estradiol B) Follicle number and size.",
+   "q": "Match the two `Monitoring` modalities during IVF ovarian stimulation: 1) `Follicles (on TVS)` 2) Biochemical blood monitoring — A) Serum estradiol levels B) Numbers and size.",
    "opts": [
+    "Both B",
     "1-A, 2-B",
-    "1-B, 2-A",
     "Both A",
-    "Both B"
+    "1-B, 2-A"
    ],
-   "ans": 1,
-   "exp": "Monitoring combines structural follicular assessment with estradiol response."
+   "ans": 3,
+   "exp": "Source (scan 209): 'Monitoring : • Follicles (on TVS) : Numbers, size. • Serum estradiol levels.'"
   },
   {
    "id": "ch38-u7-q4",
@@ -1735,15 +1943,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "The detailed trigger criterion is at least ____ follicles measuring at least ____.",
+   "q": "Under `Ovulation trigger`, triggering is done when there are ____ follicles measuring ____.",
    "opts": [
-    "5; 9 mm",
-    "2; 17 mm",
-    "10; 30 mm",
-    "1; 7 mm"
+    "≥1; ≥10 mm",
+    "≥2; ≥17 mm",
+    "≥5; ≥9 mm",
+    "≥10; ≥28 mm"
    ],
    "ans": 1,
-   "exp": "The detailed page adds follicle number to the 17-mm size threshold."
+   "exp": "Source (scan 209): 'Ovulation trigger : • Done when ≥ 2 follicles with ≥ 17mm.'"
   },
   {
    "id": "ch38-u7-q5",
@@ -1751,15 +1959,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "The trigger drug named is ____ and the notes give ovulation approximately ____ later.",
+   "q": "For the IVF ovulation trigger, `Drug used` is ____, and the right-hand bullet notes `Ovulation occurs ____ after Inj. hCG`.",
    "opts": [
-    "Progesterone; 14 days",
-    "hCG; 32–36 hours",
-    "AMH; 6 hours",
-    "FSH; 7 days"
+    "Inj. hCG; 32–36 hours",
+    "Inj. FSH; 7 days",
+    "Inj. Progesterone; 24 hours",
+    "Inj. AMH; 6–8 hours"
    ],
-   "ans": 1,
-   "exp": "This is the source's timing; clinical retrieval is deliberately timed before spontaneous follicular rupture."
+   "ans": 0,
+   "exp": "Source (scan 209): '• Drug used : Inj. hCG.' and '• Ovulation occurs 32–36 hrs after Inj. hCG.'"
   },
   {
    "id": "ch38-u7-q6",
@@ -1767,15 +1975,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "scenario",
-   "q": "The outline seems to place retrieval after 'ovulation occurs'. What clarification prevents losing the oocyte?",
+   "q": "Source-check: scan 208 wrote `Ovulation occurs → Same day 2° Oocyte picked up` and scan 209 notes `Ovulation occurs 32–36 hrs after Inj. hCG`. How is oocyte retrieval actually timed clinically?",
    "opts": [
-    "Retrieval requires a menstrual bleed first",
-    "Retrieval must wait until the oocyte is in the uterus",
-    "Retrieval is scheduled after trigger but before spontaneous follicular rupture",
-    "Retrieval is performed only after implantation"
+    "Performed prior to giving the hCG trigger",
+    "Performed 48 hours after spontaneous follicular rupture into the peritoneal cavity",
+    "Scheduled ~34–36 hours after hCG trigger, just BEFORE spontaneous follicular rupture disperses the oocytes",
+    "Delayed until oocytes reach the uterine cavity on day 5"
    ],
    "ans": 2,
-   "exp": "The source's simplified arrows must not be interpreted as waiting for completed spontaneous ovulation."
+   "exp": "Source (scans 208–209): clarifies the compressed note wording—retrieval captures mature 2° oocytes from intact preovulatory follicles right before rupture would occur."
   },
   {
    "id": "ch38-u7-q7",
@@ -1783,15 +1991,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "Oocyte retrieval is described as ultrasound-guided, in the ____ under ____.",
+   "q": "`Oocyte retrieval` is done under ____ guidance in the ____, under ____.",
    "opts": [
-    "Clinic waiting room; no sterile precautions",
-    "Radiology corridor; formalin fixation",
-    "Histology lab; local staining",
-    "Operating theatre; anaesthesia"
+    "Laparotomic; labour room; spinal block obligatorily",
+    "Hysteroscopic; ward procedure room; paracervical spray only",
+    "Fluoroscopic; outpatient X-ray room; no analgesia",
+    "Ultrasound (`US`); operating theatre (`OT`); anaesthesia"
    ],
    "ans": 3,
-   "exp": "The procedural line explicitly specifies OT and anaesthesia."
+   "exp": "Source (scan 209): 'Oocyte retrieval : Done under US guidance in OT, under anaesthesia.'"
   },
   {
    "id": "ch38-u7-q8",
@@ -1799,15 +2007,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "Fertilisation is planned on the ____ day as oocyte retrieval.",
+   "q": "`Fertilisation` in IVF is performed on ____ as oocyte retrieval.",
    "opts": [
-    "Fourteenth",
-    "Same",
-    "Seventh",
-    "Twenty-first"
+    "The fifth day",
+    "The seventh day",
+    "The same day",
+    "The third day"
    ],
-   "ans": 1,
-   "exp": "The detailed IVF page states same-day fertilisation."
+   "ans": 2,
+   "exp": "Source (scan 209): 'Fertilisation : On the same day as retrieval.'"
   },
   {
    "id": "ch38-u7-q9",
@@ -1815,15 +2023,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "The culture medium is described as rich in ____, with ____ sperm per oocyte in conventional IVF.",
+   "q": "Under `Culture media : Semen + oocyte added`, the medium is rich in ____, and ____ sperms per oocyte are added.",
    "opts": [
-    "Progesterone; 1–2 million",
-    "Fructose; one",
-    "Formalin; 5–10",
-    "Pyruvate; 50,000–100,000"
+    "Fructose; 1",
+    "Pyruvate; 50,000–100,000 (`1,00,000`)",
+    "Glucose; 500–1,000",
+    "Galactose; 10–15 million"
    ],
-   "ans": 3,
-   "exp": "Conventional co-incubation uses many sperm per oocyte, unlike ICSI's one-sperm injection."
+   "ans": 1,
+   "exp": "Source (scan 209): 'Culture media : Semen + oocyte added. • Rich in pyruvate. • 50,000 – 1,00,000 sperms per oocyte.'"
   },
   {
    "id": "ch38-u7-q10",
@@ -1831,15 +2039,15 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "fillup",
-   "q": "Conventional IVF fertilisation takes place in an ____ using a ____.",
+   "q": "On the right of `Culture media`, conventional IVF fertilisation occurs in an ____, in a ____.",
    "opts": [
+    "Cryotank; liquid nitrogen straw",
+    "Fallopian ampulla; Cook catheter",
     "Incubator; Petri dish",
-    "Cervix; postcoital slide",
-    "Uterus; ring applicator",
-    "Ovary; follicular cannula"
+    "Uterine cavity; Silastic ring"
    ],
-   "ans": 0,
-   "exp": "The laboratory setting distinguishes in-vitro fertilisation from intrauterine insemination."
+   "ans": 2,
+   "exp": "Source (scan 209): '• Fertilisation occurs in incubator, in petri dish.'"
   },
   {
    "id": "ch38-u7-q11",
@@ -1847,327 +2055,7 @@
    "unit": "IVF stimulation, laboratory stages and indications",
    "page": 209,
    "fmt": "match",
-   "q": "Match transfer stages: 1) Day 3 2) Day 5 with A) Blastocyst B) Cleavage-stage embryo.",
-   "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both A",
-    "Both B"
-   ],
-   "ans": 0,
-   "exp": "The source labels day-5 blastocyst transfer better, though stage choice is patient/laboratory dependent."
-  },
-  {
-   "id": "ch38-u7-q12",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "fillup",
-   "q": "The embryo-transfer target is ____ below the uterine fundus, using a ____ catheter.",
-   "opts": [
-    "5 cm; Leech Wilkinson",
-    "2 cm; Cook",
-    "2 mm; Rubin",
-    "1 cm; Prader"
-   ],
-   "ans": 1,
-   "exp": "Both position and instrument are named under embryo transfer."
-  },
-  {
-   "id": "ch38-u7-q13",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "scenario",
-   "q": "Why is progesterone administered before embryo transfer in the notes?",
-   "opts": [
-    "To prepare endometrium for implantation",
-    "To remove zona pellucida mechanically",
-    "To reopen a blocked vas",
-    "To create sperm motility"
-   ],
-   "ans": 0,
-   "exp": "Progesterone provides secretory/luteal endometrial support."
-  },
-  {
-   "id": "ch38-u7-q14",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "fillup",
-   "q": "Preimplantation genetic testing is listed on embryos at day ____ or day ____.",
-   "opts": [
-    "1; 2",
-    "7; 14",
-    "3; 5",
-    "14; 21"
-   ],
-   "ans": 2,
-   "exp": "The diagram proceeds to implantation if no abnormality is identified; contemporary biopsy practice commonly uses blastocysts."
-  },
-  {
-   "id": "ch38-u7-q15",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "fillup",
-   "q": "The cryopreservation line specifically names the ____ oocyte.",
-   "opts": [
-    "Secondary",
-    "Primary follicular epithelial",
-    "Primordial germ-cell",
-    "Unfertilised polar-body"
-   ],
-   "ans": 0,
-   "exp": "Secondary oocytes can be cryopreserved; this is the gamete named in the source."
-  },
-  {
-   "id": "ch38-u7-q16",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "fillup",
-   "q": "The source reports an IVF success rate of ____.",
-   "opts": [
-    "20–30%",
-    "50–70% universally",
-    "99%",
-    "1–2%"
-   ],
-   "ans": 0,
-   "exp": "This is the source's reported figure, not a personal prognosis; age and treatment factors change outcomes substantially."
-  },
-  {
-   "id": "ch38-u7-q17",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "scenario",
-   "q": "The source says multiple embryo transfer increases success. Which caution belongs with that statement?",
-   "opts": [
-    "Multiple transfer increases multiple-gestation risk, so it is not automatically preferable",
-    "More embryos guarantee one healthy singleton",
-    "Embryo number does not affect multiple pregnancy",
-    "Multiple transfer eliminates all pregnancy complications"
-   ],
-   "ans": 0,
-   "exp": "Preserve the historical source line while avoiding a blanket recommendation for multiple transfer."
-  },
-  {
-   "id": "ch38-u7-q18",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "match",
-   "q": "Match IVF settings: 1) POI 2) Mullerian agenesis with A) Donor eggs B) Gestational surrogacy where lawful.",
-   "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both A",
-    "Both B"
-   ],
-   "ans": 1,
-   "exp": "Donor oocytes address follicular failure; gestational surrogacy addresses absence of a functional uterus, subject to legal eligibility."
-  },
-  {
-   "id": "ch38-u7-q19",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "odd",
-   "q": "Which is NOT a conventional-IVF indication in the listed group?",
-   "opts": [
-    "Tubal infertility",
-    "Oligospermia 5–10 million/mL",
-    "Severe oligospermia below 5 million/mL",
-    "Severe endometriosis"
-   ],
-   "ans": 2,
-   "exp": "Severe oligospermia, azoospermia and marked asthenospermia are directed toward ICSI rather than conventional IVF in these notes."
-  },
-  {
-   "id": "ch38-u7-q20",
-   "sec": "IVF stimulation, laboratory stages and indications",
-   "unit": "IVF stimulation, laboratory stages and indications",
-   "page": 209,
-   "fmt": "fillup",
-   "q": "The listed indication that allows genetic assessment before transfer is ____.",
-   "opts": [
-    "Prader orchidometry",
-    "Rubin insufflation",
-    "Preimplantation genetic testing",
-    "Huhner testing"
-   ],
-   "ans": 2,
-   "exp": "Preimplantation testing is itself among the IVF indications at the bottom of the page."
-  },
-  {
-   "id": "ch38-u8-q1",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "fillup",
-   "q": "ICSI introduces ____ directly into the ____ of each oocyte.",
-   "opts": [
-    "50,000 sperm; perivitelline culture dish",
-    "One embryo; cervical mucus",
-    "One spermatid; uterine myometrium",
-    "One sperm; cytoplasm"
-   ],
-   "ans": 3,
-   "exp": "Intracytoplasmic injection uses one selected sperm per oocyte; collection is otherwise described as similar to IVF."
-  },
-  {
-   "id": "ch38-u8-q2",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "odd",
-   "q": "Which is outside the page's ICSI indication trio?",
-   "opts": [
-    "Severe oligospermia <5 million/mL",
-    "Mild oligospermia at 12 million/mL with adequate motility",
-    "Azoospermia with retrievable sperm",
-    "Asthenospermia with motility <5%"
-   ],
-   "ans": 1,
-   "exp": "The source reserves ICSI for severe count or movement problems and azoospermia with usable sperm."
-  },
-  {
-   "id": "ch38-u8-q3",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "fillup",
-   "q": "The severe motility threshold listed for ICSI is ____.",
-   "opts": [
-    "<5%",
-    "<30%",
-    "<42%",
-    "<54%"
-   ],
-   "ans": 0,
-   "exp": "The threshold in the ICSI block is much lower than the reference total-motility value."
-  },
-  {
-   "id": "ch38-u8-q4",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "scenario",
-   "q": "Testicular azoospermia has high FSH/LH and low testosterone. Why perform testicular biopsy in the source pathway?",
-   "opts": [
-    "To confirm that normal serum FSH excludes a production defect",
-    "To find retrievable testicular sperm for possible ICSI",
-    "To establish distal duct obstruction from tissue fructose levels",
-    "To replace all endocrine and genetic assessment with morphology alone"
-   ],
-   "ans": 1,
-   "exp": "If sperm are found, the diagram proceeds to surgical extraction and ICSI; diagnostic and retrieval planning require specialist judgement."
-  },
-  {
-   "id": "ch38-u8-q5",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "match",
-   "q": "Match 1) TESA 2) TESE with A) Testicular sperm extraction B) Testicular sperm aspiration.",
-   "opts": [
-    "Both A",
-    "Both B",
-    "1-A, 2-B",
-    "1-B, 2-A"
-   ],
-   "ans": 3,
-   "exp": "Aspiration and extraction distinguish the two testicular retrieval abbreviations."
-  },
-  {
-   "id": "ch38-u8-q6",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "match",
-   "q": "Match 1) PESA 2) MESA with A) Microsurgical epididymal sperm aspiration B) Percutaneous epididymal sperm aspiration.",
-   "opts": [
-    "Both B",
-    "1-B, 2-A",
-    "Both A",
-    "1-A, 2-B"
-   ],
-   "ans": 1,
-   "exp": "Both are epididymal, but percutaneous and microsurgical approaches differ."
-  },
-  {
-   "id": "ch38-u8-q7",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "scenario",
-   "q": "Use the source management table: concentration is 12 million/mL, tubes are patent and other criteria fit. Which method is selected?",
-   "opts": [
-    "ICSI as the only option",
-    "Conventional IVF as the only option",
-    "Sildenafil solely for the sperm count",
-    "IUI"
-   ],
-   "ans": 3,
-   "exp": "The table uses 10–15 million/mL for IUI; the earlier indication page uses 10–16."
-  },
-  {
-   "id": "ch38-u8-q8",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "scenario",
-   "q": "Use the same management table: sperm concentration is 7 million/mL. Which method is listed?",
-   "opts": [
-    "HRT",
-    "IUI",
-    "Vasectomy reversal irrespective of anatomy",
-    "IVF"
-   ],
-   "ans": 3,
-   "exp": "Five to ten million/mL is the IVF row in this simplified treatment table."
-  },
-  {
-   "id": "ch38-u8-q9",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "scenario",
-   "q": "Use the management table: sperm concentration is 3 million/mL. Which method is listed?",
-   "opts": [
-    "Hysteroscopic cannulation",
-    "ICSI",
-    "IUI",
-    "Clomiphene alone in the female partner"
-   ],
-   "ans": 1,
-   "exp": "Less than five million/mL is directed to ICSI in the source."
-  },
-  {
-   "id": "ch38-u8-q10",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "fillup",
-   "q": "Non-obstructive azoospermia is managed in the table with ____ followed by ____, if sperm are obtainable.",
-   "opts": [
-    "Vasectomy; conventional insemination",
-    "Urine collection alone; HSG",
-    "Huhner testing; IUI regardless of sperm presence",
-    "Surgical sperm extraction; ICSI"
-   ],
-   "ans": 3,
-   "exp": "Successful surgical retrieval provides sperm for ICSI; retrieval is not guaranteed."
-  },
-  {
-   "id": "ch38-u8-q11",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "match",
-   "q": "Match 1) Erectile dysfunction 2) Premature ejaculation with A) SSRI B) Sildenafil.",
+   "q": "Match `Embryo transfer` days with their developmental stages: 1) Day 3 2) Day 5 — A) Blastocyst stage B) Cleavage stage.",
    "opts": [
     "Both B",
     "1-B, 2-A",
@@ -2175,127 +2063,303 @@
     "Both A"
    ],
    "ans": 1,
-   "exp": "The table separates erection treatment from ejaculatory-delay treatment."
+   "exp": "Source (scan 209): 'Embryo transfer : • On → Day 3 : Cleavage stage ; Day 5 : Blastocyst stage (Better).'"
   },
   {
-   "id": "ch38-u8-q12",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "scenario",
-   "q": "Hypospadias prevents effective semen delivery despite usable sperm. Which treatment is shown?",
+   "id": "ch38-u7-q11a",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "Between day-3 cleavage-stage and day-5 blastocyst-stage transfer, scan 209 explicitly labels ____ as `(Better)`.",
    "opts": [
-    "HRT",
-    "Salpingectomy",
-    "AMH replacement",
-    "IUI"
+    "Day 3 : Cleavage stage",
+    "Day 1 : Pronuclear zygote stage",
+    "Day 2 : Two-cell stage",
+    "Day 5 : Blastocyst stage"
    ],
    "ans": 3,
-   "exp": "IUI bypasses the delivery problem when the partner's tubes and other prerequisites are suitable."
+   "exp": "Source (scan 209): 'Day 5 : Blastocyst stage (Better).'"
   },
   {
-   "id": "ch38-u8-q13",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
+   "id": "ch38-u7-q12",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
    "fmt": "fillup",
-   "q": "In retrograde ejaculation, the table retrieves sperm from ____ for ____.",
+   "q": "For `Embryo transfer`, the target `Site` is ____ below the uterine fundus, and the `Instrument` is ____.",
    "opts": [
-    "Urine; IUI",
-    "Endometrium; ICSI",
-    "Cervical mucus; IVF",
-    "Seminal-vesicle tissue; HSG"
+    "At the internal os; Karman cannula",
+    "2 mm; Rubin's cannula",
+    "5 cm; Leech Wilkinson cannula",
+    "2 cm; Cook's catheter"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 209): '• Site : 2 cm below uterine fundus. • Instrument : Cooks catheter.'"
+  },
+  {
+   "id": "ch38-u7-q13",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "Which hormone is `given prior to embryo transfer`, and what is its stated role?",
+   "opts": [
+    "Inhibin B; suppresses myometrial prolactin",
+    "Progesterone; prepares endometrium for implantation",
+    "hCG alone; induces cervical mucus ferning",
+    "Clomiphene citrate; thins endometrium to <2 mm"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 209): '• Progesterone given prior to embryo transfer → prepares endometrium for implantation.'"
+  },
+  {
+   "id": "ch38-u7-q14",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "`Pre-implant genetic testing` is done on a ____ embryo, and if `No abnormality` is found, the embryo is ____.",
+   "opts": [
+    "Polar-body-only; discarded",
+    "Day 14 post-transfer; biopsied transcervically",
+    "Day 3 / day 5; implanted",
+    "Day 0 unfertilised; cryopreserved only"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 209): 'Pre-implant genetic testing : Done on day 3/day 5 embryo. → No abnormality → Implanted'. (Clarification: clinically, trophectoderm biopsy at the day-5/6 blastocyst stage is now preferred over day-3 cleavage biopsy, and 'implanted' here means transferred into the uterus.)"
+  },
+  {
+   "id": "ch38-u7-q15",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "The `Cryopreservation` line states that it can be done for the ____ oocyte.",
+   "opts": [
+    "Primary prophase-I",
+    "Primordial",
+    "Germinal-vesicle oogonial",
+    "Secondary"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 209): 'Cryopreservation : Can be done for secondary oocyte.'"
+  },
+  {
+   "id": "ch38-u7-q16",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "The standalone `Success rate` line repeats ____, adding that it is `↑ed by` ____.",
+   "opts": [
+    "20–30%; multiple embryo transfer",
+    "1–2%; cervical dilatation",
+    "80–90%; single unstimulated retrieval",
+    "99%; skipping luteal progesterone"
    ],
    "ans": 0,
-   "exp": "Sperm recovery from postejaculatory urine can permit assisted insemination after appropriate preparation."
+   "exp": "Source (scan 209): 'Success rate : 20–30% → ↑ed by multiple embryo transfer.'"
   },
   {
-   "id": "ch38-u8-q14",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "fillup",
-   "q": "The two supravital stains named for distinguishing live and dead sperm are ____.",
+   "id": "ch38-u7-q17",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "scenario",
+   "q": "[Scenario] While scan 209 notes `Success rate : 20–30% → ↑ed by multiple embryo transfer`, why is routine multiple-embryo transfer restricted in clinical practice?",
    "opts": [
-    "Eosin and trypan blue",
-    "Lugol iodine and acetic acid",
-    "Haematoxylin and periodic acid–Schiff",
-    "Methylene blue and indigo carmine"
+    "Multiple transferred embryos neutralise each other's trophoblastic hCG output",
+    "Transferring >1 blastocyst causes acute bilateral tubal hydrosalpinx",
+    "Elective single-embryo transfer has a 0% clinical implantation rate",
+    "Multifetal pregnancy raises maternal-perinatal risk, so transfer count is individualised"
    ],
-   "ans": 0,
-   "exp": "Eosin/trypan blue staining assesses membrane integrity, unlike the dyes used for tubal assessment."
+   "ans": 3,
+   "exp": "Source (scan 209): distinguishes the source's raw implantation-rate observation from safe clinical transfer policy."
   },
   {
-   "id": "ch38-u8-q15",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
+   "id": "ch38-u7-q18",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
    "fmt": "match",
-   "q": "Match supravital-stain result: 1) Stained 2) Unstained with A) Live B) Dead.",
+   "q": "Match specific IVF `Indications` at the bottom of scan 209: 1) Premature ovarian insufficiency 2) Mullerian agenesis — A) IVF with donor eggs B) IVF with surrogacy.",
    "opts": [
     "1-B, 2-A",
-    "Both B",
     "Both A",
-    "1-A, 2-B"
+    "1-A, 2-B",
+    "Both B"
    ],
-   "ans": 0,
-   "exp": "Dead sperm take up the stain because membrane integrity is lost."
+   "ans": 2,
+   "exp": "Source (scan 209): '• IVF with donor eggs in premature ovarian insufficiency. • IVF with surrogacy in mullerian agenesis.' (Gestational surrogacy is subject to statutory legal criteria.)"
   },
   {
-   "id": "ch38-u8-q16",
+   "id": "ch38-u7-q18a",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "Alongside donor-egg POI, surrogacy in Mullerian agenesis, and pre-implantation genetic testing, the other three conventional-IVF `Indications` listed on scan 209 are ____, ____ and ____.",
+   "opts": [
+    "Cervical stenosis; hypospadias; premature ejaculation",
+    "Oligospermia (10–16 million/mL); mild endometriosis; vaginismus",
+    "Oligospermia (5–10 million/mL); tubal cause of infertility; severe endometriosis",
+    "Severe oligospermia (<5 million/mL); azoospermia; asthenospermia"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 209): completes the six-bullet IVF Indications list ('Oligospermia : 5–10 million/mL', 'Tubal cause of infertility', 'Severe endometriosis')."
+  },
+  {
+   "id": "ch38-u7-q19",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "odd",
+   "q": "Which condition sits under `Not used in` rather than `Indications` for conventional IVF on scan 209?",
+   "opts": [
+    "Severe endometriosis",
+    "Oligospermia 5–10 million/mL",
+    "Severe oligospermia",
+    "Tubal cause of infertility"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 209): 'Not used in : • Severe oligospermia. • Azoospermia. • Asthenopermia.'"
+  },
+  {
+   "id": "ch38-u7-q20",
+   "sec": "IVF stimulation, laboratory stages and indications",
+   "unit": "IVF stimulation, laboratory stages and indications",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "Including the sixth indication bullet (`Pre-implantation genetic testing`), conventional IVF is explicitly `Not used in` which three male-factor conditions on scan 209?",
+   "opts": [
+    "Tubal block, severe endometriosis, and Mullerian agenesis",
+    "Premature ejaculation, varicocele with normal count, and discordant HIV",
+    "Mild oligospermia (12 million/mL), hypospadias, and erectile dysfunction",
+    "Severe oligospermia, azoospermia, and asthenospermia"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 209): directly tests all three bullets under 'Not used in' (which instead move to ICSI on scan 210)."
+  },
+  {
+   "id": "ch38-u8-q0a",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "tf",
+   "q": "Evaluate the `Procedure` bullets under `INTRACYTOPLASMIC SPERM INJECTION` (ICSI): I) Collection of the `2° oocyte` and semen is the same as in IVF. II) Multiple sperms (50,000–100,000) are injected into the cytoplasm of each oocyte.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210 / printed 202): 'Procedure : • Collection of 2° oocyte & semen same as IVF. • Single sperm injected into cytoplasm of oocyte → 1 sperm/oocyte.'"
+  },
+  {
+   "id": "ch38-u8-q1",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "In ICSI, a ____ is injected directly into the ____ of the oocyte (`1 sperm/oocyte`).",
+   "opts": [
+    "Washed sperm suspension; perivitelline dish",
+    "Round leukocyte; zona pellucida",
+    "Single sperm; cytoplasm",
+    "Cleavage embryo; uterine cavity"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 210): '• Single sperm injected into cytoplasm of oocyte → 1 sperm/oocyte.'"
+  },
+  {
+   "id": "ch38-u8-q2a",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "The three `Indications` listed for ICSI at the top right of scan 210 are ____, ____ and ____.",
+   "opts": [
+    "Oligospermia (5–10 million/mL); bilateral tubal block; Mullerian agenesis",
+    "Oligospermia (10–16 million/mL); mild endometriosis; unexplained infertility",
+    "Erectile dysfunction; premature ejaculation; hypospadias",
+    "Severe oligospermia (<5 million/mL); azoospermia; asthenospermia (motility <5%)"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 210): 'Indications : • Severe oligospermia : < 5 million/ml. • Azoospermia. • Asthenopermia : motility < 5%.'"
+  },
+  {
+   "id": "ch38-u8-q2",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "odd",
+   "q": "Which is outside the three-item ICSI `Indications` list on scan 210?",
+   "opts": [
+    "Severe oligospermia (<5 million/mL)",
+    "Oligospermia at 12 million/mL with normal motility",
+    "Azoospermia",
+    "Asthenospermia with motility <5%"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 210): 10–15 (or 10–16) million/mL with adequate parameters is managed with IUI, not ICSI."
+  },
+  {
+   "id": "ch38-u8-q3",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "Under ICSI `Indications`, the motility cut-off written beside `Asthenopermia` [asthenospermia] is ____.",
+   "opts": [
+    "<30%",
+    "<54%",
+    "<42%",
+    "<5%"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 210): '• Asthenopermia : motility < 5%.'"
+  },
+  {
+   "id": "ch38-u8-q4a",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "In the `Testicular azoospermia` pathway on scan 210, the hormone profile written at the start of the arrow is ____, ____ and ____.",
+   "opts": [
+    "Normal FSH; Normal LH; Normal Testosterone",
+    "↓ FSH; ↑ LH; ↑ Testosterone",
+    "↓ FSH; ↓ LH; ↓ Testosterone",
+    "↑ FSH; ↑ LH; ↓ Testosterone"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 210): 'Testicular azoospermia : ↑FSH, ↑LH, Testosterone↓ → Testicular biopsy'."
+  },
+  {
+   "id": "ch38-u8-q4",
    "sec": "ICSI, sperm retrieval, treatment table and viability tests",
    "unit": "ICSI, sperm retrieval, treatment table and viability tests",
    "page": 210,
    "fmt": "scenario",
-   "q": "An immobile sperm swells in a hypotonic osmotic test. What does that indicate?",
+   "q": "[Scenario] In `Testicular azoospermia` (`↑FSH, ↑LH, Testosterone↓`), why is `Testicular biopsy` performed, and what follows if `Sperm+`?",
    "opts": [
-    "It has no membrane",
-    "It is definitely dead",
-    "It is live despite immobility",
-    "It is an epithelial cell by definition"
+    "To identify presence of sperms in the testis; if sperm+, they are surgically extracted for ICSI",
+    "To diagnose Kallmann syndrome; if sperm+, start sildenafil alone",
+    "To measure seminal fructose in Leydig tissue; if positive, proceed to IUI",
+    "To recanalise the ejaculatory duct; if patent, use timed intercourse"
    ],
-   "ans": 2,
-   "exp": "Swelling indicates membrane responsiveness and viability; absence of movement is not proof of death."
+   "ans": 0,
+   "exp": "Source (scan 210): 'Testicular biopsy : To identify presence of sperms in testis → Sperm+ → Surgically extracted → ICSI'."
   },
   {
-   "id": "ch38-u8-q17",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "fillup",
-   "q": "In the hypotonic swelling test, no swelling is associated in the source with ____ sperm.",
-   "opts": [
-    "Normally fertilising",
-    "Dead",
-    "Live and motile",
-    "Live but immobile in every case"
-   ],
-   "ans": 1,
-   "exp": "The page contrasts no swelling/dead with swelling/live immobile sperm."
-  },
-  {
-   "id": "ch38-u8-q18",
-   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
-   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
-   "page": 210,
-   "fmt": "fillup",
-   "q": "The myeloperoxidase assay for round cells in semen is also called the ____ test.",
-   "opts": [
-    "Spinnbarkeit",
-    "Huhner",
-    "Endtz",
-    "Rubin"
-   ],
-   "ans": 2,
-   "exp": "Endtz helps identify peroxidase-positive leukocytes among round cells."
-  },
-  {
-   "id": "ch38-u8-q19",
+   "id": "ch38-u8-q5",
    "sec": "ICSI, sperm retrieval, treatment table and viability tests",
    "unit": "ICSI, sperm retrieval, treatment table and viability tests",
    "page": 210,
    "fmt": "match",
-   "q": "Match source Endtz interpretation: 1) Positive 2) Negative with A) Round sperm/germ-cell interpretation B) WBC.",
+   "q": "Match testicular retrieval abbreviations under `Surgical methods to retrieve sperms`: 1) `TESA` 2) `TESE` — A) Testicular Sperm Extraction B) Testicular Sperm Aspiration.",
    "opts": [
     "1-A, 2-B",
     "Both A",
@@ -2303,7 +2367,263 @@
     "Both B"
    ],
    "ans": 2,
-   "exp": "Positive supports leukocytes. The source calls negative cells round sperm without an acrosomal cap; peroxidase negativity alone is not a definitive cell diagnosis."
+   "exp": "Source (scan 210): 'TESA : Testicular Sperm Aspiration. TESE : Testicular Sperm Extraction.'"
+  },
+  {
+   "id": "ch38-u8-q6",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "match",
+   "q": "Match epididymal retrieval abbreviations under `Surgical methods to retrieve sperms`: 1) `PESA` 2) `MESA` — A) Microsurgical Epididymal Sperm Aspiration B) Percutaneous Epididymal Sperm Aspiration.",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both B",
+    "Both A"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): 'PESA : Percutaneous Epididymal Sperm Aspiration. MESA : Microsurgical Epididymal Sperm Aspiration.'"
+  },
+  {
+   "id": "ch38-u8-q7",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "scenario",
+   "q": "[Scenario] Using the `Mx OF SPECIFIC CAUSES OF MALE INFERTILITY` table on scan 210, a man has oligospermia of 12 million/mL. Which treatment row applies?",
+   "opts": [
+    "IUI (`10–15 million/mL`)",
+    "Surgical sperm extraction → ICSI",
+    "ICSI (`<5 million/mL`)",
+    "IVF (`5–10 million/mL`)"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): row 1 under Oligospermia prints '10–15 million/mL → IUI' (note the slight variation from '10–16 million/mL' on scan 208)."
+  },
+  {
+   "id": "ch38-u8-q8",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "scenario",
+   "q": "[Scenario] Using the same management table, sperm concentration is 7 million/mL. Which treatment is listed?",
+   "opts": [
+    "IVF (`5–10 million/mL`)",
+    "IUI (`10–15 million/mL`)",
+    "ICSI (`<5 million/mL`)",
+    "SSRI"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): row 2 under Oligospermia prints '5–10 million/mL → IVF'."
+  },
+  {
+   "id": "ch38-u8-q9",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "scenario",
+   "q": "[Scenario] Using the management table, sperm concentration is 3 million/mL. Which treatment is listed?",
+   "opts": [
+    "Sildenafil",
+    "IVF (`5–10 million/mL`)",
+    "ICSI (`<5 million/mL`)",
+    "IUI (`10–15 million/mL`)"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 210): row 3 under Oligospermia prints '< 5 million/mL → ICSI'."
+  },
+  {
+   "id": "ch38-u8-q9a",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "match",
+   "q": "Match the exact `Oligospermia` concentration brackets in the scan 210 management table: 1) `10–15 million/mL` 2) `5–10 million/mL` 3) `<5 million/mL` — A) IVF B) ICSI C) IUI.",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 210): directly tests all three exact numeric brackets in the Oligospermia sub-rows."
+  },
+  {
+   "id": "ch38-u8-q10",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "In row 4 of the management table, `Non obstructive azoospermia` is treated with ____ followed by ____.",
+   "opts": [
+    "Sildenafil; timed intercourse",
+    "Post-ejaculatory urine alkalinisation; IUI",
+    "Surgical extraction of sperms; ICSI",
+    "Vasovasostomy; conventional IVF"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 210): 'Non obstructive azoospermia → Surgical extraction of sperms → ICSI'."
+  },
+  {
+   "id": "ch38-u8-q11",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "match",
+   "q": "Match sexual-dysfunction rows in the management table: 1) `Erectile dysfunction` 2) `Premature ejaculation` — A) SSRI B) Sildenafil.",
+   "opts": [
+    "1-B, 2-A",
+    "Both A",
+    "Both B",
+    "1-A, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): 'Erectile dysfunction → Sildenafil' and 'Premature ejaculation → SSRI'."
+  },
+  {
+   "id": "ch38-u8-q12",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "scenario",
+   "q": "[Scenario] In the management table, `Ejaculatory dysfunction (Hypospadias)` is managed with ____.",
+   "opts": [
+    "IUI",
+    "Sildenafil",
+    "Pulsatile GnRH",
+    "Testicular biopsy + ICSI"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): 'Ejaculatory dysfunction (Hypospadias) → IUI'."
+  },
+  {
+   "id": "ch38-u8-q13",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "In the final row of the management table, `Retrograde ejaculation` is managed by ____ followed by ____.",
+   "opts": [
+    "Epididymal ligation; GIFT",
+    "Formalin wash; IVF",
+    "Transrectal seminal-vesicle aspiration; ZIFT",
+    "Sperms taken from urine; IUI"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 210): 'Retrograde ejaculation → Sperms taken from urine → IUI'."
+  },
+  {
+   "id": "ch38-u8-q14",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "Under `Note : Difference between dead sperm & live sperm`, test `1.` is `Supravital stain` using ____.",
+   "opts": [
+    "Eosin / trypan blue",
+    "Lugol's iodine / gentian violet",
+    "Ziehl-Neelsen carbol fuchsin",
+    "Methylene blue / indigo carmine"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): '1. Supravital stain (Eosin/Trypan blue)'."
+  },
+  {
+   "id": "ch38-u8-q15",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "match",
+   "q": "Match `Supravital stain (Eosin/Trypan blue)` results: 1) `Stained` 2) `Not stained` — A) Live sperm B) Dead sperm.",
+   "opts": [
+    "1-B, 2-A",
+    "Both B",
+    "Both A",
+    "1-A, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): 'Stained : Dead sperm' (disrupted plasma membrane admits dye) and 'Not stained : Live sperm'."
+  },
+  {
+   "id": "ch38-u8-q15a",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "Test `2.` for distinguishing dead from live immobile sperm is the ____ test.",
+   "opts": [
+    "Strict Tygerberg",
+    "Postcoital Huhner",
+    "Hypotonic osmotic sperm swelling",
+    "Myeloperoxidase Endtz"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 210): '2. Hypotonic osmotic sperm swelling test'."
+  },
+  {
+   "id": "ch38-u8-q16",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "scenario",
+   "q": "[Scenario] In the `Hypotonic osmotic sperm swelling test`, an immobile sperm `Swells`. What interpretation is printed?",
+   "opts": [
+    "Live, immobile sperm",
+    "Peroxidase-positive leukocyte",
+    "Dead sperm",
+    "Acrosome-absent spermatogonium"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 210): 'Swells : Live, immobile.' (Note: unlike supravital staining—which kills/fixes cells—HOS identifies live immobile sperm usable for ICSI.)"
+  },
+  {
+   "id": "ch38-u8-q17",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "In the `Hypotonic osmotic sperm swelling test`, `No swelling` indicates ____ sperm.",
+   "opts": [
+    "Live, progressively motile",
+    "Dead",
+    "Capacitated",
+    "Live, immobile"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 210): 'No swelling : Dead.'"
+  },
+  {
+   "id": "ch38-u8-q18",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "To evaluate `Round cells on semen analysis`, the `Myeloperoxidase test` is also called the ____ test.",
+   "opts": [
+    "Huhner",
+    "Endtz",
+    "Rubin",
+    "Kruger"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 210): 'Round cells on semen analysis : Myeloperoxidase test (Endtz test)'."
+  },
+  {
+   "id": "ch38-u8-q19",
+   "sec": "ICSI, sperm retrieval, treatment table and viability tests",
+   "unit": "ICSI, sperm retrieval, treatment table and viability tests",
+   "page": 210,
+   "fmt": "match",
+   "q": "Match `Myeloperoxidase test (Endtz test)` results as printed at the bottom of scan 210: 1) `+ve` 2) `-ve` — A) `Round sperm without an acrosomal cap` B) `WBC`.",
+   "opts": [
+    "Both B",
+    "1-B, 2-A",
+    "Both A",
+    "1-A, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 210): '+ve : WBC' and '-ve : Round sperm without an acrosomal cap.' Clarification: clinically, peroxidase-negative round cells in semen are typically immature germ cells (spermatids/spermatocytes) or round-headed/globozoospermic sperm lacking an acrosome; peroxidase negativity excludes granulocytic WBCs rather than proving a single cell subtype alone."
   }
  ]
 }

@@ -9,11 +9,13 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 - Rebuild any chapter: `python3 build_chapters.py 41 42 43 44`
 - Validate: `python3 validate.py`
 
-## Build status — 49 of 49 chapters built · 4,860 questions · 563 units
+## Build status — 49 of 49 chapters built · 4,947 questions · 563 units
 
 **The full printed book is complete.** Chapters 1–49 are all built, in strict
-book order. This release closes the last remaining gap (41–44); chapters 45–49
-were built in the preceding parallel release.
+book order. Following completion of Chapters 1–49, Chapters 36–40 underwent a
+visual line-by-line audit against `OBG_Vol1_part_05_pages_181-225.pdf` (scans
+193–221 / printed folios 185–213), expanding Chapters 36–40 from 511 to 598
+questions while preserving all 511 baseline question IDs.
 
 | Chapters | Scan sequence | Printed folios | Questions | Units |
 |---|---|---|---:|---:|
@@ -25,11 +27,11 @@ were built in the preceding parallel release.
 | 34 Pelvic Inflammatory Disease (PID) | 184–187 | — | 128 | 9 |
 | 35 Genital Tuberculosis | 188–192 | — | 134 | 9 |
 | **Cumulative 1–35** | **1–192** | | **3,025** | **394** |
-| 36 Female Infertility: Part 1 | 193–198 | 185–190 | 90 | 6 |
-| 37 Female Infertility: Part 2 | 199–202 | 191–194 | 58 | 4 |
-| 38 Male Infertility | 203–210 | 195–202 | 144 | 8 |
-| 39 Contraception: Part 1 | 211–216 | 203–208 | 115 | 6 |
-| 40 Contraception: Part 2 | 217–221 | 209–213 | 104 | 6 |
+| 36 Female Infertility: Part 1 | 193–198 | 185–190 | 120 | 6 |
+| 37 Female Infertility: Part 2 | 199–202 | 191–194 | 67 | 4 |
+| 38 Male Infertility | 203–210 | 195–202 | 164 | 8 |
+| 39 Contraception: Part 1 | 211–216 | 203–208 | 127 | 6 |
+| 40 Contraception: Part 2 | 217–221 | 209–213 | 120 | 6 |
 | 41 Contraception: Images | 222–226 | 214–218 | 116 | 7 |
 | 42 Endometrial Hyperplasia | 227–229 | 219–221 | 79 | 6 |
 | 43 Endometrial Cancer | 230–235 | 222–227 | 122 | 8 |
@@ -39,7 +41,7 @@ were built in the preceding parallel release.
 | 47 Ovarian Cancer: Part 1 | 257–264 | 249–256 | 246 | 34 |
 | 48 Ovarian Cancer: Part 2 | 265–268 | 257–260 | 140 | 17 |
 | 49 Gynaecology: Miscellaneous Topics | 269–272 | 261–264 | 120 | 14 |
-| **Cumulative 1–49** | **1–272** | | **4,860** | **563** |
+| **Cumulative 1–49** | **1–272** | | **4,947** | **563** |
 
 The metadata `page` field and all scan-sequence rows use the repository's
 **scan-sequence** convention. In PDF parts 05–07 the scan sequence runs 8 ahead
@@ -88,13 +90,14 @@ node tests/quiz-smoke.cjs
 # Or, after npm ci: npm test
 ```
 
-Validation fails on duplicate IDs/stems, bad options/answers, stale new-chapter
-source/JSON/HTML, missing formats, out-of-order source pages or unbalanced new
-answer slots. JavaScript syntax is checked by Node. The DOM smoke test plays
-**all 1,324 questions in chapters 41–49** (including every one of the 517 new
-questions), checks feedback and unit completion, and tests mistake review and
-saved-progress reload without losing an existing chapter's progress. It also
-verifies all 49 chapter cards are present in numeric order.
+Validation fails on duplicate IDs/stems, bad options/answers, disproportionate
+correct-option length clues (chapters 36–40), stale new-chapter source/JSON/HTML,
+missing formats, out-of-order source pages or unbalanced new answer slots.
+JavaScript syntax is checked by Node. The DOM smoke test plays **all 1,922
+questions in chapters 36–49**, checks feedback and unit completion (including
+partially completed units with preserved legacy IDs and inserted sub-IDs), and
+tests mistake review and saved-progress reload without losing an existing
+chapter's progress. It also verifies all 49 chapter cards are present in numeric order.
 Automated tests check structure/behaviour, not medical accuracy or a formal proof
 of exhaustive source coverage.
 
@@ -127,11 +130,18 @@ raw OCR aids: `audit/ocr_hi_226_249.txt` and `audit/ocr_hi_250_272.txt`.
   test, Burch versus TOT versus TVT, urinary fistula and three-swatch test, VVF
   causes, repair timing/techniques/post-op rules, OHSS chain and prevention.
 
-## Previous release — Chapters 36–40 (scans 193–221 · printed folios 185–213)
+## Audited & expanded — Chapters 36–40 (scans 193–221 · printed folios 185–213)
 
-**511 questions / 30 units** across 29 sheets: Female Infertility Parts 1–2,
-Male Infertility and Contraception Parts 1–2. Full page/topic map and source
-caveats: [`audit/ch36-40-coverage.md`](audit/ch36-40-coverage.md).
+**598 questions / 30 units** across 29 sheets (expanded from 511 baseline
+questions via visual line-by-line review of PDF pages 13–41 + 13 magnified crops,
+preserving all 511 original IDs and inserting 87 sub-IDs in strict within-page
+reading order): Female Infertility Parts 1–2, Male Infertility and Contraception
+Parts 1–2. Granular line-by-line source-to-question map and source caveats
+(including `α oesthin pill` for *Lo Loestrin*, `Age : ≥28yrs` for MoHFW `≥22yrs`,
+`DMPA ≥ 4wks` postpartum note, `50%` fecundity vs `20%` fecundability, Yuzpe
+inverted pill counts, mis-bracketed Cu-IUCD/Ulipristal bullets, `HCG` for `HSG`
+before IUI, `1. Varicocele` under obstructive azoospermia, and maturation-index
+`0/10/90` contradiction): [`audit/ch36-40-coverage.md`](audit/ch36-40-coverage.md).
 
 ## Earlier release — Chapters 30 to 35 (scans 160–192)
 

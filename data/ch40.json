@@ -7,15 +7,31 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "Traditional POP/minipill action is mainly to render cervical mucus ____.",
+   "q": "Under `Progesterone containing contraceptives → Mechanism of action` on scan 217, traditional `POPs/minipill` acts mainly to render cervical mucus ____.",
    "opts": [
     "Fern-positive",
     "Thick",
     "Watery and elastic",
-    "Absent through permanent cervical destruction"
+    "Absent via cervical ablation"
    ],
    "ans": 1,
-   "exp": "The mechanism box contrasts traditional mucus-dominant POPs with more ovulation-suppressing progestin methods."
+   "exp": "Source (scan 217 / printed 209): '• POPs/minipill : Renders cervical mucus thick.'"
+  },
+  {
+   "id": "ch40-u1-q1a",
+   "sec": "Progesterone-only methods and missed-POP windows",
+   "unit": "Progesterone-only methods and missed-POP windows",
+   "page": 217,
+   "fmt": "fillup",
+   "q": "Directly below `POPs/minipill`, a brace joins ____ and ____ to the primary mechanism `Anovulation`.",
+   "opts": [
+    "Mirena; vaginal diaphragm",
+    "Traditional LNG minipill; copper IUCD",
+    "Centchroman; male condom",
+    "Desogestrel-containing POP; implants/DMPA injection"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 217): '{ • Desogestrel containing POP. ; • Implants/DMPA injection. } → Anovulation'."
   },
   {
    "id": "ch40-u1-q2",
@@ -23,15 +39,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "odd",
-   "q": "Which is NOT in the source's anovulation group?",
+   "q": "Which is NOT inside the `Anovulation` brace in the scan 217 mechanism box?",
    "opts": [
+    "Intramuscular DMPA injection",
     "Desogestrel-containing POP",
-    "DMPA injection",
-    "Traditional minipill acting mainly on cervical mucus",
-    "Progestin implant"
+    "Mucus-thickening traditional POP",
+    "Subdermal progestin implants"
    ],
    "ans": 2,
-   "exp": "Desogestrel, implants and DMPA are bracketed together under anovulation."
+   "exp": "Source (scan 217): traditional POPs/minipill sits on the separate cervical-mucus line above the anovulation brace."
   },
   {
    "id": "ch40-u1-q3",
@@ -39,15 +55,31 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "The common bleeding side effect of progesterone-containing contraception is ____.",
+   "q": "Immediately below the mechanism lines on scan 217, the listed `Side effect` of progesterone-containing contraceptives is ____.",
    "opts": [
-    "Irregular bleeding",
-    "Permanent infertility without bleeding changes",
-    "Postcoital haemorrhage obligatorily",
-    "Predictable heavy monthly bleeding in every user"
+    "Hyperkalaemic paralysis",
+    "Irreversible ovarian failure",
+    "Predictable cyclic menorrhagia",
+    "Irregular bleeding"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 217): 'Side effect : Irregular bleeding.'"
+  },
+  {
+   "id": "ch40-u1-q3a",
+   "sec": "Progesterone-only methods and missed-POP windows",
+   "unit": "Progesterone-only methods and missed-POP windows",
+   "page": 217,
+   "fmt": "fillup",
+   "q": "The three numbered patient categories listed under `Safe in :` for progesterone-only contraceptives on scan 217 are `1.` ____, `2.` ____ and `3.` ____.",
+   "opts": [
+    "Breastfeeding females; smoker; history of thrombosis",
+    "Undiagnosed vaginal bleeding; cervical cancer; GTN",
+    "Current breast cancer; hepatic adenoma; ongoing pregnancy",
+    "Migraine with aura; Wilson's disease; pelvic TB"
    ],
    "ans": 0,
-   "exp": "Irregular bleeding is listed immediately after the mechanism block."
+   "exp": "Source (scan 217): 'Safe in : 1. Breast feeding females. 2. Smoker. 3. H/o thrombosis.'"
   },
   {
    "id": "ch40-u1-q4",
@@ -55,15 +87,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "odd",
-   "q": "Which is NOT in the source's POP-safe group?",
+   "q": "Which is NOT in the `Safe in :` list for progesterone-only contraceptives on scan 217?",
    "opts": [
-    "Breastfeeding",
-    "Smoking",
-    "Current breast cancer as a blanket safe indication",
-    "History of thrombosis"
+    "Breastfeeding females",
+    "Smoker",
+    "History of thrombosis",
+    "Current breast cancer"
    ],
-   "ans": 2,
-   "exp": "The page lists breastfeeding, smoking and previous thrombosis. Eligibility is method-specific; DMPA is not interchangeable with every POP in high-risk vascular states."
+   "ans": 3,
+   "exp": "Source (scan 217): active breast cancer is a hormonal-contraceptive contraindication (MEC Category 4); note also that in acute DVT/PE or high-risk vascular states, DMPA differs from oral POPs under MEC."
   },
   {
    "id": "ch40-u1-q5",
@@ -71,15 +103,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "The two DMPA disadvantages repeated in this chapter are ____ and ____.",
+   "q": "In the top-right box on scan 217, the two numbered `Disadvantages of DMPA` are `1.` ____ and `2.` ____.",
    "opts": [
-    "Permanent sterility; ovarian cancer in every user",
-    "Copper accumulation; hyperkalaemia",
-    "Delayed fertility return; bone loss",
-    "Cervical stenosis; antisperm antibodies"
+    "Delayed return of fertility; bone loss",
+    "Copper overload; hyperkalaemia",
+    "Permanent sterility; ovarian cancer",
+    "Cervical stenosis; teratogenicity"
    ],
-   "ans": 2,
-   "exp": "The page repeats the distinctive delay and bone-density concerns rather than assigning them equally to all POPs."
+   "ans": 0,
+   "exp": "Source (scan 217): 'Disadvantages of DMPA : 1. Delayed return of fertility. 2. Bone loss.'"
   },
   {
    "id": "ch40-u1-q6",
@@ -87,15 +119,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "The source's contraceptive preference for lactating women is ____ over ____.",
+   "q": "Under `DOC in :` on scan 217, for `Lactating women` the preference written is `____ > ____`.",
    "opts": [
-    "DMPA; every non-hormonal method",
+    "DMPA; condom",
     "POP; IUCD",
-    "Combined OCP; POP",
-    "Estrogen-only pill; implant"
+    "Estrogen pill; implant",
+    "Combined OCP; POP"
    ],
    "ans": 1,
-   "exp": "This is the source's preference statement, not a universal hierarchy overriding individual choice and current eligibility."
+   "exp": "Source (scan 217): '• Lactating women : POP > IUCD.' (Clarification: clinically both POPs and postpartum/interval IUDs are top-tier safe options during breastfeeding.)"
   },
   {
    "id": "ch40-u1-q7",
@@ -103,31 +135,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "For age ≥40 years, the source favours ____ over combined OCPs.",
+   "q": "The second bullet under `DOC in :` states that at age `____`, `____ > OCP's`.",
    "opts": [
-    "Progesterone-only options",
-    "Emergency pills as daily contraception",
-    "High-dose estrogen-only pills",
-    "No contraception"
+    "≥60 years; emergency pills",
+    "≥18 years; Yuzpe pills",
+    "≥40 years; progesterone",
+    "<20 years; ethinyl estradiol"
    ],
-   "ans": 0,
-   "exp": "Age and other risk factors guide selection; age alone does not universally prohibit combined methods."
-  },
-  {
-   "id": "ch40-u1-q8",
-   "sec": "Progesterone-only methods and missed-POP windows",
-   "unit": "Progesterone-only methods and missed-POP windows",
-   "page": 217,
-   "fmt": "fillup",
-   "q": "The desogestrel POP dose and brand named are ____ and ____.",
-   "opts": [
-    "30 mg; ulipristal",
-    "75 micrograms; Cerazette",
-    "35 micrograms; Mirena",
-    "150 mg; Antara"
-   ],
-   "ans": 1,
-   "exp": "Cerazette is the 75-microgram desogestrel preparation in the source table."
+   "ans": 2,
+   "exp": "Source (scan 217): '• ≥ 40yrs : Progesterone > OCP's' (combined estrogen carries higher age-related vascular/VTE risk, though age ≥40 alone is MEC Category 2 for COCs in healthy non-smokers)."
   },
   {
    "id": "ch40-u1-q9",
@@ -135,15 +151,31 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "The traditional minipill column is labelled LNG and reports ____ micrograms.",
+   "q": "In column 1 of the `Dose of POPs` table (`Minipill (LNG)`), the printed `Dose` is ____ micrograms (see clarification).",
    "opts": [
     "150",
     "1,500",
-    "35",
-    "75"
+    "75",
+    "35"
    ],
-   "ans": 2,
-   "exp": "This is the handwritten source value. LNG minipill formulations are commonly 30 micrograms; the 35-microgram annotation should not be treated as a prescribing instruction."
+   "ans": 3,
+   "exp": "Source (scan 217): literally prints 'Minipill (LNG) → Dose : 35 mcg'. Clarification: standard commercial levonorgestrel minipills contain 30 mcg (0.03 mg) LNG whereas norethisterone minipills contain 350 mcg (0.35 mg)—the note conflates those digits into '35 mcg'."
+  },
+  {
+   "id": "ch40-u1-q8",
+   "sec": "Progesterone-only methods and missed-POP windows",
+   "unit": "Progesterone-only methods and missed-POP windows",
+   "page": 217,
+   "fmt": "fillup",
+   "q": "In column 2 of the `Dose of POPs` table, the desogestrel POP brand and `Dose` are `____` and ____.",
+   "opts": [
+    "Cerazette; 75 mcg",
+    "Antara; 150 mg",
+    "Plan B; 30 mg",
+    "Mirena; 35 mcg"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 217): 'Desogestrel (Cerazette) → Dose : 75 mcg'."
   },
   {
    "id": "ch40-u1-q10",
@@ -151,15 +183,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "match",
-   "q": "Match late-pill windows: 1) Traditional minipill 2) Desogestrel with A) 12 hours B) 3 hours.",
+   "q": "Match missed-pill `Window period` values in the `Dose of POPs` table: 1) `Minipill (LNG)` 2) `Desogestrel (Cerazette)` — A) `12 hrs` B) `3 hrs`.",
    "opts": [
-    "Both B",
-    "1-A, 2-B",
     "1-B, 2-A",
-    "Both A"
+    "1-A, 2-B",
+    "Both A",
+    "Both B"
    ],
-   "ans": 2,
-   "exp": "The source contrasts a three-hour window with desogestrel's twelve-hour window."
+   "ans": 0,
+   "exp": "Source (scan 217): 'Window period : 3 hrs' for Minipill (LNG) vs '12 hrs' for Desogestrel (Cerazette)."
   },
   {
    "id": "ch40-u1-q11",
@@ -167,15 +199,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "scenario",
-   "q": "A desogestrel user is eight hours late. Compared with the traditional minipill window in this table, which statement is correct?",
+   "q": "[Scenario] A `Desogestrel (Cerazette)` user takes her tablet 8 hours late. Compared with `Minipill (LNG)` in the scan 217 table, how does an 8-hour delay classify?",
    "opts": [
-    "Beyond the desogestrel window; within the traditional window",
-    "Within both windows because both formulations allow twelve hours",
-    "Beyond both windows because both formulations allow three hours",
-    "Within the desogestrel window; beyond the traditional window"
+    "Inside both windows because both POP types allow up to 12 hours",
+    "Beyond the 12-hour desogestrel window; inside the 3-hour LNG window",
+    "Beyond both windows because both POP types allow only 3 hours",
+    "Inside the 12-hour desogestrel window; past the 3-hour LNG window"
    ],
    "ans": 3,
-   "exp": "The two formulation-specific windows must not be interchanged."
+   "exp": "Source (scan 217): applies the 3-hour vs 12-hour window cells directly."
   },
   {
    "id": "ch40-u1-q12",
@@ -183,15 +215,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "POPs should be taken ____ at ____.",
+   "q": "Below the `Dose of POPs` table, the first bullet instructs that POPs `Should be taken at ____, ____`.",
    "opts": [
-    "Daily; the same time",
-    "Only after intercourse; bedtime",
-    "Weekly; any time",
-    "On alternate days; noon only"
+    "Noon; on alternate days",
+    "Any time; weekly",
+    "The same time; daily",
+    "Bedtime; for 21 days with 7 days off"
    ],
-   "ans": 0,
-   "exp": "The adherence instruction is immediately below the dose/window table."
+   "ans": 2,
+   "exp": "Source (scan 217): '• Should be taken at the same time, daily.'"
   },
   {
    "id": "ch40-u1-q13",
@@ -199,15 +231,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "fillup",
-   "q": "After a delay beyond the relevant POP window, the source specifies backup for ____.",
+   "q": "The final bullet on scan 217 states: `Delay in taking POPs : Backup method × ____`.",
    "opts": [
-    "24 weeks",
-    "48 hours",
     "3 months",
+    "14 days",
+    "48 hours",
     "7 days"
    ],
-   "ans": 1,
-   "exp": "Forty-eight hours is the POP backup period in this edition; other formulations may have different instructions."
+   "ans": 2,
+   "exp": "Source (scan 217): '• Delay in taking POPs : Backup method × 48 hrs' (48 hours restores cervical-mucus barrier; drospirenone POP has different product rules)."
   },
   {
    "id": "ch40-u1-q14",
@@ -215,15 +247,15 @@
    "unit": "Progesterone-only methods and missed-POP windows",
    "page": 217,
    "fmt": "tf",
-   "q": "I) The page gives the same late-pill window for traditional and desogestrel POPs. II) It recommends consistent daily dosing.",
+   "q": "Evaluate `Dose of POPs` on scan 217: I) `Minipill (LNG)` and `Desogestrel (Cerazette)` have identical late-pill window periods. II) POPs should be taken at the same time daily, with `48 hrs` backup if delayed beyond the window.",
    "opts": [
-    "Both false",
-    "Both true",
     "I false; II true",
-    "I true; II false"
+    "I true; II false",
+    "Both true",
+    "Both false"
    ],
-   "ans": 2,
-   "exp": "Traditional and desogestrel windows differ, while both require daily use."
+   "ans": 0,
+   "exp": "Source (scan 217): windows are 3 hrs vs 12 hrs, with daily same-time dosing and 48-hour backup on delay."
   },
   {
    "id": "ch40-u2-q1",
@@ -231,15 +263,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "fillup",
-   "q": "The source's programme age range for female tubal ligation is ____ years.",
+   "q": "Under `TUBAL LIGATION → Eligibility` on scan 218, the printed `Age` line reads ____ years (see MoHFW misprint note).",
    "opts": [
-    "≥40 and <60",
     "≥28 and <49",
-    "≥35 and <70",
-    "≥18 and <25"
+    "≥18 and <25",
+    "≥40 and <60",
+    "≥35 and <70"
    ],
-   "ans": 1,
-   "exp": "This is the source's programme annotation, not a universal legal or ethical restriction on an adult's reproductive choices."
+   "ans": 0,
+   "exp": "Source (scan 218 / printed 210): magnified crop confirms the literal print '• Age : ≥28yrs & <49yrs.' Clarification: official Government of India MoHFW female sterilisation standards specify age ≥22 years and <49 years—'≥28yrs' on the Marrow sheet is a digit misprint for 22 (and these are Indian public-programme criteria, not universal biological limits)."
   },
   {
    "id": "ch40-u2-q2",
@@ -247,15 +279,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "fillup",
-   "q": "The same source eligibility box specifies ____ women with at least ____ child aged at least ____.",
+   "q": "The second and third `Eligibility` bullets on scan 218 specify `____ women only` and `At least ____ child, ____ of age`.",
    "opts": [
-    "Any; three; ten years",
-    "Married; no; no minimum",
-    "Married; one; one year",
-    "Unmarried only; two; five years"
+    "Nulliparous; 0; any",
+    "Married; 1; ≥1 year",
+    "Postmenopausal; 3; ≥10 years",
+    "Unmarried; 2; ≥5 years"
    ],
-   "ans": 2,
-   "exp": "These are the book's programme criteria, not blanket requirements for every setting; informed autonomous choice and current local rules govern care."
+   "ans": 1,
+   "exp": "Source (scan 218): '• Married women only. • At least 1 child, ≥ 1yr of age.' (Indian MoHFW administrative programme criteria unless medically indicated; autonomous informed consent and local law govern care.)"
   },
   {
    "id": "ch40-u2-q3",
@@ -263,15 +295,31 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "scenario",
-   "q": "Whose consent is explicitly required for female sterilisation in the source prerequisite box?",
+   "q": "[Scenario] Under `Pre-requisite` on scan 218, whose consent is explicitly required for female tubal ligation?",
    "opts": [
-    "The husband's in place of hers",
-    "The surgeon's alone",
-    "Any relative's regardless of her wishes",
-    "The woman's"
+    "Consent of the female herself (spousal consent is NOT required)",
+    "Consent of parents-in-law",
+    "Written consent of the husband in place of hers",
+    "Surgeon's consent alone"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 218): 'Pre-requisite : • Consent of female.'"
+  },
+  {
+   "id": "ch40-u2-q3a",
+   "sec": "Sterilisation eligibility, consent and assessment",
+   "unit": "Sterilisation eligibility, consent and assessment",
+   "page": 218,
+   "fmt": "fillup",
+   "q": "Immediately below `Consent of female`, the second `Pre-requisite` bullet specifies a `____ individual`.",
+   "opts": [
+    "Multigravid",
+    "Post-caesarean",
+    "Hospitalised inpatient",
+    "Mentally sound"
    ],
    "ans": 3,
-   "exp": "The source says consent of female. A competent adult's own informed voluntary consent is essential; spouse consent is not a substitute."
+   "exp": "Source (scan 218): '• Mentally sound individual.'"
   },
   {
    "id": "ch40-u2-q4",
@@ -279,15 +327,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "scenario",
-   "q": "The source mentions psychiatric certification and guardian consent for a 'mentally unfit' patient. What essential qualification is needed?",
+   "q": "[Scenario] For `If mentally unfit patient`, scan 218 branches to `Certification from psychiatrist` and `Consent of guardian`. What legal/ethical qualification is essential?",
    "opts": [
-    "A guardian can always override a competent adult",
-    "Capacity assessment and applicable law/safeguards are required; disability alone does not remove autonomy",
-    "Any psychiatric diagnosis permits involuntary sterilisation",
-    "Marital status establishes incapacity"
+    "Marital status alone establishes permanent legal decision-making incapacity",
+    "Capacity review and statutory safeguards apply; disability never permits coercion",
+    "Any psychiatric diagnosis automatically removes all reproductive bodily autonomy",
+    "A family guardian can legally override any competent adult's informed refusal"
    ],
    "ans": 1,
-   "exp": "The handwritten shorthand must not be read as authorising coercion; supported decision-making and legal protections matter."
+   "exp": "Source (scan 218): records both printed sub-branches while adding mandatory clinical-ethics safeguards."
   },
   {
    "id": "ch40-u2-q5",
@@ -295,15 +343,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "fillup",
-   "q": "The source notes no previous ____ in the husband except in a failure situation.",
+   "q": "The fourth `Pre-requisite` bullet states: `Husband : No h/o ____ (Except in case of ____)`.",
    "opts": [
-    "Circumcision",
-    "Appendicectomy",
-    "Vasectomy",
-    "Varicocelectomy"
+    "Varicocelectomy; recurrence",
+    "Vasectomy; failure",
+    "Appendicectomy; infection",
+    "Hydrocele; pain"
    ],
-   "ans": 2,
-   "exp": "This is a programme-screening annotation, not a replacement for the woman's autonomous decision or proof that partner consent is required."
+   "ans": 1,
+   "exp": "Source (scan 218): '• Husband : No h/o vasectomy (Except in case of failure).' (Indian public-programme double-sterilisation check.)"
   },
   {
    "id": "ch40-u2-q6",
@@ -311,15 +359,31 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "match",
-   "q": "Match source operator categories: 1) Tubal ligation specialist 2) MBBS/MS route with A) Assisted five and performed five as primary surgeon B) MD/DNB/DGO in OBG.",
+   "q": "Match `Eligibility criteria to perform tubal ligation` on scan 218: 1) Specialist OBG qualification (`1.`) 2) `2. MBBS` / `3. MS` training requirement — A) `Assisted in 5 & performed 5 as a primary surgeon` B) `MD/DNB/DGO in OBG`.",
    "opts": [
-    "Both B",
     "Both A",
+    "1-A, 2-B",
     "1-B, 2-A",
-    "1-A, 2-B"
+    "Both B"
    ],
    "ans": 2,
-   "exp": "The operator box lists OBG qualifications and a five-assisted/five-performed training annotation; contemporary credentialing must be checked locally."
+   "exp": "Source (scan 218): '1. MD/DNB/DGO in OBG' and '{ 2. MBBS. ; 3. MS. } Assisted in 5 & performed 5 as a primary surgeon.'"
+  },
+  {
+   "id": "ch40-u2-q6a",
+   "sec": "Sterilisation eligibility, consent and assessment",
+   "unit": "Sterilisation eligibility, consent and assessment",
+   "page": 218,
+   "fmt": "fillup",
+   "q": "Under `Eligibility criteria to perform vasectomy` on scan 218, the three listed provider categories are `1.` ____, `2.` ____ and `3.` ____.",
+   "opts": [
+    "Intern; radiologist; pathologist",
+    "Paediatrician; psychiatrist; dermatologist",
+    "Pharmacist; ANM; embryologist",
+    "Trained MBBS; MS; MD/DNB/DGO in OBG"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 218): 'Eligibility criteria to perform vasectomy : 1. Trained MBBS. 2. MS. 3. MD/DNB/DGO in OBG.'"
   },
   {
    "id": "ch40-u2-q7",
@@ -327,15 +391,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "odd",
-   "q": "Which is NOT among the source's vasectomy operator categories?",
+   "q": "Which is NOT among the provider categories under `Eligibility criteria to perform vasectomy` on scan 218?",
    "opts": [
+    "MS",
     "Untrained layperson",
     "Trained MBBS",
-    "MS",
     "MD/DNB/DGO in OBG"
    ],
-   "ans": 0,
-   "exp": "These are the three named categories; the important prerequisite is appropriate training and authorised practice."
+   "ans": 1,
+   "exp": "Source (scan 218): only trained MBBS, MS and MD/DNB/DGO in OBG are listed."
   },
   {
    "id": "ch40-u2-q8",
@@ -343,15 +407,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "fillup",
-   "q": "The source age limit for undergoing vasectomy is ____ years.",
+   "q": "At the bottom of the top-right box on scan 218, `Eligibility to undergo vasectomy` states age ____.",
    "opts": [
-    "<30",
-    ">60 only",
-    "<18",
-    "<60"
+    "<60 years",
+    ">60 years only",
+    "<30 years",
+    "<18 years"
    ],
-   "ans": 3,
-   "exp": "This is the source programme value, not a universal consent-age rule."
+   "ans": 0,
+   "exp": "Source (scan 218): 'Eligibility to undergo vasectomy : < 60yrs.' (Indian MoHFW programme age range.)"
   },
   {
    "id": "ch40-u2-q9",
@@ -359,15 +423,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "fillup",
-   "q": "Tubal ligation is classified here as a ____ method.",
+   "q": "The central hub box on scan 218 labels `TUBAL LIGATION` parenthetically as `(____ method)`.",
    "opts": [
-    "Daily reversible hormonal",
-    "Postcoital barrier",
-    "Routine temporary",
-    "Permanent"
+    "Short-acting hormonal",
+    "Emergency postcoital",
+    "Permanent",
+    "Temporary barrier"
    ],
-   "ans": 3,
-   "exp": "Counselling should treat sterilisation as permanent even though reversal is sometimes attempted."
+   "ans": 2,
+   "exp": "Source (scan 218): central hub box prints 'TUBAL LIGATION (Permanent method)'."
   },
   {
    "id": "ch40-u2-q10",
@@ -375,15 +439,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "fillup",
-   "q": "Preoperative history includes ____ history, ____ history and ____ history.",
+   "q": "Item `1.` of `Preliminary investigations before tubal ligation` is `Elicit history thoroughly (____ / ____ / ____)`.",
    "opts": [
-    "Paternal; neonatal; school",
-    "Respiratory only; dietary only; dental only",
+    "Respiratory; dietary; dental",
+    "Seminal; prostatic; scrotal",
     "Obstetric; menstrual; contraceptive",
-    "Seminal; epididymal; prostatic"
+    "Paternal; neonatal; school"
    ],
    "ans": 2,
-   "exp": "These three domains are explicitly named in the preliminary assessment list."
+   "exp": "Source (scan 218): '1. Elicit history thoroughly (Obstetric/menstrual/Contraceptive)'."
   },
   {
    "id": "ch40-u2-q11",
@@ -391,15 +455,31 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "fillup",
-   "q": "The physical examination abbreviations P/A, P/S and P/V refer to ____ examination.",
+   "q": "Item `2.` of `Preliminary investigations before tubal ligation` specifies `Physical examination : ____` (per abdomen, per speculum, per vaginam).",
    "opts": [
-    "Anal, skeletal and vestibular",
-    "Abdominal, speculum and vaginal",
-    "Arterial, skin and visual",
-    "Axillary, spinal and vascular"
+    "Axillary, spinal, vascular",
+    "P/A, P/S, P/V",
+    "Fundoscopy, otoscopy, ECG",
+    "Anal, skeletal, vestibular"
    ],
    "ans": 1,
-   "exp": "These are the three physical-examination components in the source work-up."
+   "exp": "Source (scan 218): '2. Physical examination : P/A, P/S, P/V.'"
+  },
+  {
+   "id": "ch40-u2-q11a",
+   "sec": "Sterilisation eligibility, consent and assessment",
+   "unit": "Sterilisation eligibility, consent and assessment",
+   "page": 218,
+   "fmt": "fillup",
+   "q": "Items `3.`–`6.` of `Preliminary investigations before tubal ligation` are ____, ____, ____, and `UPT : ____`.",
+   "opts": [
+    "Coagulation screen; liver biopsy; 24-hour urine protein; postoperatively",
+    "Serum AMH; karyotype; day-21 progesterone; never",
+    "Lipid panel; HbA1c; thyroid profile; mandatory twice",
+    "Blood group; haemoglobin; urine routine/microscopy; if required"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 218): '3. Blood group. 4. Haemoglobin. 5. Urine routine/microscopy. 6. UPT : If required.'"
   },
   {
    "id": "ch40-u2-q12",
@@ -407,15 +487,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "odd",
-   "q": "Which is NOT a routine preliminary investigation listed before tubal ligation?",
+   "q": "Which is NOT a routine item in `Preliminary investigations before tubal ligation` on scan 218?",
    "opts": [
-    "Urine routine/microscopy",
+    "Haemoglobin",
     "Blood group",
-    "Sperm DNA fragmentation",
-    "Haemoglobin"
+    "Urine routine/microscopy",
+    "Sperm DNA fragmentation"
    ],
-   "ans": 2,
-   "exp": "UPT if required and other indicated tests complete the list; semen DNA testing is unrelated to routine female sterilisation assessment."
+   "ans": 3,
+   "exp": "Source (scan 218): blood group, Hb, urine routine/microscopy, UPT if required, and indicated tests (e.g. USG) form the female preoperative checklist."
   },
   {
    "id": "ch40-u2-q13",
@@ -423,15 +503,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "scenario",
-   "q": "A bulky uterus is found before sterilisation. What additional test is given as an indicated example?",
+   "q": "[Scenario] During preoperative assessment for tubal ligation, a `bulky uterus` is palpated. Under item `7. Other investigations : As indicated`, what specific example is written?",
    "opts": [
-    "Routine Huhner testing",
-    "Routine CFTR testing",
-    "Ultrasound",
-    "Routine TESA"
+    "Routine CFTR mutation panel",
+    "Diagnostic TESA",
+    "USG (`Eg : USG for bulky uterus`)",
+    "Postcoital Huhner test"
    ],
    "ans": 2,
-   "exp": "The list says other investigations as indicated, exemplified by USG for a bulky uterus."
+   "exp": "Source (scan 218): '7. Other investigations : As indicated (Eg : USG for bulky uterus).'"
   },
   {
    "id": "ch40-u2-q14",
@@ -439,15 +519,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "match",
-   "q": "Match patient categories: A) Accept B) Caution C) Delay D) Special supervision with source letters 1) S 2) A 3) D 4) C.",
+   "q": "Match `Patient categorisation` definitions on scan 218: A) Acceptable B) Caution C) Delay procedure D) Special supervision — with letters 1) `S` 2) `A` 3) `D` 4) `C`.",
    "opts": [
-    "A-2, B-3, C-4, D-1",
     "A-4, B-2, C-1, D-3",
+    "A-2, B-4, C-3, D-1",
     "A-1, B-4, C-3, D-2",
-    "A-2, B-4, C-3, D-1"
+    "A-2, B-3, C-4, D-1"
    ],
-   "ans": 3,
-   "exp": "A/C/D/S express acceptance, extra caution, postponement and specialised arrangements."
+   "ans": 1,
+   "exp": "Source (scan 218): 'A : Acceptable. C : Caution. D : Delay procedure. S : Special supervision.'"
   },
   {
    "id": "ch40-u2-q15",
@@ -455,15 +535,15 @@
    "unit": "Sterilisation eligibility, consent and assessment",
    "page": 218,
    "fmt": "scenario",
-   "q": "The source says 'tubal ligation: no contraindication'. Which interpretation preserves the following delay list?",
+   "q": "[Scenario] Directly below `Patient categorisation`, a note reads `Tubal Ligation : No C/I`. How does this reconcile with `Indications for delayed procedure` below it?",
    "opts": [
-    "Every critically ill patient should undergo surgery immediately",
-    "Some conditions require delay or special arrangements rather than a permanent blanket ban",
-    "Current pregnancy never affects timing",
-    "Consent is optional whenever surgery is technically possible"
+    "Voluntary informed consent becomes optional whenever `Tubal Ligation : No C/I` is cited",
+    "No condition bans ligation permanently, though Category `D`/`S` states require deferral or care",
+    "Confirmed intrauterine pregnancy never requires postponing elective tubal sterilisation",
+    "Critically ill patients with acute myocardial infarction or sepsis undergo immediate surgery"
    ],
    "ans": 1,
-   "exp": "The source itself lists temporary medical reasons to defer; its slogan does not erase perioperative risk or consent requirements."
+   "exp": "Source (scan 218): reconciles 'Note : Tubal Ligation : No C/I.' with Category D/S precautions."
   },
   {
    "id": "ch40-u3-q1",
@@ -471,15 +551,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "fillup",
-   "q": "The haemoglobin threshold below which the source delays tubal ligation is ____.",
+   "q": "Item `1.` under `Indications for delayed procedure` on scan 218 delays tubal ligation when `Hb` is ____.",
    "opts": [
-    "<15 g/dL",
-    "<12 g/dL in every case",
-    "<18 g/dL",
-    "<7 g/dL"
+    "<14 g/dL",
+    "<7 g/dL",
+    "<11 g/dL",
+    "<12.5 g/dL"
    ],
-   "ans": 3,
-   "exp": "Severe anaemia below seven is the first delay indication."
+   "ans": 1,
+   "exp": "Source (scan 218 / printed 210): '1. Hb < 7g/dl.' (Severe anaemia is corrected before elective sterilisation; Hb 7–<10 g/dL is Category C caution.)"
   },
   {
    "id": "ch40-u3-q2",
@@ -487,15 +567,31 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "match",
-   "q": "Match delay terms: 1) APH 2) PPH with A) Postpartum haemorrhage B) Antepartum haemorrhage.",
+   "q": "Match the abbreviations in item `2.` of `Indications for delayed procedure` (`H/o APH/PPH`): 1) `APH` 2) `PPH` — A) Postpartum haemorrhage B) Antepartum haemorrhage.",
    "opts": [
-    "1-B, 2-A",
-    "Both A",
+    "Both B",
     "1-A, 2-B",
-    "Both B"
+    "Both A",
+    "1-B, 2-A"
    ],
-   "ans": 0,
-   "exp": "A history of APH/PPH is listed as a reason to reassess and postpone under the source programme pathway."
+   "ans": 3,
+   "exp": "Source (scan 218): '2. H/o APH/PPH (Antepartum/Postpartum haemorrhage).'"
+  },
+  {
+   "id": "ch40-u3-q2a",
+   "sec": "Reasons to defer and timing of tubal ligation",
+   "unit": "Reasons to defer and timing of tubal ligation",
+   "page": 218,
+   "fmt": "fillup",
+   "q": "Item `3.` under `Indications for delayed procedure` is ____, and item `5.` (right after days 8–41 postpartum) is ____.",
+   "opts": [
+    "Lactating; controlled hypothyroidism",
+    "Postmenopausal; treated UTI",
+    "Nulliparous; mild ankle oedema",
+    "Pregnant; severe pre-eclampsia/eclampsia"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 218): '3. Pregnant. 4. Post partum period : 8–41 days (1–6 wks). 5. Severe pre-eclampsia/eclampsia.'"
   },
   {
    "id": "ch40-u3-q3",
@@ -503,15 +599,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "fillup",
-   "q": "The postpartum interval specifically listed for delay is days ____.",
+   "q": "Item `4.` delays postpartum sterilisation during `Post partum period : ____ days` (`____`).",
    "opts": [
-    "8–41",
-    "42–90 in every case",
-    "180–365",
-    "1–7"
+    "0–1; <24 hours",
+    "42–90; 6–12 weeks",
+    "8–41; 1–6 weeks",
+    "1–7; <1 week"
    ],
-   "ans": 0,
-   "exp": "Days 8–41 lie between the early postpartum and interval-sterilisation windows in the notes."
+   "ans": 2,
+   "exp": "Source (scan 218): '4. Post partum period : 8–41 days (1–6 wks).'"
   },
   {
    "id": "ch40-u3-q4",
@@ -519,31 +615,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "odd",
-   "q": "Which is NOT one of the source's obstetric reasons for postponing sterilisation?",
+   "q": "Which is NOT among the obstetric/infectious `Indications for delayed procedure` on scan 218?",
    "opts": [
-    "Current pregnancy",
-    "Puerperal sepsis",
     "Severe pre-eclampsia/eclampsia",
-    "Uncomplicated interval visit after six weeks"
+    "Puerperal sepsis",
+    "Uncomplicated interval visit after 6 weeks",
+    "Pregnant"
    ],
-   "ans": 3,
-   "exp": "The list also includes prolonged membrane rupture and haemorrhage; uncomplicated interval timing is allowed."
-  },
-  {
-   "id": "ch40-u3-q5",
-   "sec": "Reasons to defer and timing of tubal ligation",
-   "unit": "Reasons to defer and timing of tubal ligation",
-   "page": 218,
-   "fmt": "fillup",
-   "q": "The prolonged-rupture-of-membranes threshold in the delay list is more than ____.",
-   "opts": [
-    "2 hours",
-    "24 hours",
-    "7 days",
-    "3 weeks"
-   ],
-   "ans": 1,
-   "exp": "The source pairs PROM >24 hours with puerperal sepsis as infection-related reasons to defer."
+   "ans": 2,
+   "exp": "Source (scan 218): interval surgery at ≥6 weeks postpartum is explicitly permitted in the Timing box below."
   },
   {
    "id": "ch40-u3-q6",
@@ -551,15 +631,47 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "scenario",
-   "q": "Current PID is diagnosed at the planned sterilisation visit. Which category is appropriate in the source?",
+   "q": "[Scenario] Item `6.` (`Current PID`) is diagnosed at a woman's planned interval tubal-ligation visit. What action matches the scan 218 classification?",
    "opts": [
-    "Treat as a permanent absolute prohibition forever",
-    "Proceed without treating infection",
-    "Ignore because consent cancels infection risk",
-    "Delay the procedure"
+    "Ignore PID if haemoglobin exceeds 7 g/dL",
+    "Proceed immediately because ligation cures acute PID",
+    "Delay the procedure until pelvic infection is treated and resolved",
+    "Impose a permanent lifetime ban even after cure"
    ],
-   "ans": 3,
-   "exp": "Active PID is in the postponement list; sterilisation can be reconsidered after appropriate management."
+   "ans": 2,
+   "exp": "Source (scan 218): '6. Current PID' is in 'Indications for delayed procedure' (risk of pelvic abscess/adhesions if operated acutely)."
+  },
+  {
+   "id": "ch40-u3-q5",
+   "sec": "Reasons to defer and timing of tubal ligation",
+   "unit": "Reasons to defer and timing of tubal ligation",
+   "page": 218,
+   "fmt": "fillup",
+   "q": "Item `7.` delays postpartum tubal ligation for `H/o premature rupture of membrane > ____` or `h/o ____`.",
+   "opts": [
+    "24 hours; puerperal sepsis",
+    "12 hours; mild afterpains",
+    "6 hours; breast engorgement",
+    "2 hours; physiological lochia"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 218): '7. H/o premature rupture of membrane > 24hrs or h/o puerperal sepsis.'"
+  },
+  {
+   "id": "ch40-u3-q6a",
+   "sec": "Reasons to defer and timing of tubal ligation",
+   "unit": "Reasons to defer and timing of tubal ligation",
+   "page": 218,
+   "fmt": "fillup",
+   "q": "Items `8.` and `9.` under `Indications for delayed procedure` are `Current ____` and `Current ____`.",
+   "opts": [
+    "Myocardial infarction; DVT/pulmonary embolism",
+    "Stable asthma; iron deficiency",
+    "Migraine without aura; haemorrhoids",
+    "Sinus bradycardia; varicose veins"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 218): '8. Current myocardial infarction. 9. Current DVT/Pulmonary embolism.'"
   },
   {
    "id": "ch40-u3-q7",
@@ -567,15 +679,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "odd",
-   "q": "Which is NOT listed as a current vascular reason to delay surgery?",
+   "q": "Which is in `Tubal ligation safe in :` rather than items `8.`–`9.` (`Current MI` / `Current DVT/Pulmonary embolism`) of the delay list on scan 218?",
    "opts": [
     "Current DVT",
     "Current myocardial infarction",
-    "Smoking alone",
-    "Current pulmonary embolism"
+    "Current pulmonary embolism",
+    "Smokers"
    ],
-   "ans": 2,
-   "exp": "Smoking is in the source's safe group; acute MI/DVT/PE require deferral and medical assessment."
+   "ans": 3,
+   "exp": "Source (scan 218): 'Smokers' sits in 'Tubal ligation safe in :'; acute MI, DVT and PE require delaying surgery."
   },
   {
    "id": "ch40-u3-q8",
@@ -583,15 +695,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "fillup",
-   "q": "The cancer group in the source's delay list comprises endometrial cancer, cervical cancer and ____.",
+   "q": "Item `10.` of `Indications for delayed procedure` lists `Cancer : Endometrium / Cervix / ____`.",
    "opts": [
-    "Gestational trophoblastic neoplasia",
-    "A remote benign ovarian cyst",
-    "A treated skin wart",
-    "Simple fibroadenoma"
+    "Cutaneous lipoma",
+    "GTN (Gestational Trophoblastic Neoplasia)",
+    "Simple follicular cyst",
+    "Benign breast fibroadenoma"
    ],
-   "ans": 0,
-   "exp": "GTN expands to gestational trophoblastic neoplasia in the source."
+   "ans": 1,
+   "exp": "Source (scan 218): '10. Cancer : Endometrium/Cervix/GTN (Gestational Trophoblastic Neoplasia).'"
   },
   {
    "id": "ch40-u3-q9",
@@ -599,15 +711,31 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "scenario",
-   "q": "The source's 'safe in' list includes severe hypertension ≥160/100. What qualification is essential?",
+   "q": "[Scenario] The bottom-left box `Tubal ligation safe in :` begins with `• BP ≥ 160/100`. What clinical qualification is required?",
    "opts": [
-    "Such a blood pressure never increases operative risk",
-    "Sterilisation may remain an option, but hypertension requires perioperative assessment and suitable arrangements",
-    "Severe hypertension is an indication for immediate unassessed surgery",
-    "The source removes all need to measure blood pressure"
+    "Preoperative blood-pressure measurement is omitted before elective tubal sterilisation",
+    "Severe uncontrolled hypertension is best treated with 50-mcg combined oral pills",
+    "Blood pressure of 180/110 mmHg carries zero anaesthetic risk and needs no monitoring",
+    "Unlike estrogen OCPs it is not banned, but BP ≥160/100 needs control and Category `S` care"
    ],
-   "ans": 1,
-   "exp": "Permanent-method eligibility does not mean uncontrolled disease is risk-free at the time of surgery."
+   "ans": 3,
+   "exp": "Source (scan 218): reconciles 'Tubal ligation safe in : • BP ≥ 160/100' with safe perioperative care (WHO MEC places BP ≥160/100 in Category S = Special arrangements)."
+  },
+  {
+   "id": "ch40-u3-q9a",
+   "sec": "Reasons to defer and timing of tubal ligation",
+   "unit": "Reasons to defer and timing of tubal ligation",
+   "page": 218,
+   "fmt": "fillup",
+   "q": "Alongside `BP ≥ 160/100`, the remaining four bullets in `Tubal ligation safe in :` on scan 218 are ____, ____, ____ and ____.",
+   "opts": [
+    "Current PID; puerperal sepsis; eclampsia; Hb <7 g/dL",
+    "Ongoing pregnancy; endometrial cancer; cervical cancer; GTN",
+    "HIV-positive patients; diabetics; breast cancer; smokers",
+    "Current MI; acute DVT; pulmonary embolism; APH/PPH"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 218): 'Tubal ligation safe in : • BP ≥ 160/100. • HIV positive patients. • Diabetics. • Breast cancer. • Smokers.'"
   },
   {
    "id": "ch40-u3-q10",
@@ -615,15 +743,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "odd",
-   "q": "Which is NOT in the source's tubal-ligation-safe group?",
+   "q": "Which condition requires postponement rather than belonging to `Tubal ligation safe in :` on scan 218?",
    "opts": [
-    "Diabetes",
+    "HIV-positive patients",
     "Breast cancer",
-    "Current puerperal sepsis",
-    "HIV positivity"
+    "Diabetics",
+    "Current puerperal sepsis"
    ],
-   "ans": 2,
-   "exp": "Smokers and hypertension are also named, subject to individual perioperative assessment; sepsis is in the delay group."
+   "ans": 3,
+   "exp": "Source (scan 218): puerperal sepsis is in 'Indications for delayed procedure' (item 7)."
   },
   {
    "id": "ch40-u3-q11",
@@ -631,15 +759,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "fillup",
-   "q": "Interval tubal ligation is for women not recently pregnant or at least ____ postpartum.",
+   "q": "Under `Timing of Tubal Ligation`, `Interval` ligation is done in females `not pregnant in the recent past` or `____ post-partum`.",
    "opts": [
-    "3 weeks",
-    "48 hours",
-    "8 days",
-    "6 weeks"
+    "≥3 weeks",
+    "8–41 days",
+    "≥6 weeks",
+    "≥48 hours"
    ],
-   "ans": 3,
-   "exp": "The source defines interval timing as ≥6 weeks after delivery or not recently pregnant."
+   "ans": 2,
+   "exp": "Source (scan 218): '• Interval : Done in females not pregnant in the recent past or ≥ 6 wks post-partum.'"
   },
   {
    "id": "ch40-u3-q12",
@@ -647,15 +775,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "fillup",
-   "q": "The source early-postpartum tubal-ligation window is at least ____ after delivery and within ____.",
+   "q": "Under `Timing of Tubal Ligation`, `Post-partum` ligation is done `____ of delivery & within ____ of delivery`.",
    "opts": [
-    "6 weeks; 6 months",
-    "24 hours; 1 week",
-    "1 hour; 48 hours",
-    "8 days; 41 days"
+    "≥24 hours; 1 week",
+    "≥6 weeks; 6 months",
+    "≥1 hour; 48 hours",
+    "8 days; 6 weeks"
    ],
-   "ans": 1,
-   "exp": "This is the source's programme timing; specific service protocols may differ."
+   "ans": 0,
+   "exp": "Source (scan 218): '• Post-partum : ≥ 24hrs of delivery & within 1 week of delivery.' (Indian MoHFW postpartum timing rule; many international protocols also perform immediate postpartum minilaparotomy within 48 hours.)"
   },
   {
    "id": "ch40-u3-q13",
@@ -663,15 +791,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "scenario",
-   "q": "A woman wants sterilisation during caesarean delivery and has valid prior informed consent. What timing is listed?",
+   "q": "[Scenario] A woman with valid prior informed consent undergoes caesarean delivery. What timing is listed under `During caesarian section` on scan 218?",
    "opts": [
-    "Only after a Huhner test",
-    "Never during abdominal surgery",
-    "Concurrently with caesarean section",
-    "Only after waiting six months in every case"
+    "Only after HSG at 12 weeks",
+    "Mandatory 6-month delay",
+    "Done concurrently",
+    "Contraindicated during abdominal delivery"
    ],
    "ans": 2,
-   "exp": "The source says it may be done concurrently; consent and medical suitability remain necessary."
+   "exp": "Source (scan 218): '• During caesarian section : Done concurrently.'"
   },
   {
    "id": "ch40-u3-q14",
@@ -679,15 +807,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "fillup",
-   "q": "Post-abortion/post-MTP sterilisation is allowed in the source provided ____ are fulfilled.",
+   "q": "`Post abortion/Post MTP` tubal ligation is allowed `Provided ____ fulfilled`.",
    "opts": [
-    "A positive pregnancy test six weeks later",
+    "Partner semen analysis is",
     "Medical eligibility criteria",
-    "A mandatory previous live male child rule",
-    "A mandatory male-partner semen test"
+    "A 1-year waiting rule is",
+    "Post-abortal fever is"
    ],
    "ans": 1,
-   "exp": "Medical eligibility, informed choice and applicable service safeguards determine suitability."
+   "exp": "Source (scan 218): '• Post abortion/Post MTP : Provided medical eligibility criteria fulfilled.' (Excludes post-abortal sepsis, severe haemorrhage, trauma or acute haematometra.)"
   },
   {
    "id": "ch40-u3-q15",
@@ -695,15 +823,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "fillup",
-   "q": "The best cycle-day window for interval tubal ligation in the source is ____.",
+   "q": "The highlighted final line of `Timing of Tubal Ligation` states `Best time : ____ of cycle`.",
    "opts": [
-    "Days 1–7",
-    "Days 21–26",
-    "Any day only after a positive LH kit",
-    "Days 12–14"
+    "D12–D14",
+    "Luteal phase after LH surge",
+    "D1–D7",
+    "D21–D26"
    ],
-   "ans": 0,
-   "exp": "The early-cycle timing helps avoid an unrecognised pregnancy; pregnancy exclusion remains important."
+   "ans": 2,
+   "exp": "Source (scan 218): 'Best time : D1–D7 of cycle' (early proliferative phase before ovulation)."
   },
   {
    "id": "ch40-u3-q16",
@@ -711,15 +839,15 @@
    "unit": "Reasons to defer and timing of tubal ligation",
    "page": 218,
    "fmt": "tf",
-   "q": "I) Days 8–41 postpartum are in the source's delay list. II) Interval sterilisation is described as possible from six weeks postpartum.",
+   "q": "Compare postpartum tubal-ligation timing on scan 218: I) `8–41 days (1–6 wks)` postpartum is in `Indications for delayed procedure`. II) `Interval` tubal ligation is performed at `≥6 wks` postpartum (or when not recently pregnant).",
    "opts": [
-    "Both true",
-    "Both false",
     "I true; II false",
-    "I false; II true"
+    "Both true",
+    "I false; II true",
+    "Both false"
    ],
-   "ans": 0,
-   "exp": "These two lines define complementary postpartum timing windows in the notes."
+   "ans": 1,
+   "exp": "Source (scan 218): directly links the 8–41 day deferral window with the ≥6-week interval start."
   },
   {
    "id": "ch40-u4-q1",
@@ -727,31 +855,31 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "match",
-   "q": "Match routes with timing: 1) Minilaparotomy 2) Laparoscopic ligation with A) Interval only in this source B) Postpartum or interval.",
+   "q": "Match `Timing` in row 1 of `ROUTES OF TUBAL LIGATION` on scan 219: 1) `Minilaparotomy` 2) `Laparoscopic Tubal Ligation` — A) `Only done as interval ligation` B) `Post partum` and `Interval ligation`.",
    "opts": [
-    "Both B",
-    "Both A",
     "1-B, 2-A",
-    "1-A, 2-B"
+    "Both B",
+    "1-A, 2-B",
+    "Both A"
    ],
-   "ans": 2,
-   "exp": "The source table allows minilaparotomy in both settings but confines its laparoscopic route to interval cases."
+   "ans": 0,
+   "exp": "Source (scan 219 / printed 211): Minilaparotomy lists '• Post partum • Interval ligation'; Laparoscopic Tubal Ligation lists '• Only done as interval ligation • m/c method'."
   },
   {
-   "id": "ch40-u4-q2",
+   "id": "ch40-u4-q1a",
    "sec": "Sterilisation routes, sutures, rings and historical Essure",
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The most common female sterilisation method named here is ____, whereas postpartum sterilisation most commonly uses ____.",
+   "q": "In row 1 under `Laparoscopic Tubal Ligation`, the second bullet marks it as the `____ method`.",
    "opts": [
-    "Laparoscopic tubal ligation; minilaparotomy",
-    "Vasectomy; IUD insertion",
-    "Hysteroscopic Essure; laparoscopy",
-    "Minilaparotomy; hysteroscopic Essure"
+    "Postpartum-only",
+    "Most common (`m/c`)",
+    "Transcervical",
+    "Obsolete"
    ],
-   "ans": 0,
-   "exp": "The final note contrasts the overall and postpartum methods."
+   "ans": 1,
+   "exp": "Source (scan 219): '• m/c method.'"
   },
   {
    "id": "ch40-u4-q3",
@@ -759,15 +887,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The source avoids laparoscopic ligation postpartum because of the risk of ____.",
+   "q": "In row 2 (`C/Is`), `Laparoscopic Tubal Ligation` is contraindicated `Post partum` due to `(Risk of ____)`, whereas `Minilaparotomy` prints `-`.",
    "opts": [
-    "Increased AMH",
-    "CFTR mutation",
     "Uterine perforation",
-    "Eosin uptake"
+    "Ovarian hyperstimulation",
+    "Copper toxicity",
+    "Hyperkalaemia"
    ],
-   "ans": 2,
-   "exp": "The enlarged postpartum uterus is the context for the stated perforation concern."
+   "ans": 0,
+   "exp": "Source (scan 219): '• Post partum (Risk of uterine perforation)'."
   },
   {
    "id": "ch40-u4-q4",
@@ -775,15 +903,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The other laparoscopic-ligation contraindication listed in the route table is ____.",
+   "q": "The second bullet under `Laparoscopic Tubal Ligation → C/Is` on scan 219 is ____.",
    "opts": [
-    "Prior oral contraception alone",
-    "Nulliparity by itself in every adult",
-    "A remote first-trimester loss without complications",
-    "Second-trimester abortion"
+    "2nd-trimester abortion",
+    "Uncomplicated 6-week interval visit",
+    "Past barrier-method use",
+    "Day 3 of menses"
    ],
-   "ans": 3,
-   "exp": "Second-trimester abortion is explicitly written alongside postpartum status."
+   "ans": 0,
+   "exp": "Source (scan 219): '• 2nd trimester abortion.'"
   },
   {
    "id": "ch40-u4-q5",
@@ -791,15 +919,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "match",
-   "q": "Match minilaparotomy incision sites: 1) Interval 2) Postpartum with A) 2 cm below umbilicus B) 2 cm above pubic symphysis.",
+   "q": "Match `1. Incision` sites under `Minilaparotomy → Techniques` (with the two uterine-level diagrams): 1) `Interval ligation` 2) `Postpartum` — A) `2 cm below umbilicus` B) `2 cm above pubic symphysis`.",
    "opts": [
     "Both A",
     "Both B",
-    "1-B, 2-A",
-    "1-A, 2-B"
+    "1-A, 2-B",
+    "1-B, 2-A"
    ],
-   "ans": 2,
-   "exp": "The postpartum uterus lies higher; the diagram contrasts the two access sites."
+   "ans": 3,
+   "exp": "Source (scan 219): 'Interval ligation → 2cm above pubic symphysis' and 'Postpartum → 2cm below umbilicus'."
   },
   {
    "id": "ch40-u4-q6",
@@ -807,15 +935,31 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The loop ligated in the illustrated Pomeroy-type technique is from the tubal ____.",
+   "q": "Under `2.` of `Minilaparotomy → Techniques`, a `Loop of ____ of fallopian tube` is raised for ligation.",
    "opts": [
-    "Fimbrial fringe",
-    "Infundibular ostium only",
     "Isthmus",
-    "Interstitial uterine cavity"
+    "Infundibulum",
+    "Fimbria",
+    "Cornual cavity"
    ],
-   "ans": 2,
-   "exp": "The technique raises a loop of isthmus and uses absorbable suture."
+   "ans": 0,
+   "exp": "Source (scan 219): '2. Loop of isthmus of fallopian tube'."
+  },
+  {
+   "id": "ch40-u4-q6a",
+   "sec": "Sterilisation routes, sutures, rings and historical Essure",
+   "unit": "Sterilisation routes, sutures, rings and historical Essure",
+   "page": 219,
+   "fmt": "fillup",
+   "q": "In the `Minilaparotomy` diagram on scan 219, the isthmic loop is `Ligated using ____ sutures`, and as `____ dissolves` the cut tubal ends retract apart.",
+   "opts": [
+    "Braided permanent; silk",
+    "Non-absorbable; polypropylene",
+    "Metallic; titanium wire",
+    "Absorbable; catgut"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 219): 'Ligated using absorbable sutures' above the 3-step sketch labelled 'Catgut dissolves'."
   },
   {
    "id": "ch40-u4-q7",
@@ -823,15 +967,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "match",
-   "q": "Match source suture choices: 1) Pomeroy 2) Modified Pomeroy with A) Plain catgut B) Chromic catgut.",
+   "q": "Match suture materials printed under `Minilaparotomy → Techniques` on scan 219: 1) `Pomeroy` 2) `Modified Pomeroy` — A) `Plain catgut` B) `Chromic catgut`.",
    "opts": [
-    "1-A, 2-B",
     "1-B, 2-A",
     "Both B",
+    "1-A, 2-B",
     "Both A"
    ],
-   "ans": 1,
-   "exp": "The comparison assigns chromic to Pomeroy and plain to modified Pomeroy."
+   "ans": 0,
+   "exp": "Source (scan 219): prints 'Pomeroy : Chromic catgut' and 'Modified Pomeroy : Plain catgut'. (Clarification: classic surgical texts originally described Pomeroy with plain catgut and several modified variants with chromic catgut; this item reflects the Marrow table's exact assignment.)"
   },
   {
    "id": "ch40-u4-q8",
@@ -839,15 +983,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The notes explain the modified Pomeroy advantage as faster suture absorption with reduced ____.",
+   "q": "Beside `Modified Pomeroy : Plain catgut`, the parenthetical explanation reads `(Faster absorption : ↓ ____)`.",
    "opts": [
-    "Seminal liquefaction",
-    "Recanalisation",
+    "Ovulation",
+    "Menstruation",
     "Ovarian reserve",
-    "Ovulation"
+    "Recanalization"
    ],
-   "ans": 1,
-   "exp": "Faster separation of the cut ends is the source's mechanism for lower recanalisation risk."
+   "ans": 3,
+   "exp": "Source (scan 219): '(Faster absorption : ↓Recanalization)'."
   },
   {
    "id": "ch40-u4-q9",
@@ -855,15 +999,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The ring named for laparoscopic ligation in India is the ____ ring, applied to the ____.",
+   "q": "Under `Laparoscopic Tubal Ligation → Rings`, the device used `In India` is `____ rings`, applied at the ____ of the fallopian tube.",
    "opts": [
+    "Fallope; isthmus",
     "Cook; ampulla",
-    "Rubin; fimbria",
-    "Prader; cervix",
-    "Fallope; isthmus"
+    "Hulka; cervix",
+    "Rubin; fimbria"
    ],
-   "ans": 3,
-   "exp": "The ring is applied using the laparoscopic ring applicator illustrated in the table."
+   "ans": 0,
+   "exp": "Source (scan 219): 'In India : Fallope rings' and diagram caption 'Fallope ring applied at isthmus of fallopian tube using ring applicator'."
   },
   {
    "id": "ch40-u4-q10",
@@ -871,15 +1015,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "Outside India, the source names ____ and ____ clips.",
+   "q": "Beside `In India : Fallope rings`, the branch `Outside India :` names ____ and ____ clips.",
    "opts": [
-    "Hulka; Filshie",
-    "Cook; Karman",
     "Rubin; Novak",
+    "Karman; Leech-Wilkinson",
+    "Hulka; Filshie",
     "Prader; Endtz"
    ],
-   "ans": 0,
-   "exp": "These are tubal occlusion clips, not dye cannulae or sperm assays."
+   "ans": 2,
+   "exp": "Source (scan 219): 'Outside India : Hulka/Filshie clips.'"
   },
   {
    "id": "ch40-u4-q11",
@@ -887,15 +1031,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The rings on the extended-tip applicator diagrams are made of ____.",
+   "q": "In the three applicator-tip sketches at the bottom-right of the table, `Extended tip (ET)` is shown alone, with `(1)`, and with `(2)` `____ rings`.",
    "opts": [
+    "Plain-catgut",
     "Silastic",
     "Copper",
-    "Stainless steel only",
-    "Plain catgut"
+    "Stainless-steel"
    ],
-   "ans": 0,
-   "exp": "The figures label extended tip alone, with one silastic ring, and with two rings."
+   "ans": 1,
+   "exp": "Source (scan 219): 'Extended tip (ET)', 'ET with (1) silastic rings', 'ET with (2) silastic rings'."
   },
   {
    "id": "ch40-u4-q12",
@@ -903,15 +1047,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "scenario",
-   "q": "The illustrations show an extended tip with one or two rings. Which instrument is being depicted?",
+   "q": "[Scenario] An operating-room instrument diagram shows two ring-handled shafts and zoomed tips carrying `(1)` or `(2)` silastic rings. How is it captioned on scan 219?",
    "opts": [
-    "Laparoscopic tubal ring applicator",
-    "Leech Wilkinson HSG cannula",
-    "Embryo transfer catheter",
-    "Prader orchidometer"
+    "`Prader orchidometer`",
+    "`Lap. tubal ring applicator`",
+    "`Rubin's cannula`",
+    "`Leech Wilkinson cannula`"
    ],
-   "ans": 0,
-   "exp": "The labelled configurations belong to the ring applicator."
+   "ans": 1,
+   "exp": "Source (scan 219): captioned 'Lap. tubal ring applicator'."
   },
   {
    "id": "ch40-u4-q13",
@@ -919,15 +1063,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "Essure is a historical ____ method of permanent tubal occlusion.",
+   "q": "Under `HYSTEROSCOPIC TUBAL OCCLUSION` (`Permanent method`), `Essure` is a historical ____ permanent occlusion coil (withdrawn commercially by 2018).",
    "opts": [
-    "Transrectal",
     "Intramuscular",
-    "Oral",
+    "Transrectal",
+    "Subdermal",
     "Hysteroscopic"
    ],
    "ans": 3,
-   "exp": "The source describes a hysteroscopically introduced coiled device; it is no longer marketed for new insertion in many settings."
+   "exp": "Source (scan 219): 'HYSTEROSCOPIC TUBAL OCCLUSION / Permanent method / Technique : Essure'. Clarification: Essure was withdrawn worldwide by 2018 due to chronic pelvic pain, perforation and migration reports, so it is studied strictly for exam recall."
   },
   {
    "id": "ch40-u4-q14",
@@ -935,15 +1079,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "match",
-   "q": "Match Essure materials: 1) Outer coil 2) Inner coil with A) Stainless steel B) Nickel/titanium.",
+   "q": "Match `Essure : Coiled device made of` layers on scan 219: 1) `Outer` 2) `Inner` — A) `Stainless steel` B) `Nickel + Titanium`.",
    "opts": [
-    "1-B, 2-A",
-    "Both B",
     "1-A, 2-B",
+    "Both B",
+    "1-B, 2-A",
     "Both A"
    ],
-   "ans": 0,
-   "exp": "These are the source's outer/inner material labels."
+   "ans": 2,
+   "exp": "Source (scan 219): 'Outer : Nickel + Titanium. ; Inner : Stainless steel.' (Stray text 'tubul blockage.' also appears next to 'Stainless steel.' beside the coil photo.)"
   },
   {
    "id": "ch40-u4-q15",
@@ -951,15 +1095,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "Essure is placed in the ____ part of the fallopian tube.",
+   "q": "In the `Essure` diagram, the micro-insert is introduced into the `____ part of fallopian tube hysteroscopically`.",
    "opts": [
+    "Intramural",
     "Ampullary",
     "Free peritoneal",
-    "Fimbrial",
-    "Intramural"
+    "Fimbrial"
    ],
-   "ans": 3,
-   "exp": "The coil is introduced hysteroscopically into the intramural tubal segment."
+   "ans": 0,
+   "exp": "Source (scan 219): 'Essure device introduced into intramural part of fallopian tube hysteroscopically.'"
   },
   {
    "id": "ch40-u4-q16",
@@ -967,15 +1111,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "match",
-   "q": "Order the source Essure mechanism: A) Occlusion B) Inflammation C) Adhesions.",
+   "q": "Place the three steps of the `Essure` occlusion cascade on scan 219 in sequence: A) `Occlusion` B) `Inflammation` C) `Adhesions`.",
    "opts": [
     "B-C-A",
-    "A-B-C",
+    "B-A-C",
     "C-A-B",
-    "B-A-C"
+    "A-B-C"
    ],
    "ans": 0,
-   "exp": "Local inflammation is followed by adhesions and tubal blockage."
+   "exp": "Source (scan 219): '→ Inflammation → Adhesions → Occlusion'."
   },
   {
    "id": "ch40-u4-q17",
@@ -983,15 +1127,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "The source quotes Essure success as ____, with backup required for ____.",
+   "q": "Scan 219 lists Essure `Advantage : ____ success rate` and `Disadvantage : Requires backup method × ____`.",
    "opts": [
-    "20%; 1 day",
-    "80%; 1 year",
-    "50%; 1 week",
-    "99%; 3 months"
+    "85%; 1 year",
+    "99%; 3 months",
+    "50%; 7 days",
+    "75%; 48 hours"
    ],
-   "ans": 3,
-   "exp": "The procedure is historical and not immediately effective; the source specifies a three-month backup interval."
+   "ans": 1,
+   "exp": "Source (scan 219): 'Advantage : 99% success rate . Disadvantage : Requires backup method × 3 months'."
   },
   {
    "id": "ch40-u4-q18",
@@ -999,15 +1143,15 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "fillup",
-   "q": "After the historical Essure backup interval, ____ confirms complete tubal blockage.",
+   "q": "Following the 3-month backup period for Essure on scan 219, `F/b → ____ to confirm complete tubul blockage`.",
    "opts": [
+    "Serum progesterone",
     "HSG",
-    "AMH",
-    "Huhner testing",
-    "Serum progesterone"
+    "Postcoital test",
+    "Serum AMH"
    ],
-   "ans": 0,
-   "exp": "Confirmation of occlusion is required before relying on the method in the source protocol."
+   "ans": 1,
+   "exp": "Source (scan 219): 'Requires backup method × 3 months F/b → HSG to confirm complete tubul blockage.'"
   },
   {
    "id": "ch40-u4-q19",
@@ -1015,15 +1159,31 @@
    "unit": "Sterilisation routes, sutures, rings and historical Essure",
    "page": 219,
    "fmt": "tf",
-   "q": "I) The source's Essure pathway gives immediate contraception without confirmation. II) It requires backup and later HSG.",
+   "q": "Evaluate the `HYSTEROSCOPIC TUBAL OCCLUSION` section on scan 219: I) Essure provides immediate day-1 sterilisation without any backup contraception or imaging check. II) Scan 219 requires `backup method × 3 months` followed by `HSG` to confirm complete tubal blockage (and clinically Essure has been withdrawn from the market).",
    "opts": [
-    "I false; II true",
-    "Both true",
+    "Both false",
     "I true; II false",
-    "Both false"
+    "Both true",
+    "I false; II true"
+   ],
+   "ans": 3,
+   "exp": "Source (scan 219): tests the 3-month backup + HSG confirmation requirement alongside its current withdrawn clinical status."
+  },
+  {
+   "id": "ch40-u4-q2",
+   "sec": "Sterilisation routes, sutures, rings and historical Essure",
+   "unit": "Sterilisation routes, sutures, rings and historical Essure",
+   "page": 219,
+   "fmt": "fillup",
+   "q": "In the closing `Note : m/c method of` at the bottom of scan 219, overall `Female sterilization` uses ____, whereas `Post partum sterilization` uses ____.",
+   "opts": [
+    "Laparoscopic tubal ligation; Mini Laparotomy",
+    "Vasectomy; Copper IUCD",
+    "Hysteroscopic Essure; Laparoscopy",
+    "Mini Laparotomy; Essure"
    ],
    "ans": 0,
-   "exp": "The need for delayed confirmation is the stated disadvantage."
+   "exp": "Source (scan 219): 'Note : m/c method of → { Female sterilization : Laparoscopic tubal ligation. ; Post partum sterilization : Mini Laparotomy. }'"
   },
   {
    "id": "ch40-u5-q1",
@@ -1031,15 +1191,31 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "Emergency contraceptives are also called ____ in this source.",
+   "q": "At the top of scan 220, `Emergency contraceptives` are given the synonym `AKA ____`.",
    "opts": [
-    "Ovulation promoters",
-    "Implant stimulants",
-    "Abortifacients as a class",
+    "Abortifacients",
+    "Ovulation triggers",
+    "Tocolytics",
     "Interceptives"
    ],
    "ans": 3,
-   "exp": "Interceptives is the alternate heading; LNG specifically is not an abortifacient."
+   "exp": "Source (scan 220 / printed 212): 'Emergency contraceptives / AKA Interceptives.'"
+  },
+  {
+   "id": "ch40-u5-q1a",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "The three bullets under `Indications :` on scan 220 are ____, ____ and ____.",
+   "opts": [
+    "Confirmed intrauterine pregnancy; planned conception; HSG",
+    "After unprotected intercourse; rape victim; condom rupture",
+    "Postmenopausal HRT; luteal support; Asherman syndrome",
+    "Heavy menstrual bleeding; hirsutism; Turner syndrome"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 220): 'Indications : • After unprotected intercourse. • Rape victim. • Condom rupture.'"
   },
   {
    "id": "ch40-u5-q2",
@@ -1047,15 +1223,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "odd",
-   "q": "Which is NOT one of the source's emergency-contraception indications?",
+   "q": "Which is NOT one of the `Indications :` for emergency contraception on scan 220?",
    "opts": [
+    "After unprotected intercourse",
     "Condom rupture",
-    "Unprotected intercourse",
-    "Routine treatment of established intrauterine pregnancy",
-    "Sexual assault with pregnancy risk"
+    "Rape victim",
+    "Established intrauterine pregnancy"
    ],
-   "ans": 2,
-   "exp": "Emergency contraception prevents pregnancy; it does not terminate an established pregnancy."
+   "ans": 3,
+   "exp": "Source (scan 220): EC prevents pregnancy prior to implantation and cannot terminate an established pregnancy."
   },
   {
    "id": "ch40-u5-q3",
@@ -1063,111 +1239,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The source's general emergency timing is ideally within ____ and up to ____ depending on method.",
+   "q": "Under `Timing :` on scan 220, emergency contraception is `Ideal : Within ____` and `Can be given : upto ____`.",
    "opts": [
-    "24 hours; 48 hours",
     "3 weeks; 6 weeks",
-    "7 days; 14 days",
-    "72 hours; 120 hours"
-   ],
-   "ans": 3,
-   "exp": "Method-specific limits follow; a general window should not be applied identically to every product."
-  },
-  {
-   "id": "ch40-u5-q4",
-   "sec": "Emergency contraception: mechanisms, timing and regimens",
-   "unit": "Emergency contraception: mechanisms, timing and regimens",
-   "page": 220,
-   "fmt": "fillup",
-   "q": "The most commonly used emergency pill named is ____ (i-pill).",
-   "opts": [
-    "Danazol",
-    "Desogestrel minipill",
-    "Levonorgestrel",
-    "Misoprostol"
+    "24 hours; 48 hours",
+    "72 hours; 120 hours",
+    "7 days; 14 days"
    ],
    "ans": 2,
-   "exp": "LNG is the common-use agent in the source, distinct from the most effective options."
-  },
-  {
-   "id": "ch40-u5-q5",
-   "sec": "Emergency contraception: mechanisms, timing and regimens",
-   "unit": "Emergency contraception: mechanisms, timing and regimens",
-   "page": 220,
-   "fmt": "fillup",
-   "q": "The source restricts LNG emergency use to ____ hours.",
-   "opts": [
-    "12",
-    "24",
-    "240",
-    "72"
-   ],
-   "ans": 3,
-   "exp": "This is the source's limit. Some current guidance allows use later with reduced efficacy; more effective alternatives may be preferred."
-  },
-  {
-   "id": "ch40-u5-q6",
-   "sec": "Emergency contraception: mechanisms, timing and regimens",
-   "unit": "Emergency contraception: mechanisms, timing and regimens",
-   "page": 220,
-   "fmt": "match",
-   "q": "Order the LNG mechanism: A) Delayed ovulation B) Delayed LH surge.",
-   "opts": [
-    "B-A",
-    "Neither affects ovulation",
-    "A-B",
-    "Both are permanent tubal occlusion"
-   ],
-   "ans": 0,
-   "exp": "Delaying the LH surge delays ovulation; the source also lists delayed fertilisation."
-  },
-  {
-   "id": "ch40-u5-q7",
-   "sec": "Emergency contraception: mechanisms, timing and regimens",
-   "unit": "Emergency contraception: mechanisms, timing and regimens",
-   "page": 220,
-   "fmt": "tf",
-   "q": "I) The source describes LNG as having no effect on implantation. II) It describes LNG as an abortifacient.",
-   "opts": [
-    "Both true",
-    "Both false",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 2,
-   "exp": "Both explicit notes distinguish emergency LNG from termination of an established pregnancy."
-  },
-  {
-   "id": "ch40-u5-q8",
-   "sec": "Emergency contraception: mechanisms, timing and regimens",
-   "unit": "Emergency contraception: mechanisms, timing and regimens",
-   "page": 220,
-   "fmt": "fillup",
-   "q": "The overall most effective emergency method named is ____, and the most effective hormonal option named is ____.",
-   "opts": [
-    "Copper IUCD; ulipristal",
-    "Mirena; misoprostol",
-    "LNG; desogestrel minipill",
-    "Combined OCP; danazol"
-   ],
-   "ans": 0,
-   "exp": "The source separates device and hormonal efficacy comparisons."
-  },
-  {
-   "id": "ch40-u5-q9",
-   "sec": "Emergency contraception: mechanisms, timing and regimens",
-   "unit": "Emergency contraception: mechanisms, timing and regimens",
-   "page": 220,
-   "fmt": "fillup",
-   "q": "The copper-IUCD emergency entry says it acts ____ and prevents ____.",
-   "opts": [
-    "After three months; spermatogenesis",
-    "Immediately; implantation",
-    "Only after menstruation; cervical stenosis",
-    "After one year; ovarian reserve loss"
-   ],
-   "ans": 1,
-   "exp": "This is the source wording; copper IUDs predominantly prevent fertilisation and are not used to terminate established pregnancy."
+   "exp": "Source (scan 220): 'Timing : • Ideal : Within 72 hrs. • Can be given : upto 120 hrs.'"
   },
   {
    "id": "ch40-u5-q10",
@@ -1175,15 +1255,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The emergency-pill failure rate quoted in the source is ____.",
+   "q": "Directly below `Timing` on scan 220, the quoted `Failure rate` is `____`.",
    "opts": [
-    "30%",
+    "11%",
     "50%",
-    "1.1%",
-    "11%"
+    "30%",
+    "1.1%"
    ],
-   "ans": 2,
-   "exp": "This is the source figure, not a guarantee for every agent, timing or patient."
+   "ans": 3,
+   "exp": "Source (scan 220): 'Failure rate : 1.1%' (approximate oral LNG EC failure figure; Cu-IUCD is <0.1% and ulipristal ~0.9–1.4%)."
   },
   {
    "id": "ch40-u5-q11",
@@ -1191,15 +1271,143 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "scenario",
-   "q": "Pregnancy occurs despite emergency contraception. Which distinction reflects the source's reassurance?",
+   "q": "[Scenario] Beside `Failure rate : 1.1%`, an arrow reads `In accidental pregnancy : No risk of • Teratogenicity • Ectopic pregnancy`. How should this be applied clinically if pregnancy occurs despite EC?",
    "opts": [
-    "Failed emergency contraception confirms an ectopic pregnancy irrespective of symptoms",
-    "LNG exposure is not expected to increase malformations; assess pregnancy location normally",
-    "Failed emergency contraception confirms an intrauterine pregnancy without imaging",
-    "LNG exposure requires termination because structural malformations are expected"
+    "Reassure against teratogenic or added ectopic risk, while still confirming intrauterine site",
+    "Omit early pelvic ultrasound because ectopic gestation is biologically impossible",
+    "Administer empirical systemic methotrexate before checking beta-hCG or ultrasound",
+    "Recommend immediate medical termination because oral LNG causes major limb defects"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 220): captures both bullets ('No risk of • Teratogenicity • Ectopic pregnancy') with safe clinical follow-up context."
+  },
+  {
+   "id": "ch40-u5-q4",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "The `m/c used` emergency pill on scan 220 is `____ (i-pill)`.",
+   "opts": [
+    "Desogestrel minipill",
+    "Danazol",
+    "Levonorgestrel",
+    "Misoprostol"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 220): 'Levonorgestrel (i-pill) : • m/c used.'"
+  },
+  {
+   "id": "ch40-u5-q5",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "Under `Levonorgestrel (i-pill)`, scan 220 writes `Only used upto ____` hours.",
+   "opts": [
+    "12",
+    "240",
+    "72",
+    "24"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 220): '• Only used upto 72 hrs.' (Clarification: efficacy is highest ≤72 h; if ulipristal/Cu-IUD are unavailable between 72 and 120 h, some guidelines still permit LNG with counselled lower efficacy.)"
+  },
+  {
+   "id": "ch40-u5-q6",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "match",
+   "q": "Order the primary `Levonorgestrel (i-pill)` mechanism arrow (`1.`) on scan 220: A) `Delays ovulation` B) `Delays LH surge`.",
+   "opts": [
+    "B-A",
+    "A-B",
+    "Both cause tubal fibrosis",
+    "Neither affects ovulation"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 220): '1. Delays LH surge → Delays ovulation.'"
+  },
+  {
+   "id": "ch40-u5-q6a",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "Alongside `1. Delays LH surge → Delays ovulation`, item `2.` under `Levonorgestrel (i-pill) → Mechanism of action` states `Delays ____`.",
+   "opts": [
+    "Menarche",
+    "Fertilization",
+    "Implantation of blastocyst",
+    "Trophoblastic invasion"
    ],
    "ans": 1,
-   "exp": "The source says no teratogenicity or ectopic-risk increase; it must not be read as excluding ectopic pregnancy in an individual."
+   "exp": "Source (scan 220): '2. Delays fertilization.'"
+  },
+  {
+   "id": "ch40-u5-q7",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "tf",
+   "q": "Evaluate `Note : LNG` on scan 220: I) LNG has `No effect on implantation`. II) LNG acts as an `abortifacient`.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "I true; II false",
+    "Both true"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 220): 'Note : LNG → { No effect on implantation. ; Not an abortifacient. }'"
+  },
+  {
+   "id": "ch40-u5-q8",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "On scan 220, `Most effective : ____` is contrasted with `Hormonal : ____` (most effective oral/hormonal EC).",
+   "opts": [
+    "LNG; desogestrel",
+    "Cu-IUCD; ulipristal",
+    "Combined OCP; danazol",
+    "Mirena; misoprostol"
+   ],
+   "ans": 1,
+   "exp": "Source (scan 220): 'Most effective : Cu-IUCD ... Hormonal : Ulipristal'."
+  },
+  {
+   "id": "ch40-u5-q9",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "The two bullets directly under `Most effective : Cu-IUCD` state that it `Acts ____` and `Prevents ____`.",
+   "opts": [
+    "Immediately; implantation",
+    "After 7 days; ovarian reserve loss",
+    "After menses; cervical stenosis",
+    "After 3 months; spermatogenesis"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 220): 'Most effective : Cu-IUCD • Acts immediately • Prevents implantation.' (Clarification: copper ions also exert a potent pre-fertilisation gamete-toxic effect in addition to preventing implantation.)"
+  },
+  {
+   "id": "ch40-u5-q9a",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "scenario",
+   "q": "Source-check: on scan 220, a right-hand bracket spanning `Cu-IUCD` and `Hormonal : Ulipristal` points to `• Prescription : Not required • Can be used multiple times • No teratogenicity`. What clarification is needed?",
+   "opts": [
+    "Those points describe oral ECPs (OTC LNG); Cu-IUCD needs clinician insertion and Rx rules vary",
+    "Patients routinely self-insert copper T 380A devices over the counter several times monthly",
+    "Repeated postcoital ECP dosing in every cycle is more effective than subdermal implants",
+    "Single-dose ulipristal acetate causes severe congenital heart defects in accidental pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Source (scan 220): explicitly audits the mis-attached bracket while recording all three printed bullets (Cu-IUCD requires trained provider insertion, and ulipristal requires a prescription in many countries)."
   },
   {
    "id": "ch40-u5-q12",
@@ -1207,15 +1415,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "If vomiting occurs within ____ of an emergency pill in the source, the course is repeated.",
+   "q": "Scan 220 states: `Patient vomits ≤ ____ of taking pill : Repeat course`.",
    "opts": [
-    "1 hour",
-    "7 days",
     "12 hours",
-    "24 hours"
+    "7 days",
+    "24 hours",
+    "1 hour"
    ],
-   "ans": 0,
-   "exp": "This is the source's one-hour instruction; actual redosing thresholds depend on the product."
+   "ans": 3,
+   "exp": "Source (scan 220): 'Patient vomits ≤ 1 hr of taking pill : Repeat course.' (WHO/CDC/FSRH product guidance generally repeats oral EC if vomiting occurs within 2–3 hours.)"
   },
   {
    "id": "ch40-u5-q13",
@@ -1223,15 +1431,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The single-dose LNG emergency regimen written here is ____.",
+   "q": "Under `Drugs used : 1. Levonorgestrel (LNG) – Plan B method`, the single-dose regimen is ____.",
    "opts": [
-    "1.5 mg orally",
-    "0.15 mg orally",
-    "75 micrograms orally",
-    "15 mg intramuscularly"
+    "1.5 mg single dose",
+    "75 mcg orally",
+    "15 mg intramuscularly",
+    "0.15 mg single dose"
    ],
    "ans": 0,
-   "exp": "The dose is milligrams, not the microgram dose used for regular POPs."
+   "exp": "Source (scan 220): '• Dose : 1.5 mg single dose or 0.75 mg → 12hrs later → 0.75 mg.'"
   },
   {
    "id": "ch40-u5-q14",
@@ -1239,15 +1447,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The split-dose LNG alternative is ____ followed after ____ by the same dose.",
+   "q": "In the split-dose `Plan B` regimen on scan 220, `____` is followed `____ later` by `0.75 mg`.",
    "opts": [
     "0.075 mg; 7 days",
     "0.75 mg; 12 hours",
-    "1.5 mg; 1 hour",
-    "75 mg; 24 hours"
+    "75 mg; 24 hours",
+    "1.5 mg; 1 hour"
    ],
    "ans": 1,
-   "exp": "Two 0.75-mg doses sum to the 1.5-mg total in the source regimen."
+   "exp": "Source (scan 220): 'or 0.75 mg → 12hrs later → 0.75 mg.'"
   },
   {
    "id": "ch40-u5-q15",
@@ -1255,15 +1463,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The source says LNG emergency contraception can be obtained without ____ and can be used ____.",
+   "q": "Both the right-hand EC bracket and `1. Levonorgestrel (LNG) – Plan B method` state that ____ is required, and oral EC can be used ____.",
    "opts": [
-    "A partner's sperm count; only after delivery",
-    "A prescription; more than once",
-    "A pregnancy test under any circumstances; only once in life",
-    "Any clinical advice ever; as a replacement for all routine contraception"
+    "Psychiatric clearance; only postpartum",
+    "Inpatient admission; once in a lifetime",
+    "No prescription; multiple times",
+    "Baseline HSG; daily as routine contraception"
    ],
-   "ans": 1,
-   "exp": "The source notes no prescription and repeat use. Regular contraception is usually more effective for ongoing prevention; local access rules differ by product."
+   "ans": 2,
+   "exp": "Source (scan 220): '• No prescription required' and '• Can be used multiple times' (though ongoing regular contraception is far more effective than repeated ECP use)."
   },
   {
    "id": "ch40-u5-q16",
@@ -1271,15 +1479,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The combined-OCP emergency regimen is called the ____ method.",
+   "q": "Item `2.` under `Drugs used` names the combined-OCP emergency regimen: `OCPs – ____ method`.",
    "opts": [
-    "Huhner",
-    "Pomeroy",
     "Yuzpe",
-    "Rubin"
+    "Huhner",
+    "Rubin",
+    "Pomeroy"
    ],
-   "ans": 2,
-   "exp": "Yuzpe uses combined hormonal doses repeated twelve hours later."
+   "ans": 0,
+   "exp": "Source (scan 220): '2. OCPs – Yuzpe method'."
   },
   {
    "id": "ch40-u5-q17",
@@ -1287,15 +1495,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "scenario",
-   "q": "Source-check: the Yuzpe line writes 100 micrograms EE plus 0.5 mg 'progesterone'. Which correction is necessary before applying a regimen?",
+   "q": "Source-check: the `Yuzpe method` bullet writes `100 mcg EE + 0.5mg Progesterone`. What hormonal clarification is needed?",
    "opts": [
-    "The progestin is levonorgestrel, not interchangeable progesterone",
-    "Any 0.5-mg steroid has identical efficacy",
-    "The dose describes intramuscular DMPA",
-    "EE alone at any dose is the same regimen"
+    "Standard Yuzpe uses `100 mcg EE + 0.5 mg levonorgestrel`, not natural progesterone",
+    "Standard Yuzpe dosing is injected intramuscularly rather than taken as oral pills",
+    "Oral ethinyl estradiol alone without any progestin constitutes the Yuzpe regimen",
+    "Any 0.5-mg micronised natural progesterone capsule provides identical EC efficacy"
    ],
    "ans": 0,
-   "exp": "The standard Yuzpe concept uses EE plus LNG; the handwritten generic hormone name must not be treated as a prescription."
+   "exp": "Source (scan 220): separates the shorthand '0.5mg Progesterone' from standard EE + levonorgestrel (or 1.0 mg dl-norgestrel) Yuzpe composition."
   },
   {
    "id": "ch40-u5-q18",
@@ -1303,15 +1511,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The repeat interval in the Yuzpe regimen is ____.",
+   "q": "In `2. OCPs – Yuzpe method`, the `Repeat dose` interval printed across all three arrows is ____ later.",
    "opts": [
+    "3 days",
     "12 hours",
-    "1 hour",
     "3 months",
-    "3 days"
+    "1 hour"
    ],
-   "ans": 0,
-   "exp": "The same twelve-hour interval is printed beside the hormonal dose and pill-count arrows."
+   "ans": 1,
+   "exp": "Source (scan 220): '12hrs later → Repeat dose'."
   },
   {
    "id": "ch40-u5-q19",
@@ -1319,15 +1527,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "scenario",
-   "q": "Source-check: the page says high-dose pills need four tablets and low-dose pills two. What is the problem?",
+   "q": "Source-check: under Yuzpe `↓ Dosing`, scan 220 prints `High dose : 4 pills → 12hrs later → 4 pills` and `Low dose : 2 pills → 12hrs later → 2 pills`. Why must this be flagged?",
    "opts": [
-    "No repeat dose is ever needed",
-    "The counts appear reversed; tablet number must be calculated from the actual EE/LNG content",
-    "Low-dose tablets always contain more hormone than high-dose tablets",
-    "Four tablets can be used for every formulation without checking"
+    "Counts are inverted: 100 mcg EE needs `2 + 2` high-dose (50-mcg) vs `4 + 4` low-dose pills",
+    "Low-dose pills contain double the ethinyl estradiol of high-dose 50-mcg tablets",
+    "Standard Yuzpe dosing omits the 12-hour repeat dose when low-dose pills are used",
+    "Four high-dose 50-mcg ethinyl estradiol tablets contain only 25 mcg EE in total"
    ],
-   "ans": 1,
-   "exp": "Equal target hormone doses generally require more lower-strength tablets. Do not teach the reversed handwritten count as safe dosing."
+   "ans": 0,
+   "exp": "Source (scan 220): flags the reversed 4+4 vs 2+2 tablet numbers so reversed dosing is never applied clinically."
   },
   {
    "id": "ch40-u5-q20",
@@ -1335,15 +1543,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "The ulipristal acetate emergency dose is ____ orally.",
+   "q": "Under `3. Ulipristal acetate`, the emergency `Dose` is `____, OD` (single oral dose).",
    "opts": [
-    "30 mg once",
-    "3 mg hourly",
-    "75 micrograms daily",
-    "300 mg weekly"
+    "3 mg",
+    "30 mg",
+    "75 mcg",
+    "300 mg"
    ],
-   "ans": 0,
-   "exp": "The source writes 30 mg OD in the emergency setting; this means a single emergency dose, not indefinite daily use."
+   "ans": 1,
+   "exp": "Source (scan 220): '3. Ulipristal acetate : • Dose : 30 mg, OD.'"
   },
   {
    "id": "ch40-u5-q21",
@@ -1351,15 +1559,31 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "fillup",
-   "q": "Compared with LNG, ulipristal is described as ____ effective.",
+   "q": "Compared with `LNG`, `3. Ulipristal acetate` is stated to be `____ effective`.",
    "opts": [
-    "Equally ineffective",
-    "More",
-    "Effective only after implantation",
-    "Less in every case"
+    "Equally",
+    "Never",
+    "Less",
+    "More"
    ],
-   "ans": 1,
-   "exp": "The source identifies ulipristal as the more effective hormonal option."
+   "ans": 3,
+   "exp": "Source (scan 220): '• More effective than LNG.'"
+  },
+  {
+   "id": "ch40-u5-q21a",
+   "sec": "Emergency contraception: mechanisms, timing and regimens",
+   "unit": "Emergency contraception: mechanisms, timing and regimens",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "The three sub-bullets (`i`, `ii`, `iii`) under `3. Ulipristal acetate → Indications` on scan 220 are ____, ____ and ____.",
+   "opts": [
+    "Day 1 of menses; <12 hrs only; underweight adolescents",
+    "Confirmed pregnancy; missing IUD thread; septic abortion",
+    "Near mid-cycle; ≥72 hrs after unprotected intercourse; obese patients",
+    "Within 10 mins of placenta; lactation day 1; Wilson's disease"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 220): 'Indications : i. Near mid-cycle. ii. ≥72 hrs after unprotected intercourse. iii. Obese patients.'"
   },
   {
    "id": "ch40-u5-q22",
@@ -1367,15 +1591,15 @@
    "unit": "Emergency contraception: mechanisms, timing and regimens",
    "page": 220,
    "fmt": "odd",
-   "q": "Which is NOT one of the source's settings favouring ulipristal?",
+   "q": "Which is NOT one of the three settings (`i`–`iii`) listed under `Ulipristal acetate → Indications` on scan 220?",
    "opts": [
-    "Obesity",
-    "≥72 hours after intercourse",
+    "Established pregnancy requiring termination",
     "Near mid-cycle",
-    "Established pregnancy requiring termination"
+    "Obese patients",
+    "≥72 hours after unprotected intercourse"
    ],
-   "ans": 3,
-   "exp": "These are the three highlighted settings, although body weight can affect emergency-pill efficacy and copper IUD may be preferred when suitable."
+   "ans": 0,
+   "exp": "Source (scan 220): ulipristal is an emergency contraceptive (up to 120 h), not an abortifacient for established pregnancy (and Cu-IUD remains unaffected by high BMI when acceptable)."
   },
   {
    "id": "ch40-u6-q1",
@@ -1383,15 +1607,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "Mifepristone is a ____ antagonist, with an emergency dose of ____ orally in this source.",
+   "q": "At the top of scan 221, `4. Mifepristone` is a `____ antagonist` with emergency `Dose : ____, oral`.",
    "opts": [
-    "Progesterone-receptor; 10 mg",
-    "Estrogen-receptor; 1.5 mg",
-    "Androgen-receptor; 150 mg",
-    "FSH-receptor; 75 micrograms"
+    "Androgen; 150 mg",
+    "FSH; 75 mcg",
+    "Progesterone; 10 mg",
+    "Estrogen; 1.5 mg"
    ],
-   "ans": 0,
-   "exp": "This is the source's emergency-contraception regimen; availability and approval differ, and it is not the usual abortion regimen."
+   "ans": 2,
+   "exp": "Source (scan 221 / printed 213): '4. Mifepristone : • Progesterone antagonist. • Dose : 10mg, oral.' (WHO EC mifepristone dose is 10–25 mg single oral dose where available, distinct from 200 mg abortion regimens.)"
   },
   {
    "id": "ch40-u6-q2",
@@ -1399,15 +1623,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "After mifepristone and copper IUCD, the source says ____ 'may be tried' for emergency use.",
+   "q": "After `5. Cu-IUCD`, item `6.` at the top of scan 221 writes `____ : maybe tried`.",
    "opts": [
-    "Misoprostol alone",
+    "Minipill",
     "Danazol",
-    "Traditional minipill",
+    "Misoprostol",
     "Centchroman"
    ],
    "ans": 3,
-   "exp": "This is a tentative source statement, not an established first-line emergency recommendation."
+   "exp": "Source (scan 221): '5. Cu-IUCD / 6. Centchroman : maybe tried.' Clarification: 'maybe tried' reflects a tentative lecture note; standard evidence-based EC guidelines recommend Cu-IUCD, ulipristal, LNG or low-dose mifepristone rather than centchroman."
   },
   {
    "id": "ch40-u6-q3",
@@ -1415,15 +1639,31 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "odd",
-   "q": "Which is listed as used rather than in the source's 'never used' emergency group?",
+   "q": "Which agent is listed under EC `Drugs used` (`5.`) rather than in the `Never used :` list (`1.`–`4.`) on scan 221?",
    "opts": [
+    "Minipill",
     "Danazol",
-    "Copper IUCD",
-    "Misoprostol",
-    "Minipill"
+    "Cu-IUCD",
+    "Misoprostol"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 221): '5. Cu-IUCD' is used (most effective EC); 'Never used : 1. Misoprostol 2. Mirena 3. Minipill 4. Danazol'."
+  },
+  {
+   "id": "ch40-u6-q3a",
+   "sec": "Emergency options continued and postpartum contraception",
+   "unit": "Emergency options continued and postpartum contraception",
+   "page": 221,
+   "fmt": "fillup",
+   "q": "The four numbered items under `Never used :` for emergency contraception on scan 221 are `1.` ____, `2.` ____, `3.` ____ and `4.` ____.",
+   "opts": [
+    "Condoms; diaphragm; sponge; spermicide",
+    "Misoprostol; Mirena; minipill; danazol",
+    "Plan B; i-pill; Yuzpe; Chaya",
+    "Levonorgestrel; ulipristal; mifepristone; Cu-IUCD"
    ],
    "ans": 1,
-   "exp": "Mirena is also in the source's never-used list. This is edition-specific; evidence and guidance for 52-mg LNG-IUD emergency use have evolved."
+   "exp": "Source (scan 221): 'Never used : 1. Misoprostol 2. Mirena 3. Minipill 4. Danazol'."
   },
   {
    "id": "ch40-u6-q4",
@@ -1431,15 +1671,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "The fourth item in the source's emergency 'never used' list, alongside misoprostol, minipill and danazol, is ____.",
+   "q": "Item `2.` in the `Never used :` emergency-contraception list on scan 221 (alongside misoprostol, minipill and danazol) is ____.",
    "opts": [
     "LNG i-pill",
     "Mirena",
-    "Copper IUCD",
-    "Ulipristal"
+    "Ulipristal",
+    "Cu-IUCD"
    ],
    "ans": 1,
-   "exp": "This tests the 2024 source list rather than asserting that every modern guideline has the same list."
+   "exp": "Source (scan 221): '2. Mirena'. Clarification: traditional exam teaching places Mirena under 'Never used' for EC, although recent clinical trial evidence (Turok et al., NEJM 2021) has prompted updated specialist guidance in some countries to recognise 52-mg LNG-IUD EC efficacy."
   },
   {
    "id": "ch40-u6-q5",
@@ -1447,15 +1687,31 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "match",
-   "q": "Match the postpartum 'rule of 3': 1) Not/partially breastfeeding 2) Exclusively breastfeeding with A) 3 months B) 3 weeks.",
+   "q": "Match `Rule of 3 : Timing of initiation` under `Post-partum contraception` on scan 221: 1) `Not breastfeeding / Partially breastfeeding` 2) `Exclusively breastfeeding` — A) `3 months` B) `3 weeks`.",
    "opts": [
-    "1-A, 2-B",
-    "Both B",
     "Both A",
-    "1-B, 2-A"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "Both B"
    ],
-   "ans": 3,
-   "exp": "This is the source's general initiation mnemonic; method-specific advice below it can allow earlier initiation."
+   "ans": 2,
+   "exp": "Source (scan 221): 'Rule of 3 : Timing of initiation → Not breastfeeding/Partially breastfeeding → 3 weeks ; Exclusively breastfeeding → 3 months'."
+  },
+  {
+   "id": "ch40-u6-q5a",
+   "sec": "Emergency options continued and postpartum contraception",
+   "unit": "Emergency options continued and postpartum contraception",
+   "page": 221,
+   "fmt": "fillup",
+   "q": "The four bullets in `Day-1 after delivery :` on scan 221 are ____, ____, ____ and ____.",
+   "opts": [
+    "Combined patch; vaginal ring; danazol; mifepristone",
+    "Combined OCPs; laparoscopic ligation; diaphragm; sponge",
+    "Condoms; Centchroman; POPs; progesterone implants",
+    "Ethinyl estradiol; Yuzpe pills; Essure; Filshie clip"
+   ],
+   "ans": 2,
+   "exp": "Source (scan 221): 'Day-1 after delivery : • Condoms • Centchroman • POPs • Progesterone implants'."
   },
   {
    "id": "ch40-u6-q6",
@@ -1463,15 +1719,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "odd",
-   "q": "Which is NOT among the four methods listed as day-1 postpartum options in the source?",
+   "q": "Which is NOT among the four methods in `Day-1 after delivery :` on scan 221?",
    "opts": [
-    "POPs",
+    "Combined OCP",
     "Progesterone implants",
-    "Condoms",
-    "Combined OCP"
+    "POPs",
+    "Condoms"
    ],
-   "ans": 3,
-   "exp": "Centchroman completes the source list. The mnemonic should not delay appropriate immediate postpartum options."
+   "ans": 0,
+   "exp": "Source (scan 221): combined OCPs are deferred postpartum (see 'Other contraceptives : 1. OCPs' below)."
   },
   {
    "id": "ch40-u6-q7",
@@ -1479,15 +1735,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "The non-barrier, non-progestin method also named in the source's day-1 postpartum box is ____.",
+   "q": "The non-barrier, non-steroidal Indian family-planning pill included in `Day-1 after delivery :` on scan 221 is ____.",
    "opts": [
-    "Centchroman",
-    "High-dose estrogen",
+    "Danazol",
     "Misoprostol",
-    "Danazol"
+    "Ethinyl estradiol",
+    "Centchroman"
    ],
-   "ans": 0,
-   "exp": "The source explicitly places centchroman with condoms, POPs and implants; clinical use follows local guidance."
+   "ans": 3,
+   "exp": "Source (scan 221): '• Centchroman' (Chaya/Saheli)."
   },
   {
    "id": "ch40-u6-q8",
@@ -1495,15 +1751,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "Combined OCPs may reduce ____ in breastfeeding women and increase ____ risk postpartum.",
+   "q": "Under `Other contraceptives : 1. OCPs`, the two adverse bullets state `↓ ____ in breastfeeding females` and `↑ Risk of ____ in breastfeeding & non-breastfeeding females`.",
    "opts": [
-    "Ovarian reserve; CFTR mutation",
+    "Tubal cilia; teratogenicity",
     "Semen volume; hypokalaemia",
-    "Tubal cilia; teratogenicity inevitably",
-    "Breast milk; thrombosis"
+    "Breast milk; thrombosis",
+    "Ovarian reserve; CFTR mutation"
    ],
-   "ans": 3,
-   "exp": "The box separates lactation effects from postpartum thrombotic risk affecting breastfeeding and non-breastfeeding users."
+   "ans": 2,
+   "exp": "Source (scan 221): '1. OCPs : • ↓Breast milk in breastfeeding females. • ↑Risk of thrombosis in breastfeeding & non-breastfeeding females.'"
   },
   {
    "id": "ch40-u6-q9",
@@ -1511,15 +1767,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "For non-breastfeeding women, the source says combined OCPs can start from ____ but ideally after ____.",
+   "q": "Under `1. OCPs → Nonbreastfeeding`, combined pills `Can start : ____` and `Ideally : ____`.",
    "opts": [
-    "6 months; 1 year",
-    "48 hours; 8 days",
-    "Day 1; 1 week",
-    "3 weeks; 6 weeks"
+    "Day 1; ≥1 week",
+    "48 hours; ≥8 days",
+    "≥6 months; ≥1 year",
+    "≥3 weeks; ≥6 weeks"
    ],
    "ans": 3,
-   "exp": "The source differentiates earliest and preferred timing; individual VTE risk can alter eligibility."
+   "exp": "Source (scan 221): 'Nonbreastfeeding : • Can start : ≥ 3 weeks. • Ideally : ≥ 6 weeks.' (WHO/CDC MEC: <21 days = Category 4; 21–42 days = Category 2 without other VTE risk factors or Category 3 with VTE risk factors; >42 days = Category 1.)"
   },
   {
    "id": "ch40-u6-q10",
@@ -1527,15 +1783,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "For exclusive breastfeeding, the source gives combined-OCP initiation from ____ and ideally at ____.",
+   "q": "Under `1. OCPs → Exclusively breastfeeding`, combined pills `Can start : ____` and `Ideally : ____`.",
    "opts": [
-    "1 week; 1 month",
-    "3 weeks; 4 weeks",
-    "Day 1; 3 weeks",
-    "6 weeks; 6 months"
+    "≥3 weeks; ≥4 weeks",
+    "≥6 weeks; ≥6 months",
+    "Day 1; ≥3 weeks",
+    "≥1 week; ≥1 month"
    ],
-   "ans": 3,
-   "exp": "This is the source's timing framework, not a replacement for current breastfeeding/VTE eligibility guidance."
+   "ans": 1,
+   "exp": "Source (scan 221): 'Exclusively breastfeeding : • Can start : ≥ 6 weeks • Ideally : ≥ 6 months.' (WHO MEC: <6 weeks = Category 4; 6 weeks to <6 months = Category 3; ≥6 months = Category 2.)"
   },
   {
    "id": "ch40-u6-q11",
@@ -1543,15 +1799,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "scenario",
-   "q": "Source-check: a postpartum DMPA note says it 'leads to osteoporosis if given ≥4 weeks'. What should a learner conclude?",
+   "q": "Source-check: at bottom-left of scan 221, `2. DMPA` literally prints `Leads to osteoporosis if given ≥ 4wks`. What must a learner conclude?",
    "opts": [
-    "DMPA has no bone-density effects at any time",
-    "The threshold is unclear and not a reliable universal prescribing rule",
-    "Every injection at four weeks causes irreversible osteoporosis",
-    "DMPA is actually an estrogen-only OCP"
+    "Single-dose DMPA given at 4 weeks postpartum causes acute irreversible vertebral fractures",
+    "Postpartum DMPA is permitted only during weeks 1–3 and permanently banned after week 4",
+    "Depot medroxyprogesterone has zero effect on bone mineral density at any duration of use",
+    "Garbled rule: WHO MEC delays DMPA to ≥6 wks in lactation; BMD loss is chronic and reversible"
    ],
-   "ans": 1,
-   "exp": "The source line is ambiguous and oversimplified; bone health and postpartum eligibility require method-specific guidance."
+   "ans": 3,
+   "exp": "Source (scan 221): magnified crop confirms the literal print '2. DMPA : Leads to osteoporosis if given ≥ 4wks.' and clearly separates it from WHO/GOI postpartum MEC rules (<6 weeks breastfeeding = MEC 3 for neonatal steroid exposure)."
   },
   {
    "id": "ch40-u6-q12",
@@ -1559,7 +1815,7 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "match",
-   "q": "Match IUCD windows in the source: 1) Postplacental 2) Postpartum 3) Interval with A) After 6 weeks B) Within 10 minutes of delivery C) Up to 48 hours.",
+   "q": "Match `3. IUCD` postpartum insertion windows on scan 221: 1) `Postplacental` 2) `Postpartum` 3) `Interval` — A) `After 6 weeks` B) `Within 10 mins of delivery` C) `Till 48 hours of delivery`.",
    "opts": [
     "1-C, 2-A, 3-B",
     "1-A, 2-B, 3-C",
@@ -1567,7 +1823,7 @@
     "1-B, 2-A, 3-C"
    ],
    "ans": 2,
-   "exp": "The source distinguishes immediate placental, early postpartum and later interval insertion windows."
+   "exp": "Source (scan 221): '3. IUCD : • Postplacental : Within 10 mins of delivery. • Postpartum : Till 48 hours of delivery. • Interval : After 6 weeks.'"
   },
   {
    "id": "ch40-u6-q13",
@@ -1575,15 +1831,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "scenario",
-   "q": "A woman requests IUCD insertion 24 hours after delivery. Which source window is this?",
+   "q": "[Scenario] A woman requests PPIUCD insertion 24 hours after vaginal delivery (and has no chorioamnionitis/PPH). Which `3. IUCD` window on scan 221 applies, and when would insertion be deferred?",
    "opts": [
-    "Outside every source window",
-    "Interval after six weeks",
-    "Early postpartum, within 48 hours",
-    "Postplacental within 10 minutes"
+    "Delayed `Interval : After 6 weeks` window; insertion at 24 hours is prohibited",
+    "Permitted continuously from 10 minutes through day 28 without any deferral gap",
+    "Early `Postpartum : Till 48 hours` window; after 48 hours defer to `After 6 weeks`",
+    "Immediate `Postplacental : Within 10 mins` window; after 10 mins defer to 6 months"
    ],
    "ans": 2,
-   "exp": "Twenty-four hours is later than postplacental but within the early-postpartum interval."
+   "exp": "Source (scan 221): applies both the 'Till 48 hours' early postpartum window and the 48-hour to 6-week deferral gap."
   },
   {
    "id": "ch40-u6-q14",
@@ -1591,15 +1847,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "The postpartum emergency-contraception line says it is considered after ____.",
+   "q": "Item `4.` in the bottom box on scan 221 states: `Emergency contraception : After ____`.",
    "opts": [
-    "4 months only",
+    "1 year",
     "4 weeks",
-    "1 year only",
-    "4 hours"
+    "4 hours",
+    "6 months"
    ],
    "ans": 1,
-   "exp": "The source uses four weeks; need and timing depend on ovulation risk, feeding and method guidance."
+   "exp": "Source (scan 221): '4. Emergency contraception : After 4 weeks.' (Ovulation rarely occurs before day 25–28 postpartum; clinically LAM criteria can extend natural protection in exclusive breastfeeding.)"
   },
   {
    "id": "ch40-u6-q15",
@@ -1607,15 +1863,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "scenario",
-   "q": "Which tubectomy route is specifically avoided in the immediate postpartum source pathway?",
+   "q": "[Scenario] Under `5. Tubectomy` on scan 221, which surgical route is marked `C/I in postpartum period`?",
    "opts": [
+    "Concurrent caesarean tubal ligation",
+    "Laparoscopic tubal ligation",
     "Minilaparotomy",
-    "Laparoscopic ligation",
-    "Sterilisation during caesarean when appropriate",
-    "Modified Pomeroy by minilaparotomy"
+    "Modified Pomeroy minilaparotomy"
    ],
    "ans": 1,
-   "exp": "The source repeats its postpartum contraindication to the laparoscopic route."
+   "exp": "Source (scan 221): '• Laparoscopic tubal ligation : C/I in postpartum period.'"
   },
   {
    "id": "ch40-u6-q16",
@@ -1623,15 +1879,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "The postpartum minilaparotomy technique named is ____.",
+   "q": "Under `5. Tubectomy`, postpartum `Minilaparotomy` names the `(____ technique)`.",
    "opts": [
     "Essure",
     "Modified Pomeroy",
-    "Huhner",
-    "Yuzpe"
+    "Yuzpe",
+    "Huhner"
    ],
    "ans": 1,
-   "exp": "Modified Pomeroy is the named surgical technique, not an emergency-pill regimen or diagnostic test."
+   "exp": "Source (scan 221): '• Minilaparotomy (modified Pomeroy technique)'."
   },
   {
    "id": "ch40-u6-q17",
@@ -1639,15 +1895,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "fillup",
-   "q": "The source's minilaparotomy postpartum window lasts till ____, with interval surgery after ____.",
+   "q": "The two timing sub-bullets under `Minilaparotomy (modified Pomeroy technique)` on scan 221 are `Postpartum : ____` and `Interval : ____`.",
    "opts": [
-    "41 days; 1 year",
-    "10 minutes; 3 weeks",
-    "48 hours; 3 months",
-    "1 week; 6 weeks"
+    "8–41 days; after 1 year",
+    "Within 10 mins; after 3 weeks",
+    "Till 48 hours; after 3 months",
+    "Till 1 week; after 6 weeks"
    ],
    "ans": 3,
-   "exp": "This repeats the early-postpartum versus interval distinction from the sterilisation chapter."
+   "exp": "Source (scan 221): '- Postpartum : Till 1 week. - Interval : After 6 weeks.'"
   },
   {
    "id": "ch40-u6-q18",
@@ -1655,15 +1911,15 @@
    "unit": "Emergency options continued and postpartum contraception",
    "page": 221,
    "fmt": "tf",
-   "q": "I) The 'rule of 3' means no postpartum contraception can begin on day 1. II) The same page lists condoms, POPs and implants as day-1 options.",
+   "q": "Evaluate `Post-partum contraception` on scan 221: I) The `Rule of 3` (`3 weeks` / `3 months`) means no contraceptive method can ever be initiated on `Day-1 after delivery`. II) Scan 221 explicitly lists `Condoms`, `Centchroman`, `POPs` and `Progesterone implants` in `Day-1 after delivery` (plus `Postplacental` IUCD within 10 mins).",
    "opts": [
+    "Both true",
     "I true; II false",
     "Both false",
-    "Both true",
     "I false; II true"
    ],
    "ans": 3,
-   "exp": "The general mnemonic must be reconciled with the explicit method-specific immediate options rather than interpreted as a universal waiting rule."
+   "exp": "Source (scan 221): reconciles the ovulation-based 'Rule of 3' box with immediate Day-1 and postplacental options on the same page."
   }
  ]
 }

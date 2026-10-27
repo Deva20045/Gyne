@@ -9,7 +9,7 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 - Rebuild any chapter: `python3 build_chapters.py 36 37 38 39 40`
 - Validate: `python3 validate.py`
 
-## Build status — 40 of 49 chapters built · 3,536 questions · 424 units
+## Build status — 45 of 49 chapters live · 4,343 questions · 529 units
 
 | Chapters | Scan sequence | Questions | Units |
 |---|---:|---:|---:|
@@ -20,14 +20,24 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 | 33 Vaginitis and Cervicitis | 178–183 | 149 | 11 |
 | 34 Pelvic Inflammatory Disease (PID) | 184–187 | 128 | 9 |
 | 35 Genital Tuberculosis | 188–192 | 134 | 9 |
+| **Cumulative 1–35** | **1–192** | **3,025** | **394** |
 | 36 Female Infertility: Part 1 | 193–198 | 90 | 6 |
 | 37 Female Infertility: Part 2 | 199–202 | 58 | 4 |
 | 38 Male Infertility | 203–210 | 144 | 8 |
 | 39 Contraception: Part 1 | 211–216 | 115 | 6 |
 | 40 Contraception: Part 2 | 217–221 | 104 | 6 |
 | **Cumulative 1–40** | **1–221** | **3,536** | **424** |
+| 45 CIN: Part 2 | 246–250 | 124 | 17 |
+| 46 Cancer Cervix | 251–256 | 177 | 22 |
+| 47 Ovarian Cancer: Part 1 | 257–264 | 246 | 34 |
+| 48 Ovarian Cancer: Part 2 | 265–268 | 140 | 17 |
+| 49 Gynaecology: Miscellaneous Topics | 269–272 | 120 | 14 |
+| **Cumulative built 1–40 + 45–49 (41–44 pending)** | **scans 1–272** | **4,343** | **529** |
 
-## Current release — Chapters 36–40
+Rows 36–49 quote the repository scan-sequence convention (part-05/06/07 scans run
+8 ahead of the printed folio: scan 246 = printed 238).
+
+## Current release — Chapters 36–40 (scans 193–221 · printed folios 185–213)
 
 **511 new questions / 30 units** in source order, across all 29 sheets from scan
 193–221 (**printed folios 185–213**, part-05 PDF pages 13–41).
@@ -300,6 +310,241 @@ for 6 months which can improve fertility; hysteroscopic adhesiolysis with a paed
 catheter and three months of estrogen plus progesterone for Asherman syndrome; and IVF for
 infertility with distorted pelvic anatomy or tubal block.
 
+## This release — Chapters 45 to 49 (printed folios 238–264 · scans 246–272)
+
+All 27 scanned sheets covering scans 246–272 (printed folios 238–264, PDF parts 06–07) were extracted at native
+resolution, OCR'd end to end and then read page by page as images — every table cell,
+bracket, arrow label, figure caption and handwritten numeral — before any question was
+written. Chapters appear in strict printed order; chapters 36–44 remain unbuilt and were
+deliberately untouched.
+
+### Chapter 45 — CIN: Part 2 (printed p238–242; 124 questions / 17 units)
+
+Opens with the dysplasia table — LSIL to CIN 1 at 1% risk against HSIL branching to CIN 2
+at 5% and CIN 3 at 12–40% — and the `CIN is diagnosed on biopsy, not on pap smear` line,
+then the two WHO pathways (limited resource: screening to HPV DNA ± VIA to management with
+biopsy not mandatory; resource rich: abnormal pap to biopsy to CIN 1/2/3 to management).
+The pap smear block is worked bullet by bullet: the seven inferences from normal through
+infection-on-antibiotics, LSIL, HSIL, ASCUS, ASC-H and AGCUS; the five detectable
+infections (bacterial vaginosis, candida, trichomonas, HSV, HPV) against the two
+undetectable (chlamydia, gonorrhoea). Page 239 contributes the colposcopy photograph, the
+abnormal-pap algorithm (growth to punch biopsy, no visible abnormality to colposcopic
+guided biopsy), the report-wise management (HSIL with ASC-H at any age; LSIL ≥ 25 yrs to
+colposcopy plus endocervical curettage; ASCUS split at 25 yrs between repeat pap in 12
+months and HPV/reflex DNA testing; LSIL < 25 yrs repeat pap; AGCUS to adeno carcinoma of
+endocervix and endometrial spread with colposcopic biopsy, endocervical curettage and
+endometrial biopsy) and the colposcopy facts (×30 magnification, focal length 30,
+visualises exocervix–transformation zone–external os but not endocervix, UPT beforehand,
+OPD procedure, sampling from rough or pale areas, 3–5% acetic acid to acetowhite areas,
+green filter to abnormal vessels with reticular, mosaic and punctate patterns). Page 240
+gives the colposcopy inferences (CIN 1/2/3, microinvasive cancers, unsatisfactory from
+incomplete transition-zone view), the management tree (CIN 1 follow up × 2 yrs resolving or
+cryoablation; CIN 2/3 LLETZ or LEEP as mx of choice for all age and parity; hysterectomy
+not done for CIN) and cryoablation in full — CO2/N2O at very low temperature applied to
+acetowhite areas, the freezing-of-intracellular-water principle, freeze 3 / thaw 5 / freeze
+3 mins, 3–5 mm destruction depth, persistent water discharge, no tissue specimen and the
+four CIN 1 prerequisites (entire TZ visible, lesion completely visible, not HIV +ve, lesion
+not > 2 quadrants). Page 241 covers LLETZ/LEEP (total dysplastic area removed, current in
+the instrument cutting and coagulating together, OPD and 10–15 min procedure, 10 mm depth,
+TOC for CIN 2 & 3 with tissue for HPE, minimal bleeding, the A–F figure), the two special
+scenarios (positive endocervical curettage to cone biopsy to adenocarcinoma in situ to
+hysterectomy; HSIL pap against CIN 1 or normal biopsy as a discrepancy to cone biopsy) and
+cone biopsy/conisation (cone of exo/ecto cervix, transformational zone and endocervix, OT
+under GA, labelled figure). Page 242 closes with the diagnostic and therapeutic cone
+indications and the p-16 protein tree resolving an indeterminate LSIL-versus-HSIL pap into
+HSIL when raised and LSIL when normal.
+
+### Chapter 46 — Cancer Cervix (printed p243–248; 177 questions / 22 units)
+
+Begins with the type tree — squamous cell as m/c with large cell non-keratinising the m/c
+subtype, large cell keratinising and small cell (poor prognosis), HPV 16 association,
+against adenocarcinoma as 2nd m/c in young females with OCP risk, HPV 18 and endocervix —
+then features (transitional zone, bimodal 35–39 and 60–64 yrs) and the symptom list in
+printed order (irregular bleeding m/c, post coital most specific, dirty discharge,
+pyometra with Ca cervix the m/c cause, the printed `post menopausal spread` quirk kept
+verbatim, respiratory cluster for lung metastasis, sciatica-haematuria-lymphedema for
+pelvic side wall, renal failure as m/c death). Spread and drainage follow (direct >
+lymphatic > hematogenous with lungs the hematogenous site; hypogastric, obturator,
+paracervical sentinel and external iliac nodes; no superficial drainage hence excluded from
+radiotherapy; EBRT for pelvic and extended EBRT for paraaortic nodes), the six involved
+sites, the post-coital bleeding algorithm (normal cervix to pap then colposcopy,
+barrel-shaped/friable/indurated cervix to colposcopy, visible growth to punch biopsy) and
+the examination block (cachexia and low socio-economic status; pyometra lump on P/A;
+ulcerative/fungating growth, friable bleeding cervix and hard nodular cervix on P/S;
+parametrial and uterosacral thickening and nodularity per rectally). Investigations give
+staging over lymph nodes as prognostic, cervical biopsy as diagnostic, cone biopsy after
+microinvasion on LEEP, <1% ovarian involvement justifying ovarian preservation, then the
+radiological workup pairings (USG pyometra, CT nodes, MRI parametrium, PET CT nodes, IVP
+ureter and kidney, cystoscopy bladder, sigmoidoscopy rectum, chest X-ray lung; MRI best for
+parametrium and PET-CT over CT for nodes). The FIGO table is worked row by row across both
+pages — IA ≤5 mm with IA1 ≤3 mm and IA2 4–5 mm; IB >5 mm with IB1 ≤2 cm, IB2 ≤4 cm, IB3
+>4 cm; II upper 2/3 vagina with IIA parametrium free and IIA1/IIA2 at 4 cm; IIB
+parametrium; III lower 1/3 vagina with IIIA side wall free and IIIB side wall with
+hydroureter/hydronephrosis; IIIC nodes with IIIC1 pelvic and IIIC2 paraaortic; IV
+metastasis with IVA bladder/bowel and IVB distant or superficial inguinal nodes — plus the
+three notes (uterine spread does not change staging, bullous oedema is not metastasis,
+bladder metastasis needs histopathology positive). Management splits surgery (uptil IIA,
+<4 cm, early stage except IB3) from chemoradiation (all stages, preferred when surgery is
+contraindicated, cisplatin and 5FU radiosensitizers), the stage-wise surgery table (IA1
+type 1 without nodes or conization; IA2 type 2/Wertheim with pelvic nodes or radical
+trachelectomy plus pelvic nodes; IB1–IB2–IIA1 type 3 with pelvic nodes or type 3
+hysterectomy plus pelvic lymphadenectomy), radical trachelectomy (cervix removed, uterus
+stitched to vagina, abdominal cerclage for the injured internal os, young females wanting
+children, <2 cm, LSCS afterwards), chemoradiation (IB3 and IIA2 to IV, cisplatin over 5FU
+given before RT, vaginal fibrosis and ovarian failure bracketed as why RT is avoided
+early), the brachytherapy-versus-teletherapy table (inside versus outside body,
+intracavitary colpostat/tandem versus EBRT, iridium 192 versus cesium, following versus
+first to shrink, point A 2 cm above and lateral to the external os for parametrial nodes
+and point B 3 cm beyond for obturator nodes, 50 Gy at 2 Gy per sitting five times weekly)
+and the post-surgery risk tree (high risk margin/parametrium/LN positive to chemo
+radiation; intermediate large size, LVSI and deep stromal invasion with any two positive to
+radiotherapy; low risk to no post-op mx).
+
+### Chapter 47 — Ovarian Cancer: Part 1 (printed p249–256; 246 questions / 34 units)
+
+Opens with functional ovarian cysts (m/c, hormonal, temporary and self-resolving;
+follicular m/c at follicle ≥3 cm; corpus luteal m/c to rupture; theca lutein from raised
+HCG in molar and twin pregnancy and clomiphene or HMG therapy), the cancer presentation
+(rare so no screening, vague nausea and appetite loss, adnexal masses with TVS as IOC) and
+the benign-versus-malignant adnexal table cell by cell (reproductive age versus extremes of
+age; pain positive from inflammation versus negative; short rapid history with weight loss;
+unilateral versus bilateral; cystic versus solid; tender versus non-tender; ultrasound
+U/L anechoic unilocular without solid component versus B/L >10 cm with solid components,
+thick septa with papillary excrescences, high vascularity, ascites, nodes and matted bowel
+loops). Page 250 adds the malignancy image strip (thick >3 mm septations, mural nodularity,
+papillary projections, frank solid components, papillary excrescences and solid
+component/septae labels), the cyst management tree (3–5 cm wait and watch, 5–7 cm serial
+USG, >7 cm surgery for torsion or rupture risk; post-menopausal CA 125 ≥35 IU then surgery
+after investigations; pre-pubertal raised AFP, HCG or LDH then surgery) and the notes
+(malignant transformation 30% post-menopausal versus 7% pre-menopausal; CA-125 of limited
+value in reproductive age because fibroid, PID and genital TB raise it, 200 IU
+significant). Pregnancy pathology follows — dermoid cyst as m/c benign tumour and m/c to
+torsion with torsion timed to end of first trimester or puerperium, dysgerminoma as m/c
+cancer, first trimester wait and watch with regressing corpus luteum and removal
+contraindicated because progesterone fall aborts, second trimester surgery for malignant
+USG features >10 cm, symptomatic rupture or torsion removed at any gestation — then the
+risk and protective tables (estrogen: early menarche, late menopause, obesity,
+endometriosis proven with PCOS and HRT controversial; incessant ovulation theory with
+nulliparity proven and infertility with ovulation drugs controversial; Lynch, BRCA1 and
+BRCA2; asbestos proven with talc and smoking for mucinous adenocarcinoma controversial;
+protection by physical exercise, anovulation, multiparity, OCP, breast feeding and by
+hysterectomy, tubal ligation, salpingectomy), the genetic block (MLH1/MSH2, colorectal
+over endometrial at 60–70% and 20% ovarian risk for Lynch; BRCA1 40% with TAH + BSO at
+35–40 yrs and endometrial risk positive; BRCA2 15%), hereditary versus sporadic (younger
+50 yrs and 5–10% versus 60–70 yrs) and the screening tree (annual TVS + CA 125 from 35–40
+yrs for hereditary or BRCA positive relatives, reassurance for sporadic). The WHO tree
+(epithelial 90%, germ cell 5–8%, sex cord stromal 3–5%, metastatic) with serous
+cystadenoma overall, dermoid in reproductive age and serous cystadenocarcinoma as m/c
+cancer leads into epithelial tumours (five types, age 60, bilateral, worst prognosis from
+non-specific symptoms, psammoma body, KRAS/PTEN low grade versus p53 high grade) and the
+serous-versus-mucinous table in full (60% versus 80% benign; bilateral versus unilateral;
+BRCA/p53 versus KRAS; smoking not a risk versus risk; CA 125 versus CEA and CA 19-9;
+psammoma bodies versus none; uniloculated clear fluid versus honeycomb mucinous
+multiloculated; fallopian tube versus endocervix lining; pseudomyxoma peritonei for
+mucinous). Pseudomyxoma peritonei (mucinous peritoneum, appendix cancer m/c, metastatic
+mucinous ovarian tumour, mucocele of appendix, bad prognosis from recurrence), Brenner's
+tumour (We BUST: Walthard cell nest with coffee bean nuclei, benign, unilateral 100%,
+solid, transitional lining) and the endometrioid-versus-clear-cell table (endometrial
+glands versus hobnail cells; endometriosis shared; endometrial cancer versus in-utero DES)
+close the epithelial section with the three notes (coffee bean nuclei in Brenner's and
+granulosa; clear cell over endometrioid for endometriosis and endometrioid over granulosa
+for endometrial cancer; solid tumours Brenner's and fibroma). Germ cell tumours run from
+the teratoma arms (mature cystic dermoid benign, immature malignant, struma ovarii
+monoclonal) and the five further varieties through young girls 10–30 yrs, unilaterality
+and early-diagnosis prognosis, the seen/never-seen marker table (dysgerminoma LDH, hCG,
+PLAP never AFP; yolk sac AFP, LDH, α1 antitrypsin never hCG; embryonal AFP and hCG never
+LDH; choriocarcinoma hCG never AFP and LDH; teratoma no marker), occurrence (dermoid over
+dysgerminoma as m/c GCT, immature teratoma as m/c germ cell cancer, gonadoblastoma and
+dysgerminoma in dysgenetic gonads), prognosis (dysgerminoma best, yolk sac worst with acute
+abdomen), dermoid cyst (m/c tumour in reproductive age, pregnancy and torsion; 10%
+bilateral; all three layers with ectodermal m/c; mostly benign; 0.2–2% malignancy risk as
+squamous cell carcinoma at the Rokitansky protuberance; tooth-and-hair gross figure; tip of
+iceberg and dot-and-dash USG from white sebaceous material and hair; cystectomy with torsion
+risk versus oophorectomy when family complete), dysgerminoma (2nd m/c GCT, 15–20% bilateral
+and highest bilaterality risk, best prognosis, m/c cancer in dysgenetic gonads and
+pregnancy, only radiosensitive ovarian tumour, fleshy solid lobulated tan gross, nests with
+lymphocytic fibrous septa) and yolk sac tumour (most malignant GCT, worst prognosis, 100%
+unilateral, acute abdomen, Schiller Duval or glomeruloid body with central capillaries
+surrounded by tumour cells in cystic spaces).
+
+### Chapter 48 — Ovarian Cancer: Part 2 (printed p257–260; 140 questions / 17 units)
+
+Opens with the sex cord stromal tree — sex cord tumours splitting into estrogen-producing
+feminizing granulosa cell tumour and androgen-producing virilizing Sertoli-Leydig, Leydig
+and hilus cell tumours (Reinke's crystals on HPE), stromal tumours being fibroma, thecoma
+and fibrothecoma — then the features (perimenopausal, unilateral, hormone-driven specific
+symptoms giving early diagnosis) and the prognosis hierarchy sex cord stromal over GCT over
+epithelial. Granulosa cell tumour is traced from granulosa-cell origin and the FOX L-2 gene
+through estrogen and inhibin as tumour markers with antimullerian hormone at puberty, the
+bleeding presentations (atypical uterine bleeding perimenopausal, post-menopausal bleeding,
+precocious puberty), the mandatory endometrial sampling and the note box pairing
+endometroid and granulosa tumours with endometrial cancer, then Call Exner bodies with
+central acidophilic material, follicle-like cells and coffee bean nuclei. Fibroma follows
+(U/L benign solid, well differentiated fibroblasts, Meig's syndrome) with the Meig's versus
+pseudo-Meig's table (fibroma/thecoma/Brenner's/granulosa plus ascites and effusion resolving
+on removal versus any other tumour such as mucinous cystadenoma or any other condition such
+as fibroid). Metastatic tumours list stomach (m/c), GIT and breast carcinoma reaching the
+ovary by retrograde lymphatics or transcoelomic spread, and Krukenberg tumour is worked
+from pyloric-end stomach cancer through 80% bilaterality, symmetric enlargement, retained
+shape and capsule, mobile waxy consistency and signet ring cells with mucin pushing the
+nucleus aside. Management opens with the FIGO table row by row — stage 1 limited to ovary
+with IA one ovary, IB both, intact capsule spanning them and IC ruptured capsule split into
+IC1 intraoperative, IC2 preoperative and IC3 malignant ascites; stage 2 pelvic organs with
+2A tube or uterus and 2B bladder or rectum; stage 3 abdominal spread with 3A1
+retroperitoneal nodes, 3A2 microscopic above the brim, 3B macroscopic ≤2 cm and 3C ≥2 cm
+with ± liver or spleen capsule extension; stage 4 distant with 4A malignant pleural
+effusion and 4B liver or spleen parenchyma or inguinal nodes — plus the note that bladder
+and rectum involvement is 2B in ovary but 4A in other gynaecological cancers, the seven
+surgical staging steps (midline incision; ascitic fluid or saline wash cytology; inspection
+and palpation; multiple peritoneal biopsies; type 1 TAH + BSO; infracolic omentectomy;
+pelvic and para-aortic node dissection before closure), the surgery block (TAH + BSO as
+surgery of choice; conservative U/L salpingo-oophorectomy without hysterectomy for GCT at
+10–30 yrs, young sex cord cases and stage IA epithelial with incomplete family; debulking
+for stages 3 and 4) and the chemotherapy table (epithelial six cycles IV + intraperitoneal
+paclitaxel with carboplatin or cisplatin in all stages except IA and IB; GCT and sex cord
+BEP — bleomycin, etoposide, cisplatin — except stage 1 dysgerminoma for GCT and only
+stages 3 and 4 for sex cord), closing with the Sertoli-Leydig androgen note (hirsutism,
+acne, baldness, enlarged clitoris as virilization).
+
+### Chapter 49 — Gynaecology: Miscellaneous Topics (printed p261–264; 120 questions / 14 units)
+
+Opens with stress urinary incontinence — the definition box (involuntary urine on raised
+intra-abdominal pressure with coughing, laughing, sneezing), the normal-versus-SUI
+pathophysiology columns (pelvic floor contraction and raised intraurethral pressure
+maintaining continence against descent of the bladder neck, raised intra-abdominal
+pressure, failure of urethral closure and leakage), the Q tip test and the management tree
+of bladder neck or urethral suspension: Bursch colposuspension by the abdominal route
+suspending proximal urethra and bladder neck to the iliopectineal/Cooper's ligament with
+the white line of pelvic fascia, symphysis pubis and Cooper's ligament figure labels,
+necessary hospital stay and gold-standard outcome, against tension-free TOT and TVT as day
+care vaginal procedures suspending the middle urethra, TOT through the obturator foramen as
+m/c (TOT > TVT) and TVT through the retropubic space with raised bladder and venous plexus
+injury risk, with the retropubic space and obturator foramen figure labels. Urinary fistula
+follows with the three complaint patterns (dribbling with normal micturition ureterovaginal,
+dribbling without normal micturition vesicovaginal, urine per urethra and vagina during
+micturition urethrovaginal), the numbered types diagram against ureter, uterus, bladder and
+vagina, suprapubic catheterization for urine sampling, menouria as hematuria during
+menstruation from bladder endometriosis or vesicouterine fistula, and the methylene blue
+three swab test as IOC for vesicovaginal fistula with its swab positions and the
+observation-inference table (upper wet unstained ureterovaginal, middle wet stained blue
+vesicovaginal, only lower wet stained blue urethrovaginal) after dye instillation through a
+Foley catheter. Vesicovaginal fistula closes the topic — TAH as m/c cause in developed and
+obstructed labour in developing countries, immediate repair when identified at once against
+six-week delay after 24 hours or post obstructed labour once infection and inflammation
+subside, Chassar moir and Latzko techniques, and the post-op rules (Foley drainage with
+antibiotics for 2 weeks, no P/S or P/V and no intercourse for 3 months, pregnancy
+contraindicated for 1 year). The chapter and the book end with OHSS — the iatrogenic chain
+from inj. HMG through excessive stimulation, multiple large follicles, estrogen ≥2500 pg
+and VEGF from follicular fluid, failed monitoring, inj. hCG, follicle rupture and VEGF
+release with the large-follicle scan and follicular-size plus estrogen monitoring; the
+eight risk factors (young, PCOS, thin, raised follicle number on TVS, raised antral count,
+AMH >3.3, estradiol ≥2500 pg, pregnancy); the clinical-diagnosis complaints; the drug risks
+(hMG highest, clomiphene low, letrozole none) with inj. hCG as trigger and VEGF as
+mediator; early OHSS within 9 days of exogenous hCG against late OHSS from placental hCG;
+prevention by monitoring, withholding hCG at estrogen ≥2500 pg, cabergoline lowering VEGF
+and no embryo transfer when risk is positive; and the ideal hCG cloud (estrogen 500–1500
+pg, 2–3 follicles, >17 mm) with the closing note that each follicle releases 200 pg of E2.
+
 ## Method and quality gates
 
 - Every source page was rasterised and OCR'd end to end, then re-cropped at 3×–16× zoom for
@@ -323,5 +568,6 @@ infertility with distorted pelvic anatomy or tubal block.
 
 ## Next chapters to build
 
-**Chapter 41 — Contraception: Images**, starting at scan 222 / printed 214.
-Chapters 41–49 remain unbuilt. Chapters 36–40 stop before that chapter.
+**Chapter 41 — Contraception: Images**, starting at scan 222 / printed folio 214.
+Chapters 41–44 remain unbuilt; chapters 45–49 are complete, so closing 41–44 finishes
+the book. Check chapter boundaries from the actual page headings.

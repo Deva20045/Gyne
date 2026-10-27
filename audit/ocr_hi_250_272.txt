@@ -1,0 +1,812 @@
+
+########## .pages/p250.jpeg ##########
+242 | Gynaecologic Oncology
+Indication: | --Activespace
+Diagnostic:
+Suspecting adenocarcinomo/adenocarcinoma in situ.
+Poorly visualised Tz on colposcopy
+Therapeutic:
+·mx of ca cervix in young females.
+Stage IA : microinvasive Ca.
+Evidence of microinvasion.
+P-IO PROTEIN :
+Pap smear
+Confusion between LSIL  HsIL : Indeterminate
+P-lo protein
+Normal
+HSIL | LSIL
+
+########## .pages/p251.jpeg ##########
+243
+CANCER CERVIX
+kespac
+00:00:23
+Small cell (poor prognosis).
+- m/c association: HPv lo.
+- m/e in young female.
+- Risk factor : OCP.
+- m/c asSociation : HPv 18.
+- m/c site : Endocervix.
+Features :
+· m/c site : Transitional zone.
+· m/c age : 35-39 yrs  60-64 yrs.
+symptoms :
+. Irregular bleeding : m/c symptom.
+· Post coital bleeding : most specific symptom.
+ Dirty vaginal discharge.
+· Pyometra (m/c Ca causing Pyometra: ca cervix).
+· Post menopausal spread.
+· Sciatica, Hematuria, Lymphedema : Pelvic side wall involvement.
+. m/c cause of death : Renal failure.
+Route of spread :
+Drainage:
+Hypogastric (Internal iliac) nodes.
+ Obturator node.
+Gynaecology · v1.0 · Marrow 8.0 · 2024
+
+########## .pages/p252.jpeg ##########
+244 | Gynaecologic Oncology
+Paracervical node : Sentinel node.
+-Active space
+External iliac nodes.
+Cervix does not drain into superfcial lymph nodes :
+-Not included in radiotherapy.
+management:
+Sites involved in cancer cervix :
+Parametrium, pelvic side walls, bladder, bowel, lungs, Kidney.
+Post Coital bleeding presentation :
+Algorithm :
+Causative pathology
+Ca cervix, polyp, endometrium 
+Per speculum examination
+Visible cervical qrowth | Barrel shaped/ friable/
+indurated cervix
+Pap smear | hsdoq youmd
+AB(N)
+- Colposcopy
+EXAMINATION
+General examination :
+· Thin built, cachexic.
+Lowsocio-economicstatus.
+P/A examination :
+· Abdomino pelvic lump d/t pyometra (collection of pus in the uterus).
+P/s examination :
+· Growth : Ulcerative/Fungating mass.
+Friable cervix: Bleeds on touch.
+Hard  nodular cervix
+Per rectal/Per vaginorectal examination :
+ Examination of parametrium and utero sacral ligaments :
+Thickening  nodularity.
+Gynaecology·v1.0·Marrow 8.0·2024.
+
+########## .pages/p253.jpeg ##########
+Cancer Cervix | 245 | Investigations
+00:14:38 | ----Activespace--
+Ovaries preserved : To avoid pre-mature menopausal symptoms.
+STAGING
+- usG : Presence of pyometra.
+- CT scan : Lymph node status.
+PET CT : Lymph nodes involvement.
+IvP : Kidney  ureter involvement.
+Cystoscopy : Bladder involvement.
+-Chest X-ray : Lung involvement.
+Best investiqation for :
+- Invoivement of parametrium : mRl.
+- LN involvement : PeT-CT > CT scan.
+FlGO staging for cancer cervix :
+Stage | Features
+microscopic/microinvasive cancer ss mm deep.
+1A | s3 mm deep. | IA
+IA | 4-S mm deep.
+macroinvasive cancer >5 mm deep.
+Size ≤a cms | 1B
+IB
+Size ≤ 4 cms
+1B
+Size > 4 cms
+IB
+ Involvement of upper a/3rd of vaqina.
+Parametrium not involved
+1IA
+Size:≤ 4 cms
+IA
+Si2e: > 4 cm
+1IA
+Gynaecology · v1.0 · Marrow 8.0 · 2024
+
+########## .pages/p254.jpeg ##########
+Gynaecologic Oncology
+----Actve space-. | stage | Features
+Parametrium involved. | 116
+Involvement of lower 1/3rd of vagina.
+Pelvic side wall not involved.
+IIIA
+Pelvic side wall involved :
+Hydroureter/Hydronephrosis (ureter; | 11B
+Kidney involvement).
+IIC | Lymph nodes involvement.
+Pelvic lymph nodes involvement. | IC
+IIC | Para aortic lymph nodes involvement.
+IV | metastasis
+Regional metastasis : Bladder/eowel. | IVA
+Distant metastasis/Superficial
+IVB
+inguinal lymph node involvement.
+Spread of cancer cervix to uterus : Does not change staging.
+· Bullous edema of bladder : Not a metastasis.
+·metastasis of bladder : Histopathological evidence +.
+Management
+00:28:35
+Surgery : | Radio-therapy < Chemoradiation :
+Indications : | ·Can be done in all stages.
+Uptil staqe lla | Preferred when S is contraindicated
+Sizeoftumor< 4 cm. | Radiosensitizer : Cisplatin, SFu.
+·Preferred in early stage (except IB).
+Surgery:
+Complete family
+Incomplete family (Ovaries | Stage
+Hysterectomy | LN dissection
+preserved)
+1A, (No lymphovascular
+Type1 | O2 | Conization (Cone biopsy) | invasion)
+Type a / | Pelvic lymph | Radical trachelectomy + Pelvic
+1A
+wertheim | node
+LNdissection
+1B
+Pelvic lymph
+Type 3 Hysterectomy + Pelvic | Type 3 | 1B | node
+lymphadenectomy
+IIA
+Gynaecology· v1.0 ·Marrow 8.0 ·2024
+
+########## .pages/p255.jpeg ##########
+Cancer Cervix
+. cervix removed.
+----Active space ----
+· Indication :
+- Size < a cm.
+chemoradiation :
+· Radiosensitizer :
+-  sensitivity to Radiotherapy (RT).
+-Given prior to RT.
+- Cisplatin > SFu
+ Side effects :
+- Vaginal Hbrosis (Difficult intercourse).
+RT not preferred
+- Ovarian failure : Ovary is most radiosensitive organ.
+in early stages
+Types :
+Brachytherapy | Teletherapy
+Inside body | Outside the body
+Source of
+ Intracavitary therapy |  Extermal beam radiotherapy
+radiation
+Usinq Colpostat/Tandem | (EBRT)
+Iridium 19a | Cesium | Isotope
+Following teletherapy | GivenIsttoshrinksizeoftumour
+Indication
+Point A : a cm above  lateral to external
+os (Parametrial node).
+Point B : 3 cm away from point A
+(obturator nodes).
+a em(A)3 cm(e)
+: hg Os
+s times a week.
+acm
+otherfeatures
+- a Gy per sitting.
+Ext, OS
+Colpostat
+ology·v1.0·Marow8.0·2024
+
+########## .pages/p256.jpeg ##########
+248
+Gynaecologic Oncology
+Post-surgery | Active space--
+High risk : | Low risk: | Intermediate risk :
+·margin +ve.
+Large size of tumour.
+Any a | Parametrium +ve. | No post-op mx |  Lymphovascular involvement.
+LN metastasis +ve. | +ve | Deep stromal invasion.
+Post-op chemo radiation. | Post-op radiotherapy.
+Gynaecology· v1.0·Marow 8.0· 2024
+
+########## .pages/p257.jpeg ##########
+249
+OVARIAN CANCER : PART 1
+---- Active space ---
+00:00:44
+OVARIAN CYSTS
+Types :
+1. Flicular cyst (m/c) :
+a. Corpus Luteal cyst :
+3. Theca Lutein cyst : D/t ↑ HCG
+size of follicle ≥ 3cm.
+m/e cyst to rupture.
+· Seen in : molar pregnancy, Twin
+pregnancy, (Iinfertility Rx
+Clomiphene, Hmg)
+Rare, therefore screening not done.
+Presentation :
+· Vvague symptoms (Nausea/vomiting, Loss of appetite)
+· Adnexal masses (ioc : Tvs)
+Benign v/s malignant adnexal masses
+Benign adnexal mass | malignant adnexal mass
+Prevalence | m/c in reproductive age group | Extremes of age : Pre-pubertal/menopausal
+Pain | ④ (d/t Infammation) | O
+Short history with rapid proqression weight loss
+Occurence | Unilateral | Bilateral
+Consistency | Cystic | Solid
+Tendemess | ?
+·WL | B/L, > 10 cm size
+Variable consistency (Solid components) | Anechoic
+Thick septa +
+Solid component  | With papilary outgrowths
+(Excrescenes). | ultrasound
+features | SAGLTOV | Highly vascular.
+ Evidence of ascites, enlarged lymph nodes
+ matted bowel loops.
+Gynaecology·v1.0·Marrow 8.0·2024
+
+########## .pages/p258.jpeg ##########
+250 | Gynaecologic Oncology
+---Active space --
+SOLID
+COMPONENT
+SEPTAE
+Papillary excrescenes
+Thick>3mm septations | Frank solid:components | Muralnodularity | Paplllary projections
+Features suggestive of Ovarian malignancy on USG
+MANAG&MENTOF OVARIAN CYST
+Extremes of age
+Cyst, size
+3-5 cm | Post-menopausal | Pre-pubertal | s-7cm | >7cm
+wait and | Surgery (High | CA IaS ≥ 3S IU | If any raised :
+watch | serial uSG | chances surgery of | AFP, HCG, LDH
+torsion or rupture) | Surgery after
+further investigations | Surgery after
+investiqations
+Note:
+1. % of malignant transformation of ovarian mass | Post menopausal : 30%
+≥ Pre menopausal : 7%
+a.CA-IaS:
+- Limited value in reproductive age group :
+↑ In benign conditions (Fibroid, PID, Genital TB).
+- aoo Iu : Significant.
+Gynaecology· v1.0· Marrow 8.0· 2024
+
+########## .pages/p259.jpeg ##########
+Ovarian Cancer: Part 1
+251
+-.--Active space ---
+Dermoid cyst (mature cystic teratoma) |  To undergo torsion.
+management:
+Asymptomatic
+Symptomatic
+(Rupture, torsion)
+Ist Trimester
+and Trimester
+Removal of cyst irrespective
+wait  watch | malignancy features | of gestational age
+· m/c : Corpus luteum | on uSG (+) >10 cm
+(Regresses spontaneously)
+· Removal is c/l : | Surgery
+↓ Progesterone -→ Abortion.
+Factors Related to Ovarian Cancer | 00:25:03
+Risk Factors :
+Proven risk factors | Controversial risk factors
+·Early menarche.
+sOod | · Late menopause.
+excessive estrogen | · Obesity. | ·HRT
+·Endometriosis.
+Infertility  ovulation inducing
+Excessive ovulation
+drugs | (Theory of incessant ovulation)
+Lynch syndrome.
+Genetic syndrome | BRCAI,BRCAa.
+·Talc.
+·Smoking
+Asbestos | Exposure to carcinogens
+(mucinous adenocarcinoma)
+Protective Factors :
+Related to ovulation | Surgeries
+Related to estrogen
+·Anovulation | Hysterectomy
+multiparity | Tubal ligation
+Physical exercise
+OCP | Salpingectomy
+Breast feeding
+v1.0-Marow8.0·2024
+
+########## .pages/p260.jpeg ##########
+252 | Gynaecologic Oncology
+GENETICSYNDROMES
+Active space-..
+I. Lynch syndrome :
+.m/c gene : mLH / msH
+Risk of ovarian cancer : a0%
+a.BRCAI:
+maximum risk of ovarian cancer (40%)
+(ebo to shot-se) hit to uoalduoo latfo ose + ho : uouaaid 
+· Risk of endometrial cancer ±
+3. BRCA a :
+·Is% risk of ovarian cancer.
+Hereditary vs sporadic ovarian cancer :
+Sporadic :
+Hereditary :
+m/c in 60-70 yrs. | · Affects younger age group (so years).
+·s-lo% of all ovarian cancers.
+Screening :
+Ist degree relative
+Hereditary ovarian cancer/BRCA mutation ± | Sporadic ovarian cancer
+Annual screening : TVS + CA las (3s-40yrs) | Reassurance
+00:41:50 | WHO classification & Epithelial Ovarian Tumors
+WHO classification of ovarian tumors :
+epithelial ovarian  | Germ cell tumor: | Sex cord stromal : | metastatic
+tumors : m/c (90%) | 3rd m/c (3-S%) | adm/c (s-8%)
+Overall : Serous cystadenoma.
+Ovarian tumor
+mc
+Ovarian cancer : Serous cystadenocarcinoma
+Gynaecology·v1.0·Marrow 8.0· 2024
+
+########## .pages/p261.jpeg ##########
+Ovarian Cancer:Part 1
+253
+Types :
+Actvespac*
+. mucinous tumors.
+. Brenner's tumor.
+. Endometroid tumor.
+. Clear cell tumor.
+Features :
+. m'c age : lbo yrs.
+. B/l (m/c).
+· HPe: Psammoma body.
+ Low grade tumors : KRAS, pTEN mutation.
+· mutations : -
+ High grade tumors : ps3 mutation.
+Serous tumors
+% Benign | mucinous tumors
+b0% (Serous cystadenoma)
+80% (mucinous cystadenoma)
+occurence
+mostly bilateral
+mostly unilateral
+Associated mutation | BRCA-l, BRCA-a, pS3 mutation
+KRAS mutation
+Smoking | Not a risk factor
+Risk factor (+)
+malignant counterpart | Serous cystadenocarcinoma
+mucinous cystadenocarcinoma
+Tumor marker | CA IaS
+CEA, CA 19-9
+HPE | Psammoma bodies
+Gross Anding
+Uniloculated cyst flled | Honeycomb appearance : multiloculated
+with clear/serous fluid | cyst filled with mucinous material.
+Resemblesfallopian tube
+microscopy Andings | Resembles endocervix lining
+lining
+Pseudomyxoma Peritonei | Associated with
+Gynaecology ·v1.0·Marrow 8.0· 2024
+
+########## .pages/p262.jpeg ##########
+254 | Gynaecologic Oncology
+Pseudomyxoma Peritonei : | --Active space ---
+·Peritoneum Ailled with mucinous material
+ Causes :
+Appendix cancer : m/c.
+mucinous ovarian tumor (metastatic).
+-mucocele of appendix.
+· Bad prognosis : d/t high recurrence rate.
+Brenner's tumor :
+mnemonic : we BuST
+Walthard cell nest + Coffee bean nuclei on HPe
+Benign tumor | Solid tumor
+Unilateral (ioo%) | Transitional epithelium lining
+Endometrioid v/s Clear cell tumor :
+Clear cell tumor (maliqnant) | Endometrioid Tumor
+3dH | Resembles endometrial glands | Hobnail cells
+a Endometriosis. | aEndometriosis.
+Associations
+b. &ndometrial cancer. | b. In-utero Des exposure.
+Note :
+ Brenner's tumor.
+1. Coffee bean nuclei (central grooving ①)
+Granulosa cell tumor.
+a.m/c ovarian tumor associated with
+a Endometriosis : Clear cell tumor > endometrioid tumor.
+b. Endometrial cancer : endometrioid tumor > Granulosa cell tumor.
+3. Solid Tumors : Brenner's  Fibroma
+Germ Cell Tumors (GCT) | 00:59:45
+varieties : | → Benign : mature cystic teratoma (Dermoid cyst)
+·Teratoma- | →maliqnant : Immature teratoma
+monoclonal : Struma ovarii
+ Dysgerminoma | Embryona cancer.
+Yolk sac tumor (endodermal sinus |  Choriocarcinoma.
+mixed type | tumor).
+Features:
+. m/e: Young girls (0-30 yrs). |  Better prognosis :
+u/L (m/o). | Diagnosed early.
+Gynaecology · v1.0 · Marrow 8.0 · 2024
+
+########## .pages/p263.jpeg ##########
+Ovarian Cancer: Part 1 | 255.
+Tumor markers :
+---Active spaco ----
+GCT | Tumor marker
+Seen
+·LDH | Never seen
+Dysgerminoma | ·hcG
+PLAP (Placental alkaline phosphatase) | AFP
+AFP
+Yolk sac tumor | LOH
+hCG | α antitrypsin
+AFP
+Embryonal cancer
+hCG
+LDH
+Choriocarcinoma
+hCG
+AFP, LDH
+Teratoma
+No tumor marker
+occurrence :
+· m/e GCT : Dermoid cyst > Dysgerminoma.
+·. m/e germ cell cancer : Immature cystic. teratoma.
+. Dysgenetic gonads :
+- m/c ovarian tumor : Gonadoblastoma.
+- m/c ovarian cancer : Dysgerminoma.
+Prognosis :
+· Best prognosis : Dysgerminoma
+· worst prognosis : Yolk sac tumor (Progresses rapidly, presents with acute
+abdomen)
+DERMOID CYST
+Features: | -> In reproductive age
+· m/c ovarian tumor | In pregnancy
+≥To undergo torsion
+Rokitansky | · m/c unilateral : Bilateral in lo% cases.
+protuberance
+ mostly benign. | Gross specimen of Dermoid
+cyst showing tooth  hair
+malignancy:
+·Risk: O.a-a%
+(Raised prominence giving rise to various components)
+Gynaecology· v1.0 ·Marrow 8.0 · 2024
+
+########## .pages/p264.jpeg ##########
+256 | Gynaecologic Oncology
+USG findings :
+---Active space --
+1.Tip of iceberg sign.
+a. Dot  dash appearance. | Sebaciousmaterial
++Hair (wwhite)
+management :
+Cystectomy (↑ Risk of torsion).
+Oophorectomy : Family completed
+DYSGERMINOMA
+Features :
+. and m/c GCT.
+· Best prognosis.
+- In dysgenetic gonads
+· w/l : m/c (Is-ao%; B/l). | ·m/c ovarian cancer
+ In pregnancy.
+·Highest risk of bilaterality.
+ Only radiosensitive ovarian tumor
+Gross appearance : | HP& :
+Fleshy, solid, lobulated, tan colour. | · Nest of cells separated by fibrous septa.
+· Lymphocyte infitration in septa ±
+Gross appearance of Dysgerminoma
+HPE
+YOLK SAC TUmOR
+Features :
+.most malignant GCT. | · Acute abdomen +/-
+ worst prognosis : Ropidly progressing tumor. | 100% unilateral
+HPe : Schiller Duval body/Glomerwoid body
+Central capillaries
+Contained within
+surrounded by tumor cells
+cystic spaces
+Gynaecology · v1.0 · Marrow 8.0 · 2024
+
+########## .pages/p265.jpeg ##########
+OVARIAN CANCER : PART 2
+257
+---- Active space ---
+00:00:10
+Sex cord tumors
+Stromal tumors
+estrogen producing
+Androgen producing
+·Fibroma. | (Feminizing tumors) : | (Virilizing tumors) :
+·Thecoma | Granulosa cell tumor.
+·Sertoli-Leydig cell
+·Fibrothecoma
+tumor.
+· Leydig cell tumor.
+Hilus cell tumor.
+(Reinke's crystals
+seen on HPe)
+FEATURES
+· m/c affects perimenopausa women.
+unilateral.
+Note :
+Best prognosis : Sex cord stromal tumor > GcT > εpithelial cell tumor.
+Granulosa cell tumor :
+Pathophysiology
+Origin : Granulosa cells | FOx L-a gene
+produce :
+-Estrogen
+Tumormarkers
+-Inhibin
+· Antimullerian hormone (At puberty)
+Note: | Presentation:
+Ovarian cancers a/w endometrial cancer :
+excessive bleeding
+ Atypical uterine bleeding (Perimenopausal). | a.Endometroidtumor
+b.Granulosacell tumor.
+Post-menopausal bleeding.
+Precocious puberty.
+Gynaecology · v1.0· Marrow 8.0· 2024
+
+########## .pages/p266.jpeg ##########
+258 | Gynaecologic Oncology
+HPe : Call &xner body
+---- Active space --
+-Central acidophilic material surrounded
+by follicle like cells + Coffee bean nuclei.
+Fibroma :
+Features :
+· Ul, benign, solid tumor.
+HPe: well differentiated fbroblasts.
+ Associated with meig's syndrome.
+meig's vs. Pseudo-meig's syndrome :
+meig's syndrome | Pseudo meig's syndrome
+·Fibroma/Thecoma/Brenner's tumor/
+Granulosacell+Ascites+Pleural | Any other ovarian tumor (mucinous
+effusion. | cystadenoma) or any other condition
+Removal of tumor—Resolution of | (fbroid) + Ascites + Pleural effusion.
+ascites and pleural effusion.
+mETASTATIC TUMORS OF THE OVARY
+Stomach (m/c)
+Retrograde lymphatics/
+ovary
+GIT
+Transcoelomic spread
+·Breastcarcinoma
+Krukenberg tumor:
+Retrograde lymphatics | Stomach cancer (Pyloric end) | →metastatic ovarian tumor
+Features:
+. 80% : B/L
+Symmetric enlargement of ovaries.
+· Shape  capsule of ovary : Retained
+. mobile + waxy consistency.
+:3dH
+Signet ring celis :
+- mucin Alled cytoplasm pushes nucleus to one side.
+Gynaecology · v1.0 · Marrow 8.0 · 2024
+
+########## .pages/p267.jpeg ##########
+Ovarian Cancer:Part 2
+259
+AGO STAGING | 00:13:12
+---Active space-
+Limited to ovary.
+stage1
+One ovary involved. | IA
+Both ovaries involved. | B | Intact capsule
+Capsule ruptured:
+IC
+IC, : Intraoperative rupture.
+IC : Preoperative rupture.
+IC, : maliqnant ascites.
+Spreads to other pelvic organs.
+stagea
+Fallopian tube or uterus. | 3A
+a6 | Bladder, rectum.
+Spreads beyond pelvis into abdomen. | Stage 3
+3A | 3A I : Retroperitoneal lymph nodes involved.
+3A a : microscopic involvement above pelvic brim.
+3B | macroscopic involvement above | ±Extension to liver
+pelvic brim with size of implant s a cm. | spleen capsule or
+surface.
+3C | macroscopic involvement above
+pelvic brim with size of implant ≥ a cm.
+Stage 4 | Distant metastasis.
+4A | maliqnant pleural effusion.
+Liver/ spleen parenchyma involved OR | 4B
+Inguinal lymph node involved.
+-Ovariancancer:aB
+Note : Involvement of bladder  rectum-
+→Other gynaecological cancers : 4A
+STEPS OF SURGICAL STAGING
+midline incision
+> Ascitic fluid sample : Sent for cytology.
+a | Ascites-
+ Saline wash done  sent for cytology.
+3
+4 | multiple peritoneal biopsies taken.
+S | TypeI TAH + BSO.
+Infracolic omentectomy.
+Closure
+Gynaecology · v1.0 · Marrow 8.0 · 2024
+
+########## .pages/p268.jpeg ##########
+260 | GynaecologicOncology
+MANAGEMENT
+--Active space---
+Surgery :
+oophorectomy)
+Indications for other surgeries :
+GCT : 10-30 yrs of age.
+· Sex cord tumors : Young females.
+ Stage IA epithelial tumor + family not complete.
+a. Debulking Sx : Advanced stages (Stages 3, 4).
+Post-operative chemotherapy :
+Sex cord stromal tumor
+Germ cell tumor | Epithelialcelltumor
+B : Bleomycin
+Chemotherapeutic | b cycles : | B : Bleomycin
+8 : &toposide | agents | IV + Intraperitoneal. | & : &toposide
+p : Cisplatin
+Paclitaxel + | P : Cisplatin
+Carboplatin/Cisplatin
+chemotherapy needed | Indications | All stages except stage 1 A | All stages except
+and I B. | Dysgerminoma stage | only in stage 3 and 4.
+I (Best proqnosis).
+Acne
+Baldness
+Enlarged clitoris (virilization)
+Gynaecology·v1.0·Marrow8.0·2024
+
+########## .pages/p269.jpeg ##########
+261
+---Active space ---
+00:01:15
+Ppathophysiology :
+DeAnition :
+Involuntary passage of urine on ↑
+in intra-abdominal pressure.
+Detrusor | Detrusor
+Pressure | Pressure | &.g. : Coughing, laughing, sneezing.
+Normal
+Sul
+↑Abdominal pressure | Sul | Descent of bladder neck.
+· pelvic Hloor muscle contracts. ↑ | Tests for Sul :
+↑Intra-abdominal pressure
+Q tip test. | · Intraurethral pressure ↑.
+Failure of urethra to close.
+maintains continence
+A
+Involuntary passage of wrine
+management :
+Suspension of bladder neck or urethra
+Bursch | Tension-free | Tension-free
+colposuspension : | transobturator tape (TOT) | transvaginal tape (TVT)
+·Abdominal route Sx.
+· Proximal urethra  bladder | · Day care Sx.
+neck suspended to | · Vaginal route Sx
+iliopectineal/cooper's ligament. | · middle wrethra is suspended.
+siand sisydss
+Whitelineof | C
+liopectineal ligament | pelvicfascia | (Cooper's ligament) | TVT | -Retropubic
+space
+TOT
+Obturator
+foramen
+TOT: | TVT:
+· Hospital stay necessary. | Tape passed via | · Tape passed via retropubic space.
+↑ risk of injury to bladder  | obturator foramen.
+m/c Sx (tOt > TVT). | venous plexus.
+Gynaecology · v1.0 : Marrow 8.0· 2024
+
+########## .pages/p270.jpeg ##########
+262 | Gynaecologic Oncology
+Urinary Fistula | 00:13:06 | ---Active space --
+Complaints :
+1. Constant dribbling of urine from vagina + Normal
+micturition : ureterovaginal fistula.
+a. Constant dribbling of urine from vagina + No normal
+micturition : Vesicovaginal fstula.
+Types :
+3. urine passed from urethra and vagina during
+ureter
+micturition:Urethrovaqinal fstula.
+-uterus
+a
+Bladder
+vagina
+I : Ureterovaginal fistula
+URINARY FISTULA | a : vesicoivaginal fstula
+3 : Urethrovaqinal fstula
+Collection of urine sample : Suprapubic
+catheterization.
+menouria : Hematuria during menstruation.
+Endometriosisofbladder.
+Vesicouterinefistula
+Tests :
+methyleneblue3swabtest:
+· Ioc for vesicovaginal fstula.
+· 3 swabs placed at vagina
+a upper part : Corresponding to wreterovaginal fstua
+b. middle part : Corresponding to vesicovaginal fstula
+c. Lower part : Corresponding to urethrovaginal Astula
+methylene blue dye injected into bladder  urethra by Foley's catheter.
+Inference | Observation
+Upper swab wet, but unstained. | ureterovaginal fstula.
+Vesicovaqinal Hstula | middleswab wet stainedblue.
+urethrovaqinalfstua. | Only lowerswabwetstainedblue.
+Gynaecology·v1.0 ·Marrow 8.0·2024
+
+########## .pages/p271.jpeg ##########
+Gynaecology : Miscellaneous Topics
+263
+vesicovaginal Hstula :
+---- Active space --- | m/c cause :
+Repair :
+Identifed immediately | Identified aftera4 hrs | Post obstructed labour.
+f Sx | after Sx.
+Repair after o wks : After infection  inflammation subsides. | Immediate repair.
+Technique :
+· Chassar moir technique.
+· Latzko technique.
+Post-op instructions :
+· Bladder drainage with Foley's catheter + antibiotics x & wks.
+No P/s or P/v examinations.
+For 3 months.
+No intercourse.
+Pregnancy c/1 x I year.
+
+########## .pages/p272.jpeg ##########
+264 | Gynaecologic Oncology
+00:30:04 | Ovarian Hyperstimulation Syndrome (OHSS)
+----Active space ---
+Risk factors :
+Pathophysiology: | · Young females.
+latrogenic complication : Inj. hmg
+· pcos.
+·Thin female.
+Excessive stimulation ofovaries
+No. of follicles on TVs.
+multiple large follicles | ↑Antral follicle count
+↑AmH >3.3
+Estroqen (zasoo pg).
+↑estradiol (e)
+*VeGF from follicular fluid.
+Failure ofmonitoring | 2aso0 pg:
+Large follicles | Inj. hCG | Pregnancy.
+Rupture offollicle
+Release ofvEGF
+monitoring :
+OHSS
+Follicular monitorinq : To monitor size of follicles.
+Estroqen levels.
+Complaints :
+Nausea, vomiting, abdominal pain,
+dyspnoea -→ Clinical diaqnosis.
+Prevention :
+Drugs causing OHSS :
+· monitoring of follicles in Tvs  estrogen levels.
+·hmG : Highest risk.
+· Withhold hcG if estrogen zasoo pg·
+Clomiphene citrate : Low risk.
+· Cabergoline : ↓veGF.
+· Letrozole : No risk.
+· No embryo transfer : If risk of OHSS +.
+Triggering factors : Ini. hcG.
+mediator:VeGF.
+Ideal conditions for hcG indication :
+sarly OHSS:
+estrogen : soo - 1so0 pg.
+D/t exogenous Inj. of hcg.
+Follicles :
+Within 9 days of Inj. hcG.
+Number:a-3.
+Late OHSS: | Size:>17.mm.
+ D/t endogenous hcG produced by placenta
+during pregnancy.
+Note: | Inj. hcg 9 days ↑endogenous production.
+Amount of εa released per follicle : aoo pg.
+Gynaecology·v1.0·Marrow 8.0·2024

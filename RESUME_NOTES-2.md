@@ -1,9 +1,12 @@
 # PULSE · OBG Mastery Path — Resume Notes
 
-## Current release (2026-10-27)
+## Current release (2026-10-27) — the book is complete
 
-- **Built chapters: 1–44 of 49**; **4,053 questions / 458 units**.
-- Latest batch: **Chapters 41–44, 517 questions / 34 units**.
+- **Built chapters: 1–49 of 49**; **4,860 questions / 563 units**.
+- Latest batch: **Chapters 41–44, 517 questions / 34 units** — this closed the
+  last gap. Chapters 45–49 (807 q / 105 units) were built in a parallel release
+  and merged first; the two releases were integrated without altering each
+  other's chapters.
 
 | Chapter | Scan sequence | Printed folios | Questions | Units |
 |---|---|---|---:|---:|
@@ -11,20 +14,27 @@
 | 42 Endometrial Hyperplasia | 227–229 | 219–221 | 79 | 6 |
 | 43 Endometrial Cancer | 230–235 | 222–227 | 122 | 8 |
 | 44 CIN: Part 1 | 236–245 | 228–237 | 200 | 13 |
+| 45 CIN: Part 2 | 246–250 | 238–242 | 124 | 17 |
+| 46 Cancer Cervix | 251–256 | 243–248 | 177 | 23 |
+| 47 Ovarian Cancer: Part 1 | 257–264 | 249–256 | 246 | 34 |
+| 48 Ovarian Cancer: Part 2 | 265–268 | 257–260 | 140 | 17 |
+| 49 Gynaecology: Miscellaneous Topics | 269–272 | 261–264 | 120 | 14 |
 
 The metadata `page` field retains the repository's **scan-sequence** convention.
 Earlier notes called those “Book pages”; do not confuse them with the printed
-folio. This batch uses part-05 PDF pages 42–45 (scans 222–225) and part-06 PDF
-pages 1–20 (scans 226–245). Raw OCR aid is saved at `audit/ocr_222_246.txt`;
-it is not authoritative. Full coverage map: `audit/ch41-44-coverage.md`.
+folio. In parts 05–07 the scan sequence runs 8 ahead of the printed folio
+(scan 193 = printed 185; scan 246 = printed 238). The 41–44 batch uses part-05
+PDF pages 42–45 (scans 222–225) and part-06 PDF pages 1–20 (scans 226–245).
+Raw OCR aids are saved under `audit/`; they are not authoritative.
+Full coverage map: `audit/ch41-44-coverage.md`.
 
 ## Next work
 
-**Chapter 45 — CIN: Part 2** begins at **scan 246 / printed 238** (part-06 PDF
-page 21). Boundary confirmed from the actual page heading; do not pull scan 246
-content into the completed 41–44 batch. The supplied part-06 PDF covers scans
-226–270 and part-07 covers 271–272. Check subsequent chapter boundaries from the
-actual page headings as before. Chapters 45–49 are not built.
+**No chapters remain.** All 49 chapters of the printed book are built, validated
+and merged. Any further work is optional quality review, not a new chapter batch:
+re-read source sheets for missed points, refine distractors, or revisit flagged
+source cautions. If a new edition arrives, confirm chapter boundaries from the
+actual page headings before authoring, as before.
 
 ## Files
 
@@ -36,13 +46,15 @@ actual page headings as before. Chapters 45–49 are not built.
 - `build_chapters.py`: deterministic balanced shuffling, distractor shuffling,
   embedding and numerically ordered idempotent upsert.
 - `validate.py`: fail-closed validation using actual JS parsing via Node.
+- `tools/`: OCR, page extraction, preview and crop helpers.
 - `tests/test_build.py`: authoring, shuffle, order/idempotency, page coverage
-  for chapters 36–44 and negative tests.
-- `tests/quiz-smoke.cjs`: jsdom interaction test of all 517 new questions,
-  feedback/completion, mistake review and progress persistence/reload.
-- `audit/ch41-44-coverage.md`: page/topic/question-ID map and source caveats.
-- `audit/ch36-40-coverage.md`: previous batch coverage record.
-- `audit/ocr_222_246.txt`: uncorrected OCR, not an authoritative transcription.
+  for chapters 36–49 and negative tests.
+- `tests/quiz-smoke.cjs`: jsdom interaction test of all 1,324 questions in
+  chapters 41–49, feedback/completion, mistake review and progress
+  persistence/reload; also verifies all 49 chapter cards.
+- `audit/ch41-44-coverage.md`, `audit/ch36-40-coverage.md`: coverage records.
+- `audit/ocr_222_246.txt`, `audit/ocr_hi_226_249.txt`,
+  `audit/ocr_hi_250_272.txt`: uncorrected OCR, not authoritative.
 - `PROGRESS.md`: release totals and detailed history.
 
 ## Build and test

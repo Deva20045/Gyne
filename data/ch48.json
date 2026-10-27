@@ -1,0 +1,2245 @@
+{
+ "chapter": 48,
+ "questions": [
+  {
+   "id": "ch48-u1-q1",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Classification Tree",
+   "page": 265,
+   "fmt": "recall",
+   "q": "The sex cord arm of the printed tree splits into which two functional groups?",
+   "opts": [
+    "Feminizing and neutral tumours",
+    "Estrogen producing and progesterone producing",
+    "Androgen producing and inhibin producing",
+    "Estrogen producing (feminizing) and androgen producing (virilizing) tumours"
+   ],
+   "ans": 3,
+   "exp": "The tree prints estrogen producing (feminizing) and androgen producing (virilizing)."
+  },
+  {
+   "id": "ch48-u1-q2",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Classification Tree",
+   "page": 265,
+   "fmt": "recall",
+   "q": "The estrogen producing (feminizing) tumour printed is:",
+   "opts": [
+    "Leydig cell tumour",
+    "Granulosa cell tumour",
+    "Hilus cell tumour",
+    "Sertoli-Leydig cell tumour"
+   ],
+   "ans": 1,
+   "exp": "The feminizing arm lists granulosa cell tumour."
+  },
+  {
+   "id": "ch48-u1-q3",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Classification Tree",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Name the three androgen producing (virilizing) tumours printed.",
+   "opts": [
+    "Sertoli-Leydig, granulosa and hilus cell tumours",
+    "Sertoli-Leydig cell tumour, Leydig cell tumour and hilus cell tumour",
+    "Sertoli cell tumour, Leydig cell tumour and thecoma",
+    "Leydig cell tumour, hilus cell tumour and fibroma"
+   ],
+   "ans": 1,
+   "exp": "The virilizing arm lists those three."
+  },
+  {
+   "id": "ch48-u1-q4",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Classification Tree",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Reinke's crystals on HPE are printed for which tumour?",
+   "opts": [
+    "Sertoli-Leydig cell tumour",
+    "Leydig cell tumour",
+    "Hilus cell tumour",
+    "Granulosa cell tumour"
+   ],
+   "ans": 2,
+   "exp": "The bracket under hilus cell tumour prints '(Reinke's crystals seen on HPE)'."
+  },
+  {
+   "id": "ch48-u1-q5",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Classification Tree",
+   "page": 265,
+   "fmt": "recall",
+   "q": "The stromal tumour arm of the tree lists which three tumours?",
+   "opts": [
+    "Fibroma, fibrothecoma and Leydig",
+    "Fibroma, thecoma and granulosa",
+    "Fibroma, thecoma and fibrothecoma",
+    "Thecoma, fibrothecoma and hilus"
+   ],
+   "ans": 2,
+   "exp": "The stromal column prints fibroma, thecoma, fibrothecoma."
+  },
+  {
+   "id": "ch48-u1-q6",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Classification Tree",
+   "page": 265,
+   "fmt": "match",
+   "q": "Match each tree arm with its printed members - 1) Feminizing 2) Virilizing 3) Stromal ... A) Fibroma, thecoma, fibrothecoma B) Granulosa cell tumour C) Sertoli-Leydig, Leydig and hilus cell tumours ... choose:",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "The tree prints granulosa as feminizing, the three androgen tumours as virilizing and fibroma-thecoma-fibrothecoma as stromal."
+  },
+  {
+   "id": "ch48-u1-q7",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Classification Tree",
+   "page": 265,
+   "fmt": "odd",
+   "q": "Odd one out - which tumour sits in the stromal rather than sex cord arm?",
+   "opts": [
+    "Leydig cell tumour",
+    "Hilus cell tumour",
+    "Thecoma",
+    "Granulosa cell tumour"
+   ],
+   "ans": 2,
+   "exp": "Thecoma is stromal; the rest are sex cord tumours."
+  },
+  {
+   "id": "ch48-u2-q1",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Features and Prognosis Note",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Sex cord stromal tumours most commonly affect which group?",
+   "opts": [
+    "Postmenopausal women only",
+    "Perimenopausal women",
+    "Reproductive age women",
+    "Pre-pubertal girls"
+   ],
+   "ans": 1,
+   "exp": "'m/c affects perimenopausal women'."
+  },
+  {
+   "id": "ch48-u2-q2",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Features and Prognosis Note",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Sex cord stromal tumours are printed as which sided?",
+   "opts": [
+    "Left sided",
+    "Bilateral",
+    "Right sided",
+    "Unilateral"
+   ],
+   "ans": 3,
+   "exp": "'Unilateral' in the features list."
+  },
+  {
+   "id": "ch48-u2-q3",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Features and Prognosis Note",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Why do sex cord stromal tumours get diagnosed early on the printed page?",
+   "opts": [
+    "They present with acute abdomen",
+    "They are large at onset",
+    "Increased sex hormone production causes specific symptoms",
+    "They raise CA 125"
+   ],
+   "ans": 2,
+   "exp": "'up Production of sex hormones -> Specific symptoms -> Early diagnosis'."
+  },
+  {
+   "id": "ch48-u2-q4",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Features and Prognosis Note",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Give the printed prognosis hierarchy across ovarian tumour groups.",
+   "opts": [
+    "Sex cord stromal tumour > GCT > epithelial cell tumour",
+    "Epithelial > GCT > sex cord stromal",
+    "GCT > sex cord stromal > epithelial",
+    "Sex cord stromal > epithelial > GCT"
+   ],
+   "ans": 0,
+   "exp": "'Best prognosis : Sex cord stromal tumor > GCT > Epithelial cell tumor'."
+  },
+  {
+   "id": "ch48-u2-q5",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Features and Prognosis Note",
+   "page": 265,
+   "fmt": "tf",
+   "q": "True/False: Sex cord stromal tumours are printed as having the best prognosis among the three ovarian tumour groups.",
+   "opts": [
+    "False - GCT is best",
+    "True",
+    "False - epithelial is best",
+    "False"
+   ],
+   "ans": 1,
+   "exp": "The note prints sex cord stromal first in the hierarchy."
+  },
+  {
+   "id": "ch48-u2-q6",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Features and Prognosis Note",
+   "page": 265,
+   "fmt": "fillup",
+   "q": "Fill up: Increased production of ____ hormones gives sex cord stromal tumours their specific symptoms and early diagnosis.",
+   "opts": [
+    "pituitary",
+    "adrenal",
+    "thyroid",
+    "sex"
+   ],
+   "ans": 3,
+   "exp": "The chain prints up production of sex hormones."
+  },
+  {
+   "id": "ch48-u3-q1",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Granulosa cell tumour originates from which cells?",
+   "opts": [
+    "Granulosa cells",
+    "Sertoli cells",
+    "Theca cells",
+    "Stromal fibroblasts"
+   ],
+   "ans": 0,
+   "exp": "'Origin : Granulosa cells' in the pathophysiology tree."
+  },
+  {
+   "id": "ch48-u3-q2",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "The gene printed alongside granulosa cell tumour is:",
+   "opts": [
+    "MLH1 gene",
+    "FOX L-2 gene",
+    "BRCA1 gene",
+    "p53 gene"
+   ],
+   "ans": 1,
+   "exp": "The second branch of the pathophysiology tree prints FOX L-2 gene."
+  },
+  {
+   "id": "ch48-u3-q3",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "The two tumour markers printed as produced by granulosa cell tumour are:",
+   "opts": [
+    "Estrogen and AMH",
+    "Inhibin and AMH",
+    "Estrogen and CA 125",
+    "Estrogen and inhibin"
+   ],
+   "ans": 3,
+   "exp": "The produce bracket joins estrogen and inhibin as tumour markers."
+  },
+  {
+   "id": "ch48-u3-q4",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Antimullerian hormone is printed as a marker at which life stage?",
+   "opts": [
+    "In reproductive age",
+    "At birth",
+    "At puberty",
+    "At menopause"
+   ],
+   "ans": 2,
+   "exp": "'Antimullerian hormone (At puberty)'."
+  },
+  {
+   "id": "ch48-u3-q5",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Excessive bleeding in granulosa cell tumour presents as which two printed patterns?",
+   "opts": [
+    "Post-menopausal bleeding and contact bleeding",
+    "Atypical uterine bleeding and intermenstrual bleeding",
+    "Atypical uterine bleeding (perimenopausal) and post-menopausal bleeding",
+    "Menorrhagia and post coital bleeding"
+   ],
+   "ans": 2,
+   "exp": "The bleeding bullets print atypical uterine bleeding (perimenopausal) and post-menopausal bleeding."
+  },
+  {
+   "id": "ch48-u3-q6",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "In a pre-pubertal girl, granulosa cell tumour presents as:",
+   "opts": [
+    "Primary amenorrhoea",
+    "Precocious puberty",
+    "Delayed puberty",
+    "Vaginal bleeding only"
+   ],
+   "ans": 1,
+   "exp": "'Precocious puberty' in the presentation list."
+  },
+  {
+   "id": "ch48-u3-q7",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "Because of its link with endometrial cancer, which step is mandatory in all granulosa cases?",
+   "opts": [
+    "Cervical biopsy",
+    "Pelvic CT",
+    "CA 125 estimation",
+    "Endometrial sampling"
+   ],
+   "ans": 3,
+   "exp": "'Endometrial cancer : Endometrial sampling mandatory in all cases'."
+  },
+  {
+   "id": "ch48-u3-q8",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "recall",
+   "q": "The note box lists which two ovarian cancers associated with endometrial cancer?",
+   "opts": [
+    "Granulosa cell tumour and thecoma",
+    "Endometroid tumour and clear cell tumour",
+    "Endometroid tumour and granulosa cell tumour",
+    "Clear cell tumour and granulosa cell tumour"
+   ],
+   "ans": 2,
+   "exp": "The box prints a. Endometroid tumor b. Granulosa cell tumor."
+  },
+  {
+   "id": "ch48-u3-q9",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "match",
+   "q": "Match each granulosa attribute with its printed value - 1) Origin 2) Gene 3) Markers 4) Mandatory step ... A) Estrogen and inhibin B) Granulosa cells C) Endometrial sampling D) FOX L-2 ... choose:",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Origin granulosa cells, gene FOX L-2, markers estrogen and inhibin, mandatory endometrial sampling."
+  },
+  {
+   "id": "ch48-u3-q10",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour: Pathophysiology and Presentation",
+   "page": 265,
+   "fmt": "scenario",
+   "q": "Scenario: A 52-year-old with post-menopausal bleeding has a unilateral solid-cystic ovarian mass and thickened endometrium. The printed tumour and mandatory step are:",
+   "opts": [
+    "Thecoma with hysteroscopy only",
+    "Granulosa cell tumour with endometrial sampling",
+    "Endometroid tumour with cervical biopsy",
+    "Clear cell tumour with CA 125"
+   ],
+   "ans": 1,
+   "exp": "Post-menopausal bleeding with an estrogenic ovarian mass fits granulosa cell tumour, and endometrial sampling is mandatory."
+  },
+  {
+   "id": "ch48-u4-q1",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Complete Coverage: Book p257 review",
+   "page": 265,
+   "fmt": "fillup",
+   "q": "Fill up: The gene printed in the granulosa cell tumour pathophysiology tree is FOX ____ gene.",
+   "opts": [
+    "L-2",
+    "O-2",
+    "P-2",
+    "L-1"
+   ],
+   "ans": 0,
+   "exp": "The second branch prints FOX L-2 gene."
+  },
+  {
+   "id": "ch48-u4-q2",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Complete Coverage: Book p257 review",
+   "page": 265,
+   "fmt": "fillup",
+   "q": "Fill up: The antimullerian hormone marker of granulosa cell tumour is printed as appearing at ____.",
+   "opts": [
+    "menarche only",
+    "puberty",
+    "birth",
+    "menopause"
+   ],
+   "ans": 1,
+   "exp": "'Antimullerian hormone (At puberty)'."
+  },
+  {
+   "id": "ch48-u4-q3",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Complete Coverage: Book p257 review",
+   "page": 265,
+   "fmt": "scenario",
+   "q": "Scenario: A granulosa cell tumour is removed and the endometrium shows hyperplasia. Which printed rule justified sampling the endometrium before this finding?",
+   "opts": [
+    "Endometrial sampling mandatory in all cases because of the endometrial cancer link",
+    "Sampling only if bleeding is heavy",
+    "No sampling rule is printed",
+    "Sampling only if post-menopausal"
+   ],
+   "ans": 0,
+   "exp": "The presentation block prints endometrial sampling mandatory in all cases."
+  },
+  {
+   "id": "ch48-u5-q1",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour HPE",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The HPE hallmark printed for granulosa cell tumour is:",
+   "opts": [
+    "Hobnail cells",
+    "Psammoma body",
+    "Schiller Duval body",
+    "Call Exner body"
+   ],
+   "ans": 3,
+   "exp": "'HPE : Call Exner body' on page 258."
+  },
+  {
+   "id": "ch48-u5-q2",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour HPE",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The Call Exner body is drawn as:",
+   "opts": [
+    "Central capillaries surrounded by tumour cells",
+    "Central acidophilic material surrounded by follicle like cells, with coffee bean nuclei",
+    "Nests of cells with lymphocytic septa",
+    "Mucin pushing the nucleus aside"
+   ],
+   "ans": 1,
+   "exp": "The figure label prints central acidophilic material surrounded by follicle like cells + coffee bean nuclei."
+  },
+  {
+   "id": "ch48-u5-q3",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour HPE",
+   "page": 266,
+   "fmt": "recall",
+   "q": "Coffee bean nuclei accompany which two printed tumours?",
+   "opts": [
+    "Brenner's tumour and fibroma",
+    "Granulosa cell tumour and clear cell tumour",
+    "Granulosa cell tumour and Brenner's tumour",
+    "Granulosa cell tumour and thecoma"
+   ],
+   "ans": 2,
+   "exp": "Page 254 note 1 and page 258 both pair coffee bean nuclei with granulosa and Brenner's."
+  },
+  {
+   "id": "ch48-u5-q4",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour HPE",
+   "page": 266,
+   "fmt": "tf",
+   "q": "True/False: The Call Exner body contains central acidophilic material surrounded by follicle-like cells.",
+   "opts": [
+    "True",
+    "False - it contains central capillaries",
+    "False - it contains mucin",
+    "False"
+   ],
+   "ans": 0,
+   "exp": "The figure label prints exactly that description."
+  },
+  {
+   "id": "ch48-u5-q5",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Granulosa Cell Tumour HPE",
+   "page": 266,
+   "fmt": "odd",
+   "q": "Odd one out - which HPE feature belongs to yolk sac tumour rather than granulosa cell tumour?",
+   "opts": [
+    "Schiller Duval body",
+    "Coffee bean nuclei",
+    "Follicle-like cell rosettes",
+    "Call Exner body"
+   ],
+   "ans": 0,
+   "exp": "Schiller Duval bodies are the yolk sac hallmark of page 256."
+  },
+  {
+   "id": "ch48-u6-q1",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "recall",
+   "q": "Fibroma is printed as which combination?",
+   "opts": [
+    "U/L, benign, solid tumour",
+    "B/L, benign, cystic tumour",
+    "U/L, malignant, solid tumour",
+    "B/L, benign, solid tumour"
+   ],
+   "ans": 0,
+   "exp": "'U/L, benign, solid tumor' under fibroma features."
+  },
+  {
+   "id": "ch48-u6-q2",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The HPE of fibroma shows:",
+   "opts": [
+    "Well differentiated smooth muscle",
+    "Fibroblasts with atypia",
+    "Collagen only without cells",
+    "Well differentiated fibroblasts"
+   ],
+   "ans": 3,
+   "exp": "'HPE : Well differentiated fibroblasts'."
+  },
+  {
+   "id": "ch48-u6-q3",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "recall",
+   "q": "Fibroma is associated with which syndrome?",
+   "opts": [
+    "Pseudo-meig's syndrome",
+    "Peutz-Jeghers syndrome",
+    "Turner syndrome",
+    "Meig's syndrome"
+   ],
+   "ans": 3,
+   "exp": "'Associated with meig's syndrome'."
+  },
+  {
+   "id": "ch48-u6-q4",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "recall",
+   "q": "Meig's syndrome is printed as the triad of which tumours with ascites and pleural effusion?",
+   "opts": [
+    "Fibroma, thecoma and dysgerminoma",
+    "Fibroma, Brenner's and mucinous cystadenoma",
+    "Thecoma, granulosa and clear cell",
+    "Fibroma, thecoma, Brenner's tumour or granulosa cell"
+   ],
+   "ans": 3,
+   "exp": "The Meig's cell prints fibroma/thecoma/Brenner's/granulosa cell + ascites + pleural effusion."
+  },
+  {
+   "id": "ch48-u6-q5",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The defining behaviour of true Meig's syndrome after tumour removal is:",
+   "opts": [
+    "Persistence of ascites",
+    "Resolution of ascites and pleural effusion",
+    "Recurrence of effusion",
+    "Need for peritoneal drainage"
+   ],
+   "ans": 1,
+   "exp": "'Removal of tumor -> Resolution of ascites and pleural effusion'."
+  },
+  {
+   "id": "ch48-u6-q6",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "recall",
+   "q": "Pseudo-meig's syndrome is printed as ascites with pleural effusion due to:",
+   "opts": [
+    "Any other ovarian tumour (mucinous cystadenoma) or any other condition (fibroid)",
+    "Brenner's tumour only",
+    "Granulosa cell tumour only",
+    "Fibroma or thecoma only"
+   ],
+   "ans": 0,
+   "exp": "The pseudo column prints any other ovarian tumour (mucinous cystadenoma) or any other condition (fibroid)."
+  },
+  {
+   "id": "ch48-u6-q7",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "match",
+   "q": "Match each syndrome with its printed tumour set - 1) Meig's 2) Pseudo-meig's ... A) Mucinous cystadenoma or fibroid with ascites and effusion B) Fibroma, thecoma, Brenner's or granulosa with ascites and effusion ... choose:",
+   "opts": [
+    "1-B, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "True Meig's uses the four sex cord/stromal tumours; pseudo uses any other tumour or condition."
+  },
+  {
+   "id": "ch48-u6-q8",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with a fibroid develops ascites and pleural effusion that resolve after hysterectomy. The printed label is:",
+   "opts": [
+    "Pseudo-meig's syndrome",
+    "Tubercular peritonitis",
+    "Ovarian hyperstimulation",
+    "Meig's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Fibroid as the cause places it in the pseudo-meig's column."
+  },
+  {
+   "id": "ch48-u6-q9",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "fillup",
+   "q": "Fill up: Removal of the tumour in Meig's syndrome leads to ____ of ascites and pleural effusion.",
+   "opts": [
+    "recurrence",
+    "loculation",
+    "worsening",
+    "resolution"
+   ],
+   "ans": 3,
+   "exp": "The arrow prints resolution of ascites and pleural effusion."
+  },
+  {
+   "id": "ch48-u6-q10",
+   "sec": "Sex Cord Stromal Tumors",
+   "unit": "Fibroma and Meig's Syndrome",
+   "page": 266,
+   "fmt": "tf",
+   "q": "True/False: Fibroma is printed as a bilateral malignant cystic tumour.",
+   "opts": [
+    "True",
+    "False - it is bilateral benign solid",
+    "False - it is unilateral malignant solid",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The features print U/L, benign, solid."
+  },
+  {
+   "id": "ch48-u7-q1",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Sources and Route",
+   "page": 266,
+   "fmt": "recall",
+   "q": "Name the three printed primary sources of metastatic ovarian tumours.",
+   "opts": [
+    "Stomach (m/c), GIT and breast carcinoma",
+    "Stomach, colon and lung",
+    "Breast, GIT and thyroid",
+    "Stomach, GIT and kidney"
+   ],
+   "ans": 0,
+   "exp": "The bracket lists stomach (m/c), GIT and breast carcinoma."
+  },
+  {
+   "id": "ch48-u7-q2",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Sources and Route",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The most common primary source printed is:",
+   "opts": [
+    "Colon",
+    "Stomach",
+    "GIT",
+    "Breast"
+   ],
+   "ans": 1,
+   "exp": "'Stomach (m/c)' heads the list."
+  },
+  {
+   "id": "ch48-u7-q3",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Sources and Route",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The two spread routes printed to the ovary are:",
+   "opts": [
+    "Hematogenous and lymphatic",
+    "Retrograde lymphatics and hematogenous",
+    "Transcoelomic and direct",
+    "Retrograde lymphatics and transcoelomic spread"
+   ],
+   "ans": 3,
+   "exp": "The arrow label prints retrograde lymphatics/transcoelomic spread."
+  },
+  {
+   "id": "ch48-u7-q4",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Sources and Route",
+   "page": 266,
+   "fmt": "match",
+   "q": "Match each printed source with its rank - 1) Stomach 2) GIT 3) Breast carcinoma ... A) m/c B) Second listed C) Third listed ... choose:",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Stomach is labelled m/c and the list order is stomach, GIT, breast."
+  },
+  {
+   "id": "ch48-u8-q1",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "recall",
+   "q": "Krukenberg tumour arises from which primary site and end?",
+   "opts": [
+    "Stomach cancer (cardiac end)",
+    "Caecal cancer",
+    "Breast cancer",
+    "Stomach cancer (pyloric end)"
+   ],
+   "ans": 3,
+   "exp": "The line prints 'Stomach cancer (Pyloric end)'."
+  },
+  {
+   "id": "ch48-u8-q2",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The route printed for Krukenberg tumour is:",
+   "opts": [
+    "Direct extension",
+    "Retrograde lymphatics",
+    "Transcoelomic spread",
+    "Hematogenous"
+   ],
+   "ans": 1,
+   "exp": "The arrow label prints retrograde lymphatics."
+  },
+  {
+   "id": "ch48-u8-q3",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "numeric",
+   "q": "Krukenberg tumour is bilateral in what percentage?",
+   "opts": [
+    "50%",
+    "80%",
+    "100%",
+    "60%"
+   ],
+   "ans": 1,
+   "exp": "'80% : B/L' under features."
+  },
+  {
+   "id": "ch48-u8-q4",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The ovarian enlargement in Krukenberg tumour is described as:",
+   "opts": [
+    "Asymmetric enlargement",
+    "Symmetric enlargement of ovaries",
+    "Cystic enlargement",
+    "Unilateral enlargement"
+   ],
+   "ans": 1,
+   "exp": "'Symmetric enlargement of ovaries'."
+  },
+  {
+   "id": "ch48-u8-q5",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "recall",
+   "q": "What is retained in Krukenberg tumour despite metastasis?",
+   "opts": [
+    "Hormone production",
+    "Mobility only",
+    "Shape and capsule of ovary",
+    "Ovarian function"
+   ],
+   "ans": 2,
+   "exp": "'Shape & capsule of ovary : Retained'."
+  },
+  {
+   "id": "ch48-u8-q6",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The consistency and mobility printed for Krukenberg tumour are:",
+   "opts": [
+    "Mobile with waxy consistency",
+    "Mobile with cystic consistency",
+    "Fixed with rubbery consistency",
+    "Fixed with waxy consistency"
+   ],
+   "ans": 0,
+   "exp": "'Mobile + waxy consistency'."
+  },
+  {
+   "id": "ch48-u8-q7",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The HPE hallmark of Krukenberg tumour is:",
+   "opts": [
+    "Psammoma bodies",
+    "Call Exner bodies",
+    "Hobnail cells",
+    "Signet ring cells"
+   ],
+   "ans": 3,
+   "exp": "'HPE : Signet ring cells'."
+  },
+  {
+   "id": "ch48-u8-q8",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "recall",
+   "q": "The signet ring appearance is produced by:",
+   "opts": [
+    "Lipid vacuoles indenting the nucleus",
+    "Mucin filled cytoplasm pushing the nucleus to one side",
+    "Glycogen filled cytoplasm pushing the nucleus centrally",
+    "Mucin filled nucleus pushing cytoplasm aside"
+   ],
+   "ans": 1,
+   "exp": "The sub-bullet prints mucin filled cytoplasm pushes nucleus to one side."
+  },
+  {
+   "id": "ch48-u8-q9",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "match",
+   "q": "Match each Krukenberg feature with its printed value - 1) Primary end 2) Route 3) Bilaterality 4) HPE ... A) Signet ring cells B) Pyloric end C) 80% bilateral D) Retrograde lymphatics ... choose:",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Pyloric end primary, retrograde lymphatics, 80% bilateral and signet ring cells."
+  },
+  {
+   "id": "ch48-u8-q10",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "scenario",
+   "q": "Scenario: A 50-year-old with a gastric pyloric carcinoma develops bilateral symmetric solid ovarian masses retaining ovarian shape. The printed diagnosis is:",
+   "opts": [
+    "Meig's syndrome",
+    "Primary mucinous carcinoma",
+    "Krukenberg tumour",
+    "Pseudo-meig's syndrome"
+   ],
+   "ans": 2,
+   "exp": "The stomach pyloric end with retrograde lymphatic spread defines Krukenberg tumour."
+  },
+  {
+   "id": "ch48-u8-q11",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "odd",
+   "q": "Odd one out - which feature contradicts the printed Krukenberg profile?",
+   "opts": [
+    "Retained ovarian shape and capsule",
+    "Unilateral in 80% of cases",
+    "Waxy mobile consistency",
+    "Signet ring cells on HPE"
+   ],
+   "ans": 1,
+   "exp": "The page prints 80% bilateral, not unilateral."
+  },
+  {
+   "id": "ch48-u8-q12",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Krukenberg Tumour",
+   "page": 266,
+   "fmt": "tf",
+   "q": "True/False: Transcoelomic spread is one of the two printed routes by which stomach, GIT and breast secondaries reach the ovary.",
+   "opts": [
+    "True",
+    "False - only hematogenous",
+    "False - only retrograde lymphatics",
+    "False"
+   ],
+   "ans": 0,
+   "exp": "The bracket arrow prints retrograde lymphatics/transcoelomic spread."
+  },
+  {
+   "id": "ch48-u9-q1",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Complete Coverage: Book p258 review",
+   "page": 266,
+   "fmt": "numeric",
+   "q": "Numeric: Krukenberg tumour bilaterality and dermoid cyst bilaterality printed in this volume are:",
+   "opts": [
+    "10% and 80%",
+    "80% and 15-20%",
+    "80% and 10% respectively",
+    "50% and 10%"
+   ],
+   "ans": 2,
+   "exp": "Page 258 prints 80% B/L for Krukenberg; page 255 prints bilateral in 10% for dermoid."
+  },
+  {
+   "id": "ch48-u9-q2",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Complete Coverage: Book p258 review",
+   "page": 266,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with a thecoma has ascites and pleural effusion. After tumour removal both resolve. The printed label is:",
+   "opts": [
+    "Pseudo-meig's syndrome",
+    "Krukenberg tumour",
+    "OHSS",
+    "Meig's syndrome"
+   ],
+   "ans": 3,
+   "exp": "Thecoma is inside the true Meig's tumour list and resolution after removal confirms it."
+  },
+  {
+   "id": "ch48-u9-q3",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Complete Coverage: Book p258 review",
+   "page": 266,
+   "fmt": "odd",
+   "q": "Odd one out - which tumour is absent from the true Meig's syndrome list?",
+   "opts": [
+    "Thecoma",
+    "Fibroma",
+    "Mucinous cystadenoma",
+    "Granulosa cell tumour"
+   ],
+   "ans": 2,
+   "exp": "Mucinous cystadenoma appears only in the pseudo-meig's column."
+  },
+  {
+   "id": "ch48-u9-q4",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Complete Coverage: Book p258 review",
+   "page": 266,
+   "fmt": "tf",
+   "q": "True/False: The Call Exner body and the Schiller Duval body both contain central capillaries on the printed figures.",
+   "opts": [
+    "True",
+    "False - neither contains central material",
+    "False - Schiller Duval contains acidophilic material",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "Call Exner shows central acidophilic material; Schiller Duval shows central capillaries."
+  },
+  {
+   "id": "ch48-u9-q5",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Complete Coverage: Book p258 review",
+   "page": 266,
+   "fmt": "match",
+   "q": "Match each figure or photograph on pages 257-260 with its caption subject - 1) Call Exner body micrograph 2) Krukenberg gross and micrograph 3) Signet ring cell label ... A) Mucin filled cytoplasm pushing nucleus aside B) Central acidophilic material with follicle-like cells C) Symmetric bilateral ovarian enlargement ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 2,
+   "exp": "The micrograph label prints acidophilic centres, the Krukenberg photo shows symmetric enlargement and the ring cell label prints mucin displacing the nucleus."
+  },
+  {
+   "id": "ch48-u9-q6",
+   "sec": "Metastatic Tumors of the Ovary",
+   "unit": "Complete Coverage: Book p258 review",
+   "page": 266,
+   "fmt": "fillup",
+   "q": "Fill up: The waxy, mobile bilateral ovarian secondaries from a pyloric gastric cancer are called ____ tumour.",
+   "opts": [
+    "Meig's",
+    "Brenner's",
+    "Krukenberg",
+    "Sertoli-Leydig"
+   ],
+   "ans": 2,
+   "exp": "The Krukenberg line prints stomach cancer pyloric end to metastatic ovarian tumour."
+  },
+  {
+   "id": "ch48-u10-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 1 in the printed ovarian FIGO table means:",
+   "opts": [
+    "Limited to one adnexa",
+    "Limited to ovary",
+    "Capsule intact only",
+    "Limited to pelvis"
+   ],
+   "ans": 1,
+   "exp": "The stage 1 row prints 'Limited to ovary'."
+  },
+  {
+   "id": "ch48-u10-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage IA is printed as:",
+   "opts": [
+    "One ovary involved",
+    "Capsule ruptured",
+    "Tube involved",
+    "Both ovaries involved"
+   ],
+   "ans": 0,
+   "exp": "The IA row prints one ovary involved."
+  },
+  {
+   "id": "ch48-u10-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage IB is printed as:",
+   "opts": [
+    "Pelvic spread",
+    "Capsule ruptured",
+    "Both ovaries involved",
+    "One ovary involved"
+   ],
+   "ans": 2,
+   "exp": "The IB row prints both ovaries involved."
+  },
+  {
+   "id": "ch48-u10-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "The intact capsule label spans which substages?",
+   "opts": [
+    "IB and IC",
+    "IA and IB",
+    "IC only",
+    "IA only"
+   ],
+   "ans": 1,
+   "exp": "The merged cell 'Intact capsule' covers the IA and IB rows."
+  },
+  {
+   "id": "ch48-u10-q5",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage IC is defined by:",
+   "opts": [
+    "Capsule ruptured",
+    "Malignant ascites only",
+    "Both ovaries involved",
+    "Pelvic extension"
+   ],
+   "ans": 0,
+   "exp": "The IC row prints capsule ruptured with three sub-arms."
+  },
+  {
+   "id": "ch48-u10-q6",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "match",
+   "q": "Match the IC substage with its printed cause - 1) IC1 2) IC2 3) IC3 ... A) Preoperative rupture B) Malignant ascites C) Intraoperative rupture ... choose:",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "IC1 is intraoperative rupture, IC2 preoperative rupture and IC3 malignant ascites."
+  },
+  {
+   "id": "ch48-u10-q7",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 2 in the printed table means spread to:",
+   "opts": [
+    "Retroperitoneal nodes",
+    "Other pelvic organs",
+    "Abdomen",
+    "Distant sites"
+   ],
+   "ans": 1,
+   "exp": "The stage 2 row prints spreads to other pelvic organs."
+  },
+  {
+   "id": "ch48-u10-q8",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 2A involves which organs?",
+   "opts": [
+    "Ovaries bilaterally",
+    "Parametrium",
+    "Bladder or rectum",
+    "Fallopian tube or uterus"
+   ],
+   "ans": 3,
+   "exp": "The 2A row prints fallopian tube or uterus."
+  },
+  {
+   "id": "ch48-u10-q9",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 2B involves which organs?",
+   "opts": [
+    "Bladder, rectum",
+    "Rectum, sigmoid only",
+    "Fallopian tube, uterus",
+    "Ureter, bladder"
+   ],
+   "ans": 0,
+   "exp": "The 2B row prints bladder, rectum."
+  },
+  {
+   "id": "ch48-u10-q10",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 3 in the printed table means spread:",
+   "opts": [
+    "Beyond pelvis into abdomen",
+    "To inguinal nodes",
+    "Within pelvis only",
+    "To pleura"
+   ],
+   "ans": 0,
+   "exp": "The stage 3 row prints spreads beyond pelvis into abdomen."
+  },
+  {
+   "id": "ch48-u10-q11",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 3A1 is defined by involvement of:",
+   "opts": [
+    "Microscopic implants above pelvic brim",
+    "Liver capsule",
+    "Retroperitoneal lymph nodes",
+    "Macroscopic implants <= 2 cm"
+   ],
+   "ans": 2,
+   "exp": "The 3A1 line prints retroperitoneal lymph nodes involved."
+  },
+  {
+   "id": "ch48-u10-q12",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 3A2 is defined by:",
+   "opts": [
+    "Macroscopic implants <= 2 cm",
+    "Macroscopic implants >= 2 cm",
+    "Microscopic involvement above pelvic brim",
+    "Retroperitoneal nodes only"
+   ],
+   "ans": 2,
+   "exp": "The 3A2 line prints microscopic involvement above pelvic brim."
+  },
+  {
+   "id": "ch48-u10-q13",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "numeric",
+   "q": "Stage 3B implant size printed is:",
+   "opts": [
+    "Microscopic only",
+    "<= 1 cm above pelvic brim",
+    ">= 2 cm above pelvic brim",
+    "Macroscopic implants <= 2 cm above pelvic brim"
+   ],
+   "ans": 3,
+   "exp": "The 3B row prints macroscopic involvement above pelvic brim with size of implant <= 2 cm."
+  },
+  {
+   "id": "ch48-u10-q14",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "numeric",
+   "q": "Stage 3C implant size printed is:",
+   "opts": [
+    "Macroscopic implants >= 2 cm above pelvic brim",
+    "Any size within pelvis",
+    "<= 2 cm above pelvic brim",
+    "Microscopic above pelvic brim"
+   ],
+   "ans": 0,
+   "exp": "The 3C row prints >= 2 cm."
+  },
+  {
+   "id": "ch48-u10-q15",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "The plus-minus extension to liver and spleen capsule or surface belongs to which substages?",
+   "opts": [
+    "3B and 3C",
+    "3A1 and 3A2",
+    "3C only",
+    "4A and 4B"
+   ],
+   "ans": 0,
+   "exp": "The merged cell spans the 3B and 3C rows."
+  },
+  {
+   "id": "ch48-u10-q16",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 4 in the printed table means:",
+   "opts": [
+    "Distant metastasis",
+    "Abdominal spread",
+    "Pleural effusion only",
+    "Inguinal nodes only"
+   ],
+   "ans": 0,
+   "exp": "The stage 4 row prints distant metastasis."
+  },
+  {
+   "id": "ch48-u10-q17",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 4A is printed as:",
+   "opts": [
+    "Inguinal node involvement",
+    "Liver parenchymal metastasis",
+    "Malignant pleural effusion",
+    "Splenic parenchymal metastasis"
+   ],
+   "ans": 2,
+   "exp": "The 4A row prints malignant pleural effusion."
+  },
+  {
+   "id": "ch48-u10-q18",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Stage 4B is printed as:",
+   "opts": [
+    "Para-aortic nodes",
+    "Liver capsule only",
+    "Liver/spleen parenchyma involved or inguinal lymph node involved",
+    "Malignant pleural effusion"
+   ],
+   "ans": 2,
+   "exp": "The 4B row prints liver/spleen parenchyma involved OR inguinal lymph node involved."
+  },
+  {
+   "id": "ch48-u10-q19",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "match",
+   "q": "Match each stage with its printed definition - 1) IC3 2) 2B 3) 3A1 4) 4A ... A) Bladder and rectum B) Malignant pleural effusion C) Malignant ascites D) Retroperitoneal nodes ... choose:",
+   "opts": [
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-D, 4-B"
+   ],
+   "ans": 1,
+   "exp": "IC3 is malignant ascites, 2B bladder and rectum, 3A1 retroperitoneal nodes and 4A malignant pleural effusion."
+  },
+  {
+   "id": "ch48-u10-q20",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "scenario",
+   "q": "Scenario: At laparotomy an ovarian cancer capsule ruptures while removing the mass; peritoneum is otherwise clean. The printed substage is:",
+   "opts": [
+    "IB",
+    "IC2",
+    "IC1",
+    "IC3"
+   ],
+   "ans": 2,
+   "exp": "Intraoperative rupture is IC1."
+  },
+  {
+   "id": "ch48-u10-q21",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "scenario",
+   "q": "Scenario: Cytology of pleural fluid shows malignant cells in a woman with ovarian cancer. The printed stage is:",
+   "opts": [
+    "4A",
+    "3C",
+    "3B",
+    "4B"
+   ],
+   "ans": 0,
+   "exp": "Malignant pleural effusion defines 4A."
+  },
+  {
+   "id": "ch48-u10-q22",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "FIGO Staging Table",
+   "page": 267,
+   "fmt": "odd",
+   "q": "Odd one out - which finding is NOT stage 4B on the printed table?",
+   "opts": [
+    "Liver parenchymal involvement",
+    "Malignant pleural effusion",
+    "Inguinal lymph node involvement",
+    "Spleen parenchymal involvement"
+   ],
+   "ans": 1,
+   "exp": "Pleural effusion is 4A; the parenchymal and inguinal findings are 4B."
+  },
+  {
+   "id": "ch48-u11-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Bladder and Rectum Note",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Involvement of bladder and rectum is staged in ovarian cancer as:",
+   "opts": [
+    "4A",
+    "3B",
+    "2A",
+    "2B"
+   ],
+   "ans": 3,
+   "exp": "The note prints ovarian cancer : 2B for bladder and rectum."
+  },
+  {
+   "id": "ch48-u11-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Bladder and Rectum Note",
+   "page": 267,
+   "fmt": "recall",
+   "q": "The same bladder or rectum involvement in other gynaecological cancers is staged as:",
+   "opts": [
+    "4A",
+    "4B",
+    "3B",
+    "2B"
+   ],
+   "ans": 0,
+   "exp": "The note prints other gynaecological cancers : 4A."
+  },
+  {
+   "id": "ch48-u11-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Bladder and Rectum Note",
+   "page": 267,
+   "fmt": "tf",
+   "q": "True/False: Bladder mucosal involvement upstages ovarian cancer to 4A just as in cervical cancer.",
+   "opts": [
+    "False",
+    "True",
+    "False - it is stage 3B in ovary",
+    "False - it is stage 4B in ovary"
+   ],
+   "ans": 0,
+   "exp": "The note prints ovarian cancer 2B against 4A for other gynaecological cancers."
+  },
+  {
+   "id": "ch48-u11-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Bladder and Rectum Note",
+   "page": 267,
+   "fmt": "match",
+   "q": "Match the organ involvement with its printed stage in each cancer - 1) Bladder/rectum in ovarian cancer 2) Bladder/rectum in other gynae cancers ... A) 4A B) 2B ... choose:",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 1,
+   "exp": "The note splits the same finding into 2B for ovary and 4A for others."
+  },
+  {
+   "id": "ch48-u12-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "numeric",
+   "q": "How many steps of surgical staging are printed?",
+   "opts": [
+    "Five",
+    "Seven",
+    "Six",
+    "Eight"
+   ],
+   "ans": 1,
+   "exp": "The numbered table runs 1 to 7."
+  },
+  {
+   "id": "ch48-u12-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Step 1 of surgical staging is:",
+   "opts": [
+    "Pfannenstiel incision",
+    "Vertical subcostal incision",
+    "Midline incision",
+    "Laparoscopic porting"
+   ],
+   "ans": 2,
+   "exp": "Row 1 prints midline incision."
+  },
+  {
+   "id": "ch48-u12-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "If ascites is present at step 2, the printed action is:",
+   "opts": [
+    "Ascitic fluid sample sent for cytology",
+    "Ascites drained and discarded",
+    "Ascites sent for culture",
+    "Saline wash sent for cytology"
+   ],
+   "ans": 0,
+   "exp": "The plus arm prints ascitic fluid sample sent for cytology."
+  },
+  {
+   "id": "ch48-u12-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "If no ascites is present at step 2, the printed action is:",
+   "opts": [
+    "Ascitic fluid sample taken anyway",
+    "Peritoneal biopsy only",
+    "Saline wash done and sent for cytology",
+    "No cytology needed"
+   ],
+   "ans": 2,
+   "exp": "The minus arm prints saline wash done & sent for cytology."
+  },
+  {
+   "id": "ch48-u12-q5",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Step 3 of surgical staging is:",
+   "opts": [
+    "Node dissection",
+    "Multiple peritoneal biopsies",
+    "Inspection + palpation of all abdominal organs",
+    "Omentectomy"
+   ],
+   "ans": 2,
+   "exp": "Row 3 prints inspection + palpation of all abdominal organs."
+  },
+  {
+   "id": "ch48-u12-q6",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Step 4 of surgical staging is:",
+   "opts": [
+    "Inspection of organs",
+    "TAH + BSO",
+    "Omentectomy",
+    "Multiple peritoneal biopsies taken"
+   ],
+   "ans": 3,
+   "exp": "Row 4 prints multiple peritoneal biopsies taken."
+  },
+  {
+   "id": "ch48-u12-q7",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Step 5 of surgical staging is:",
+   "opts": [
+    "Type 3 hysterectomy",
+    "Type 1 TAH + BSO",
+    "BSO only",
+    "TAH only"
+   ],
+   "ans": 1,
+   "exp": "Row 5 prints Type 1 TAH + BSO."
+  },
+  {
+   "id": "ch48-u12-q8",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Step 6 of surgical staging is:",
+   "opts": [
+    "Infracolic omentectomy",
+    "Appendicectomy",
+    "Supracolic omentectomy",
+    "Peritoneal stripping"
+   ],
+   "ans": 0,
+   "exp": "Row 6 prints infracolic omentectomy."
+  },
+  {
+   "id": "ch48-u12-q9",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "recall",
+   "q": "Step 7 of surgical staging is:",
+   "opts": [
+    "Pelvic node dissection only",
+    "Closure without nodes",
+    "Paraaortic node dissection only",
+    "Pelvic & para-aortic lymph node dissection followed by closure"
+   ],
+   "ans": 3,
+   "exp": "Row 7 prints pelvic & para-aortic lymph node dissection then P/b then closure."
+  },
+  {
+   "id": "ch48-u12-q10",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "match",
+   "q": "Arrange the surgical staging steps in printed order - 1) Infracolic omentectomy 2) Midline incision 3) Peritoneal biopsies 4) Cytology of ascites or wash 5) Inspection and palpation 6) TAH + BSO 7) Node dissection ... choose:",
+   "opts": [
+    "2, 5, 4, 3, 6, 1, 7",
+    "2, 4, 5, 3, 1, 6, 7",
+    "2, 4, 5, 3, 6, 1, 7",
+    "2, 4, 3, 5, 6, 1, 7"
+   ],
+   "ans": 2,
+   "exp": "The table order is incision, cytology, inspection, biopsies, TAH + BSO, omentectomy, node dissection."
+  },
+  {
+   "id": "ch48-u12-q11",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "fillup",
+   "q": "Fill up: When ascites is absent, a ____ wash is done and sent for cytology at step 2.",
+   "opts": [
+    "heparinised",
+    "betadine",
+    "saline",
+    "saline or sterile water"
+   ],
+   "ans": 2,
+   "exp": "The minus arm prints saline wash."
+  },
+  {
+   "id": "ch48-u12-q12",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Steps of Surgical Staging",
+   "page": 267,
+   "fmt": "tf",
+   "q": "True/False: The omentectomy printed in surgical staging is infracolic.",
+   "opts": [
+    "False - it is supracolic",
+    "True",
+    "False - omentectomy is not printed",
+    "False"
+   ],
+   "ans": 1,
+   "exp": "Row 6 prints infracolic omentectomy."
+  },
+  {
+   "id": "ch48-u13-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p259 review",
+   "page": 267,
+   "fmt": "numeric",
+   "q": "Numeric: The implant size cut-off separating stage 3B from 3C above the pelvic brim is:",
+   "opts": [
+    "1 cm",
+    "2 cm",
+    "5 cm",
+    "3 cm"
+   ],
+   "ans": 1,
+   "exp": "3B prints <= 2 cm and 3C >= 2 cm."
+  },
+  {
+   "id": "ch48-u13-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p259 review",
+   "page": 267,
+   "fmt": "scenario",
+   "q": "Scenario: A 46-year-old with ovarian cancer has macroscopic peritoneal implants of 1.5 cm above the pelvic brim and liver capsule deposits. The printed stage is:",
+   "opts": [
+    "3A2",
+    "3B",
+    "4B",
+    "3C"
+   ],
+   "ans": 1,
+   "exp": "Implants <= 2 cm above the brim with plus-minus liver or spleen capsule extension is 3B; parenchymal disease would be 4B."
+  },
+  {
+   "id": "ch48-u13-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p259 review",
+   "page": 267,
+   "fmt": "scenario",
+   "q": "Scenario: Malignant ascites is found at staging laparotomy with an otherwise intact-looking capsule that ruptured before surgery. The printed substage combines which two IC codes?",
+   "opts": [
+    "IC2 only",
+    "IB with ascites",
+    "IC1 only",
+    "IC2 for preoperative rupture and IC3 for malignant ascites; the higher IC3 applies"
+   ],
+   "ans": 3,
+   "exp": "The table prints IC2 preoperative rupture and IC3 malignant ascites; malignant ascites is the IC3 definition."
+  },
+  {
+   "id": "ch48-u13-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p259 review",
+   "page": 267,
+   "fmt": "odd",
+   "q": "Odd one out - which step is NOT among the seven printed surgical staging steps?",
+   "opts": [
+    "Midline incision",
+    "Infracolic omentectomy",
+    "Pelvic and para-aortic node dissection",
+    "Appendicectomy"
+   ],
+   "ans": 3,
+   "exp": "The seven steps are incision, cytology, inspection, biopsies, TAH + BSO, omentectomy and node dissection."
+  },
+  {
+   "id": "ch48-u13-q5",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p259 review",
+   "page": 267,
+   "fmt": "tf",
+   "q": "True/False: In the printed ovarian FIGO table, microscopic involvement above the pelvic brim is stage 3A2.",
+   "opts": [
+    "False - it is 3A1",
+    "False - it is 3B",
+    "True",
+    "False"
+   ],
+   "ans": 2,
+   "exp": "The 3A2 line prints microscopic involvement above pelvic brim."
+  },
+  {
+   "id": "ch48-u13-q6",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p259 review",
+   "page": 267,
+   "fmt": "tf",
+   "q": "True/False: Inguinal lymph node involvement in ovarian cancer is stage 4B, mirroring cervical cancer's IVB superficial inguinal rule.",
+   "opts": [
+    "False",
+    "False - it is 3C2 in ovary",
+    "False - it is 4A in ovary",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The 4B row prints inguinal lymph node involved; cervical IVB also lists superficial inguinal nodes."
+  },
+  {
+   "id": "ch48-u13-q7",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p259 review",
+   "page": 267,
+   "fmt": "match",
+   "q": "Match each staging nuance with its printed pair - 1) Bladder/rectum in ovary vs other gynae 2) Intact capsule substages 3) Liver capsule vs parenchyma ... A) IA and IB B) 2B vs 4A C) 3B/3C vs 4B ... choose:",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 1,
+   "exp": "The note splits bladder/rectum as 2B vs 4A, capsule intact spans IA-IB and capsule versus parenchymal liver splits 3B/3C from 4B."
+  },
+  {
+   "id": "ch48-u14-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "recall",
+   "q": "The surgery of choice printed for ovarian cancer is:",
+   "opts": [
+    "Subtotal hysterectomy + BSO",
+    "BSO only",
+    "TAH + unilateral salpingo-oophorectomy",
+    "TAH + BSO (total abdominal hysterectomy + bilateral salpingo-oophorectomy)"
+   ],
+   "ans": 3,
+   "exp": "'Surgery of choice : TAH (Total abdominal hysterectomy) + BSO (Bilateral salpingo-oophorectomy)'."
+  },
+  {
+   "id": "ch48-u14-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Conservative surgery is printed as:",
+   "opts": [
+    "U/L oophorectomy with hysterectomy",
+    "U/L salpingo-oophorectomy without hysterectomy",
+    "Cystectomy only",
+    "B/L salpingo-oophorectomy without hysterectomy"
+   ],
+   "ans": 1,
+   "exp": "'Conservative Sx : U/L salpingo-oophorectomy (without hysterectomy)'."
+  },
+  {
+   "id": "ch48-u14-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "numeric",
+   "q": "Conservative surgery is indicated for GCT in which age band?",
+   "opts": [
+    "10-30 yrs of age",
+    "10-20 yrs",
+    "20-40 yrs",
+    "Any age"
+   ],
+   "ans": 0,
+   "exp": "'GCT : 10-30 yrs of age'."
+  },
+  {
+   "id": "ch48-u14-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Conservative surgery for sex cord tumours is indicated in:",
+   "opts": [
+    "Young females",
+    "Postmenopausal females",
+    "Nulliparous elderly",
+    "Perimenopausal females"
+   ],
+   "ans": 0,
+   "exp": "'Sex cord tumors : Young females'."
+  },
+  {
+   "id": "ch48-u14-q5",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Conservative surgery for epithelial tumours is indicated in which stage with what family status?",
+   "opts": [
+    "Stage IC with family not complete",
+    "Stage IB with family complete",
+    "Stage IA with family not complete",
+    "Stage IIA with family not complete"
+   ],
+   "ans": 2,
+   "exp": "'Stage IA epithelial tumor + family not complete'."
+  },
+  {
+   "id": "ch48-u14-q6",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Debulking surgery is printed for which stages?",
+   "opts": [
+    "Early stages (1, 2)",
+    "Advanced stages (stages 3, 4)",
+    "Stage 2 only",
+    "All stages"
+   ],
+   "ans": 1,
+   "exp": "'Debulking Sx : Advanced stages (Stages 3, 4)'."
+  },
+  {
+   "id": "ch48-u14-q7",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "match",
+   "q": "Match each surgery with its printed indication - 1) TAH + BSO 2) Conservative U/L salpingo-oophorectomy 3) Debulking ... A) Stages 3 and 4 B) Surgery of choice C) GCT 10-30 yrs, young sex cord cases, stage IA epithelial with incomplete family ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "TAH + BSO is the default, conservative surgery serves the fertility group and debulking serves advanced disease."
+  },
+  {
+   "id": "ch48-u14-q8",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "scenario",
+   "q": "Scenario: A 17-year-old with stage IA dysgerminoma wants children. The printed operation is:",
+   "opts": [
+    "Unilateral salpingo-oophorectomy without hysterectomy",
+    "TAH + BSO",
+    "Cystectomy",
+    "Debulking surgery"
+   ],
+   "ans": 0,
+   "exp": "GCT at 10-30 yrs with stage IA epithelial-equivalent fertility criteria prints conservative U/L salpingo-oophorectomy."
+  },
+  {
+   "id": "ch48-u14-q9",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Surgery and Its Alternatives",
+   "page": 268,
+   "fmt": "tf",
+   "q": "True/False: Conservative surgery retains the uterus while removing the affected tube and ovary.",
+   "opts": [
+    "True",
+    "False - it retains the ovary too",
+    "False",
+    "False - it removes both adnexa"
+   ],
+   "ans": 0,
+   "exp": "The bracket prints without hysterectomy after U/L salpingo-oophorectomy."
+  },
+  {
+   "id": "ch48-u15-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "numeric",
+   "q": "Epithelial cell tumours receive how many cycles of chemotherapy?",
+   "opts": [
+    "8 cycles",
+    "4 cycles",
+    "3 cycles",
+    "6 cycles"
+   ],
+   "ans": 3,
+   "exp": "The epithelial column prints 6 cycles."
+  },
+  {
+   "id": "ch48-u15-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "recall",
+   "q": "The routes printed for epithelial chemotherapy are:",
+   "opts": [
+    "IV + intraperitoneal",
+    "Oral only",
+    "IV only",
+    "Intraperitoneal only"
+   ],
+   "ans": 0,
+   "exp": "The cell prints IV + Intraperitoneal."
+  },
+  {
+   "id": "ch48-u15-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "recall",
+   "q": "The drugs printed for epithelial cell tumours are:",
+   "opts": [
+    "Paclitaxel + carboplatin/cisplatin",
+    "Carboplatin alone",
+    "Paclitaxel + doxorubicin",
+    "Bleomycin, etoposide and cisplatin"
+   ],
+   "ans": 0,
+   "exp": "The cell prints paclitaxel + carboplatin/cisplatin."
+  },
+  {
+   "id": "ch48-u15-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Chemotherapy for epithelial tumours is indicated in which stages?",
+   "opts": [
+    "Only stage IC and above",
+    "All stages except stage IA and IB",
+    "Only stages 3 and 4",
+    "All stages including IA"
+   ],
+   "ans": 1,
+   "exp": "The indication row prints all stages except stage IA and IB."
+  },
+  {
+   "id": "ch48-u15-q5",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "recall",
+   "q": "The BEP regimen printed for germ cell tumours expands to:",
+   "opts": [
+    "Bleomycin, etoposide and paclitaxel",
+    "Busulphan, etoposide and cisplatin",
+    "Bleomycin, epirubicin and cisplatin",
+    "Bleomycin, etoposide and cisplatin"
+   ],
+   "ans": 3,
+   "exp": "The GCT column prints B bleomycin, E etoposide, P cisplatin."
+  },
+  {
+   "id": "ch48-u15-q6",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Germ cell tumour chemotherapy is omitted in which situation?",
+   "opts": [
+    "Immature teratoma stage 2",
+    "Dysgerminoma stage 1 (best prognosis)",
+    "Yolk sac tumour stage 1",
+    "Dysgerminoma stage 3"
+   ],
+   "ans": 1,
+   "exp": "The indication row prints all stages except dysgerminoma stage 1 (best prognosis)."
+  },
+  {
+   "id": "ch48-u15-q7",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Sex cord stromal tumours need chemotherapy only in which stages?",
+   "opts": [
+    "All stages",
+    "Stage 2 and 3",
+    "Stage 1 and 2",
+    "Stage 3 and 4"
+   ],
+   "ans": 3,
+   "exp": "The indication row prints chemotherapy needed only in stage 3 and 4."
+  },
+  {
+   "id": "ch48-u15-q8",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "recall",
+   "q": "The regimen printed for sex cord stromal tumours is:",
+   "opts": [
+    "Paclitaxel and carboplatin",
+    "Etoposide and carboplatin",
+    "Bleomycin, etoposide and cisplatin",
+    "Bleomycin and cisplatin only"
+   ],
+   "ans": 2,
+   "exp": "The sex cord column prints the same BEP trio."
+  },
+  {
+   "id": "ch48-u15-q9",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "match",
+   "q": "Match each tumour group with its printed chemotherapy rule - 1) Epithelial 2) Germ cell 3) Sex cord stromal ... A) BEP in all stages except dysgerminoma stage 1 B) 6 cycles IV + IP paclitaxel with carboplatin/cisplatin except IA and IB C) BEP only in stages 3 and 4 ... choose:",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Epithelial gets six cycles except IA/IB, GCT gets BEP except stage 1 dysgerminoma and sex cord only in stages 3-4."
+  },
+  {
+   "id": "ch48-u15-q10",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "scenario",
+   "q": "Scenario: A stage IB epithelial ovarian cancer has been fully staged and operated. The printed adjuvant plan is:",
+   "opts": [
+    "6 cycles of IV + intraperitoneal paclitaxel with carboplatin",
+    "No post-operative chemotherapy (observation)",
+    "BEP for 3 cycles",
+    "Post-operative radiotherapy"
+   ],
+   "ans": 1,
+   "exp": "The indication row exempts stage IA and IB from epithelial chemotherapy."
+  },
+  {
+   "id": "ch48-u15-q11",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "scenario",
+   "q": "Scenario: The same table for a stage IC epithelial ovarian cancer prints which adjuvant plan?",
+   "opts": [
+    "Radiotherapy then BEP",
+    "BEP only in stages 3 and 4",
+    "Observation",
+    "6 cycles of IV + intraperitoneal paclitaxel with carboplatin or cisplatin"
+   ],
+   "ans": 3,
+   "exp": "Stage IC lies outside the IA/IB exemption, so the six-cycle IV + IP regimen applies."
+  },
+  {
+   "id": "ch48-u15-q12",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "fillup",
+   "q": "Fill up: The P of the BEP regimen printed for germ cell and sex cord tumours is ____.",
+   "opts": [
+    "paclitaxel",
+    "pirarubicin",
+    "carboplatin",
+    "cisplatin"
+   ],
+   "ans": 3,
+   "exp": "Both columns print P : Cisplatin."
+  },
+  {
+   "id": "ch48-u15-q13",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Post-operative Chemotherapy",
+   "page": 268,
+   "fmt": "tf",
+   "q": "True/False: Stage IA epithelial ovarian cancer receives post-operative chemotherapy on the printed table.",
+   "opts": [
+    "False - it receives 3 cycles only",
+    "False - it receives radiotherapy",
+    "True",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The indication row exempts stage IA and IB."
+  },
+  {
+   "id": "ch48-u16-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Sertoli-Leydig Cell Tumour Note",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Sertoli-Leydig cell tumour is printed as which type of ovarian tumour?",
+   "opts": [
+    "Androgen secreting ovarian tumour",
+    "Estrogen secreting ovarian tumour",
+    "Gonadotrophin secreting tumour",
+    "Inhibin secreting ovarian tumour"
+   ],
+   "ans": 0,
+   "exp": "The note prints 'Sertoli-Leydig cell tumor : Androgen secreting ovarian tumor'."
+  },
+  {
+   "id": "ch48-u16-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Sertoli-Leydig Cell Tumour Note",
+   "page": 268,
+   "fmt": "recall",
+   "q": "Name the four printed virilization features of Sertoli-Leydig cell tumour.",
+   "opts": [
+    "Hirsutism, acne, baldness and enlarged clitoris",
+    "Hirsutism, acne, deep voice and clitoral atrophy",
+    "Acne, baldness, hirsutism and vaginal atrophy",
+    "Hirsutism, baldness, breast atrophy and enlarged clitoris"
+   ],
+   "ans": 0,
+   "exp": "The bullets print hirsutism, acne, baldness and enlarged clitoris (virilization)."
+  },
+  {
+   "id": "ch48-u16-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Sertoli-Leydig Cell Tumour Note",
+   "page": 268,
+   "fmt": "recall",
+   "q": "The printed label for enlarged clitoris in this note is:",
+   "opts": [
+    "Virilization",
+    "Precocious puberty",
+    "Defeminization",
+    "Feminization"
+   ],
+   "ans": 0,
+   "exp": "The bracket prints '(Virilization)' after enlarged clitoris."
+  },
+  {
+   "id": "ch48-u16-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Sertoli-Leydig Cell Tumour Note",
+   "page": 268,
+   "fmt": "match",
+   "q": "Match each virilizing presentation with the printed tumour that causes it - 1) Hirsutism with acne, baldness and clitoromegaly 2) Precocious puberty or post-menopausal bleeding 3) Reinke's crystals on HPE ... A) Hilus cell tumour B) Sertoli-Leydig cell tumour C) Granulosa cell tumour ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 2,
+   "exp": "The androgen note ties virilization to Sertoli-Leydig cell tumour, bleeding patterns to granulosa cell tumour and Reinke's crystals to hilus cell tumour."
+  },
+  {
+   "id": "ch48-u16-q5",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Sertoli-Leydig Cell Tumour Note",
+   "page": 268,
+   "fmt": "scenario",
+   "q": "Scenario: A 24-year-old with an ovarian mass presents with new hirsutism, acne and clitoromegaly. The printed tumour is:",
+   "opts": [
+    "Granulosa cell tumour",
+    "Thecoma",
+    "Sertoli-Leydig cell tumour",
+    "Hilus cell tumour only"
+   ],
+   "ans": 2,
+   "exp": "The note ties the androgen-secreting virilizing picture to Sertoli-Leydig cell tumour."
+  },
+  {
+   "id": "ch48-u16-q6",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Sertoli-Leydig Cell Tumour Note",
+   "page": 268,
+   "fmt": "odd",
+   "q": "Odd one out - which feature is NOT in the printed Sertoli-Leydig virilization list?",
+   "opts": [
+    "Post-menopausal bleeding",
+    "Baldness",
+    "Acne",
+    "Hirsutism"
+   ],
+   "ans": 0,
+   "exp": "Post-menopausal bleeding belongs to the estrogenic granulosa presentation."
+  },
+  {
+   "id": "ch48-u17-q1",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p260 review",
+   "page": 268,
+   "fmt": "numeric",
+   "q": "Numeric: Conservative surgery for germ cell tumours is printed for which age band, and epithelial chemotherapy exempts which stages?",
+   "opts": [
+    "10-20 yrs; stage IA exempt",
+    "10-30 yrs; stages IA and IB exempt",
+    "10-30 yrs; stage IA exempt",
+    "15-35 yrs; stages IA and IB exempt"
+   ],
+   "ans": 1,
+   "exp": "Page 260 prints GCT 10-30 yrs and exemption of stage IA and IB from epithelial chemotherapy."
+  },
+  {
+   "id": "ch48-u17-q2",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p260 review",
+   "page": 268,
+   "fmt": "numeric",
+   "q": "Numeric: Epithelial ovarian cancer receives how many chemotherapy cycles and by which routes?",
+   "opts": [
+    "6 cycles, IV only",
+    "4 cycles, IV only",
+    "6 cycles, IV + intraperitoneal",
+    "8 cycles, IV + intraperitoneal"
+   ],
+   "ans": 2,
+   "exp": "The epithelial column prints 6 cycles IV + Intraperitoneal."
+  },
+  {
+   "id": "ch48-u17-q3",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p260 review",
+   "page": 268,
+   "fmt": "odd",
+   "q": "Odd one out - which chemotherapy rule contradicts the printed table?",
+   "opts": [
+    "Epithelial tumours receive 6 cycles except IA and IB",
+    "Sex cord stromal chemotherapy only in stages 3 and 4",
+    "GCT receives BEP except stage 1 dysgerminoma",
+    "Sex cord stromal tumours receive chemotherapy in all stages"
+   ],
+   "ans": 3,
+   "exp": "The sex cord column limits chemotherapy to stages 3 and 4."
+  },
+  {
+   "id": "ch48-u17-q4",
+   "sec": "Management of Ovarian Cancer",
+   "unit": "Complete Coverage: Book p260 review",
+   "page": 268,
+   "fmt": "fillup",
+   "q": "Fill up: The ovarian cancer surgery of choice removes the uterus and both adnexa, abbreviated ____ + BSO.",
+   "opts": [
+    "SH",
+    "TLH",
+    "TVH",
+    "TAH"
+   ],
+   "ans": 3,
+   "exp": "'Surgery of choice : TAH ... + BSO'."
+  }
+ ]
+}

@@ -18,17 +18,17 @@ const click = (selector) => {
   el.click();
 };
 const state = expr => w.eval(expr);
-assert.match(w.document.body.textContent, /44 of 49 chapters built/);
+assert.match(w.document.body.textContent, /49 of 49 chapters built/);
 click('[data-a="toggleUnlock"]');
 click('[data-a="goBrowse"]');
-for (let ch = 1; ch <= 44; ch++) {
+for (let ch = 1; ch <= 49; ch++) {
   assert.ok(w.document.querySelector(`[data-a="openChapter"][data-id="ch${String(ch).padStart(2,'0')}"]`));
 }
-assert.equal(w.document.querySelectorAll('[data-a="openChapter"]').length, 44);
+assert.equal(w.document.querySelectorAll('[data-a="openChapter"]').length, 49);
 // A prior chapter's progress must not be overwritten by new chapter progress.
 w.eval("S.stats['ch01-u1-q1'] = {box:2,nextReview:'2027-01-01',timesWrong:1,timesCorrect:3}; persist();");
 let count = 0;
-for (let ch = 41; ch <= 44; ch++) {
+for (let ch = 41; ch <= 49; ch++) {
   click(`[data-a="openChapter"][data-id="ch${ch}"]`);
   const ids = Array.from(w.document.querySelectorAll('[data-a="startUnit"]'), e => e.dataset.id);
   assert.ok(ids.length);
@@ -57,10 +57,10 @@ for (let ch = 41; ch <= 44; ch++) {
   click('[data-a="goBrowse"]');
   console.log(`ch${ch}: all ${ids.length} units playable, in source order, explanations and completion work`);
 }
-assert.equal(count, 517);
+assert.equal(count, 1324);
 const saved = JSON.parse(w.localStorage.getItem(state('STORE_KEY')));
 assert.equal(saved.stats['ch01-u1-q1'].timesCorrect, 3);
-assert.equal(Object.keys(saved.stats).filter(id => /^ch(41|42|43|44)-/.test(id)).length, 517);
+assert.equal(Object.keys(saved.stats).filter(id => /^ch(4[1-9])-/.test(id)).length, 1324);
 assert.equal(saved.stats['ch41-u1-q1'].timesWrong, 1);
 w.eval("go('home')");
 click('[data-a="reviewMistakes"]');
@@ -71,9 +71,9 @@ const reload = new JSDOM(html, {
   pretendToBeVisual: true, virtualConsole: vc,
   beforeParse(win) { win.localStorage.setItem(state('STORE_KEY'), JSON.stringify(saved)); },
 });
-assert.equal(reload.window.eval("S.stats['ch44-u13-q18'].timesCorrect"), 1);
+assert.equal(reload.window.eval("S.stats['ch49-u14-q13'].timesCorrect"), 1);
 assert.equal(reload.window.eval("S.stats['ch01-u1-q1'].timesCorrect"), 3);
 assert.equal(errors.length, 0);
 reload.window.close();
 w.close();
-console.log('PASS: 517 new questions; saved progress survives reload; legacy progress retained; mistake review works.');
+console.log('PASS: 1324 questions across chapters 41-49; saved progress survives reload; legacy progress retained; mistake review works.');

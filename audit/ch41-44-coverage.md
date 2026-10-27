@@ -154,16 +154,22 @@ and reversed arrows rather than obvious antonyms.
 
 ## Engineering verification
 
+Chapters 45–49 (scans 246–272) were authored in a parallel release and merged
+first. This release integrates chapters 41–44 into that tree without altering
+any 45–49 question, ID, option or answer; the combined app has all 49 chapters
+in numeric book order.
+
 - `python3 validate.py`: parses actual JavaScript data using Node, checks every
   embedded question, checks generated JSON against both HTML and authoring
-  source for chapters 36–44, and fails on errors. Result: **4,053 questions /
-  458 units** across 44 chapters, no duplicate IDs/stems.
+  source for chapters 36–49, and fails on errors. Combined result: **4,860
+  questions / 563 units** across 49 chapters, no duplicate IDs/stems.
 - `python3 -m unittest discover -s tests -v`: answer-shuffle invariants,
   malformed authoring rejection, validator negative tests, page coverage for
-  scans 193–245 and idempotent out-of-order rebuilds for chapters 36–44.
+  scans 193–272 and idempotent out-of-order rebuilds for chapters 36–49.
 - `node tests/quiz-smoke.cjs` (after `npm ci`): DOM interaction test answers all
-  517 new questions across all 34 units, verifies feedback/completion, mistake
-  review, reload persistence and existing progress retention.
+  1,324 questions across chapters 41–49 (including the 517 new questions in all
+  34 new units), verifies feedback/completion, mistake review, reload
+  persistence and existing progress retention.
 - Chapter-level answer counts differ by at most one, without the forced
   four-answer permutation cycle. Existing question IDs/options/answers are
   unchanged; chapter blocks remain in numeric book order.

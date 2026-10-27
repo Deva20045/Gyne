@@ -1,0 +1,1925 @@
+{
+ "chapter": 49,
+ "questions": [
+  {
+   "id": "ch49-u1-q1",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "fillup",
+   "q": "Fill up: SUI is defined as involuntary passage of urine on increase in ____ pressure.",
+   "opts": [
+    "intra-abdominal",
+    "intravesical",
+    "intraurethral",
+    "intrathoracic"
+   ],
+   "ans": 0,
+   "exp": "The definition box prints 'Involuntary passage of urine on up in intra-abdominal pressure'."
+  },
+  {
+   "id": "ch49-u1-q2",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The printed examples of the precipitating acts in SUI are:",
+   "opts": [
+    "Running, jumping and lifting",
+    "Coughing, laughing and sneezing",
+    "Coughing, straining and walking",
+    "Laughing, walking and standing"
+   ],
+   "ans": 1,
+   "exp": "'Eg. : Coughing, laughing, sneezing'."
+  },
+  {
+   "id": "ch49-u1-q3",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "recall",
+   "q": "In the normal continence chain, raised abdominal pressure causes which muscle to contract?",
+   "opts": [
+    "Detrusor muscle",
+    "Internal urethral sphincter only",
+    "Pelvic floor muscle",
+    "Obturator internus"
+   ],
+   "ans": 2,
+   "exp": "The normal column prints pelvic floor muscle contracts."
+  },
+  {
+   "id": "ch49-u1-q4",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "recall",
+   "q": "Which pressure rises in the normal chain to maintain continence?",
+   "opts": [
+    "Detrusor pressure",
+    "Intra-abdominal pressure only",
+    "Intravesical pressure",
+    "Intraurethral pressure"
+   ],
+   "ans": 3,
+   "exp": "'Intraurethral pressure up' then maintains continence."
+  },
+  {
+   "id": "ch49-u1-q5",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The first event in the printed SUI chain is:",
+   "opts": [
+    "Failure of urethra to close",
+    "Rise in intra-abdominal pressure",
+    "Descent of bladder neck",
+    "Detrusor contraction"
+   ],
+   "ans": 2,
+   "exp": "The SUI column starts with descent of bladder neck."
+  },
+  {
+   "id": "ch49-u1-q6",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "match",
+   "q": "Arrange the printed SUI chain in order - 1) Failure of urethra to close 2) Descent of bladder neck 3) Involuntary passage of urine 4) Rise in intra-abdominal pressure ... choose:",
+   "opts": [
+    "4, 2, 1, 3",
+    "2, 4, 1, 3",
+    "2, 1, 4, 3",
+    "2, 4, 3, 1"
+   ],
+   "ans": 1,
+   "exp": "The column prints descent of bladder neck, rise in intra-abdominal pressure, failure of urethra to close, then involuntary passage."
+  },
+  {
+   "id": "ch49-u1-q7",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The diagrams on page 261 compare which two states with detrusor pressure arrows?",
+   "opts": [
+    "Normal and urge incontinence",
+    "SUI and fistula",
+    "Normal and retention",
+    "Normal and SUI"
+   ],
+   "ans": 3,
+   "exp": "The two bladder sketches are labelled Normal and SUI."
+  },
+  {
+   "id": "ch49-u1-q8",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "tf",
+   "q": "True/False: In SUI the urethra fails to close when intra-abdominal pressure rises.",
+   "opts": [
+    "True",
+    "False",
+    "False - the urethra closes too early",
+    "False - the detrusor contracts"
+   ],
+   "ans": 0,
+   "exp": "The chain prints failure of urethra to close before leakage."
+  },
+  {
+   "id": "ch49-u1-q9",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Definition and Pathophysiology",
+   "page": 261,
+   "fmt": "odd",
+   "q": "Odd one out - which pressure change belongs to the normal continence chain rather than the SUI chain?",
+   "opts": [
+    "Descent of bladder neck",
+    "Rise in intraurethral pressure maintaining continence",
+    "Failure of urethra to close",
+    "Involuntary passage of urine"
+   ],
+   "ans": 1,
+   "exp": "The intraurethral rise is printed only in the normal column."
+  },
+  {
+   "id": "ch49-u2-q1",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Tests for SUI",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The test printed for SUI is:",
+   "opts": [
+    "Q tip test",
+    "Methylene blue test",
+    "Urodynamic pressure test",
+    "Pad test"
+   ],
+   "ans": 0,
+   "exp": "'Tests for SUI : Q tip test'."
+  },
+  {
+   "id": "ch49-u2-q2",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Tests for SUI",
+   "page": 261,
+   "fmt": "fillup",
+   "q": "Fill up: The named test printed in the SUI box is the ____ test.",
+   "opts": [
+    "swab",
+    "dye",
+    "Q tip",
+    "stress"
+   ],
+   "ans": 2,
+   "exp": "The tests box prints Q tip test."
+  },
+  {
+   "id": "ch49-u2-q3",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Tests for SUI",
+   "page": 261,
+   "fmt": "tf",
+   "q": "True/False: The methylene blue three swab test is printed under SUI rather than urinary fistula.",
+   "opts": [
+    "True",
+    "False - it is printed under both",
+    "False - it is printed under OHSS",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The three swab test appears in the urinary fistula tests box on page 262."
+  },
+  {
+   "id": "ch49-u3-q1",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The overall principle printed for SUI management is:",
+   "opts": [
+    "Detrusor relaxation",
+    "Urethral dilatation",
+    "Bladder neck incision",
+    "Suspension of bladder neck or urethra"
+   ],
+   "ans": 3,
+   "exp": "The management header prints suspension of bladder neck or urethra."
+  },
+  {
+   "id": "ch49-u3-q2",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "recall",
+   "q": "Bursch colposuspension is performed by which route?",
+   "opts": [
+    "Vaginal route Sx",
+    "Laparoscopic-only route",
+    "Abdominal route Sx",
+    "Perineal route"
+   ],
+   "ans": 2,
+   "exp": "'Abdominal route Sx' under Bursch colposuspension."
+  },
+  {
+   "id": "ch49-u3-q3",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "recall",
+   "q": "In Bursch colposuspension which structures are suspended?",
+   "opts": [
+    "Proximal urethra and bladder neck",
+    "Distal urethra and bladder base",
+    "Bladder dome and urethra",
+    "Urethra and vaginal vault"
+   ],
+   "ans": 0,
+   "exp": "'Proximal urethra & bladder neck suspended to'."
+  },
+  {
+   "id": "ch49-u3-q4",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The suspension in Bursch colposuspension is anchored to:",
+   "opts": [
+    "Sacropinous ligament",
+    "Iliopectineal/Cooper's ligament",
+    "Uterosacral ligament",
+    "Round ligament"
+   ],
+   "ans": 1,
+   "exp": "The line ends at iliopectineal/Cooper's ligament."
+  },
+  {
+   "id": "ch49-u3-q5",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The figure labels on page 261 for the Bursch procedure include which three structures?",
+   "opts": [
+    "Obturator foramen, symphysis pubis and Cooper's ligament",
+    "White line of pelvic fascia, sacrum and Cooper's ligament",
+    "Retropubic space, symphysis pubis and obturator foramen",
+    "White line of pelvic fascia, symphysis pubis and iliopectineal ligament (Cooper's ligament)"
+   ],
+   "ans": 3,
+   "exp": "The leader lines print those three labels with suture points a, b, c."
+  },
+  {
+   "id": "ch49-u3-q6",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "recall",
+   "q": "Bursch colposuspension requires what regarding admission?",
+   "opts": [
+    "Day care only",
+    "Hospital stay necessary",
+    "No admission",
+    "ICU stay"
+   ],
+   "ans": 1,
+   "exp": "'Hospital stay necessary' under the Bursch column."
+  },
+  {
+   "id": "ch49-u3-q7",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The outcome status printed for Bursch colposuspension is:",
+   "opts": [
+    "Gold standard",
+    "Second line",
+    "Obsolete",
+    "Experimental"
+   ],
+   "ans": 0,
+   "exp": "'Good outcome : Gold standard'."
+  },
+  {
+   "id": "ch49-u3-q8",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: Bursch Colposuspension",
+   "page": 261,
+   "fmt": "match",
+   "q": "Match each Bursch attribute with its printed value - 1) Route 2) Structures suspended 3) Anchor 4) Status ... A) Gold standard B) Abdominal C) Proximal urethra and bladder neck D) Iliopectineal/Cooper's ligament ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Abdominal route, proximal urethra with bladder neck, Cooper's ligament anchor and gold standard outcome."
+  },
+  {
+   "id": "ch49-u4-q1",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The two tension-free tapes printed are:",
+   "opts": [
+    "Transobturator tape and transrectal tape",
+    "Transobturator tape (TOT) and transvaginal tape (TVT)",
+    "Transvaginal tape and transabdominal tape",
+    "Transobturator tape and transpubic sling"
+   ],
+   "ans": 1,
+   "exp": "The tree prints tension-free transobturator tape (TOT) and tension-free transvaginal tape (TVT)."
+  },
+  {
+   "id": "ch49-u4-q2",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "recall",
+   "q": "TOT and TVT share which three printed attributes?",
+   "opts": [
+    "Day care Sx, abdominal route and bladder neck suspended",
+    "Hospital stay, vaginal route and middle urethra suspended",
+    "Day care Sx, vaginal route and proximal urethra suspended",
+    "Day care Sx, vaginal route Sx and middle urethra suspended"
+   ],
+   "ans": 3,
+   "exp": "The shared bracket prints day care Sx, vaginal route Sx and middle urethra is suspended."
+  },
+  {
+   "id": "ch49-u4-q3",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The tape in TOT is passed via:",
+   "opts": [
+    "Retropubic space",
+    "Pelvic fascia",
+    "Obturator foramen",
+    "Sacrospinous route"
+   ],
+   "ans": 2,
+   "exp": "'Tape passed via obturator foramen' under TOT."
+  },
+  {
+   "id": "ch49-u4-q4",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The more common surgery between the two tapes printed is:",
+   "opts": [
+    "TOT > TVT",
+    "TVT > TOT",
+    "TVT only",
+    "Both equal"
+   ],
+   "ans": 0,
+   "exp": "'m/c Sx (TOT > TVT)'."
+  },
+  {
+   "id": "ch49-u4-q5",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The tape in TVT is passed via:",
+   "opts": [
+    "Retropubic space",
+    "Obturator foramen",
+    "Vesicovaginal space",
+    "Paravesical space"
+   ],
+   "ans": 0,
+   "exp": "'Tape passed via retropubic space' under TVT."
+  },
+  {
+   "id": "ch49-u4-q6",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "recall",
+   "q": "TVT carries increased risk of injury to which structures?",
+   "opts": [
+    "Urethra and obturator nerve",
+    "Bowel and venous plexus",
+    "Bladder and obturator nerve",
+    "Bladder and venous plexus"
+   ],
+   "ans": 3,
+   "exp": "'up risk of injury to bladder & venous plexus' under TVT."
+  },
+  {
+   "id": "ch49-u4-q7",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "recall",
+   "q": "The TOT/TVT figure on page 261 labels which pelvic spaces and foramen?",
+   "opts": [
+    "Paravesical space and obturator foramen",
+    "Retropubic space and obturator foramen",
+    "Retropubic space and sciatic foramen",
+    "Vesicovaginal space and obturator canal"
+   ],
+   "ans": 1,
+   "exp": "The leader lines print retropubic space and obturator foramen with TVT and TOT tapes."
+  },
+  {
+   "id": "ch49-u4-q8",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "match",
+   "q": "Match each tape with its printed route and risk - 1) TOT 2) TVT ... A) Retropubic space with bladder and venous plexus injury risk B) Obturator foramen and m/c Sx ... choose:",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
+   ],
+   "ans": 2,
+   "exp": "TOT goes through the obturator foramen and is m/c; TVT goes retropubic with bladder and plexus risk."
+  },
+  {
+   "id": "ch49-u4-q9",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with SUI wants a day-care vaginal procedure with the lowest bladder injury risk. The printed choice is:",
+   "opts": [
+    "TVT",
+    "TOT",
+    "Bursch colposuspension",
+    "Open colposuspension"
+   ],
+   "ans": 1,
+   "exp": "TOT is the m/c day-care vaginal tape and the bladder injury risk is printed for TVT."
+  },
+  {
+   "id": "ch49-u4-q10",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "odd",
+   "q": "Odd one out - which attribute belongs to Bursch colposuspension rather than the tapes?",
+   "opts": [
+    "Day care Sx",
+    "Vaginal route Sx",
+    "Middle urethra suspended",
+    "Hospital stay necessary"
+   ],
+   "ans": 3,
+   "exp": "The tapes are day care vaginal with middle urethra suspended; Bursch needs hospital stay."
+  },
+  {
+   "id": "ch49-u4-q11",
+   "sec": "Stress Urinary Incontinence (SUI)",
+   "unit": "Management: TOT and TVT",
+   "page": 261,
+   "fmt": "tf",
+   "q": "True/False: Both TOT and TVT suspend the middle urethra rather than the bladder neck.",
+   "opts": [
+    "True",
+    "False",
+    "False - they suspend the bladder neck",
+    "False - TOT suspends bladder neck only"
+   ],
+   "ans": 0,
+   "exp": "The shared bullet prints middle urethra is suspended."
+  },
+  {
+   "id": "ch49-u5-q1",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "recall",
+   "q": "Constant dribbling of urine from the vagina with normal micturition indicates:",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Urethrovaginal fistula",
+    "Ureterovaginal fistula",
+    "Vesicouterine fistula"
+   ],
+   "ans": 2,
+   "exp": "Complaint 1 prints that combination for ureterovaginal fistula."
+  },
+  {
+   "id": "ch49-u5-q2",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "recall",
+   "q": "Constant dribbling of urine from the vagina with no normal micturition indicates:",
+   "opts": [
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Ureteric ectopia",
+    "Vesicovaginal fistula"
+   ],
+   "ans": 3,
+   "exp": "Complaint 2 prints that combination for vesicovaginal fistula."
+  },
+  {
+   "id": "ch49-u5-q3",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "recall",
+   "q": "Urine passed from both urethra and vagina during micturition indicates:",
+   "opts": [
+    "Urethrovaginal fistula",
+    "Vesicovaginal fistula",
+    "Ureterovaginal fistula",
+    "Vesicovaginal and ureteric fistula"
+   ],
+   "ans": 0,
+   "exp": "Complaint 3 prints urethrovaginal fistula."
+  },
+  {
+   "id": "ch49-u5-q4",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The types diagram numbers the three fistulae from above down as:",
+   "opts": [
+    "1 vesicovaginal, 2 ureterovaginal, 3 urethrovaginal",
+    "1 ureterovaginal, 2 vesicovaginal and 3 urethrovaginal",
+    "1 ureterovaginal, 2 urethrovaginal, 3 vesicovaginal",
+    "1 urethrovaginal, 2 vesicovaginal, 3 ureterovaginal"
+   ],
+   "ans": 1,
+   "exp": "The sketch prints 1, 2, 3 with that legend."
+  },
+  {
+   "id": "ch49-u5-q5",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The types diagram labels which four pelvic structures?",
+   "opts": [
+    "Ureter, uterus, bladder and urethra",
+    "Ureter, ovary, bladder and vagina",
+    "Ureter, uterus, bladder and vagina",
+    "Urethra, uterus, bladder and vagina"
+   ],
+   "ans": 2,
+   "exp": "The leader lines print ureter, uterus, bladder and vagina."
+  },
+  {
+   "id": "ch49-u5-q6",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "match",
+   "q": "Match each complaint with its fistula - 1) Dribbling with normal micturition 2) Dribbling with no normal micturition 3) Urine per urethra and vagina during micturition ... A) Urethrovaginal B) Ureterovaginal C) Vesicovaginal ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "The complaint box pairs them in that order."
+  },
+  {
+   "id": "ch49-u5-q7",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "scenario",
+   "q": "Scenario: A woman after hysterectomy dribbles urine continuously yet passes normal volumes per urethra. The printed fistula is:",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Vesicouterine fistula"
+   ],
+   "ans": 1,
+   "exp": "Preserved normal micturition with continuous dribbling is the ureterovaginal pattern."
+  },
+  {
+   "id": "ch49-u5-q8",
+   "sec": "Urinary Fistula",
+   "unit": "Complaints and Types",
+   "page": 262,
+   "fmt": "tf",
+   "q": "True/False: In vesicovaginal fistula the bladder empties wholly through the vagina, so normal micturition stops.",
+   "opts": [
+    "False",
+    "False - micturition remains normal",
+    "True",
+    "False - only half the urine leaks"
+   ],
+   "ans": 2,
+   "exp": "Complaint 2 prints no normal micturition with vesicovaginal fistula."
+  },
+  {
+   "id": "ch49-u6-q1",
+   "sec": "Urinary Fistula",
+   "unit": "Urine Sample and Menouria",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The printed method of collecting a urine sample in fistula workup is:",
+   "opts": [
+    "Suprapubic catheterization",
+    "Urethral catheterization",
+    "Clean catch midstream",
+    "Cystoscopic sampling"
+   ],
+   "ans": 0,
+   "exp": "'Collection of urine sample : Suprapubic catheterization'."
+  },
+  {
+   "id": "ch49-u6-q2",
+   "sec": "Urinary Fistula",
+   "unit": "Urine Sample and Menouria",
+   "page": 262,
+   "fmt": "recall",
+   "q": "Menouria is defined on the page as:",
+   "opts": [
+    "Urine passing per vagina during menstruation",
+    "Hematuria during menstruation",
+    "Menstrual blood in urine sample only",
+    "Cyclical pyuria"
+   ],
+   "ans": 1,
+   "exp": "'Menouria : Hematuria during menstruation'."
+  },
+  {
+   "id": "ch49-u6-q3",
+   "sec": "Urinary Fistula",
+   "unit": "Urine Sample and Menouria",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The two causes printed for menouria are:",
+   "opts": [
+    "Endometriosis of bladder and ureterovaginal fistula",
+    "Vesicovaginal fistula and endometriosis",
+    "Endometriosis of bladder and vesicouterine fistula",
+    "Bladder TB and vesicouterine fistula"
+   ],
+   "ans": 2,
+   "exp": "The bullets print endometriosis of bladder and vesicouterine fistula."
+  },
+  {
+   "id": "ch49-u6-q4",
+   "sec": "Urinary Fistula",
+   "unit": "Urine Sample and Menouria",
+   "page": 262,
+   "fmt": "fillup",
+   "q": "Fill up: Blood in urine appearing only during menstruation is printed as ____.",
+   "opts": [
+    "menouria",
+    "hematuria",
+    "pyuria",
+    "chyluria"
+   ],
+   "ans": 0,
+   "exp": "The box prints menouria with that definition."
+  },
+  {
+   "id": "ch49-u6-q5",
+   "sec": "Urinary Fistula",
+   "unit": "Urine Sample and Menouria",
+   "page": 262,
+   "fmt": "odd",
+   "q": "Odd one out - which cause is NOT printed for menouria?",
+   "opts": [
+    "Endometriosis of bladder",
+    "Vesicouterine fistula",
+    "Cyclical hematuria at menses",
+    "Urethrovaginal fistula"
+   ],
+   "ans": 3,
+   "exp": "Only endometriosis of bladder and vesicouterine fistula are printed."
+  },
+  {
+   "id": "ch49-u7-q1",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The methylene blue three swab test is the IOC for which fistula?",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Vesicouterine fistula"
+   ],
+   "ans": 0,
+   "exp": "'IOC for vesicovaginal fistula' under the test heading."
+  },
+  {
+   "id": "ch49-u7-q2",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "numeric",
+   "q": "How many swabs are placed in the vagina for the test?",
+   "opts": [
+    "2 swabs",
+    "4 swabs",
+    "3 swabs",
+    "1 swab"
+   ],
+   "ans": 2,
+   "exp": "'3 swabs placed at vagina'."
+  },
+  {
+   "id": "ch49-u7-q3",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The upper swab corresponds to which fistula?",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Vesicouterine fistula"
+   ],
+   "ans": 1,
+   "exp": "'a. Upper part : Corresponding to ureterovaginal fistula'."
+  },
+  {
+   "id": "ch49-u7-q4",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The middle swab corresponds to which fistula?",
+   "opts": [
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Cervicovesical fistula",
+    "Vesicovaginal fistula"
+   ],
+   "ans": 3,
+   "exp": "'b. Middle part : Corresponding to vesicovaginal fistula'."
+  },
+  {
+   "id": "ch49-u7-q5",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The lower swab corresponds to which fistula?",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Vesicouterine fistula"
+   ],
+   "ans": 2,
+   "exp": "'c. Lower part : Corresponding to urethrovaginal fistula'."
+  },
+  {
+   "id": "ch49-u7-q6",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "The dye is injected into bladder and urethra using which catheter?",
+   "opts": [
+    "Suprapubic catheter",
+    "Foley's catheter",
+    "Ureteric catheter",
+    "Nelaton catheter"
+   ],
+   "ans": 1,
+   "exp": "'Methylene blue dye injected into bladder & urethra by Foley's catheter'."
+  },
+  {
+   "id": "ch49-u7-q7",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "An upper swab that is wet but unstained implies:",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Urethrovaginal fistula",
+    "No fistula",
+    "Ureterovaginal fistula"
+   ],
+   "ans": 3,
+   "exp": "The table row prints upper swab wet, but unstained -> ureterovaginal fistula."
+  },
+  {
+   "id": "ch49-u7-q8",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "A middle swab wet and stained blue implies:",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Bladder endometriosis"
+   ],
+   "ans": 0,
+   "exp": "The table row prints middle swab wet & stained blue -> vesicovaginal fistula."
+  },
+  {
+   "id": "ch49-u7-q9",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "Only the lower swab wet and stained blue implies:",
+   "opts": [
+    "Vesicovaginal fistula",
+    "Urethrovaginal fistula",
+    "Ureterovaginal fistula",
+    "Stress incontinence"
+   ],
+   "ans": 1,
+   "exp": "The table row prints only lower swab wet & stained blue -> urethrovaginal fistula."
+  },
+  {
+   "id": "ch49-u7-q10",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "recall",
+   "q": "Why is the upper swab unstained in a ureterovaginal fistula?",
+   "opts": [
+    "Because the ureter is blocked",
+    "Because the swab is too dry",
+    "The dye enters below the ureteric leak, so ureteric urine bypasses the bladder dye",
+    "Because methylene blue is absorbed"
+   ],
+   "ans": 2,
+   "exp": "The dye is instilled into bladder and urethra; a ureteric leak above delivers unstained urine, matching the wet-but-unstained row."
+  },
+  {
+   "id": "ch49-u7-q11",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "match",
+   "q": "Match each swab position with its printed inference - 1) Upper wet unstained 2) Middle wet stained 3) Lower wet stained ... A) Urethrovaginal B) Ureterovaginal C) Vesicovaginal ... choose:",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The table prints those three inferences in order."
+  },
+  {
+   "id": "ch49-u7-q12",
+   "sec": "Urinary Fistula",
+   "unit": "Methylene Blue Three Swab Test",
+   "page": 262,
+   "fmt": "scenario",
+   "q": "Scenario: After the three swab test the middle swab alone is wet and blue. The printed diagnosis is:",
+   "opts": [
+    "Ureterovaginal fistula",
+    "Urethrovaginal fistula",
+    "Stress urinary incontinence",
+    "Vesicovaginal fistula"
+   ],
+   "ans": 3,
+   "exp": "The middle swab wet and stained blue row is vesicovaginal fistula."
+  },
+  {
+   "id": "ch49-u8-q1",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "recall",
+   "q": "The most common cause of vesicovaginal fistula in developed countries is:",
+   "opts": [
+    "Obstructed labour",
+    "Pelvic radiotherapy",
+    "Total abdominal hysterectomy (TAH)",
+    "Pelvic trauma"
+   ],
+   "ans": 2,
+   "exp": "'Developed countries : Total abdominal hysterectomy (TAH)'."
+  },
+  {
+   "id": "ch49-u8-q2",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "recall",
+   "q": "The most common cause in developing countries is:",
+   "opts": [
+    "Obstructed labour",
+    "TAH",
+    "TVH",
+    "Instrumental delivery"
+   ],
+   "ans": 0,
+   "exp": "'Developing countries : Obstructed labour'."
+  },
+  {
+   "id": "ch49-u8-q3",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "recall",
+   "q": "If a fistula is identified immediately after surgery, the printed repair timing is:",
+   "opts": [
+    "Repair after 6 weeks",
+    "Immediate repair",
+    "Repair after 3 months",
+    "Repair after 24 hours"
+   ],
+   "ans": 1,
+   "exp": "The immediate arm prints immediate repair."
+  },
+  {
+   "id": "ch49-u8-q4",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "recall",
+   "q": "If identified after 24 hours of surgery, repair is deferred to:",
+   "opts": [
+    "2 weeks",
+    "3 months",
+    "6 months",
+    "6 weeks"
+   ],
+   "ans": 3,
+   "exp": "The bracket prints repair after 6 wks."
+  },
+  {
+   "id": "ch49-u8-q5",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "recall",
+   "q": "The same 6-week delay applies to which other group?",
+   "opts": [
+    "Post radiotherapy fistulae",
+    "Post obstructed labour fistulae",
+    "Post traumatic fistulae",
+    "Immediate post-surgical fistulae"
+   ],
+   "ans": 1,
+   "exp": "The bracket joins identified after 24 hrs of Sx with post obstructed labour."
+  },
+  {
+   "id": "ch49-u8-q6",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "recall",
+   "q": "The reason printed for waiting 6 weeks is:",
+   "opts": [
+    "Tissues become fibrous",
+    "Patient nutrition improves",
+    "Catheter tract matures",
+    "Infection and inflammation subside"
+   ],
+   "ans": 3,
+   "exp": "'After infection & inflammation subsides'."
+  },
+  {
+   "id": "ch49-u8-q7",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "match",
+   "q": "Match each identification timing with its printed repair plan - 1) Immediately after Sx 2) After 24 hrs of Sx 3) Post obstructed labour ... A) Repair after 6 weeks B) Immediate repair C) Repair after 6 weeks ... choose:",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Immediate identification repairs at once; both late groups wait 6 weeks."
+  },
+  {
+   "id": "ch49-u8-q8",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "scenario",
+   "q": "Scenario: A vesicovaginal fistula is recognised on day 5 after TAH. The printed plan is:",
+   "opts": [
+    "Immediate repair today",
+    "Repair after 3 months",
+    "Repair after 6 weeks once infection and inflammation subside",
+    "Conservative catheter only"
+   ],
+   "ans": 2,
+   "exp": "Identification beyond 24 hours routes to the 6-week arm."
+  },
+  {
+   "id": "ch49-u8-q9",
+   "sec": "Urinary Fistula",
+   "unit": "Vesicovaginal Fistula: Causes and Timing of Repair",
+   "page": 263,
+   "fmt": "tf",
+   "q": "True/False: Obstructed labour remains the commonest cause of vesicovaginal fistula in developing countries.",
+   "opts": [
+    "True",
+    "False",
+    "False - TAH is commonest everywhere",
+    "False - radiotherapy is commonest"
+   ],
+   "ans": 0,
+   "exp": "The two-country split prints exactly that."
+  },
+  {
+   "id": "ch49-u9-q1",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "recall",
+   "q": "Name the two techniques printed for vesicovaginal fistula repair.",
+   "opts": [
+    "Chassar moir and Martius techniques",
+    "Latzko and Ward techniques",
+    "Chassar moir technique and Latzko technique",
+    "Moir and Lawson techniques"
+   ],
+   "ans": 2,
+   "exp": "The technique bullets print Chassar moir technique and Latzko technique."
+  },
+  {
+   "id": "ch49-u9-q2",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "recall",
+   "q": "Post-operatively the bladder is drained with which catheter and for how long with antibiotics?",
+   "opts": [
+    "Suprapubic catheter with antibiotics for 4 weeks",
+    "Foley's catheter with antibiotics for 2 weeks",
+    "Foley's catheter with antibiotics for 1 week",
+    "Ureteric stent with antibiotics for 2 weeks"
+   ],
+   "ans": 1,
+   "exp": "'Bladder drainage with Foley's catheter + antibiotics x 2 wks'."
+  },
+  {
+   "id": "ch49-u9-q3",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "recall",
+   "q": "Which examinations are forbidden for 3 months after repair?",
+   "opts": [
+    "P/A and P/V examinations",
+    "Speculum and cystoscopy",
+    "P/R and P/V examinations",
+    "P/S and P/V examinations"
+   ],
+   "ans": 3,
+   "exp": "'No P/S or P/V examinations' bracketed for 3 months."
+  },
+  {
+   "id": "ch49-u9-q4",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "numeric",
+   "q": "Intercourse is prohibited for how long after repair?",
+   "opts": [
+    "6 weeks",
+    "6 months",
+    "1 year",
+    "3 months"
+   ],
+   "ans": 3,
+   "exp": "'No intercourse' sits inside the same 3-month bracket."
+  },
+  {
+   "id": "ch49-u9-q5",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "numeric",
+   "q": "Pregnancy is contraindicated for how long after fistula repair?",
+   "opts": [
+    "6 months",
+    "1 year",
+    "2 years",
+    "3 months"
+   ],
+   "ans": 1,
+   "exp": "'Pregnancy C/I x 1 year'."
+  },
+  {
+   "id": "ch49-u9-q6",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "match",
+   "q": "Match each post-op instruction with its printed duration - 1) Foley drainage with antibiotics 2) No P/S or P/V and no intercourse 3) Pregnancy contraindicated ... A) 3 months B) 2 weeks C) 1 year ... choose:",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The brackets print 2 weeks for drainage, 3 months for examinations and intercourse and 1 year for pregnancy."
+  },
+  {
+   "id": "ch49-u9-q7",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "odd",
+   "q": "Odd one out - which instruction is NOT printed after vesicovaginal fistula repair?",
+   "opts": [
+    "Foley drainage with antibiotics for 2 weeks",
+    "No intercourse for 3 months",
+    "No catheter for 2 weeks",
+    "Pregnancy contraindicated for 1 year"
+   ],
+   "ans": 2,
+   "exp": "Catheter drainage is mandated, not avoided."
+  },
+  {
+   "id": "ch49-u9-q8",
+   "sec": "Urinary Fistula",
+   "unit": "Repair Techniques and Post-op Instructions",
+   "page": 263,
+   "fmt": "fillup",
+   "q": "Fill up: The two eponymous repairs printed are Chassar ____ and Latzko techniques.",
+   "opts": [
+    "martius",
+    "moir",
+    "mace",
+    "monro"
+   ],
+   "ans": 1,
+   "exp": "The bullets print Chassar moir technique."
+  },
+  {
+   "id": "ch49-u10-q1",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "OHSS is printed as which category of complication?",
+   "opts": [
+    "Spontaneous complication",
+    "Infective complication",
+    "Genetic complication",
+    "Iatrogenic complication"
+   ],
+   "ans": 3,
+   "exp": "The pathophysiology box opens with 'Iatrogenic complication : Inj. HMG'."
+  },
+  {
+   "id": "ch49-u10-q2",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The injection printed as the iatrogenic trigger at the top of the chain is:",
+   "opts": [
+    "Inj. hCG",
+    "Inj. FSH",
+    "Inj. HMG",
+    "Inj. GnRH"
+   ],
+   "ans": 2,
+   "exp": "The first line prints Inj. HMG."
+  },
+  {
+   "id": "ch49-u10-q3",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Excessive stimulation of the ovaries produces:",
+   "opts": [
+    "Multiple large follicles",
+    "A single dominant follicle",
+    "Ovarian fibrosis",
+    "Theca lutein cysts only"
+   ],
+   "ans": 0,
+   "exp": "The chain prints multiple large follicles."
+  },
+  {
+   "id": "ch49-u10-q4",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "The estrogen threshold printed in the chain is:",
+   "opts": [
+    ">= 1500 pg",
+    ">= 2500 pg",
+    ">= 3500 pg",
+    ">= 500 pg"
+   ],
+   "ans": 1,
+   "exp": "'Estrogen (>=2500 pg)' in the follicle box."
+  },
+  {
+   "id": "ch49-u10-q5",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The factor released from follicular fluid in the chain is:",
+   "opts": [
+    "Prostaglandin",
+    "Histamine",
+    "Renin",
+    "VEGF"
+   ],
+   "ans": 3,
+   "exp": "'VEGF from follicular fluid'."
+  },
+  {
+   "id": "ch49-u10-q6",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Failure of monitoring leads to which injection in the chain?",
+   "opts": [
+    "Inj. HMG",
+    "Inj. GnRH antagonist",
+    "Inj. hCG",
+    "Inj. progesterone"
+   ],
+   "ans": 2,
+   "exp": "The chain prints failure of monitoring then Inj. hCG."
+  },
+  {
+   "id": "ch49-u10-q7",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Rupture of the follicle releases:",
+   "opts": [
+    "VEGF",
+    "Estrogen",
+    "hCG",
+    "Inhibin"
+   ],
+   "ans": 0,
+   "exp": "'Rupture of follicle -> Release of VEGF'."
+  },
+  {
+   "id": "ch49-u10-q8",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The two monitoring methods printed are:",
+   "opts": [
+    "Follicular monitoring to monitor size of follicles and estrogen levels",
+    "Follicular monitoring and AMH levels",
+    "USG of ascites and estrogen levels",
+    "Follicular monitoring and VEGF levels"
+   ],
+   "ans": 0,
+   "exp": "The monitoring bullets print follicular monitoring for size and estrogen levels."
+  },
+  {
+   "id": "ch49-u10-q9",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The ultrasound image on page 264 is captioned:",
+   "opts": [
+    "Ascites",
+    "Multiloculated cyst",
+    "Ovarian mass",
+    "Large follicles"
+   ],
+   "ans": 3,
+   "exp": "The caption under the scan reads 'Large follicles'."
+  },
+  {
+   "id": "ch49-u10-q10",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "match",
+   "q": "Arrange the OHSS chain in printed order - 1) Release of VEGF 2) Inj. HMG 3) Multiple large follicles 4) Inj. hCG after failed monitoring 5) Rupture of follicle ... choose:",
+   "opts": [
+    "2, 4, 3, 5, 1",
+    "2, 3, 4, 5, 1",
+    "2, 3, 5, 4, 1",
+    "3, 2, 4, 5, 1"
+   ],
+   "ans": 1,
+   "exp": "The box prints HMG, large follicles, then failed monitoring with hCG, rupture and VEGF release."
+  },
+  {
+   "id": "ch49-u10-q11",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Pathophysiology and Monitoring",
+   "page": 264,
+   "fmt": "tf",
+   "q": "True/False: VEGF release follows follicle rupture in the printed OHSS chain.",
+   "opts": [
+    "False",
+    "False - VEGF precedes rupture",
+    "True",
+    "False - VEGF is not printed"
+   ],
+   "ans": 2,
+   "exp": "The chain ends rupture of follicle then release of VEGF."
+  },
+  {
+   "id": "ch49-u11-q1",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Risk Factors",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Name the eight printed risk factors for OHSS.",
+   "opts": [
+    "Young females, PCOS, thin female, raised follicle number on TVS, raised antral follicle count, raised AMH >3.3, raised estradiol >=2500 pg and pregnancy",
+    "Young females, PCOS, obese female, raised follicle number, raised AMH, raised estradiol, multiple pregnancy and smoking",
+    "Older females, PCOS, thin female, raised follicle number, raised AMH, raised estradiol and pregnancy",
+    "Young females, PCOS, thin female, raised follicle number, raised antral count, raised AMH, raised estradiol and pelvic TB"
+   ],
+   "ans": 0,
+   "exp": "The risk box lists exactly those eight items."
+  },
+  {
+   "id": "ch49-u11-q2",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Risk Factors",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "The AMH threshold printed as a risk factor is:",
+   "opts": [
+    "> 2.3",
+    "> 4.3",
+    "> 3.3",
+    "> 1.3"
+   ],
+   "ans": 2,
+   "exp": "'up AMH >3.3'."
+  },
+  {
+   "id": "ch49-u11-q3",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Risk Factors",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "The estradiol risk threshold printed is:",
+   "opts": [
+    ">= 1500 pg",
+    ">= 2500 pg",
+    ">= 500 pg",
+    ">= 3500 pg"
+   ],
+   "ans": 1,
+   "exp": "'up Estradiol (E2) >=2500 pg'."
+  },
+  {
+   "id": "ch49-u11-q4",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Risk Factors",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Body habitus printed as a risk factor is:",
+   "opts": [
+    "Obese female",
+    "Tall female",
+    "Short female",
+    "Thin female"
+   ],
+   "ans": 3,
+   "exp": "'Thin female' in the risk list."
+  },
+  {
+   "id": "ch49-u11-q5",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Risk Factors",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Which final physiological state completes the risk list?",
+   "opts": [
+    "Pregnancy",
+    "Lactation",
+    "Menopause",
+    "Anovulation"
+   ],
+   "ans": 0,
+   "exp": "The last risk bullet prints pregnancy."
+  },
+  {
+   "id": "ch49-u11-q6",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Risk Factors",
+   "page": 264,
+   "fmt": "odd",
+   "q": "Odd one out - which item is NOT a printed OHSS risk factor?",
+   "opts": [
+    "PCOS",
+    "Thin female",
+    "Obesity",
+    "Raised antral follicle count"
+   ],
+   "ans": 2,
+   "exp": "The printed habitus is thin female; obesity is absent."
+  },
+  {
+   "id": "ch49-u11-q7",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Risk Factors",
+   "page": 264,
+   "fmt": "match",
+   "q": "Match each risk factor with its printed threshold - 1) AMH 2) Estradiol 3) Follicle monitoring ... A) >= 2500 pg B) > 3.3 C) Number of follicles on TVS ... choose:",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 1,
+   "exp": "AMH >3.3, estradiol >=2500 pg and TVS follicle number are the printed entries."
+  },
+  {
+   "id": "ch49-u12-q1",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The printed complaints of OHSS are:",
+   "opts": [
+    "Nausea, vomiting, fever and dyspnoea",
+    "Abdominal pain, bleeding, dyspnoea and syncope",
+    "Nausea, diarrhoea, abdominal pain and cough",
+    "Nausea, vomiting, abdominal pain and dyspnoea"
+   ],
+   "ans": 3,
+   "exp": "The complaints box prints those four with clinical diagnosis."
+  },
+  {
+   "id": "ch49-u12-q2",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "recall",
+   "q": "OHSS is diagnosed how, according to the box?",
+   "opts": [
+    "Biochemical diagnosis",
+    "Radiological diagnosis",
+    "Clinical diagnosis",
+    "Histopathological diagnosis"
+   ],
+   "ans": 2,
+   "exp": "The arrow from complaints ends at clinical diagnosis."
+  },
+  {
+   "id": "ch49-u12-q3",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The drug with the highest risk of OHSS printed is:",
+   "opts": [
+    "Clomiphene citrate",
+    "Letrozole",
+    "FSH",
+    "hMG"
+   ],
+   "ans": 3,
+   "exp": "'hMG : Highest risk'."
+  },
+  {
+   "id": "ch49-u12-q4",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Clomiphene citrate carries which printed risk level?",
+   "opts": [
+    "Highest risk",
+    "Low risk",
+    "No risk",
+    "Moderate risk"
+   ],
+   "ans": 1,
+   "exp": "'Clomiphene citrate : Low risk'."
+  },
+  {
+   "id": "ch49-u12-q5",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Letrozole carries which printed risk level?",
+   "opts": [
+    "No risk",
+    "Low risk",
+    "Highest risk",
+    "Dose-dependent risk"
+   ],
+   "ans": 0,
+   "exp": "'Letrozole : No risk'."
+  },
+  {
+   "id": "ch49-u12-q6",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The triggering factor printed for OHSS is:",
+   "opts": [
+    "Inj. HMG",
+    "Inj. progesterone",
+    "Inj. GnRH agonist",
+    "Inj. hCG"
+   ],
+   "ans": 3,
+   "exp": "'Triggering factors : Inj. hCG'."
+  },
+  {
+   "id": "ch49-u12-q7",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "fillup",
+   "q": "Fill up: The mediator printed for OHSS is ____.",
+   "opts": [
+    "histamine",
+    "prostaglandin E2",
+    "VEGF",
+    "renin"
+   ],
+   "ans": 2,
+   "exp": "'Mediator : VEGF'."
+  },
+  {
+   "id": "ch49-u12-q8",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "match",
+   "q": "Match each drug with its printed OHSS risk - 1) hMG 2) Clomiphene citrate 3) Letrozole ... A) No risk B) Highest risk C) Low risk ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "The drugs box prints highest, low and no risk respectively."
+  },
+  {
+   "id": "ch49-u12-q9",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Complaints, Drugs, Trigger and Mediator",
+   "page": 264,
+   "fmt": "scenario",
+   "q": "Scenario: A PCOS patient on ovulation induction asks which agent least risks OHSS. The printed answer is:",
+   "opts": [
+    "Letrozole",
+    "hMG",
+    "Clomiphene citrate",
+    "hMG with hCG trigger"
+   ],
+   "ans": 0,
+   "exp": "Letrozole is printed with no risk while clomiphene is low and hMG highest."
+  },
+  {
+   "id": "ch49-u13-q1",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Early versus Late OHSS",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Early OHSS is due to:",
+   "opts": [
+    "Exogenous injection of hCG",
+    "Endogenous hCG from placenta",
+    "Endogenous LH surge",
+    "Exogenous HMG alone"
+   ],
+   "ans": 0,
+   "exp": "'Early OHSS : D/t exogenous Inj. of hCG'."
+  },
+  {
+   "id": "ch49-u13-q2",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Early versus Late OHSS",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "Early OHSS occurs within how many days of hCG injection?",
+   "opts": [
+    "Within 5 days",
+    "Within 9 days",
+    "Within 12 days",
+    "Within 15 days"
+   ],
+   "ans": 1,
+   "exp": "'Within 9 days of Inj. hCG'."
+  },
+  {
+   "id": "ch49-u13-q3",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Early versus Late OHSS",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Late OHSS is due to:",
+   "opts": [
+    "Exogenous hCG trigger",
+    "Repeated HMG doses",
+    "Endogenous FSH",
+    "Endogenous hCG produced by placenta during pregnancy"
+   ],
+   "ans": 3,
+   "exp": "'Late OHSS : D/t endogenous hCG produced by placenta during pregnancy'."
+  },
+  {
+   "id": "ch49-u13-q4",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Early versus Late OHSS",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "In the late OHSS line, after how many days does endogenous production dominate?",
+   "opts": [
+    "Beyond 5 days",
+    "Beyond 12 days",
+    "Beyond 9 days",
+    "Beyond 3 days"
+   ],
+   "ans": 2,
+   "exp": "The line prints Inj. hCG struck through at 9 days with up endogenous production."
+  },
+  {
+   "id": "ch49-u13-q5",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Early versus Late OHSS",
+   "page": 264,
+   "fmt": "match",
+   "q": "Match each OHSS timing with its printed hCG source - 1) Early 2) Late ... A) Endogenous placental hCG B) Exogenous injected hCG ... choose:",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
+   ],
+   "ans": 2,
+   "exp": "Early follows the injected trigger; late follows placental hCG."
+  },
+  {
+   "id": "ch49-u13-q6",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Early versus Late OHSS",
+   "page": 264,
+   "fmt": "tf",
+   "q": "True/False: Late OHSS implies the induction cycle has conceived.",
+   "opts": [
+    "True",
+    "False",
+    "False - late OHSS occurs without pregnancy",
+    "False - late OHSS is drug induced"
+   ],
+   "ans": 0,
+   "exp": "Late OHSS is printed as due to placental hCG during pregnancy."
+  },
+  {
+   "id": "ch49-u13-q7",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Early versus Late OHSS",
+   "page": 264,
+   "fmt": "odd",
+   "q": "Odd one out - which statement contradicts the printed early/late split?",
+   "opts": [
+    "Early OHSS occurs within 9 days of injection",
+    "Late OHSS follows endogenous hCG",
+    "hCG injection triggers OHSS",
+    "Early OHSS is due to placental hCG"
+   ],
+   "ans": 3,
+   "exp": "Placental hCG defines late, not early, OHSS."
+  },
+  {
+   "id": "ch49-u14-q1",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "recall",
+   "q": "The first prevention step printed is:",
+   "opts": [
+    "Withholding hCG always",
+    "Monitoring of follicles in TVS and estrogen levels",
+    "Cabergoline routinely",
+    "Freezing all embryos"
+   ],
+   "ans": 1,
+   "exp": "The prevention box opens with monitoring of follicles in TVS & estrogen levels."
+  },
+  {
+   "id": "ch49-u14-q2",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "hCG should be withheld if estrogen reaches:",
+   "opts": [
+    ">= 1500 pg",
+    ">= 3500 pg",
+    ">= 2500 pg",
+    ">= 500 pg"
+   ],
+   "ans": 2,
+   "exp": "'Withhold hCG if estrogen >=2500 pg'."
+  },
+  {
+   "id": "ch49-u14-q3",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Cabergoline prevents OHSS by:",
+   "opts": [
+    "Decreasing VEGF",
+    "Increasing VEGF",
+    "Blocking hCG receptors",
+    "Reducing follicle number"
+   ],
+   "ans": 0,
+   "exp": "'Cabergoline : down VEGF'."
+  },
+  {
+   "id": "ch49-u14-q4",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "recall",
+   "q": "Embryo transfer is avoided in which situation?",
+   "opts": [
+    "If estrogen is 1000 pg",
+    "If follicles are 2-3",
+    "If AMH is low",
+    "If risk of OHSS is positive"
+   ],
+   "ans": 3,
+   "exp": "'No embryo transfer : If risk of OHSS +'."
+  },
+  {
+   "id": "ch49-u14-q5",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "The ideal estrogen range printed for hCG induction is:",
+   "opts": [
+    "500 - 2500 pg",
+    "500 - 1500 pg",
+    "1500 - 2500 pg",
+    "200 - 500 pg"
+   ],
+   "ans": 1,
+   "exp": "The cloud prints estrogen 500 - 1500 pg."
+  },
+  {
+   "id": "ch49-u14-q6",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "The ideal follicle number printed for hCG induction is:",
+   "opts": [
+    "2-3",
+    "1-2",
+    "3-5",
+    "4-6"
+   ],
+   "ans": 0,
+   "exp": "'Number : 2-3' in the follicles box."
+  },
+  {
+   "id": "ch49-u14-q7",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "The ideal follicle size printed for hCG induction is:",
+   "opts": [
+    "> 15 mm",
+    "> 17 mm",
+    "> 20 mm",
+    "> 10 mm"
+   ],
+   "ans": 1,
+   "exp": "'Size : >17 mm'."
+  },
+  {
+   "id": "ch49-u14-q8",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "numeric",
+   "q": "The note at the foot of page 264 prints the amount of E2 released per follicle as:",
+   "opts": [
+    "100 pg",
+    "250 pg",
+    "200 pg",
+    "500 pg"
+   ],
+   "ans": 2,
+   "exp": "'Amount of E2 released per follicle : 200 pg'."
+  },
+  {
+   "id": "ch49-u14-q9",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "match",
+   "q": "Match each prevention measure with its printed trigger - 1) Withhold hCG 2) Cabergoline 3) No embryo transfer ... A) Risk of OHSS positive B) Estrogen >= 2500 pg C) To lower VEGF ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Withholding follows the estrogen threshold, cabergoline lowers VEGF and transfer is skipped when OHSS risk is positive."
+  },
+  {
+   "id": "ch49-u14-q10",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "scenario",
+   "q": "Scenario: A stimulated cycle shows estradiol 2600 pg with eight follicles. The printed preventive actions are:",
+   "opts": [
+    "Give hCG at half dose",
+    "Give cabergoline and transfer embryos",
+    "Proceed with hCG as follicles are ideal",
+    "Withhold hCG and avoid embryo transfer"
+   ],
+   "ans": 3,
+   "exp": "Estrogen >=2500 pg mandates withholding hCG and a positive OHSS risk mandates no embryo transfer."
+  },
+  {
+   "id": "ch49-u14-q11",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "scenario",
+   "q": "Scenario: Using the printed per-follicle E2 figure, three mature follicles would contribute approximately:",
+   "opts": [
+    "600 pg",
+    "200 pg",
+    "400 pg",
+    "900 pg"
+   ],
+   "ans": 0,
+   "exp": "Each follicle releases 200 pg, so three give about 600 pg, inside the ideal 500-1500 pg window."
+  },
+  {
+   "id": "ch49-u14-q12",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "tf",
+   "q": "True/False: The ideal conditions cloud prints follicle size above 17 mm with number 2-3 for hCG induction.",
+   "opts": [
+    "False",
+    "True",
+    "False - size >15 mm",
+    "False - number 4-6"
+   ],
+   "ans": 1,
+   "exp": "The cloud prints number 2-3 and size >17 mm."
+  },
+  {
+   "id": "ch49-u14-q13",
+   "sec": "Ovarian Hyperstimulation Syndrome (OHSS)",
+   "unit": "Prevention and Ideal hCG Conditions",
+   "page": 264,
+   "fmt": "fillup",
+   "q": "Fill up: Cabergoline prevents OHSS by lowering ____.",
+   "opts": [
+    "estrogen",
+    "hCG",
+    "VEGF",
+    "AMH"
+   ],
+   "ans": 2,
+   "exp": "'Cabergoline : down VEGF'."
+  }
+ ]
+}

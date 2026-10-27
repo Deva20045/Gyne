@@ -1,8 +1,8 @@
 # PULSE: OBG Mastery Path — Resume Notes
 
 ## Current state (as of this export)
-- **Chapters built:** 1–35 (all validated)
-- **Total questions:** 3,025 (zero duplicate IDs, zero duplicate stems, esbuild/`node --check` clean)
+- **Chapters built:** 1–35 and 45–49 (all validated); 36–44 still open
+- **Total questions:** 3,832 (zero duplicate IDs, zero duplicate stems, `node --check` clean)
 - **Chapters 1–29:** earlier builds + full re-audits (2,120 questions / 326 units)
 - **Chapters 30–35:** built in the latest session — Book p160–192, 905 new questions / 68 units
   - Ch 30: Disorders of Sexual Development (46XX) (PDF pp. 160–164) — 151 questions, 12 units
@@ -11,7 +11,13 @@
   - Ch 33: Vaginitis and Cervicitis (PDF pp. 178–183) — 149 questions, 11 units
   - Ch 34: Pelvic Inflammatory Disease (PID) (PDF pp. 184–187) — 128 questions, 9 units
   - Ch 35: Genital Tuberculosis (PDF pp. 188–192) — 134 questions, 9 units
-- **Chapters 36–49:** not yet built
+- **Chapters 45–49:** built in the latest session — Book p238–264, 807 new questions / 89 units
+  - Ch 45: CIN: Part 2 (PDF pp. 238–242) — 124 questions, 17 units
+  - Ch 46: Cancer Cervix (PDF pp. 243–248) — 177 questions, 17 units
+  - Ch 47: Ovarian Cancer: Part 1 (PDF pp. 249–256) — 246 questions, 27 units
+  - Ch 48: Ovarian Cancer: Part 2 (PDF pp. 257–260) — 140 questions, 14 units
+  - Ch 49: Gynaecology: Miscellaneous Topics (PDF pp. 261–264) — 120 questions, 14 units
+- **Chapters 36–44:** not yet built (Book p193–237); chapter 49 ends the printed book at p264
 
 ## Repository layout
 - `obg-mastery-path.html` — the single-file offline deliverable (all chapters embedded)
@@ -25,7 +31,7 @@
 - `audit/` — raw OCR dumps of Book p160–192
 
 ## Next chapter to build
-**Chapter 36 — Female Infertility: Part 1** (Book p193 onward)
+**Chapter 36 — Female Infertility: Part 1** (Book p193 onward) — resume the open 36–44 gap
 - p193 opens the infertility causes list (tubal cause as the third most common; uterine causes
   including submucous fibroid, septate Mullerian malformation, endometrial polyp and Asherman
   syndrome; cervical and unexplained causes with anti-sperm antibodies and cervicitis) and the

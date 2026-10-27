@@ -1,0 +1,2837 @@
+{
+ "chapter": 46,
+ "questions": [
+  {
+   "id": "ch46-u1-q1",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "recall",
+   "q": "The most common type of cancer cervix printed is:",
+   "opts": [
+    "Squamous cell cervix",
+    "Adenocarcinoma",
+    "Small cell carcinoma",
+    "Adenosquamous carcinoma"
+   ],
+   "ans": 0,
+   "exp": "'Squamous cell cervix : m/c type of cancer cervix' on page 243."
+  },
+  {
+   "id": "ch46-u1-q2",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Within squamous cell cancer cervix, the most common subtype is:",
+   "opts": [
+    "Large cell keratinising type",
+    "Large cell non-keratinising type",
+    "Small cell type",
+    "Verrucous type"
+   ],
+   "ans": 1,
+   "exp": "The first branch prints 'Large cell non-keratinising type (m/c type)'."
+  },
+  {
+   "id": "ch46-u1-q3",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Which squamous subtype carries the printed poor prognosis?",
+   "opts": [
+    "Large cell non-keratinising",
+    "Large cell keratinising",
+    "Papillary squamous",
+    "Small cell"
+   ],
+   "ans": 3,
+   "exp": "'Small cell (poor prognosis)' is the third branch."
+  },
+  {
+   "id": "ch46-u1-q4",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: The most common HPV association printed for squamous cell cervix is HPV ____.",
+   "opts": [
+    "18",
+    "31",
+    "16",
+    "45"
+   ],
+   "ans": 2,
+   "exp": "'m/c association : HPV 16' under the squamous arm."
+  },
+  {
+   "id": "ch46-u1-q5",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Adenocarcinoma of cervix is printed as which commonest rank?",
+   "opts": [
+    "2nd m/c",
+    "3rd m/c",
+    "4th m/c",
+    "Equal to squamous"
+   ],
+   "ans": 0,
+   "exp": "'Adenocarcinoma : 2nd m/c' opens that block."
+  },
+  {
+   "id": "ch46-u1-q6",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Adenocarcinoma of cervix is most common in which group?",
+   "opts": [
+    "Postmenopausal female",
+    "Multiparous female",
+    "Nulliparous elderly female",
+    "Young female"
+   ],
+   "ans": 3,
+   "exp": "'m/c in young female' is printed under adenocarcinoma."
+  },
+  {
+   "id": "ch46-u1-q7",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "recall",
+   "q": "The printed risk factor for adenocarcinoma of cervix is:",
+   "opts": [
+    "Smoking",
+    "Early coitus",
+    "OCP",
+    "Multiparity"
+   ],
+   "ans": 2,
+   "exp": "'Risk factor : OCP' under adenocarcinoma."
+  },
+  {
+   "id": "ch46-u1-q8",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: Adenocarcinoma of cervix is most commonly associated with HPV ____.",
+   "opts": [
+    "16",
+    "18",
+    "33",
+    "52"
+   ],
+   "ans": 1,
+   "exp": "'m/c association : HPV 18' under adenocarcinoma."
+  },
+  {
+   "id": "ch46-u1-q9",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "recall",
+   "q": "The most common site printed for adenocarcinoma of cervix is:",
+   "opts": [
+    "Ectocervix",
+    "Endocervix",
+    "Transformation zone",
+    "Vaginal vault"
+   ],
+   "ans": 1,
+   "exp": "'m/c site : Endocervix' closes the adenocarcinoma list."
+  },
+  {
+   "id": "ch46-u1-q10",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "match",
+   "q": "Match each cancer type with its printed attribute - 1) Squamous cell 2) Adenocarcinoma ... A) HPV 18, OCP risk, endocervix B) HPV 16, large cell non-keratinising m/c ... choose:",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Squamous pairs with HPV 16 and the large cell non-keratinising subtype; adenocarcinoma with HPV 18, OCP and endocervix."
+  },
+  {
+   "id": "ch46-u1-q11",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "odd",
+   "q": "Odd one out - which feature belongs to squamous rather than adenocarcinoma of cervix?",
+   "opts": [
+    "HPV 18 association",
+    "OCP as risk factor",
+    "HPV 16 association",
+    "Endocervix as m/c site"
+   ],
+   "ans": 2,
+   "exp": "HPV 16 sits under the squamous arm; the other three under adenocarcinoma."
+  },
+  {
+   "id": "ch46-u1-q12",
+   "sec": "General Characteristics",
+   "unit": "Types of Cancer",
+   "page": 243,
+   "fmt": "tf",
+   "q": "True/False: Small cell squamous carcinoma of cervix carries the printed poor prognosis.",
+   "opts": [
+    "False",
+    "False - large cell keratinising does",
+    "False - adenocarcinoma does",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The bracket prints 'Small cell (poor prognosis)'."
+  },
+  {
+   "id": "ch46-u2-q1",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: The most common site of cancer cervix printed is the ____ zone.",
+   "opts": [
+    "transitional",
+    "transformation",
+    "squamo-columnar",
+    "peripheral"
+   ],
+   "ans": 0,
+   "exp": "'m/c site : Transitional zone' under features."
+  },
+  {
+   "id": "ch46-u2-q2",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "numeric",
+   "q": "The bimodal most common age printed for cancer cervix is:",
+   "opts": [
+    "25-29 yrs and 50-54 yrs",
+    "35-39 yrs and 60-64 yrs",
+    "40-44 yrs and 65-69 yrs",
+    "30-34 yrs and 55-59 yrs"
+   ],
+   "ans": 1,
+   "exp": "'m/c age : 35-39 yrs & 60-64 yrs'."
+  },
+  {
+   "id": "ch46-u2-q3",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "recall",
+   "q": "The most common symptom of cancer cervix printed is:",
+   "opts": [
+    "Post coital bleeding",
+    "Dirty vaginal discharge",
+    "Pelvic pain",
+    "Irregular bleeding"
+   ],
+   "ans": 3,
+   "exp": "'Irregular bleeding : m/c symptom'."
+  },
+  {
+   "id": "ch46-u2-q4",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Which symptom is printed as the most specific for cancer cervix?",
+   "opts": [
+    "Irregular bleeding",
+    "Pyometra",
+    "Post coital bleeding",
+    "Lymphedema"
+   ],
+   "ans": 2,
+   "exp": "'Post coital bleeding : most specific symptom'."
+  },
+  {
+   "id": "ch46-u2-q5",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: The discharge printed in cancer cervix is a ____ vaginal discharge.",
+   "opts": [
+    "curdy",
+    "frothy",
+    "dirty",
+    "blood-stained"
+   ],
+   "ans": 2,
+   "exp": "'Dirty vaginal discharge' is the third symptom bullet."
+  },
+  {
+   "id": "ch46-u2-q6",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "recall",
+   "q": "The most common carcinoma causing pyometra printed is:",
+   "opts": [
+    "Ca endometrium",
+    "Ca ovary",
+    "Ca vagina",
+    "Ca cervix"
+   ],
+   "ans": 3,
+   "exp": "'Pyometra (m/c Ca causing pyometra : Ca cervix)'."
+  },
+  {
+   "id": "ch46-u2-q7",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Dyspnoea, cough, haemoptysis and chest pain in cancer cervix point to:",
+   "opts": [
+    "Pelvic side wall involvement",
+    "Lung metastasis",
+    "Bladder involvement",
+    "Bowel involvement"
+   ],
+   "ans": 1,
+   "exp": "That symptom cluster is labelled 'Lung metastasis'."
+  },
+  {
+   "id": "ch46-u2-q8",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Sciatica, haematuria and lymphedema together indicate:",
+   "opts": [
+    "Pelvic side wall involvement",
+    "Lung metastasis",
+    "Parametrial involvement only",
+    "Renal metastasis"
+   ],
+   "ans": 0,
+   "exp": "The cluster is labelled 'Pelvic side wall involvement'."
+  },
+  {
+   "id": "ch46-u2-q9",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: The most common cause of death in cancer cervix printed is ____ failure.",
+   "opts": [
+    "respiratory",
+    "hepatic",
+    "cardiac",
+    "renal"
+   ],
+   "ans": 3,
+   "exp": "'m/c cause of death : Renal failure'."
+  },
+  {
+   "id": "ch46-u2-q10",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "match",
+   "q": "Match each symptom cluster with its printed meaning - 1) Irregular bleeding 2) Post coital bleeding 3) Dyspnoea with haemoptysis 4) Sciatica with lymphedema ... A) Most specific symptom B) m/c symptom C) Pelvic side wall involvement D) Lung metastasis ... choose:",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Irregular bleeding is m/c, post coital is most specific, respiratory features mean lung metastasis and sciatica with lymphedema means pelvic side wall."
+  },
+  {
+   "id": "ch46-u2-q11",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "scenario",
+   "q": "Scenario: A 62-year-old with treated cancer cervix presents with unilateral sciatica and leg lymphedema. Which printed site of involvement explains this?",
+   "opts": [
+    "Lung",
+    "Bladder",
+    "Pelvic side wall",
+    "Bowel"
+   ],
+   "ans": 2,
+   "exp": "Sciatica, haematuria and lymphedema are the printed pelvic side wall involvement triad."
+  },
+  {
+   "id": "ch46-u2-q12",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "odd",
+   "q": "Odd one out - which is NOT a printed symptom line of cancer cervix?",
+   "opts": [
+    "Painless haematuria as the m/c symptom",
+    "Dirty vaginal discharge",
+    "Pyometra",
+    "Post menopausal spread"
+   ],
+   "ans": 0,
+   "exp": "Haematuria appears only inside the pelvic side wall cluster; the m/c symptom is irregular bleeding."
+  },
+  {
+   "id": "ch46-u2-q13",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "tf",
+   "q": "True/False: Post coital bleeding is printed as both a symptom of cancer cervix and the most specific one.",
+   "opts": [
+    "False",
+    "False - it is m/c but not specific",
+    "True",
+    "False - it is specific but not listed as symptom"
+   ],
+   "ans": 2,
+   "exp": "The bullets print it as the most specific symptom among the symptom list."
+  },
+  {
+   "id": "ch46-u2-q14",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: The printed symptom bullet between pyometra and the lung metastasis cluster reads post menopausal ____ (preserved as printed).",
+   "opts": [
+    "bleed",
+    "spread",
+    "bleeding",
+    "discharge"
+   ],
+   "ans": 1,
+   "exp": "Page 243 prints 'Post menopausal spread.' verbatim between the pyometra and dyspnoea bullets."
+  },
+  {
+   "id": "ch46-u2-q15",
+   "sec": "General Characteristics",
+   "unit": "Features and Symptoms",
+   "page": 243,
+   "fmt": "odd",
+   "q": "Odd one out - which printed symptom bullet sits immediately before the pelvic side wall cluster?",
+   "opts": [
+    "Post menopausal spread",
+    "Dirty vaginal discharge",
+    "Sciatica, hematuria and lymphedema",
+    "Dyspnea, cough, hemoptysis and chest pain"
+   ],
+   "ans": 3,
+   "exp": "The respiratory cluster precedes the sciatica-hematuria-lymphedema line on page 243."
+  },
+  {
+   "id": "ch46-u3-q1",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 243,
+   "fmt": "recall",
+   "q": "Give the printed hierarchy of spread routes in cancer cervix:",
+   "opts": [
+    "Direct > lymphatic > hematogenous",
+    "Lymphatic > direct > hematogenous",
+    "Hematogenous > lymphatic > direct",
+    "Direct > hematogenous > lymphatic"
+   ],
+   "ans": 0,
+   "exp": "'Direct > Lymphatic > Hematogenous' on page 243."
+  },
+  {
+   "id": "ch46-u3-q2",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: By the hematogenous route the most common metastatic site printed is the ____.",
+   "opts": [
+    "liver",
+    "bones",
+    "lungs",
+    "brain"
+   ],
+   "ans": 2,
+   "exp": "'m/c site : Lungs (Hematogenous route)'."
+  },
+  {
+   "id": "ch46-u3-q3",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 243,
+   "fmt": "recall",
+   "q": "The first two lymph node groups printed under drainage are:",
+   "opts": [
+    "External iliac and inguinal nodes",
+    "Paraaortic and common iliac nodes",
+    "Sacral and superficial inguinal nodes",
+    "Hypogastric (internal iliac) nodes and obturator node"
+   ],
+   "ans": 3,
+   "exp": "The drainage bullets open with hypogastric (internal iliac) nodes then obturator node."
+  },
+  {
+   "id": "ch46-u3-q4",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 244,
+   "fmt": "recall",
+   "q": "Which node is printed as the sentinel node of the cervix?",
+   "opts": [
+    "Paracervical node",
+    "Obturator node",
+    "External iliac node",
+    "Hypogastric node"
+   ],
+   "ans": 0,
+   "exp": "Page 244 prints 'Paracervical node : Sentinel node'."
+  },
+  {
+   "id": "ch46-u3-q5",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 244,
+   "fmt": "recall",
+   "q": "Which nodal group completes the printed drainage list after obturator?",
+   "opts": [
+    "Common iliac nodes",
+    "External iliac nodes",
+    "Inguinal nodes",
+    "Paraaortic nodes"
+   ],
+   "ans": 1,
+   "exp": "'External iliac nodes' is the second bullet on page 244."
+  },
+  {
+   "id": "ch46-u3-q6",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 244,
+   "fmt": "fillup",
+   "q": "Fill up: The cervix does not drain into ____ lymph nodes, so they are not included in radiotherapy.",
+   "opts": [
+    "superficial",
+    "deep",
+    "pelvic",
+    "paraaortic"
+   ],
+   "ans": 0,
+   "exp": "'Cervix does not drain into superficial lymph nodes : Not included in radiotherapy'."
+  },
+  {
+   "id": "ch46-u3-q7",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 244,
+   "fmt": "recall",
+   "q": "Why are superficial lymph nodes excluded from radiotherapy fields?",
+   "opts": [
+    "Because they lie outside the pelvis only",
+    "Because they are radioresistant",
+    "Because the cervix does not drain into them",
+    "Because they drain the vulva only"
+   ],
+   "ans": 2,
+   "exp": "The printed reason is the absent drainage of cervix into superficial nodes."
+  },
+  {
+   "id": "ch46-u3-q8",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 244,
+   "fmt": "match",
+   "q": "Arrange the printed nodal drainage sequence from the cervix outward - 1) External iliac 2) Paracervical (sentinel) 3) Hypogastric and obturator ... choose the printed listing order:",
+   "opts": [
+    "2, 3, 1",
+    "1, 2, 3",
+    "3, 1, 2",
+    "3, 2, 1"
+   ],
+   "ans": 3,
+   "exp": "Page 243 lists hypogastric and obturator first, page 244 adds paracervical as sentinel then external iliac."
+  },
+  {
+   "id": "ch46-u3-q9",
+   "sec": "General Characteristics",
+   "unit": "Route of Spread and Lymphatic Drainage",
+   "page": 244,
+   "fmt": "tf",
+   "q": "True/False: Hematogenous spread is the least common of the three printed routes.",
+   "opts": [
+    "False",
+    "True",
+    "False - lymphatic is least",
+    "False - direct is least"
+   ],
+   "ans": 1,
+   "exp": "The hierarchy Direct > Lymphatic > Hematogenous puts hematogenous last."
+  },
+  {
+   "id": "ch46-u4-q1",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "EBRT Fields",
+   "page": 244,
+   "fmt": "recall",
+   "q": "External beam radiotherapy is indicated for which nodal involvement?",
+   "opts": [
+    "Paraaortic lymph nodes",
+    "Inguinal lymph nodes",
+    "Supraclavicular nodes",
+    "Pelvic lymph nodes"
+   ],
+   "ans": 3,
+   "exp": "'EBRT : Pelvic lymph nodes involvement' on page 244."
+  },
+  {
+   "id": "ch46-u4-q2",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "EBRT Fields",
+   "page": 244,
+   "fmt": "fillup",
+   "q": "Fill up: Extended EBRT equals EBRT plus ____ lymph node involvement.",
+   "opts": [
+    "pelvic",
+    "inguinal",
+    "paraaortic",
+    "common iliac"
+   ],
+   "ans": 2,
+   "exp": "'Extended EBRT : EBRT + Paraaortic lymph nodes involvement'."
+  },
+  {
+   "id": "ch46-u4-q3",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "EBRT Fields",
+   "page": 244,
+   "fmt": "match",
+   "q": "Match the radiotherapy field with its printed nodal indication - 1) EBRT 2) Extended EBRT ... A) Paraaortic nodes B) Pelvic nodes ... choose:",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 1,
+   "exp": "EBRT covers pelvic nodes; extended EBRT adds paraaortic nodes."
+  },
+  {
+   "id": "ch46-u5-q1",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "recall",
+   "q": "List the printed sites involved in cancer cervix:",
+   "opts": [
+    "Parametrium, pelvic side walls, bladder, bowel, lungs and kidney",
+    "Parametrium, vagina, bladder, rectum and liver",
+    "Uterus, ovaries, bladder, bowel and lungs",
+    "Parametrium, pelvic side walls, urethra, rectum and spleen"
+   ],
+   "ans": 0,
+   "exp": "The line prints 'Parametrium, pelvic side walls, bladder, bowel, lungs, kidney'."
+  },
+  {
+   "id": "ch46-u5-q2",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "odd",
+   "q": "Odd one out - which organ is absent from the printed sites involved list?",
+   "opts": [
+    "Kidney",
+    "Bowel",
+    "Lungs",
+    "Ovary"
+   ],
+   "ans": 3,
+   "exp": "Ovary is not in the printed list; involvement of ovaries is separately noted as under 1%."
+  },
+  {
+   "id": "ch46-u5-q3",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "recall",
+   "q": "The post coital bleeding algorithm starts from which causative pathologies?",
+   "opts": [
+    "Ca cervix, fibroid and polyp",
+    "Polyp, endometrium and vagina",
+    "Ca cervix, polyp and endometrium",
+    "Ca cervix, endometrium and ovary"
+   ],
+   "ans": 2,
+   "exp": "The top box prints 'Ca cervix, polyp, endometrium'."
+  },
+  {
+   "id": "ch46-u5-q4",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "recall",
+   "q": "After per speculum examination, a normal cervix in the algorithm leads to:",
+   "opts": [
+    "Punch biopsy",
+    "Pap smear then colposcopy",
+    "Direct colposcopy",
+    "Endometrial biopsy"
+   ],
+   "ans": 1,
+   "exp": "The normal arm runs pap smear AB(N) then into colposcopy."
+  },
+  {
+   "id": "ch46-u5-q5",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "recall",
+   "q": "A barrel shaped, friable or indurated cervix in the algorithm is directed to:",
+   "opts": [
+    "Colposcopy",
+    "Punch biopsy",
+    "Pap smear",
+    "Cone biopsy"
+   ],
+   "ans": 0,
+   "exp": "The middle arm joins the colposcopy box."
+  },
+  {
+   "id": "ch46-u5-q6",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "recall",
+   "q": "A visible cervical growth on per speculum examination in the algorithm goes to:",
+   "opts": [
+    "Colposcopy",
+    "Punch biopsy",
+    "Pap smear",
+    "Curettage"
+   ],
+   "ans": 1,
+   "exp": "The right arm ends in punch biopsy."
+  },
+  {
+   "id": "ch46-u5-q7",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "match",
+   "q": "Match the per speculum finding with its printed next step - 1) Normal cervix 2) Barrel shaped/friable/indurated cervix 3) Visible growth ... A) Punch biopsy B) Pap smear then colposcopy C) Colposcopy ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Normal cervix gets pap then colposcopy, an indurated cervix goes to colposcopy and a visible growth to punch biopsy."
+  },
+  {
+   "id": "ch46-u5-q8",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Sites Involved and Post Coital Bleeding Algorithm",
+   "page": 244,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with post coital bleeding has a friable indurated cervix but no frank growth on speculum. The printed algorithm sends her to:",
+   "opts": [
+    "Punch biopsy",
+    "Pap smear alone",
+    "Colposcopy",
+    "Hysterectomy workup"
+   ],
+   "ans": 2,
+   "exp": "The friable/indurated arm terminates at colposcopy."
+  },
+  {
+   "id": "ch46-u6-q1",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "recall",
+   "q": "The general examination findings printed for cancer cervix are:",
+   "opts": [
+    "Thin built, cachexic and low socio-economic status",
+    "Obese, hypertensive and diabetic",
+    "Thin built with high socio-economic status",
+    "Cachexic with fever and rigors"
+   ],
+   "ans": 0,
+   "exp": "The two bullets are thin built, cachexic and low socio-economic status."
+  },
+  {
+   "id": "ch46-u6-q2",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "fillup",
+   "q": "Fill up: On P/A examination an abdomino pelvic lump may be felt due to ____ (collection of pus in the uterus).",
+   "opts": [
+    "haematometra",
+    "pyometra",
+    "hydrometra",
+    "fibroid"
+   ],
+   "ans": 1,
+   "exp": "'Abdomino pelvic lump d/t pyometra (Collection of pus in the uterus)'."
+  },
+  {
+   "id": "ch46-u6-q3",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "recall",
+   "q": "The P/S examination growth is described as:",
+   "opts": [
+    "Smooth polypoid mass",
+    "Cystic swelling",
+    "Ulcerative/fungating mass",
+    "Nodular without ulceration"
+   ],
+   "ans": 2,
+   "exp": "'Growth : Ulcerative/Fungating mass'."
+  },
+  {
+   "id": "ch46-u6-q4",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "recall",
+   "q": "A friable cervix on speculum is defined on the page as one that:",
+   "opts": [
+    "Bleeds on touch",
+    "Tears on biopsy",
+    "Everts on traction",
+    "Discharges pus on pressure"
+   ],
+   "ans": 0,
+   "exp": "'Friable cervix : Bleeds on touch'."
+  },
+  {
+   "id": "ch46-u6-q5",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "recall",
+   "q": "The cervix in cancer cervix is also described on P/S as:",
+   "opts": [
+    "Soft and cystic",
+    "Smooth and firm",
+    "Retracted and stenosed",
+    "Hard and nodular"
+   ],
+   "ans": 3,
+   "exp": "'Hard & nodular cervix' is the third P/S bullet."
+  },
+  {
+   "id": "ch46-u6-q6",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "recall",
+   "q": "Per rectal or per vaginorectal examination is printed to assess which structures?",
+   "opts": [
+    "Rectal mucosa and anal sphincter",
+    "Pouch of Douglas and ovaries",
+    "Bladder base and urethra",
+    "Parametrium and utero sacral ligaments"
+   ],
+   "ans": 3,
+   "exp": "'Examination of parametrium and utero sacral ligaments' heads that block."
+  },
+  {
+   "id": "ch46-u6-q7",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "recall",
+   "q": "The positive per rectal finding printed is:",
+   "opts": [
+    "Thickening and nodularity",
+    "Smooth induration",
+    "Crepitus",
+    "Fixed immobile uterus only"
+   ],
+   "ans": 0,
+   "exp": "The sub-bullet prints 'Thickening & nodularity'."
+  },
+  {
+   "id": "ch46-u6-q8",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "match",
+   "q": "Match each examination with its printed finding - 1) General 2) P/A 3) P/S 4) Per rectal ... A) Ulcerative/fungating growth, friable cervix B) Cachexia and low socio-economic status C) Parametrial thickening and nodularity D) Abdomino pelvic lump from pyometra ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "General shows cachexia, P/A the pyometra lump, P/S the growth and friable cervix, per rectal the parametrial nodularity."
+  },
+  {
+   "id": "ch46-u6-q9",
+   "sec": "Radiotherapy Fields, Sites Involved and Post Coital Bleeding Algorithm",
+   "unit": "Examination",
+   "page": 244,
+   "fmt": "tf",
+   "q": "True/False: Per vaginorectal examination in cancer cervix is aimed at the parametrium and uterosacral ligaments.",
+   "opts": [
+    "False",
+    "False - at the rectal mucosa",
+    "True",
+    "False - at the bladder base"
+   ],
+   "ans": 2,
+   "exp": "The heading prints exactly those two structures."
+  },
+  {
+   "id": "ch46-u7-q1",
+   "sec": "Investigations and Staging",
+   "unit": "Investigations",
+   "page": 245,
+   "fmt": "recall",
+   "q": "The printed prognostic hierarchy in cancer cervix is:",
+   "opts": [
+    "Staging > lymph nodes",
+    "Lymph nodes > staging",
+    "Tumour size > staging",
+    "Histology > staging"
+   ],
+   "ans": 0,
+   "exp": "'Prognostic markers : Staging > Lymph nodes' on page 245."
+  },
+  {
+   "id": "ch46-u7-q2",
+   "sec": "Investigations and Staging",
+   "unit": "Investigations",
+   "page": 245,
+   "fmt": "fillup",
+   "q": "Fill up: The diagnostic investigation printed for cancer cervix is cervical ____.",
+   "opts": [
+    "cytology",
+    "MRI",
+    "biopsy",
+    "HPV DNA"
+   ],
+   "ans": 2,
+   "exp": "'Diagnostic : Cervical biopsy'."
+  },
+  {
+   "id": "ch46-u7-q3",
+   "sec": "Investigations and Staging",
+   "unit": "Investigations",
+   "page": 245,
+   "fmt": "recall",
+   "q": "For microinvasive cancer detected on LEEP, the printed next procedure is:",
+   "opts": [
+    "Repeat LEEP",
+    "Cone biopsy",
+    "Hysterectomy",
+    "Punch biopsy"
+   ],
+   "ans": 1,
+   "exp": "'For microinvasive cancer on LEEP -> Cone biopsy'."
+  },
+  {
+   "id": "ch46-u7-q4",
+   "sec": "Investigations and Staging",
+   "unit": "Investigations",
+   "page": 245,
+   "fmt": "numeric",
+   "q": "The printed rate of ovarian involvement in cancer cervix is:",
+   "opts": [
+    "Less than 5%",
+    "About 10%",
+    "About 15%",
+    "Less than 1%"
+   ],
+   "ans": 3,
+   "exp": "'Note : Involvement of ovaries (<1%)'."
+  },
+  {
+   "id": "ch46-u7-q5",
+   "sec": "Investigations and Staging",
+   "unit": "Investigations",
+   "page": 245,
+   "fmt": "recall",
+   "q": "Why are ovaries preserved when hysterectomy is done for Ca cervix in young females?",
+   "opts": [
+    "To preserve fertility",
+    "Because ovaries are never involved",
+    "To allow future IVF",
+    "To avoid pre-mature menopausal symptoms"
+   ],
+   "ans": 3,
+   "exp": "'Ovaries preserved : To avoid pre-mature menopausal symptoms'."
+  },
+  {
+   "id": "ch46-u7-q6",
+   "sec": "Investigations and Staging",
+   "unit": "Investigations",
+   "page": 245,
+   "fmt": "tf",
+   "q": "True/False: Ovarian preservation at hysterectomy for Ca cervix is justified by the under-1% involvement rate.",
+   "opts": [
+    "True",
+    "False",
+    "False - ovaries are always removed",
+    "False - preservation is only for fertility"
+   ],
+   "ans": 0,
+   "exp": "The note pairs the <1% involvement with preserving ovaries in young females."
+  },
+  {
+   "id": "ch46-u8-q1",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "recall",
+   "q": "Cancer cervix staging is printed as clinical staging plus which addition?",
+   "opts": [
+    "Surgical staging",
+    "Histopathological staging",
+    "Radiological investigation",
+    "Serum marker staging"
+   ],
+   "ans": 2,
+   "exp": "'Clinical staging + Radiological investigation' heads the staging block."
+  },
+  {
+   "id": "ch46-u8-q2",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "recall",
+   "q": "USG in the staging workup is printed to detect:",
+   "opts": [
+    "Parametrial involvement",
+    "Presence of pyometra",
+    "Lymph node status",
+    "Bladder involvement"
+   ],
+   "ans": 1,
+   "exp": "'USG : Presence of pyometra'."
+  },
+  {
+   "id": "ch46-u8-q3",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "recall",
+   "q": "CT scan in the staging workup assesses:",
+   "opts": [
+    "Parametrial involvement",
+    "Pyometra",
+    "Ureteric involvement",
+    "Lymph node status"
+   ],
+   "ans": 3,
+   "exp": "'CT scan : Lymph node status'."
+  },
+  {
+   "id": "ch46-u8-q4",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "fillup",
+   "q": "Fill up: Involvement of the parametrium is assessed on ____.",
+   "opts": [
+    "MRI",
+    "CT scan",
+    "USG",
+    "PET CT"
+   ],
+   "ans": 0,
+   "exp": "'MRI : Involvement of parametrium'."
+  },
+  {
+   "id": "ch46-u8-q5",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "recall",
+   "q": "PET CT in the staging list is printed for:",
+   "opts": [
+    "Lung involvement",
+    "Lymph nodes involvement",
+    "Rectal involvement",
+    "Pyometra"
+   ],
+   "ans": 1,
+   "exp": "'PET CT : Lymph nodes involvement'."
+  },
+  {
+   "id": "ch46-u8-q6",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "recall",
+   "q": "IVP in the staging workup looks at:",
+   "opts": [
+    "Bladder involvement",
+    "Rectal involvement",
+    "Kidney and ureter involvement",
+    "Lymph node status"
+   ],
+   "ans": 2,
+   "exp": "'IVP : Kidney & ureter involvement'."
+  },
+  {
+   "id": "ch46-u8-q7",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "match",
+   "q": "Match each endoscopic or plain study with its printed target - 1) Cystoscopy 2) Sigmoidoscopy 3) Chest X-ray ... A) Lung involvement B) Bladder involvement C) Rectum involvement ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Cystoscopy sees the bladder, sigmoidoscopy the rectum and chest X-ray the lungs."
+  },
+  {
+   "id": "ch46-u8-q8",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "recall",
+   "q": "The best investigation printed for parametrial involvement is:",
+   "opts": [
+    "CT scan",
+    "PET CT",
+    "USG",
+    "MRI"
+   ],
+   "ans": 3,
+   "exp": "'Involvement of parametrium : MRI' under best investigation for."
+  },
+  {
+   "id": "ch46-u8-q9",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "recall",
+   "q": "For lymph node involvement the printed best hierarchy is:",
+   "opts": [
+    "PET-CT > CT scan",
+    "CT scan > PET-CT",
+    "MRI > PET-CT",
+    "USG > CT scan"
+   ],
+   "ans": 0,
+   "exp": "'LN involvement : PET-CT > CT scan'."
+  },
+  {
+   "id": "ch46-u8-q10",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "match",
+   "q": "Match each staging question with its printed best tool - 1) Parametrium 2) Lymph nodes 3) Ureter and kidney 4) Bladder ... A) IVP B) Cystoscopy C) MRI D) PET-CT ... choose:",
+   "opts": [
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 1,
+   "exp": "MRI for parametrium, PET-CT for nodes, IVP for ureter and kidney, cystoscopy for bladder."
+  },
+  {
+   "id": "ch46-u8-q11",
+   "sec": "Investigations and Staging",
+   "unit": "Radiological Staging Workup",
+   "page": 245,
+   "fmt": "scenario",
+   "q": "Scenario: A cancer cervix patient needs accurate nodal mapping before chemoradiation planning. The printed best tool is:",
+   "opts": [
+    "CT scan",
+    "MRI",
+    "IVP",
+    "PET-CT"
+   ],
+   "ans": 3,
+   "exp": "PET-CT outranks CT scan for lymph node involvement."
+  },
+  {
+   "id": "ch46-u9-q1",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "recall",
+   "q": "Stage IA in the printed FIGO table is defined as:",
+   "opts": [
+    "Microscopic/microinvasive cancer up to 5 mm deep",
+    "Microscopic cancer up to 3 mm deep",
+    "Macroinvasive cancer over 5 mm deep",
+    "Microscopic cancer up to 7 mm deep"
+   ],
+   "ans": 0,
+   "exp": "The IA row prints 'microscopic/microinvasive cancer <=5 mm deep'."
+  },
+  {
+   "id": "ch46-u9-q2",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "numeric",
+   "q": "Fill up: Stage IA1 is printed as up to ____ mm deep.",
+   "opts": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "ans": 1,
+   "exp": "'IA1 <=3 mm deep'."
+  },
+  {
+   "id": "ch46-u9-q3",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "numeric",
+   "q": "Stage IA2 depth printed in the table is:",
+   "opts": [
+    "3-4 mm deep",
+    "5-7 mm deep",
+    "4-5 mm deep",
+    "Up to 3 mm deep"
+   ],
+   "ans": 2,
+   "exp": "'IA2 4-5 mm deep'."
+  },
+  {
+   "id": "ch46-u9-q4",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "numeric",
+   "q": "Stage IB in the printed table begins beyond what depth?",
+   "opts": [
+    "More than 5 mm deep",
+    "More than 3 mm",
+    "More than 7 mm",
+    "More than 10 mm"
+   ],
+   "ans": 0,
+   "exp": "'IB macroinvasive cancer >5 mm deep'."
+  },
+  {
+   "id": "ch46-u9-q5",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "match",
+   "q": "Match the IB substage with its printed size - 1) IB1 2) IB2 3) IB3 ... A) Size > 4 cms B) Size <= 2 cms C) Size <= 4 cms ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "IB1 is <=2 cms, IB2 <=4 cms and IB3 >4 cms."
+  },
+  {
+   "id": "ch46-u9-q6",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "recall",
+   "q": "Stage II in the printed table is defined by involvement of:",
+   "opts": [
+    "Lower 1/3rd of vagina",
+    "Parametrium with pelvic wall",
+    "Bladder mucosa",
+    "Upper 2/3rd of vagina"
+   ],
+   "ans": 3,
+   "exp": "The stage II row prints 'Involvement of upper 2/3rd of vagina'."
+  },
+  {
+   "id": "ch46-u9-q7",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "recall",
+   "q": "In stage IIA the parametrium is printed as:",
+   "opts": [
+    "Involved",
+    "Not involved",
+    "Involved up to pelvic wall",
+    "Assessable only on MRI"
+   ],
+   "ans": 1,
+   "exp": "'IIA Parametrium not involved'."
+  },
+  {
+   "id": "ch46-u9-q8",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "numeric",
+   "q": "The printed size cut-offs for IIA1 and IIA2 are:",
+   "opts": [
+    "IIA1 <= 2 cms and IIA2 > 2 cms",
+    "IIA1 <= 4 cms and IIA2 > 4 cm",
+    "IIA1 <= 5 cms and IIA2 > 5 cms",
+    "IIA1 <= 3 cms and IIA2 > 3 cms"
+   ],
+   "ans": 1,
+   "exp": "The table prints IIA1 size <=4 cms and IIA2 size >4 cm."
+  },
+  {
+   "id": "ch46-u9-q9",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "tf",
+   "q": "True/False: A 6 mm deep invasive cancer with a 3 cm lesion falls in stage IB1 on the printed table.",
+   "opts": [
+    "True",
+    "False - it is stage IA2",
+    "False - it is stage IIA1",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "Depth >5 mm makes it macroinvasive IB, and a 3 cm lesion sits in IB2 (size <=4 cms), since IB1 is size <=2 cms."
+  },
+  {
+   "id": "ch46-u9-q10",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages I and II",
+   "page": 245,
+   "fmt": "scenario",
+   "q": "Scenario: A cervical cancer measures 5 cm with invasion 8 mm deep and no vaginal or parametrial involvement. The printed stage is:",
+   "opts": [
+    "IB3",
+    "IB2",
+    "IIA2",
+    "IIB"
+   ],
+   "ans": 0,
+   "exp": "Macroinvasive with size >4 cms and no vaginal or parametrial spread is IB3."
+  },
+  {
+   "id": "ch46-u10-q1",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage IIB in the printed table means:",
+   "opts": [
+    "Pelvic side wall involved",
+    "Lower vagina involved",
+    "Parametrium involved",
+    "Upper vagina with parametrium"
+   ],
+   "ans": 2,
+   "exp": "The IIB row prints 'Parametrium involved'."
+  },
+  {
+   "id": "ch46-u10-q2",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage III is defined by involvement of:",
+   "opts": [
+    "Upper 2/3rd of vagina",
+    "Parametrium only",
+    "Lower 1/3rd of vagina",
+    "Bladder base"
+   ],
+   "ans": 2,
+   "exp": "'III Involvement of lower 1/3rd of vagina'."
+  },
+  {
+   "id": "ch46-u10-q3",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "In stage IIIA the pelvic side wall is printed as:",
+   "opts": [
+    "Involved",
+    "Not involved",
+    "Involved with hydronephrosis",
+    "Not assessable"
+   ],
+   "ans": 1,
+   "exp": "'IIIA Pelvic side wall not involved'."
+  },
+  {
+   "id": "ch46-u10-q4",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage IIIB adds pelvic side wall involvement with which printed consequences?",
+   "opts": [
+    "Hydroureter/hydronephrosis (ureter, kidney involvement)",
+    "Bladder and bowel involvement",
+    "Malignant ascites",
+    "Inguinal node involvement"
+   ],
+   "ans": 0,
+   "exp": "The IIIB row prints hydroureter/hydronephrosis with ureter and kidney involvement."
+  },
+  {
+   "id": "ch46-u10-q5",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage IIIC denotes:",
+   "opts": [
+    "Pelvic side wall involvement",
+    "Vaginal involvement",
+    "Distant metastasis",
+    "Lymph nodes involvement"
+   ],
+   "ans": 3,
+   "exp": "'IIIC Lymph nodes involvement'."
+  },
+  {
+   "id": "ch46-u10-q6",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "match",
+   "q": "Match the IIIC substage with its printed nodal site - 1) IIIC1 2) IIIC2 ... A) Para aortic lymph nodes B) Pelvic lymph nodes ... choose:",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
+   ],
+   "ans": 2,
+   "exp": "IIIC1 is pelvic and IIIC2 para aortic nodal involvement."
+  },
+  {
+   "id": "ch46-u10-q7",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage IV in the printed table is summarised as:",
+   "opts": [
+    "Local spread",
+    "Metastasis",
+    "Nodal spread",
+    "Vaginal spread"
+   ],
+   "ans": 1,
+   "exp": "The IV row prints simply 'metastasis'."
+  },
+  {
+   "id": "ch46-u10-q8",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage IVA is printed as regional metastasis to:",
+   "opts": [
+    "Lungs",
+    "Inguinal nodes",
+    "Liver parenchyma",
+    "Bladder/bowel"
+   ],
+   "ans": 3,
+   "exp": "'IVA Regional metastasis : Bladder/Bowel'."
+  },
+  {
+   "id": "ch46-u10-q9",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage IVB includes distant metastasis and which nodal involvement?",
+   "opts": [
+    "Superficial inguinal lymph node",
+    "Pelvic lymph node",
+    "Paraaortic lymph node",
+    "Obturator node"
+   ],
+   "ans": 0,
+   "exp": "'IVB Distant metastasis/Superficial inguinal lymph node involvement'."
+  },
+  {
+   "id": "ch46-u10-q10",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Spread of cancer cervix to the uterus does what to staging?",
+   "opts": [
+    "Does not change staging",
+    "Upstages to IIA",
+    "Upstages to III",
+    "Downstages to IB"
+   ],
+   "ans": 0,
+   "exp": "'Spread of cancer cervix to uterus : Does not change staging'."
+  },
+  {
+   "id": "ch46-u10-q11",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Bullous oedema of bladder is printed as:",
+   "opts": [
+    "Stage IVA disease",
+    "Stage IVB disease",
+    "Not a metastasis",
+    "Stage IIIB disease"
+   ],
+   "ans": 2,
+   "exp": "'Bullous edema of bladder : Not a metastasis'."
+  },
+  {
+   "id": "ch46-u10-q12",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "fillup",
+   "q": "Fill up: Bladder metastasis must be confirmed by histopathological evidence ____.",
+   "opts": [
+    "negative",
+    "positive",
+    "equivocal",
+    "not required"
+   ],
+   "ans": 1,
+   "exp": "'Metastasis of bladder : Histopathological evidence +'."
+  },
+  {
+   "id": "ch46-u10-q13",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "match",
+   "q": "Match each stage with its printed defining feature - 1) IIB 2) IIIB 3) IIIC2 4) IVA ... A) Bladder/bowel regional metastasis B) Parametrium involved C) Para aortic nodes D) Hydronephrosis from side wall spread ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 3,
+   "exp": "IIB is parametrial, IIIB side wall with hydronephrosis, IIIC2 paraaortic nodes and IVA bladder or bowel."
+  },
+  {
+   "id": "ch46-u10-q14",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "scenario",
+   "q": "Scenario: Imaging shows unilateral hydronephrosis from tumour reaching the pelvic side wall, nodes negative. The printed stage is:",
+   "opts": [
+    "IIIA",
+    "IIIC1",
+    "IIIB",
+    "IVA"
+   ],
+   "ans": 2,
+   "exp": "Pelvic side wall involvement with hydroureter/hydronephrosis defines IIIB."
+  },
+  {
+   "id": "ch46-u10-q15",
+   "sec": "Investigations and Staging",
+   "unit": "FIGO Staging Stages III and IV with Notes",
+   "page": 246,
+   "fmt": "odd",
+   "q": "Odd one out - which finding does NOT by itself make stage IVB?",
+   "opts": [
+    "Liver parenchymal metastasis",
+    "Bullous oedema of bladder",
+    "Superficial inguinal node involvement",
+    "Distant metastasis"
+   ],
+   "ans": 1,
+   "exp": "Bullous oedema is explicitly printed as not a metastasis."
+  },
+  {
+   "id": "ch46-u11-q1",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Surgery is printed as indicated up to which stage?",
+   "opts": [
+    "Uptil stage IIa",
+    "Uptil stage IB",
+    "Uptil stage IIB",
+    "Uptil stage IIIA"
+   ],
+   "ans": 0,
+   "exp": "'Uptil stage IIa' heads the surgery indications."
+  },
+  {
+   "id": "ch46-u11-q2",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "numeric",
+   "q": "The printed tumour size limit for surgery is:",
+   "opts": [
+    "Less than 2 cm",
+    "Less than 5 cm",
+    "Less than 6 cm",
+    "Less than 4 cm"
+   ],
+   "ans": 3,
+   "exp": "'Size of tumor < 4 cm'."
+  },
+  {
+   "id": "ch46-u11-q3",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Surgery is preferred in early stage except which substage?",
+   "opts": [
+    "IB1",
+    "IB3",
+    "IB2",
+    "IIA1"
+   ],
+   "ans": 1,
+   "exp": "'Preferred in early stage (except IB3)'."
+  },
+  {
+   "id": "ch46-u11-q4",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "recall",
+   "q": "The printed relationship between radiotherapy and chemoradiation is:",
+   "opts": [
+    "Radio-therapy > chemoradiation",
+    "Radio-therapy = chemoradiation",
+    "Radio-therapy < chemoradiation",
+    "Chemoradiation only in stage IV"
+   ],
+   "ans": 2,
+   "exp": "The arm heading prints 'Radio-therapy < Chemoradiation'."
+  },
+  {
+   "id": "ch46-u11-q5",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Chemoradiation can be done in which stages?",
+   "opts": [
+    "All stages",
+    "Only early stages",
+    "Only stages IB3 to IV",
+    "Only stage IV"
+   ],
+   "ans": 0,
+   "exp": "'Can be done in all stages' under the chemoradiation arm."
+  },
+  {
+   "id": "ch46-u11-q6",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Chemoradiation is preferred when what is contraindicated?",
+   "opts": [
+    "Radiotherapy",
+    "Chemotherapy",
+    "Biopsy",
+    "Surgery"
+   ],
+   "ans": 3,
+   "exp": "'Preferred when Sx is contraindicated'."
+  },
+  {
+   "id": "ch46-u11-q7",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "recall",
+   "q": "The printed radiosensitizers are:",
+   "opts": [
+    "Carboplatin and paclitaxel",
+    "Bleomycin and etoposide",
+    "Methotrexate and actinomycin",
+    "Cisplatin and 5FU"
+   ],
+   "ans": 3,
+   "exp": "'Radiosensitizer : Cisplatin, 5FU'."
+  },
+  {
+   "id": "ch46-u11-q8",
+   "sec": "Management",
+   "unit": "Surgery versus Chemoradiation Arms",
+   "page": 246,
+   "fmt": "match",
+   "q": "Match each treatment arm with its printed attribute - 1) Surgery 2) Chemoradiation ... A) All stages, preferred when surgery contraindicated B) Uptil stage IIa, tumour < 4 cm ... choose:",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 1,
+   "exp": "Surgery is limited to early small tumours; chemoradiation spans all stages."
+  },
+  {
+   "id": "ch46-u12-q1",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "For stage IA1 without lymphovascular invasion in a completed family, the printed hysterectomy type is:",
+   "opts": [
+    "Type 2",
+    "Type 3",
+    "Type 1",
+    "Wertheim"
+   ],
+   "ans": 2,
+   "exp": "The IA1 row prints Type 1 under hysterectomy."
+  },
+  {
+   "id": "ch46-u12-q2",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "For stage IA1 without lymphovascular invasion, the printed LN dissection is:",
+   "opts": [
+    "No",
+    "Pelvic lymph node",
+    "Paraaortic node",
+    "Sentinel node only"
+   ],
+   "ans": 0,
+   "exp": "The IA1 row prints 'No' under LN dissection."
+  },
+  {
+   "id": "ch46-u12-q3",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "For stage IA1 in an incomplete family with ovaries preserved, the printed operation is:",
+   "opts": [
+    "Radical trachelectomy",
+    "Type 1 hysterectomy",
+    "Simple trachelectomy",
+    "Conization (cone biopsy)"
+   ],
+   "ans": 3,
+   "exp": "The incomplete family column prints conization (cone biopsy) for IA1."
+  },
+  {
+   "id": "ch46-u12-q4",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stage IA2 in a completed family is treated by which hysterectomy?",
+   "opts": [
+    "Type 1",
+    "Type 2 / Wertheim",
+    "Type 3",
+    "Type 4"
+   ],
+   "ans": 1,
+   "exp": "The IA2 row prints 'Type 2 / Wertheim'."
+  },
+  {
+   "id": "ch46-u12-q5",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "The LN dissection printed for stage IA2 is:",
+   "opts": [
+    "None",
+    "Paraaortic",
+    "Pelvic lymph node",
+    "Inguinal"
+   ],
+   "ans": 2,
+   "exp": "The IA2 row prints pelvic lymph node dissection."
+  },
+  {
+   "id": "ch46-u12-q6",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "For stage IA2 with an incomplete family, the printed fertility-sparing operation is:",
+   "opts": [
+    "Radical trachelectomy + pelvic LN dissection",
+    "Conization only",
+    "Radical trachelectomy without node dissection",
+    "Type 2 hysterectomy"
+   ],
+   "ans": 0,
+   "exp": "The incomplete family column prints radical trachelectomy with pelvic LN dissection for IA2."
+  },
+  {
+   "id": "ch46-u12-q7",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "Stages IB1, IB2 and IIA1 in a completed family share which hysterectomy type?",
+   "opts": [
+    "Type 1",
+    "Type 2",
+    "Wertheim only",
+    "Type 3"
+   ],
+   "ans": 3,
+   "exp": "Those three rows are bracketed to Type 3."
+  },
+  {
+   "id": "ch46-u12-q8",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "recall",
+   "q": "For IB1, IB2 and IIA1 with ovaries preserved, the printed operation is:",
+   "opts": [
+    "Radical trachelectomy + pelvic LN dissection",
+    "Type 3 hysterectomy + pelvic lymphadenectomy",
+    "Conization + pelvic lymphadenectomy",
+    "Type 2 hysterectomy + paraaortic dissection"
+   ],
+   "ans": 1,
+   "exp": "The incomplete family column prints type 3 hysterectomy with pelvic lymphadenectomy."
+  },
+  {
+   "id": "ch46-u12-q9",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "match",
+   "q": "Match each stage with its printed complete-family hysterectomy - 1) IA1 no LVSI 2) IA2 3) IB1 to IIA1 ... A) Type 3 B) Type 1 C) Type 2 / Wertheim ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "IA1 takes type 1, IA2 type 2/Wertheim and IB1-IIA1 type 3."
+  },
+  {
+   "id": "ch46-u12-q10",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "scenario",
+   "q": "Scenario: A 30-year-old with one child has stage IB2 cancer cervix and wants no more children but wishes ovaries preserved. The printed operation is:",
+   "opts": [
+    "Type 3 hysterectomy + pelvic lymphadenectomy",
+    "Radical trachelectomy + pelvic LN dissection",
+    "Type 2 hysterectomy",
+    "Conization"
+   ],
+   "ans": 0,
+   "exp": "The incomplete family (ovaries preserved) column for IB1-IB2-IIA1 prints type 3 hysterectomy with pelvic lymphadenectomy."
+  },
+  {
+   "id": "ch46-u12-q11",
+   "sec": "Management",
+   "unit": "Surgery by Stage Table",
+   "page": 246,
+   "fmt": "tf",
+   "q": "True/False: Lymph node dissection is omitted for stage IA1 without lymphovascular invasion.",
+   "opts": [
+    "False",
+    "False - pelvic nodes are always dissected",
+    "True",
+    "False - only paraaortic nodes are taken"
+   ],
+   "ans": 2,
+   "exp": "The table prints 'No' for LN dissection in that row."
+  },
+  {
+   "id": "ch46-u13-q1",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "In radical trachelectomy which structure is removed?",
+   "opts": [
+    "Uterus",
+    "Vagina",
+    "Parametrium only",
+    "Cervix"
+   ],
+   "ans": 3,
+   "exp": "'Cervix removed' heads the trachelectomy bullets."
+  },
+  {
+   "id": "ch46-u13-q2",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "After removing the cervix, the uterus is stitched to:",
+   "opts": [
+    "Vagina",
+    "Round ligament",
+    "Uterosacral ligament",
+    "Bladder base"
+   ],
+   "ans": 0,
+   "exp": "'Uterus stitched to vagina'."
+  },
+  {
+   "id": "ch46-u13-q3",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "fillup",
+   "q": "Fill up: Radical trachelectomy is followed by abdominal ____ because the internal os is injured during removal of the cervix.",
+   "opts": [
+    "drainage",
+    "cerclage",
+    "suspension",
+    "mesh repair"
+   ],
+   "ans": 1,
+   "exp": "'Followed by abdominal cerclage (Internal os injured during removal of cervix)'."
+  },
+  {
+   "id": "ch46-u13-q4",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The indication group printed for radical trachelectomy is:",
+   "opts": [
+    "Postmenopausal females",
+    "Females with completed families",
+    "Females with renal failure",
+    "Young females who want future child bearing"
+   ],
+   "ans": 3,
+   "exp": "'Done for young females who want future child bearing'."
+  },
+  {
+   "id": "ch46-u13-q5",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "numeric",
+   "q": "The printed size limit for radical trachelectomy is:",
+   "opts": [
+    "Less than 4 cm",
+    "Less than 2 cm",
+    "Less than 3 cm",
+    "Less than 5 cm"
+   ],
+   "ans": 1,
+   "exp": "'Size < 2 cm' under indication."
+  },
+  {
+   "id": "ch46-u13-q6",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The mode of delivery after conception post-trachelectomy is printed as:",
+   "opts": [
+    "LSCS",
+    "Vaginal delivery",
+    "Forceps delivery",
+    "Vacuum delivery"
+   ],
+   "ans": 0,
+   "exp": "'Mode of delivery post procedure on conception : LSCS'."
+  },
+  {
+   "id": "ch46-u13-q7",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "match",
+   "q": "Arrange the trachelectomy sequence in printed order - 1) Abdominal cerclage 2) Cervix removed 3) Uterus stitched to vagina ... choose:",
+   "opts": [
+    "3, 2, 1",
+    "2, 1, 3",
+    "2, 3, 1",
+    "1, 2, 3"
+   ],
+   "ans": 2,
+   "exp": "The bullet order is cervix removed, uterus stitched to vagina, then abdominal cerclage."
+  },
+  {
+   "id": "ch46-u13-q8",
+   "sec": "Management",
+   "unit": "Radical Trachelectomy",
+   "page": 247,
+   "fmt": "tf",
+   "q": "True/False: The cerclage after trachelectomy compensates for injury to the internal os.",
+   "opts": [
+    "False",
+    "False - it compensates for vaginal shortening",
+    "False - it prevents adhesions",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The bracket explains the internal os injury during cervix removal."
+  },
+  {
+   "id": "ch46-u14-q1",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The printed stage indication for chemoradiation is:",
+   "opts": [
+    "Stage IB3, IIA2 to IV",
+    "Stage IA1 to IB2",
+    "Stage IIA1 only",
+    "All stages equally preferred"
+   ],
+   "ans": 0,
+   "exp": "'Indication : Stage IB3, IIA2 - IV'."
+  },
+  {
+   "id": "ch46-u14-q2",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "recall",
+   "q": "A radiosensitizer increases sensitivity to what?",
+   "opts": [
+    "Chemotherapy",
+    "Surgery",
+    "Radiotherapy (RT)",
+    "Hormone therapy"
+   ],
+   "ans": 2,
+   "exp": "'Up sensitivity to Radiotherapy (RT)'."
+  },
+  {
+   "id": "ch46-u14-q3",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The radiosensitizer is given at what time relative to RT?",
+   "opts": [
+    "After RT",
+    "Prior to RT",
+    "During surgery",
+    "Only after RT failure"
+   ],
+   "ans": 1,
+   "exp": "'Given prior to RT'."
+  },
+  {
+   "id": "ch46-u14-q4",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The printed hierarchy between the two radiosensitizers is:",
+   "opts": [
+    "5FU > cisplatin",
+    "Cisplatin > 5FU",
+    "Cisplatin = 5FU",
+    "Carboplatin > cisplatin"
+   ],
+   "ans": 1,
+   "exp": "'Cisplatin > 5FU' on page 247."
+  },
+  {
+   "id": "ch46-u14-q5",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Vaginal fibrosis from chemoradiation causes which printed problem?",
+   "opts": [
+    "Vaginal stenosis with pyometra",
+    "Urethral stricture",
+    "Rectal bleeding",
+    "Difficult intercourse"
+   ],
+   "ans": 3,
+   "exp": "'Vaginal fibrosis (Difficult intercourse)'."
+  },
+  {
+   "id": "ch46-u14-q6",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Ovarian failure after radiation is explained on the page because:",
+   "opts": [
+    "Ovary is the most radiosensitive organ",
+    "Ovaries lie in the radiation field always",
+    "Ovaries share cervical lymphatics",
+    "Ovaries are hormone dependent"
+   ],
+   "ans": 0,
+   "exp": "'Ovarian failure : Ovary is most radiosensitive organ'."
+  },
+  {
+   "id": "ch46-u14-q7",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The two side effects bracketed together explain why:",
+   "opts": [
+    "RT is not preferred in late stages",
+    "Surgery is not preferred in early stages",
+    "RT is not preferred in early stages",
+    "Chemotherapy is avoided"
+   ],
+   "ans": 2,
+   "exp": "The bracket label reads 'RT not preferred in early stages'."
+  },
+  {
+   "id": "ch46-u14-q8",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "match",
+   "q": "Match each chemoradiation attribute with its printed value - 1) Indication stages 2) Best radiosensitizer 3) Timing 4) Key side effect ... A) Cisplatin B) Prior to RT C) IB3, IIA2 to IV D) Ovarian failure ... choose:",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Indication is IB3 to IV, cisplatin leads, given before RT, with ovarian failure as the highlighted side effect."
+  },
+  {
+   "id": "ch46-u14-q9",
+   "sec": "Management",
+   "unit": "Chemoradiation",
+   "page": 247,
+   "fmt": "scenario",
+   "q": "Scenario: A 34-year-old with stage IIA2 cancer cervix is planned for organ-preserving non-surgical therapy. The printed regimen category is:",
+   "opts": [
+    "Radiotherapy alone",
+    "Surgery then radiotherapy",
+    "Hormonal therapy",
+    "Chemoradiation with cisplatin as radiosensitizer"
+   ],
+   "ans": 3,
+   "exp": "IIA2 sits inside the printed chemoradiation indication range."
+  },
+  {
+   "id": "ch46-u15-q1",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Brachytherapy's source of radiation is printed as:",
+   "opts": [
+    "Outside the body",
+    "Inside the body",
+    "Linear accelerator",
+    "Radioactive beads intravenously"
+   ],
+   "ans": 1,
+   "exp": "The table prints 'Inside body' for brachytherapy source."
+  },
+  {
+   "id": "ch46-u15-q2",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Brachytherapy is also described as which therapy type?",
+   "opts": [
+    "External beam therapy",
+    "Interstitial implant only",
+    "Intracavitary therapy",
+    "Systemic therapy"
+   ],
+   "ans": 2,
+   "exp": "'Intracavitary therapy' is the second brachy bullet."
+  },
+  {
+   "id": "ch46-u15-q3",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The applicators printed for brachytherapy are:",
+   "opts": [
+    "Fletcher suit only",
+    "Colpostat/tandem",
+    "Ring and tube only",
+    "Heyman capsules"
+   ],
+   "ans": 1,
+   "exp": "'Using Colpostat/Tandem' is the third brachy bullet."
+  },
+  {
+   "id": "ch46-u15-q4",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Teletherapy's source is printed as:",
+   "opts": [
+    "Inside the body",
+    "Intracavitary colpostat",
+    "Outside the body with external beam radiotherapy (EBRT)",
+    "Intravenous isotope"
+   ],
+   "ans": 2,
+   "exp": "The teletherapy column prints outside the body and EBRT."
+  },
+  {
+   "id": "ch46-u15-q5",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "numeric",
+   "q": "Fill up: The isotope printed for brachytherapy is iridium ____.",
+   "opts": [
+    "131",
+    "137",
+    "60",
+    "192"
+   ],
+   "ans": 3,
+   "exp": "The isotope row prints Iridium 192 for brachytherapy."
+  },
+  {
+   "id": "ch46-u15-q6",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The isotope printed for teletherapy is:",
+   "opts": [
+    "Cesium",
+    "Iridium 192",
+    "Cobalt 60",
+    "Iodine 131"
+   ],
+   "ans": 0,
+   "exp": "The isotope row prints cesium for teletherapy."
+  },
+  {
+   "id": "ch46-u15-q7",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Brachytherapy is indicated at what point in the sequence?",
+   "opts": [
+    "Following teletherapy",
+    "Before teletherapy",
+    "Instead of teletherapy",
+    "After surgery only"
+   ],
+   "ans": 0,
+   "exp": "The indication row prints 'Following teletherapy' for brachy."
+  },
+  {
+   "id": "ch46-u15-q8",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Teletherapy is given first to:",
+   "opts": [
+    "Sterilise the vagina",
+    "Treat nodes only",
+    "Reduce bleeding",
+    "Shrink size of tumour"
+   ],
+   "ans": 3,
+   "exp": "'Given 1st to shrink size of tumour' in the teletherapy column."
+  },
+  {
+   "id": "ch46-u15-q9",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Point A in brachytherapy is located:",
+   "opts": [
+    "3 cm above the internal os",
+    "2 cm above and lateral to external os (parametrial node)",
+    "2 cm below the external os",
+    "At the cervical os itself"
+   ],
+   "ans": 1,
+   "exp": "'Point A : 2 cm above & lateral to external os (Parametrial node)'."
+  },
+  {
+   "id": "ch46-u15-q10",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "Point B is printed as how far from point A, and represents which nodes?",
+   "opts": [
+    "2 cm away, parametrial nodes",
+    "4 cm away, external iliac nodes",
+    "3 cm away, obturator nodes",
+    "3 cm away, paraaortic nodes"
+   ],
+   "ans": 2,
+   "exp": "'Point B : 3 cm away from point A (obturator nodes)'."
+  },
+  {
+   "id": "ch46-u15-q11",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "numeric",
+   "q": "The teletherapy dose printed is 50 Gy given as:",
+   "opts": [
+    "3 times a week, 3 Gy per sitting",
+    "5 times a week, 3 Gy per sitting",
+    "5 times a week, 2 Gy per sitting",
+    "Daily 1 Gy for 50 days"
+   ],
+   "ans": 2,
+   "exp": "The teletherapy other-features cell prints 5 times a week and 2 Gy per sitting."
+  },
+  {
+   "id": "ch46-u15-q12",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "recall",
+   "q": "The instrument photographed in the brachytherapy column is captioned:",
+   "opts": [
+    "Tandem",
+    "Colpostat",
+    "Heyman capsule",
+    "Fletcher applicator"
+   ],
+   "ans": 1,
+   "exp": "The photograph caption reads 'Colpostat'."
+  },
+  {
+   "id": "ch46-u15-q13",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "match",
+   "q": "Match each brachytherapy parameter with its printed value - 1) Point A 2) Point B 3) Isotope 4) Sequence ... A) Iridium 192 B) After teletherapy C) 2 cm above and lateral to external os D) 3 cm from point A ... choose:",
+   "opts": [
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 3,
+   "exp": "Point A is 2 cm above and lateral to the external os, point B 3 cm from A, isotope iridium 192 and it follows teletherapy."
+  },
+  {
+   "id": "ch46-u15-q14",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "odd",
+   "q": "Odd one out - which statement contradicts the printed table?",
+   "opts": [
+    "Brachytherapy is given first to shrink the tumour",
+    "Teletherapy uses an outside-the-body source",
+    "Brachytherapy uses colpostat/tandem",
+    "Teletherapy isotope is cesium"
+   ],
+   "ans": 0,
+   "exp": "It is teletherapy that is given first to shrink the tumour; brachy follows."
+  },
+  {
+   "id": "ch46-u15-q15",
+   "sec": "Management",
+   "unit": "Brachytherapy versus Teletherapy",
+   "page": 247,
+   "fmt": "tf",
+   "q": "True/False: Point A corresponds to the parametrial node region and point B to the obturator nodes.",
+   "opts": [
+    "False",
+    "False - point A is obturator",
+    "True",
+    "False - point B is parametrial"
+   ],
+   "ans": 2,
+   "exp": "The brackets print parametrial node for A and obturator nodes for B."
+  },
+  {
+   "id": "ch46-u16-q1",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "recall",
+   "q": "The three printed high risk features after surgery are:",
+   "opts": [
+    "Large tumour, LVSI and deep stromal invasion",
+    "Margin +ve, parametrium +ve and LN metastasis +ve",
+    "Margin +ve, age and parity",
+    "Parametrium +ve, bladder and bowel involvement"
+   ],
+   "ans": 1,
+   "exp": "The high risk column lists margin, parametrium and LN metastasis positive."
+  },
+  {
+   "id": "ch46-u16-q2",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "recall",
+   "q": "High risk patients receive which post-operative treatment?",
+   "opts": [
+    "Post-op radiotherapy",
+    "No post-op treatment",
+    "Post-op chemotherapy alone",
+    "Post-op chemo radiation"
+   ],
+   "ans": 3,
+   "exp": "The arrow from high risk ends at post-op chemo radiation."
+  },
+  {
+   "id": "ch46-u16-q3",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "recall",
+   "q": "The three printed intermediate risk features are:",
+   "opts": [
+    "Large size of tumour, lymphovascular involvement and deep stromal invasion",
+    "Margin +ve, parametrium +ve and LN +ve",
+    "Size, age and grade",
+    "LVSI, grade and histology"
+   ],
+   "ans": 0,
+   "exp": "The intermediate column lists exactly those three."
+  },
+  {
+   "id": "ch46-u16-q4",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "numeric",
+   "q": "How many intermediate risk features must be positive to trigger post-op radiotherapy?",
+   "opts": [
+    "Any 2",
+    "Any 1",
+    "All 3",
+    "Any 3"
+   ],
+   "ans": 0,
+   "exp": "The bracket is labelled 'Any 2 +ve'."
+  },
+  {
+   "id": "ch46-u16-q5",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "recall",
+   "q": "Intermediate risk patients with any two features receive:",
+   "opts": [
+    "Post-op chemo radiation",
+    "Observation",
+    "Post-op radiotherapy",
+    "Post-op chemotherapy alone"
+   ],
+   "ans": 2,
+   "exp": "The intermediate arm ends at post-op radiotherapy."
+  },
+  {
+   "id": "ch46-u16-q6",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "recall",
+   "q": "Low risk patients receive:",
+   "opts": [
+    "Post-op radiotherapy",
+    "No post-op mx",
+    "Post-op chemo radiation",
+    "Six cycles of chemotherapy"
+   ],
+   "ans": 1,
+   "exp": "The low risk arm ends at 'No post-op mx'."
+  },
+  {
+   "id": "ch46-u16-q7",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "match",
+   "q": "Match each post-surgery group with its printed treatment - 1) High risk 2) Intermediate risk with any 2 +ve 3) Low risk ... A) No post-op mx B) Post-op chemo radiation C) Post-op radiotherapy ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "High risk gets chemo radiation, intermediate gets radiotherapy and low risk nothing."
+  },
+  {
+   "id": "ch46-u16-q8",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "scenario",
+   "q": "Scenario: A hysterectomy specimen shows deep stromal invasion and lymphovascular involvement only. The printed post-op plan is:",
+   "opts": [
+    "Post-op radiotherapy",
+    "Post-op chemo radiation",
+    "No post-op treatment",
+    "Chemotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Two intermediate risk features positive triggers post-op radiotherapy."
+  },
+  {
+   "id": "ch46-u16-q9",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "odd",
+   "q": "Odd one out - which feature belongs to the high risk rather than intermediate risk column?",
+   "opts": [
+    "Large size of tumour",
+    "Lymphovascular involvement",
+    "Positive surgical margin",
+    "Deep stromal invasion"
+   ],
+   "ans": 2,
+   "exp": "Margin positivity is a high risk feature; the other three are intermediate."
+  },
+  {
+   "id": "ch46-u16-q10",
+   "sec": "Management",
+   "unit": "Post-surgery Risk Groups",
+   "page": 248,
+   "fmt": "tf",
+   "q": "True/False: A single intermediate risk feature is enough on the printed page to start post-op radiotherapy.",
+   "opts": [
+    "True",
+    "False - all three are needed",
+    "False - intermediate risk never gets radiotherapy",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The bracket requires any 2 positive."
+  },
+  {
+   "id": "ch46-u17-q1",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 244,
+   "fmt": "fillup",
+   "q": "Fill up: The sentinel node of the cervix printed on page 244 is the ____ node.",
+   "opts": [
+    "obturator",
+    "paracervical",
+    "hypogastric",
+    "external iliac"
+   ],
+   "ans": 1,
+   "exp": "'Paracervical node : Sentinel node'."
+  },
+  {
+   "id": "ch46-u17-q2",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 243,
+   "fmt": "fillup",
+   "q": "Fill up: The most specific symptom of cancer cervix printed on page 243 is ____ bleeding.",
+   "opts": [
+    "post menopausal",
+    "intermenstrual",
+    "post coital",
+    "per ovulatory"
+   ],
+   "ans": 2,
+   "exp": "'Post coital bleeding : most specific symptom'."
+  },
+  {
+   "id": "ch46-u17-q3",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 243,
+   "fmt": "numeric",
+   "q": "Numeric: Give the two printed peaks of the most common age in cancer cervix as a pair of ranges.",
+   "opts": [
+    "35-39 yrs and 60-64 yrs",
+    "30-34 yrs and 55-59 yrs",
+    "40-44 yrs and 65-69 yrs",
+    "25-29 yrs and 50-54 yrs"
+   ],
+   "ans": 0,
+   "exp": "The features line prints both peaks."
+  },
+  {
+   "id": "ch46-u17-q4",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 247,
+   "fmt": "numeric",
+   "q": "Numeric: The teletherapy schedule printed totals 50 Gy; how many Gy per sitting and how many sittings per week?",
+   "opts": [
+    "2 Gy per sitting, 3 times a week",
+    "3 Gy per sitting, 5 times a week",
+    "1.8 Gy per sitting, 5 times a week",
+    "2 Gy per sitting, 5 times a week"
+   ],
+   "ans": 3,
+   "exp": "The teletherapy cell prints 5 times a week and 2 Gy per sitting."
+  },
+  {
+   "id": "ch46-u17-q5",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 247,
+   "fmt": "numeric",
+   "q": "Numeric: Point A to point B distance and point A to external os distance printed in the brachytherapy diagram are:",
+   "opts": [
+    "2 cm and 3 cm respectively",
+    "3 cm and 2 cm respectively",
+    "3 cm and 3 cm",
+    "2 cm and 2 cm"
+   ],
+   "ans": 1,
+   "exp": "The sketch labels 2 cm above the external os to A and 3 cm from A to B."
+  },
+  {
+   "id": "ch46-u17-q6",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 245,
+   "fmt": "scenario",
+   "q": "Scenario: A 45-year-old with cancer cervix has tumour involving the upper vagina with free parametrium and a 3.5 cm lesion. The printed stage is:",
+   "opts": [
+    "IIA2",
+    "IIB",
+    "IB2",
+    "IIA1"
+   ],
+   "ans": 3,
+   "exp": "Upper vaginal involvement with parametrium not involved and size <=4 cms is IIA1."
+  },
+  {
+   "id": "ch46-u17-q7",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 246,
+   "fmt": "scenario",
+   "q": "Scenario: Biopsy-proven cancer cervix shows bladder mucosal invasion confirmed histopathologically. The printed stage is:",
+   "opts": [
+    "IVB",
+    "IIIB",
+    "IVA",
+    "IIIA"
+   ],
+   "ans": 2,
+   "exp": "Bladder involvement with histopathological evidence positive is regional metastasis IVA; bullous oedema alone would not qualify."
+  },
+  {
+   "id": "ch46-u17-q8",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 248,
+   "fmt": "scenario",
+   "q": "Scenario: A post-hysterectomy report shows positive margins with negative parametrium and nodes. The printed adjuvant plan is:",
+   "opts": [
+    "Post-op radiotherapy",
+    "Post-op chemo radiation",
+    "Observation",
+    "Brachytherapy alone"
+   ],
+   "ans": 1,
+   "exp": "Margin positivity places the case in the high risk column which ends at post-op chemo radiation."
+  },
+  {
+   "id": "ch46-u17-q9",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 247,
+   "fmt": "odd",
+   "q": "Odd one out - which printed line belongs to teletherapy rather than brachytherapy?",
+   "opts": [
+    "Given 1st to shrink size of tumour",
+    "Intracavitary therapy",
+    "Using colpostat/tandem",
+    "Following teletherapy as indication"
+   ],
+   "ans": 0,
+   "exp": "Shrinking the tumour first is the teletherapy indication; the rest are brachytherapy lines."
+  },
+  {
+   "id": "ch46-u17-q10",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 244,
+   "fmt": "odd",
+   "q": "Odd one out - which node is NOT in the printed cervical drainage list?",
+   "opts": [
+    "Paracervical node",
+    "Obturator node",
+    "External iliac node",
+    "Common iliac node"
+   ],
+   "ans": 3,
+   "exp": "The printed list is hypogastric, obturator, paracervical and external iliac; common iliac is absent."
+  },
+  {
+   "id": "ch46-u17-q11",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 244,
+   "fmt": "tf",
+   "q": "True/False: The cervix draining into superficial lymph nodes is the reason they are included in radiotherapy fields.",
+   "opts": [
+    "True",
+    "False - they are included for another reason",
+    "False",
+    "False - superficial nodes are always irradiated"
+   ],
+   "ans": 2,
+   "exp": "The page prints the opposite: no drainage, hence not included."
+  },
+  {
+   "id": "ch46-u17-q12",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 244,
+   "fmt": "tf",
+   "q": "True/False: Extended EBRT adds paraaortic nodal coverage to standard EBRT.",
+   "opts": [
+    "True",
+    "False",
+    "False - it adds inguinal coverage",
+    "False - it adds pelvic coverage to brachy"
+   ],
+   "ans": 0,
+   "exp": "'Extended EBRT : EBRT + Paraaortic lymph nodes involvement'."
+  },
+  {
+   "id": "ch46-u17-q13",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 245,
+   "fmt": "tf",
+   "q": "True/False: Cone biopsy follows LEEP when microinvasive cancer is reported on the LEEP specimen.",
+   "opts": [
+    "False",
+    "True",
+    "False - hysterectomy follows directly",
+    "False - repeat LEEP follows"
+   ],
+   "ans": 1,
+   "exp": "'For microinvasive cancer on LEEP -> Cone biopsy'."
+  },
+  {
+   "id": "ch46-u17-q14",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 245,
+   "fmt": "match",
+   "q": "Match each printed 'best' with its subject - 1) Best for parametrium 2) Best for nodes 3) m/c cause of death 4) Most specific symptom ... A) Renal failure B) Post coital bleeding C) MRI D) PET-CT ... choose:",
+   "opts": [
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 1,
+   "exp": "MRI for parametrium, PET-CT for nodes, renal failure as m/c death and post coital bleeding as most specific symptom."
+  },
+  {
+   "id": "ch46-u17-q15",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 246,
+   "fmt": "match",
+   "q": "Match each FIGO stage with its printed vaginal or nodal rule - 1) IIA 2) III 3) IIIC1 4) IVB ... A) Lower 1/3rd vagina B) Upper 2/3rd vagina C) Superficial inguinal node D) Pelvic nodes ... choose:",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "IIA is upper vaginal, III lower vaginal, IIIC1 pelvic nodes and IVB superficial inguinal nodes."
+  },
+  {
+   "id": "ch46-u17-q16",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 247,
+   "fmt": "fillup",
+   "q": "Fill up: Ovarian failure after radiation is printed because the ovary is the most ____ organ.",
+   "opts": [
+    "radiosparing",
+    "chemosensitive",
+    "vascular",
+    "radiosensitive"
+   ],
+   "ans": 3,
+   "exp": "'Ovary is most radiosensitive organ'."
+  },
+  {
+   "id": "ch46-u17-q17",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 247,
+   "fmt": "fillup",
+   "q": "Fill up: The brachy isotope printed is iridium-192 while teletherapy uses ____.",
+   "opts": [
+    "cobalt",
+    "iodine",
+    "cesium",
+    "strontium"
+   ],
+   "ans": 2,
+   "exp": "The isotope row pairs iridium 192 with cesium."
+  },
+  {
+   "id": "ch46-u17-q18",
+   "sec": "Management",
+   "unit": "Complete Coverage: Comparisons, Numerics and Figures",
+   "page": 246,
+   "fmt": "scenario",
+   "q": "Scenario: A 29-year-old with a 1.8 cm stage IA2 cancer cervix desires future fertility. The printed fertility-sparing operation is:",
+   "opts": [
+    "Conization alone",
+    "Type 2 hysterectomy with ovarian preservation",
+    "Radical trachelectomy + pelvic LN dissection",
+    "Radical trachelectomy without nodes"
+   ],
+   "ans": 2,
+   "exp": "The IA2 incomplete-family cell prints radical trachelectomy with pelvic LN dissection, matching the <2 cm trachelectomy size rule."
+  }
+ ]
+}

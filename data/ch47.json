@@ -1,0 +1,3941 @@
+{
+ "chapter": 47,
+ "questions": [
+  {
+   "id": "ch47-u1-q1",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "fillup",
+   "q": "Fill up: The most common type of ovarian cyst printed is the ____ ovarian cyst.",
+   "opts": [
+    "neoplastic",
+    "functional",
+    "endometriotic",
+    "paraovarian"
+   ],
+   "ans": 1,
+   "exp": "Page 249 opens the cyst block with 'Functional ovarian cyst'."
+  },
+  {
+   "id": "ch47-u1-q2",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Functional ovarian cysts occur due to what printed cause?",
+   "opts": [
+    "Infection",
+    "Trauma",
+    "Hormonal disturbances",
+    "Genetic mutation"
+   ],
+   "ans": 2,
+   "exp": "'m/c type, & Occurs d/t hormonal disturbances'."
+  },
+  {
+   "id": "ch47-u1-q3",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "tf",
+   "q": "True/False: Functional ovarian cysts are printed as temporary and most commonly resolving spontaneously without specific treatment.",
+   "opts": [
+    "True",
+    "False",
+    "False - they always need surgery",
+    "False - they never resolve"
+   ],
+   "ans": 0,
+   "exp": "'Temporary : m/c resolve spontaneously (Specific treatment not required)'."
+  },
+  {
+   "id": "ch47-u1-q4",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "recall",
+   "q": "The most common type within functional cysts is:",
+   "opts": [
+    "Corpus luteal cyst",
+    "Theca lutein cyst",
+    "Inclusion cyst",
+    "Follicular cyst"
+   ],
+   "ans": 3,
+   "exp": "'1. Follicular cyst (m/c)'."
+  },
+  {
+   "id": "ch47-u1-q5",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "numeric",
+   "q": "Fill up: A follicular cyst is defined on the page by a follicle size of at least ____ cm.",
+   "opts": [
+    "3",
+    "2",
+    "4",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "'Size of follicle >= 3cm' under follicular cyst."
+  },
+  {
+   "id": "ch47-u1-q6",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "recall",
+   "q": "The most common cyst to rupture printed is:",
+   "opts": [
+    "Follicular cyst",
+    "Theca lutein cyst",
+    "Corpus luteal cyst",
+    "Dermoid cyst"
+   ],
+   "ans": 2,
+   "exp": "'2. Corpus Luteal cyst : m/c cyst to rupture'."
+  },
+  {
+   "id": "ch47-u1-q7",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Theca lutein cysts arise due to raised levels of which hormone?",
+   "opts": [
+    "LH",
+    "HCG",
+    "FSH",
+    "Estrogen"
+   ],
+   "ans": 1,
+   "exp": "'3. Theca Lutein cyst : D/T up HCG'."
+  },
+  {
+   "id": "ch47-u1-q8",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Theca lutein cysts are printed as seen in which three settings?",
+   "opts": [
+    "Molar pregnancy, ectopic pregnancy and PCOS",
+    "Twin pregnancy, PCOS and HRT",
+    "Molar pregnancy, fibroid and PID",
+    "Molar pregnancy, twin pregnancy and infertility treatment with clomiphene or HMG"
+   ],
+   "ans": 3,
+   "exp": "The bullet prints molar pregnancy, twin pregnancy and infertility Rx clomiphene, HMG."
+  },
+  {
+   "id": "ch47-u1-q9",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "match",
+   "q": "Match each functional cyst with its printed attribute - 1) Follicular cyst 2) Corpus luteal cyst 3) Theca lutein cyst ... A) m/c to rupture B) Follicle >= 3 cm C) Raised HCG states ... choose:",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 1,
+   "exp": "Follicular cysts are the m/c with >=3 cm follicles, corpus luteal cysts rupture most and theca lutein cysts follow raised HCG."
+  },
+  {
+   "id": "ch47-u1-q10",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "scenario",
+   "q": "Scenario: A woman with a molar pregnancy shows bilateral multicystic ovaries. The printed cyst type is:",
+   "opts": [
+    "Theca lutein cyst",
+    "Follicular cyst",
+    "Corpus luteal cyst",
+    "Mucinous cystadenoma"
+   ],
+   "ans": 0,
+   "exp": "Theca lutein cysts are the HCG-driven cysts printed for molar and twin pregnancies."
+  },
+  {
+   "id": "ch47-u1-q11",
+   "sec": "Ovarian Cysts",
+   "unit": "Functional Ovarian Cyst and Its Types",
+   "page": 249,
+   "fmt": "odd",
+   "q": "Odd one out - which condition is NOT printed among theca lutein cyst settings?",
+   "opts": [
+    "Molar pregnancy",
+    "Twin pregnancy",
+    "Clomiphene therapy",
+    "Unilateral tubal pregnancy"
+   ],
+   "ans": 3,
+   "exp": "The printed list is molar pregnancy, twin pregnancy and infertility Rx with clomiphene or HMG."
+  },
+  {
+   "id": "ch47-u2-q1",
+   "sec": "Ovarian Cysts",
+   "unit": "Features and Presentation of Ovarian Cancers",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Why is screening for ovarian cancer printed as not done?",
+   "opts": [
+    "Because markers are unavailable",
+    "Because USG is unreliable",
+    "Because it is rare",
+    "Because it affects only old women"
+   ],
+   "ans": 2,
+   "exp": "'Rare, therefore screening not done' under features of ovarian cancers."
+  },
+  {
+   "id": "ch47-u2-q2",
+   "sec": "Ovarian Cysts",
+   "unit": "Features and Presentation of Ovarian Cancers",
+   "page": 249,
+   "fmt": "recall",
+   "q": "The printed presentation symptoms of ovarian cancer are:",
+   "opts": [
+    "Acute pain and fever",
+    "Vague symptoms such as nausea/vomiting and loss of appetite",
+    "Postmenopausal bleeding and discharge",
+    "Obstructive uropathy"
+   ],
+   "ans": 1,
+   "exp": "'Vague symptoms (Nausea/Vomiting, Loss of appetite)'."
+  },
+  {
+   "id": "ch47-u2-q3",
+   "sec": "Ovarian Cysts",
+   "unit": "Features and Presentation of Ovarian Cancers",
+   "page": 249,
+   "fmt": "fillup",
+   "q": "Fill up: Adnexal masses are evaluated with the investigation of choice ____.",
+   "opts": [
+    "CT",
+    "MRI",
+    "PET",
+    "TVS"
+   ],
+   "ans": 3,
+   "exp": "'Adnexal masses (IOC : TVS)'."
+  },
+  {
+   "id": "ch47-u2-q4",
+   "sec": "Ovarian Cysts",
+   "unit": "Features and Presentation of Ovarian Cancers",
+   "page": 249,
+   "fmt": "tf",
+   "q": "True/False: Ovarian cancer typically presents with specific early symptoms according to the printed page.",
+   "opts": [
+    "False",
+    "True",
+    "False - it presents with acute abdomen always",
+    "False - it presents with bleeding"
+   ],
+   "ans": 0,
+   "exp": "The printed presentation is vague symptoms, which is why prognosis is poor."
+  },
+  {
+   "id": "ch47-u3-q1",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Benign adnexal masses are most common in which group?",
+   "opts": [
+    "Pre-pubertal girls",
+    "Menopausal women",
+    "Reproductive age group",
+    "Postmenopausal women"
+   ],
+   "ans": 2,
+   "exp": "The prevalence row prints m/c in reproductive age group for benign."
+  },
+  {
+   "id": "ch47-u3-q2",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Malignant adnexal masses are printed at which ages?",
+   "opts": [
+    "Reproductive age only",
+    "Third decade only",
+    "Any age equally",
+    "Extremes of age: pre-pubertal and menopausal"
+   ],
+   "ans": 3,
+   "exp": "The malignant prevalence cell prints extremes of age."
+  },
+  {
+   "id": "ch47-u3-q3",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Pain in a benign adnexal mass is printed as positive due to:",
+   "opts": [
+    "Torsion",
+    "Rupture",
+    "Inflammation",
+    "Malignant infiltration"
+   ],
+   "ans": 2,
+   "exp": "The benign pain cell prints plus with '(d/t inflammation)'."
+  },
+  {
+   "id": "ch47-u3-q4",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "recall",
+   "q": "The history printed for a malignant adnexal mass is:",
+   "opts": [
+    "Short history with rapid progression and weight loss",
+    "Long history with slow growth",
+    "No history at all",
+    "Recurrent history over years"
+   ],
+   "ans": 0,
+   "exp": "The malignant history cell prints exactly that."
+  },
+  {
+   "id": "ch47-u3-q5",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "match",
+   "q": "Match each attribute with its benign and malignant values - 1) Occurrence 2) Consistency 3) Tenderness ... A) Benign unilateral, malignant bilateral B) Benign cystic, malignant solid C) Benign positive, malignant negative ... choose:",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "The table rows print occurrence unilateral vs bilateral, consistency cystic vs solid and tenderness plus vs minus."
+  },
+  {
+   "id": "ch47-u3-q6",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Which ultrasound features are printed for a benign adnexal mass?",
+   "opts": [
+    "Bilateral, echogenic, multilocular with solid component",
+    "Unilateral, echogenic, multilocular",
+    "Unilateral, anechoic, unilocular with no solid component",
+    "Bilateral, anechoic, unilocular with thick septa"
+   ],
+   "ans": 2,
+   "exp": "The benign ultrasound cell lists U/L, anechoic, unilocular and solid component minus."
+  },
+  {
+   "id": "ch47-u3-q7",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "numeric",
+   "q": "The size threshold printed in the malignant ultrasound column is:",
+   "opts": [
+    "U/L, > 5 cm",
+    "B/L, > 5 cm",
+    "U/L, > 10 cm",
+    "B/L, > 10 cm size"
+   ],
+   "ans": 3,
+   "exp": "The malignant cell opens with 'B/L, > 10 cm size'."
+  },
+  {
+   "id": "ch47-u3-q8",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Thick septa with papillary outgrowths in the malignant column are also called:",
+   "opts": [
+    "Excrescences",
+    "Trabeculae",
+    "Vegetations",
+    "Projections of Rokitansky"
+   ],
+   "ans": 0,
+   "exp": "The bracket prints '(Excrescences)' after papillary outgrowths."
+  },
+  {
+   "id": "ch47-u3-q9",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "recall",
+   "q": "Which additional malignant ultrasound signs are printed beyond septa and vascularity?",
+   "opts": [
+    "Free fluid only, nodes and omental cake",
+    "Ascites, enlarged lymph nodes and matted bowel loops",
+    "Ascites, calcification and adhesions",
+    "Hydroureter, nodes and omental cake"
+   ],
+   "ans": 1,
+   "exp": "The last malignant bullet prints ascites, enlarged lymph nodes and matted bowel loops."
+  },
+  {
+   "id": "ch47-u3-q10",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "tf",
+   "q": "True/False: A solid component on ultrasound favours a benign adnexal mass on the printed table.",
+   "opts": [
+    "True",
+    "False - solid component is irrelevant",
+    "False - solid component favours infection",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The benign column prints solid component minus; solid components belong to malignancy."
+  },
+  {
+   "id": "ch47-u3-q11",
+   "sec": "Ovarian Cysts",
+   "unit": "Benign versus Malignant Adnexal Masses",
+   "page": 249,
+   "fmt": "odd",
+   "q": "Odd one out - which feature belongs to the benign column?",
+   "opts": [
+    "Highly vascular septa",
+    "Matted bowel loops",
+    "Anechoic unilocular cavity",
+    "Bilateral >10 cm mass"
+   ],
+   "ans": 2,
+   "exp": "Anechoic unilocular is benign; the rest are malignant column entries."
+  },
+  {
+   "id": "ch47-u4-q1",
+   "sec": "Ovarian Cysts",
+   "unit": "Ultrasound Features Suggestive of Ovarian Malignancy",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "The septation thickness printed as suggestive of malignancy is:",
+   "opts": [
+    "Thick > 1 mm",
+    "Thick > 3 mm septations",
+    "Thick > 5 mm",
+    "Thin < 3 mm"
+   ],
+   "ans": 1,
+   "exp": "The four-panel figure caption prints 'Thick >3mm septations'."
+  },
+  {
+   "id": "ch47-u4-q2",
+   "sec": "Ovarian Cysts",
+   "unit": "Ultrasound Features Suggestive of Ovarian Malignancy",
+   "page": 250,
+   "fmt": "recall",
+   "q": "Name the four printed USG features suggestive of ovarian malignancy.",
+   "opts": [
+    "Thick >3 mm septations, mural nodularity, papillary projections and frank solid components",
+    "Thin septa, mural oedema, papillary projections and cystic components",
+    "Thick septa, calcification, papillary projections and fluid",
+    "Thick septa, mural nodularity, acoustic shadowing and solid components"
+   ],
+   "ans": 0,
+   "exp": "The figure strip captions those four features in order."
+  },
+  {
+   "id": "ch47-u4-q3",
+   "sec": "Ovarian Cysts",
+   "unit": "Ultrasound Features Suggestive of Ovarian Malignancy",
+   "page": 250,
+   "fmt": "recall",
+   "q": "The upper left ultrasound on page 250 is captioned:",
+   "opts": [
+    "Mural nodularity",
+    "Frank solid components",
+    "Papillary excrescences",
+    "Thick septations"
+   ],
+   "ans": 2,
+   "exp": "The caption under the first image reads 'Papillary excrescenes'."
+  },
+  {
+   "id": "ch47-u4-q4",
+   "sec": "Ovarian Cysts",
+   "unit": "Ultrasound Features Suggestive of Ovarian Malignancy",
+   "page": 250,
+   "fmt": "recall",
+   "q": "The upper right ultrasound labels which two structures with arrows?",
+   "opts": [
+    "Mural nodule and papilla",
+    "Excrescence and septae",
+    "Solid component and mural nodule",
+    "Solid component and septae"
+   ],
+   "ans": 3,
+   "exp": "The image text overlays read SOLID COMPONENT and SEPTAE."
+  },
+  {
+   "id": "ch47-u4-q5",
+   "sec": "Ovarian Cysts",
+   "unit": "Ultrasound Features Suggestive of Ovarian Malignancy",
+   "page": 250,
+   "fmt": "match",
+   "q": "Match each printed malignancy sign with its caption position in the four-panel strip - 1) First 2) Second 3) Third 4) Fourth ... A) Papillary projections B) Thick >3 mm septations C) Frank solid components D) Mural nodularity ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "The strip order is thick septations, mural nodularity, papillary projections, frank solid components."
+  },
+  {
+   "id": "ch47-u5-q1",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "recall",
+   "q": "In the reproductive age group, a 3-5 cm cyst is managed by:",
+   "opts": [
+    "Wait and watch",
+    "Serial USG follow up",
+    "Surgery",
+    "CA 125 then surgery"
+   ],
+   "ans": 0,
+   "exp": "The 3-5 cm arm ends at wait and watch."
+  },
+  {
+   "id": "ch47-u5-q2",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "recall",
+   "q": "A 5-7 cm cyst in reproductive age is managed by:",
+   "opts": [
+    "Wait and watch",
+    "Follow up with serial USG",
+    "Surgery",
+    "Aspiration"
+   ],
+   "ans": 1,
+   "exp": "The 5-7 cm arm ends at follow up with serial USG."
+  },
+  {
+   "id": "ch47-u5-q3",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "Fill up: A cyst larger than ____ cm in reproductive age goes to surgery because of high chances of torsion or rupture.",
+   "opts": [
+    "7",
+    "5",
+    "8",
+    "10"
+   ],
+   "ans": 0,
+   "exp": "'> 7 cm -> Surgery (High chances surgery of torsion or rupture)'."
+  },
+  {
+   "id": "ch47-u5-q4",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "recall",
+   "q": "The stated reason for operating on cysts above 7 cm is:",
+   "opts": [
+    "High chance of malignancy",
+    "Pressure symptoms",
+    "Interference with fertility",
+    "High chances of torsion or rupture"
+   ],
+   "ans": 3,
+   "exp": "The bracket prints high chances surgery of torsion or rupture."
+  },
+  {
+   "id": "ch47-u5-q5",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "In a post-menopausal woman the printed marker threshold before surgery is:",
+   "opts": [
+    "CA 125 >= 200 IU",
+    "CA 125 >= 15 IU",
+    "CA 125 >= 35 IU",
+    "CEA >= 35 IU"
+   ],
+   "ans": 2,
+   "exp": "'CA 125 >= 35 IU -> Surgery after further investigations'."
+  },
+  {
+   "id": "ch47-u5-q6",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "recall",
+   "q": "In a pre-pubertal girl, raised levels of which markers send her to surgery after investigations?",
+   "opts": [
+    "CA 125, CEA and CA 19-9",
+    "AFP, HCG and LDH",
+    "AFP and CA 125",
+    "HCG and inhibin"
+   ],
+   "ans": 1,
+   "exp": "The pre-pubertal arm prints 'If any raised : AFP, HCG, LDH'."
+  },
+  {
+   "id": "ch47-u5-q7",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "match",
+   "q": "Match the cyst size or age group with its printed management - 1) 3-5 cm 2) 5-7 cm 3) >7 cm 4) Post-menopausal with CA 125 >=35 ... A) Surgery after further investigations B) Wait and watch C) Follow up with serial USG D) Surgery for torsion or rupture risk ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 3,
+   "exp": "Small cysts wait, mid cysts get serial USG, large cysts surgery and post-menopausal raised CA 125 surgery after investigations."
+  },
+  {
+   "id": "ch47-u5-q8",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "scenario",
+   "q": "Scenario: A 28-year-old has a 6 cm simple ovarian cyst. The printed plan is:",
+   "opts": [
+    "Immediate surgery",
+    "Wait and watch with no imaging",
+    "Follow up with serial USG",
+    "CA 125 then surgery"
+   ],
+   "ans": 2,
+   "exp": "5-7 cm in reproductive age routes to serial USG follow up."
+  },
+  {
+   "id": "ch47-u5-q9",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "The printed percentage of malignant transformation of an ovarian mass in post-menopausal women is:",
+   "opts": [
+    "30%",
+    "7%",
+    "15%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "The note branch prints post menopausal 30%."
+  },
+  {
+   "id": "ch47-u5-q10",
+   "sec": "Ovarian Cysts",
+   "unit": "Management of Ovarian Cyst",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "The corresponding pre-menopausal malignant transformation rate printed is:",
+   "opts": [
+    "30%",
+    "3%",
+    "7%",
+    "12%"
+   ],
+   "ans": 2,
+   "exp": "The note branch prints pre menopausal 7%."
+  },
+  {
+   "id": "ch47-u6-q1",
+   "sec": "Ovarian Cysts",
+   "unit": "CA-125 Notes",
+   "page": 250,
+   "fmt": "recall",
+   "q": "CA-125 has limited value in which group according to the printed note?",
+   "opts": [
+    "Reproductive age group",
+    "Post-menopausal group",
+    "Pre-pubertal group",
+    "All groups equally"
+   ],
+   "ans": 0,
+   "exp": "'Limited value in reproductive age group' under CA-125."
+  },
+  {
+   "id": "ch47-u6-q2",
+   "sec": "Ovarian Cysts",
+   "unit": "CA-125 Notes",
+   "page": 250,
+   "fmt": "recall",
+   "q": "Name the three benign conditions printed that raise CA-125.",
+   "opts": [
+    "Fibroid, endometriosis and adenomyosis",
+    "PID, PCOS and fibroid",
+    "Genital TB, PCOS and endometriosis",
+    "Fibroid, PID and genital TB"
+   ],
+   "ans": 3,
+   "exp": "The sub-bullet prints fibroid, PID and genital TB."
+  },
+  {
+   "id": "ch47-u6-q3",
+   "sec": "Ovarian Cysts",
+   "unit": "CA-125 Notes",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "Fill up: A CA-125 level of ____ IU is printed as significant.",
+   "opts": [
+    "35",
+    "200",
+    "100",
+    "500"
+   ],
+   "ans": 1,
+   "exp": "'200 IU : Significant'."
+  },
+  {
+   "id": "ch47-u6-q4",
+   "sec": "Ovarian Cysts",
+   "unit": "CA-125 Notes",
+   "page": 250,
+   "fmt": "tf",
+   "q": "True/False: CA-125 is printed as equally reliable in reproductive age and post-menopausal women.",
+   "opts": [
+    "True",
+    "False - it is unreliable everywhere",
+    "False - it is reliable only in reproductive age",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The note limits its value to the reproductive age group because benign conditions raise it."
+  },
+  {
+   "id": "ch47-u6-q5",
+   "sec": "Ovarian Cysts",
+   "unit": "CA-125 Notes",
+   "page": 250,
+   "fmt": "odd",
+   "q": "Odd one out - which benign condition is absent from the printed CA-125 raisers?",
+   "opts": [
+    "Endometriosis",
+    "Fibroid",
+    "PID",
+    "Genital TB"
+   ],
+   "ans": 0,
+   "exp": "The printed trio is fibroid, PID and genital TB."
+  },
+  {
+   "id": "ch47-u7-q1",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Most Common Pathologies and Torsion Timing",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The most common ovarian pathology in pregnancy printed is:",
+   "opts": [
+    "Malignant ovarian tumour",
+    "Benign ovarian tumour cyst, especially dermoid cyst (mature cystic teratoma)",
+    "Corpus luteal cyst only",
+    "Theca lutein cyst only"
+   ],
+   "ans": 1,
+   "exp": "The m/c bracket joins benign ovarian tumour cyst and torsion lines to dermoid cyst."
+  },
+  {
+   "id": "ch47-u7-q2",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Most Common Pathologies and Torsion Timing",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The printed time for torsion of an ovarian cyst in pregnancy is:",
+   "opts": [
+    "Mid second trimester",
+    "Third trimester only",
+    "End of 1st trimester / puerperium",
+    "Immediately post conception"
+   ],
+   "ans": 2,
+   "exp": "'Time for torsion : End of 1st trimester/Puerperium'."
+  },
+  {
+   "id": "ch47-u7-q3",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Most Common Pathologies and Torsion Timing",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The most common ovarian cancer in pregnancy printed is:",
+   "opts": [
+    "Dysgerminoma",
+    "Serous cystadenocarcinoma",
+    "Immature teratoma",
+    "Granulosa cell tumour"
+   ],
+   "ans": 0,
+   "exp": "'Ovarian cancer : Dysgerminoma' in the pregnancy block."
+  },
+  {
+   "id": "ch47-u7-q4",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Most Common Pathologies and Torsion Timing",
+   "page": 251,
+   "fmt": "match",
+   "q": "Match each pregnancy-related ovarian fact with its printed value - 1) m/c ovarian tumour in pregnancy 2) Time of torsion 3) m/c ovarian cancer in pregnancy ... A) Dysgerminoma B) Dermoid cyst C) End of 1st trimester or puerperium ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Dermoid cyst is m/c tumour, torsion timing is end of first trimester or puerperium and dysgerminoma is m/c cancer."
+  },
+  {
+   "id": "ch47-u7-q5",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Most Common Pathologies and Torsion Timing",
+   "page": 251,
+   "fmt": "tf",
+   "q": "True/False: The puerperium is one of the two printed windows for torsion of an ovarian cyst.",
+   "opts": [
+    "False",
+    "True",
+    "False - only first trimester",
+    "False - only third trimester"
+   ],
+   "ans": 1,
+   "exp": "The line prints end of 1st trimester and puerperium together."
+  },
+  {
+   "id": "ch47-u8-q1",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "recall",
+   "q": "An asymptomatic cyst found in the first trimester is managed by:",
+   "opts": [
+    "Surgery at once",
+    "Surgery in second trimester always",
+    "Wait and watch",
+    "Aspiration"
+   ],
+   "ans": 2,
+   "exp": "The 1st trimester arm ends at wait & watch."
+  },
+  {
+   "id": "ch47-u8-q2",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The most common first trimester cyst printed, which regresses spontaneously, is:",
+   "opts": [
+    "Dermoid cyst",
+    "Follicular cyst",
+    "Theca lutein cyst",
+    "Corpus luteum"
+   ],
+   "ans": 3,
+   "exp": "'m/c : Corpus luteum (Regresses spontaneously)'."
+  },
+  {
+   "id": "ch47-u8-q3",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "recall",
+   "q": "Why is removal of a first trimester corpus luteum contraindicated?",
+   "opts": [
+    "Because progesterone falls and causes abortion",
+    "Because it bleeds heavily",
+    "Because it seeds the peritoneum",
+    "Because it triggers torsion"
+   ],
+   "ans": 0,
+   "exp": "The chain prints removal is C/I then down progesterone then abortion."
+  },
+  {
+   "id": "ch47-u8-q4",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "recall",
+   "q": "In the second trimester, surgery is triggered by which printed criteria?",
+   "opts": [
+    "Any size above 5 cm",
+    "Malignancy features on USG positive and size > 10 cm",
+    "Symptoms alone",
+    "CA 125 above 35"
+   ],
+   "ans": 1,
+   "exp": "'Malignancy features on USG (+) > 10 cm -> Surgery'."
+  },
+  {
+   "id": "ch47-u8-q5",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "recall",
+   "q": "A symptomatic cyst with rupture or torsion in pregnancy is managed by:",
+   "opts": [
+    "Wait and watch until term",
+    "Surgery only after delivery",
+    "Removal of cyst irrespective of gestational age",
+    "Surgery only in second trimester"
+   ],
+   "ans": 2,
+   "exp": "The symptomatic arm prints removal irrespective of gestational age."
+  },
+  {
+   "id": "ch47-u8-q6",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "match",
+   "q": "Match the pregnancy situation with its printed management - 1) Asymptomatic 1st trimester 2) Asymptomatic 2nd trimester with malignant USG features >10 cm 3) Symptomatic rupture or torsion ... A) Removal irrespective of gestational age B) Wait and watch C) Surgery ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "First trimester waits, second trimester malignant-looking large cysts are operated and symptomatic cysts are removed at any gestation."
+  },
+  {
+   "id": "ch47-u8-q7",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "scenario",
+   "q": "Scenario: A 10-week pregnant woman has an incidental 6 cm simple cyst. The printed plan is:",
+   "opts": [
+    "Immediate cystectomy",
+    "Wait and watch",
+    "Surgery at 20 weeks regardless",
+    "Termination then surgery"
+   ],
+   "ans": 1,
+   "exp": "Asymptomatic first trimester cysts are watched, most being regressing corpus luteum."
+  },
+  {
+   "id": "ch47-u8-q8",
+   "sec": "Ovarian Pathologies in Pregnancy",
+   "unit": "Management of Ovarian Cyst in Pregnancy",
+   "page": 251,
+   "fmt": "fillup",
+   "q": "Fill up: Removing a first trimester corpus luteum drops ____ and leads to abortion.",
+   "opts": [
+    "progesterone",
+    "estrogen",
+    "hCG",
+    "inhibin"
+   ],
+   "ans": 0,
+   "exp": "The arrow chain prints down progesterone then abortion."
+  },
+  {
+   "id": "ch47-u9-q1",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "Under excessive estrogen, the four proven risk factors printed are:",
+   "opts": [
+    "Early menarche, early menopause, obesity and PCOS",
+    "Late menarche, late menopause, obesity and endometriosis",
+    "Early menarche, late menopause, obesity and endometriosis",
+    "Early menarche, late menopause, thin build and endometriosis"
+   ],
+   "ans": 2,
+   "exp": "The proven column lists those four against excessive estrogen."
+  },
+  {
+   "id": "ch47-u9-q2",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The controversial estrogen-related risk factors printed are:",
+   "opts": [
+    "OCP and HRT",
+    "PCOS and OCP",
+    "HRT and tamoxifen",
+    "PCOS and HRT"
+   ],
+   "ans": 3,
+   "exp": "The controversial column prints PCOS and HRT."
+  },
+  {
+   "id": "ch47-u9-q3",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "Excessive ovulation as a risk factor is named on the page as the:",
+   "opts": [
+    "Theory of incessant ovulation",
+    "Theory of persistent follicle",
+    "Theory of gonadotrophin excess",
+    "Theory of repeated rupture"
+   ],
+   "ans": 0,
+   "exp": "The row label prints '(Theory of incessant ovulation)'."
+  },
+  {
+   "id": "ch47-u9-q4",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The proven risk factor under excessive ovulation is:",
+   "opts": [
+    "Multiparity",
+    "Late menarche",
+    "Nulliparity",
+    "Breast feeding"
+   ],
+   "ans": 2,
+   "exp": "The proven cell prints nulliparity."
+  },
+  {
+   "id": "ch47-u9-q5",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The controversial ovulation-related risks printed are:",
+   "opts": [
+    "OCP and smoking",
+    "Infertility and ovulation inducing drugs",
+    "HRT and PCOS",
+    "Talc and smoking"
+   ],
+   "ans": 1,
+   "exp": "The controversial cell prints infertility & ovulation inducing drugs."
+  },
+  {
+   "id": "ch47-u9-q6",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The genetic syndromes printed as proven risks are:",
+   "opts": [
+    "Lynch syndrome and BRCA1 only",
+    "Lynch syndrome, BRCA1 and BRCA2",
+    "BRCA1, BRCA2 and p53",
+    "Lynch syndrome and p53"
+   ],
+   "ans": 1,
+   "exp": "The proven cell lists Lynch syndrome, BRCA1 and BRCA2."
+  },
+  {
+   "id": "ch47-u9-q7",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The proven carcinogen exposure printed is:",
+   "opts": [
+    "Talc",
+    "Smoking",
+    "Radiation",
+    "Asbestos"
+   ],
+   "ans": 3,
+   "exp": "The proven cell prints asbestos."
+  },
+  {
+   "id": "ch47-u9-q8",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "Smoking and talc are printed as controversial exposures, with smoking linked to which histology?",
+   "opts": [
+    "Mucinous adenocarcinoma",
+    "Serous cystadenocarcinoma",
+    "Clear cell tumour",
+    "Dysgerminoma"
+   ],
+   "ans": 0,
+   "exp": "The controversial cell prints talc and smoking with '(Mucinous adenocarcinoma)'."
+  },
+  {
+   "id": "ch47-u9-q9",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "match",
+   "q": "Match each risk category with its proven and controversial entries - 1) Excessive estrogen 2) Excessive ovulation 3) Carcinogen exposure ... A) Asbestos proven; talc and smoking controversial B) Early menarche and obesity proven; PCOS and HRT controversial C) Nulliparity proven; infertility drugs controversial ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Estrogen row pairs early menarche/obesity with PCOS/HRT; ovulation row pairs nulliparity with infertility drugs; carcinogen row pairs asbestos with talc and smoking."
+  },
+  {
+   "id": "ch47-u9-q10",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Risk Factors",
+   "page": 251,
+   "fmt": "odd",
+   "q": "Odd one out - which item sits in the controversial rather than proven column?",
+   "opts": [
+    "Obesity",
+    "HRT",
+    "Endometriosis",
+    "Nulliparity"
+   ],
+   "ans": 1,
+   "exp": "HRT and PCOS are the controversial estrogen entries; the rest are proven."
+  },
+  {
+   "id": "ch47-u10-q1",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Protective Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The estrogen-related protective factor printed is:",
+   "opts": [
+    "OCP",
+    "Breast feeding",
+    "Physical exercise",
+    "Tubal ligation"
+   ],
+   "ans": 2,
+   "exp": "The estrogen column prints physical exercise."
+  },
+  {
+   "id": "ch47-u10-q2",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Protective Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "Name the four ovulation-related protective factors printed.",
+   "opts": [
+    "Anovulation, nulliparity, OCP and breast feeding",
+    "Anovulation, multiparity, HRT and breast feeding",
+    "Ovulation induction, multiparity, OCP and breast feeding",
+    "Anovulation, multiparity, OCP and breast feeding"
+   ],
+   "ans": 3,
+   "exp": "The ovulation column lists those four."
+  },
+  {
+   "id": "ch47-u10-q3",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Protective Factors",
+   "page": 251,
+   "fmt": "recall",
+   "q": "The three protective surgeries printed are:",
+   "opts": [
+    "Hysterectomy, tubal ligation and salpingectomy",
+    "Hysterectomy, oophorectomy and salpingectomy",
+    "Tubal ligation, oophorectomy and cystectomy",
+    "Hysterectomy, tubal ligation and oophoropexy"
+   ],
+   "ans": 0,
+   "exp": "The surgeries column lists hysterectomy, tubal ligation and salpingectomy."
+  },
+  {
+   "id": "ch47-u10-q4",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Protective Factors",
+   "page": 251,
+   "fmt": "match",
+   "q": "Match each protective factor group with its printed members - 1) Estrogen related 2) Ovulation related 3) Surgeries ... A) Hysterectomy, tubal ligation, salpingectomy B) Physical exercise C) Anovulation, multiparity, OCP, breast feeding ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "The table columns print exactly those groupings."
+  },
+  {
+   "id": "ch47-u10-q5",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Protective Factors",
+   "page": 251,
+   "fmt": "tf",
+   "q": "True/False: OCP appears both as a controversial risk under estrogen and as an ovulation-related protective factor.",
+   "opts": [
+    "False",
+    "True",
+    "False - OCP is only a risk",
+    "False - OCP is only protective under estrogen"
+   ],
+   "ans": 0,
+   "exp": "OCP is protective under ovulation; the controversial estrogen entries are PCOS and HRT, not OCP."
+  },
+  {
+   "id": "ch47-u11-q1",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "recall",
+   "q": "The most common genes printed in Lynch syndrome are:",
+   "opts": [
+    "BRCA1 / BRCA2",
+    "MSH6 / PMS2",
+    "APC / MUTYH",
+    "MLH1 / MSH2"
+   ],
+   "ans": 3,
+   "exp": "'m/c gene : MLH1 / MSH2' under Lynch syndrome."
+  },
+  {
+   "id": "ch47-u11-q2",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "recall",
+   "q": "The most common associated cancer in Lynch syndrome and its order is:",
+   "opts": [
+    "Endometrial cancer > colorectal cancer",
+    "Ovarian cancer > colorectal cancer",
+    "Colorectal cancer > endometrial cancer (60-70% risk)",
+    "Colorectal cancer > ovarian cancer"
+   ],
+   "ans": 2,
+   "exp": "'m/c associated cancer : Colorectal cancer > Endometrial cancer (60-70% risk)'."
+  },
+  {
+   "id": "ch47-u11-q3",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "numeric",
+   "q": "Fill up: The risk of ovarian cancer printed for Lynch syndrome is ____ percent.",
+   "opts": [
+    "10",
+    "20",
+    "15",
+    "40"
+   ],
+   "ans": 1,
+   "exp": "'Risk of ovarian cancer : 20%' under Lynch."
+  },
+  {
+   "id": "ch47-u11-q4",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "recall",
+   "q": "Which gene carries the maximum printed risk of ovarian cancer at 40%?",
+   "opts": [
+    "BRCA2",
+    "MLH1",
+    "MSH2",
+    "BRCA1"
+   ],
+   "ans": 3,
+   "exp": "'BRCA 1 : Maximum risk of ovarian cancer (40%)'."
+  },
+  {
+   "id": "ch47-u11-q5",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "recall",
+   "q": "The printed prevention for BRCA1 carriers after family completion is:",
+   "opts": [
+    "BSO only at 45 yrs",
+    "TAH only at 35 yrs",
+    "TAH + BSO at 35-40 yrs of age",
+    "Annual screening only"
+   ],
+   "ans": 2,
+   "exp": "'Prevention : TAH + BSO after completion of family (35-40yrs of age)'."
+  },
+  {
+   "id": "ch47-u11-q6",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "tf",
+   "q": "True/False: BRCA1 carriers carry a printed positive risk of endometrial cancer as well.",
+   "opts": [
+    "True",
+    "False",
+    "False - only ovarian risk",
+    "False - only breast risk"
+   ],
+   "ans": 0,
+   "exp": "'Risk of endometrial cancer plus' is printed under BRCA1."
+  },
+  {
+   "id": "ch47-u11-q7",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "numeric",
+   "q": "Fill up: BRCA2 carries a ____ percent risk of ovarian cancer.",
+   "opts": [
+    "10",
+    "15",
+    "20",
+    "40"
+   ],
+   "ans": 1,
+   "exp": "'BRCA 2 : 15% risk of ovarian cancer'."
+  },
+  {
+   "id": "ch47-u11-q8",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "match",
+   "q": "Match each syndrome or gene with its printed ovarian cancer risk - 1) Lynch 2) BRCA1 3) BRCA2 ... A) 40% B) 20% C) 15% ... choose:",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Lynch 20%, BRCA1 40% and BRCA2 15%."
+  },
+  {
+   "id": "ch47-u11-q9",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Genetic Syndromes",
+   "page": 252,
+   "fmt": "scenario",
+   "q": "Scenario: A 38-year-old BRCA1 carrier has completed her family. The printed preventive operation is:",
+   "opts": [
+    "TAH + BSO",
+    "BSO alone",
+    "TAH alone",
+    "Unilateral oophorectomy"
+   ],
+   "ans": 0,
+   "exp": "The prevention line prints TAH + BSO after family completion at 35-40 yrs."
+  },
+  {
+   "id": "ch47-u12-q1",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Hereditary versus Sporadic and Screening",
+   "page": 252,
+   "fmt": "recall",
+   "q": "Hereditary ovarian cancer affects which age group on the page?",
+   "opts": [
+    "60-70 yrs",
+    "Pre-pubertal",
+    "Younger age group (50 years)",
+    "70-80 yrs"
+   ],
+   "ans": 2,
+   "exp": "'Affects younger age group (50 years)' under hereditary."
+  },
+  {
+   "id": "ch47-u12-q2",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Hereditary versus Sporadic and Screening",
+   "page": 252,
+   "fmt": "numeric",
+   "q": "Hereditary cases form what share of all ovarian cancers?",
+   "opts": [
+    "5-10%",
+    "1-2%",
+    "15-20%",
+    "25-30%"
+   ],
+   "ans": 0,
+   "exp": "'5-10% of all ovarian cancers'."
+  },
+  {
+   "id": "ch47-u12-q3",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Hereditary versus Sporadic and Screening",
+   "page": 252,
+   "fmt": "recall",
+   "q": "Sporadic ovarian cancer is most common at what age?",
+   "opts": [
+    "40-50 yrs",
+    "60-70 yrs",
+    "50-60 yrs",
+    "70-80 yrs"
+   ],
+   "ans": 1,
+   "exp": "'Sporadic : m/c in 60-70 yrs'."
+  },
+  {
+   "id": "ch47-u12-q4",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Hereditary versus Sporadic and Screening",
+   "page": 252,
+   "fmt": "recall",
+   "q": "In the screening tree, a first degree relative with hereditary ovarian cancer or BRCA1 mutation positive receives:",
+   "opts": [
+    "Reassurance",
+    "Prophylactic BSO immediately",
+    "Six-monthly CT",
+    "Annual screening with TVS + CA 125 at 35-40 yrs"
+   ],
+   "ans": 3,
+   "exp": "The positive arm prints annual screening TVS + CA 125 (35-40yrs)."
+  },
+  {
+   "id": "ch47-u12-q5",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Hereditary versus Sporadic and Screening",
+   "page": 252,
+   "fmt": "recall",
+   "q": "A first degree relative of a sporadic ovarian cancer case receives:",
+   "opts": [
+    "Annual TVS + CA 125",
+    "Prophylactic surgery",
+    "Reassurance",
+    "CA 125 alone yearly"
+   ],
+   "ans": 2,
+   "exp": "The sporadic arm ends at reassurance."
+  },
+  {
+   "id": "ch47-u12-q6",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Hereditary versus Sporadic and Screening",
+   "page": 252,
+   "fmt": "match",
+   "q": "Match the relative type with the printed action - 1) Hereditary/BRCA1 positive relative 2) Sporadic case relative ... A) Reassurance B) Annual TVS + CA 125 from 35-40 yrs ... choose:",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Only the hereditary or BRCA positive relative is screened annually."
+  },
+  {
+   "id": "ch47-u12-q7",
+   "sec": "Factors Related to Ovarian Cancer",
+   "unit": "Hereditary versus Sporadic and Screening",
+   "page": 252,
+   "fmt": "tf",
+   "q": "True/False: Sporadic ovarian cancer peaks a decade or more later than hereditary disease on the printed page.",
+   "opts": [
+    "False",
+    "False - both peak at 50",
+    "False - hereditary peaks later",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Hereditary affects around 50 yrs while sporadic is m/c at 60-70 yrs."
+  },
+  {
+   "id": "ch47-u13-q1",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "recall",
+   "q": "The most common WHO group of ovarian tumours and its share is:",
+   "opts": [
+    "Germ cell tumours (90%)",
+    "Epithelial ovarian tumours (90%)",
+    "Sex cord stromal (90%)",
+    "Metastatic tumours (90%)"
+   ],
+   "ans": 1,
+   "exp": "The tree prints epithelial ovarian tumours m/c (90%)."
+  },
+  {
+   "id": "ch47-u13-q2",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "recall",
+   "q": "Germ cell tumours hold which rank and share?",
+   "opts": [
+    "3rd m/c (3-5%)",
+    "2nd m/c (10-15%)",
+    "2nd m/c (5-8%)",
+    "4th m/c (1-2%)"
+   ],
+   "ans": 2,
+   "exp": "'Germ cell tumor : 2nd m/c (5-8%)'."
+  },
+  {
+   "id": "ch47-u13-q3",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "recall",
+   "q": "Sex cord stromal tumours hold which rank and share?",
+   "opts": [
+    "2nd m/c (5-8%)",
+    "4th m/c (1-3%)",
+    "3rd m/c (3-5%)",
+    "3rd m/c (8-10%)"
+   ],
+   "ans": 2,
+   "exp": "'Sex cord stromal : 3rd m/c (3-5%)'."
+  },
+  {
+   "id": "ch47-u13-q4",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "recall",
+   "q": "The fourth WHO branch printed is:",
+   "opts": [
+    "Metastatic tumours",
+    "Surface tumours",
+    "Mixed tumours",
+    "Lymphoid tumours"
+   ],
+   "ans": 0,
+   "exp": "The last branch prints metastatic tumours."
+  },
+  {
+   "id": "ch47-u13-q5",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "recall",
+   "q": "Overall, the most common ovarian tumour printed is:",
+   "opts": [
+    "Dermoid cyst",
+    "Serous cystadenocarcinoma",
+    "Mucinous cystadenoma",
+    "Serous cystadenoma"
+   ],
+   "ans": 3,
+   "exp": "'Ovarian tumor - Overall : Serous cystadenoma'."
+  },
+  {
+   "id": "ch47-u13-q6",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "recall",
+   "q": "In reproductive age, the most common ovarian tumour printed is:",
+   "opts": [
+    "Serous cystadenoma",
+    "Dermoid cyst (mature cystic teratoma)",
+    "Follicular cyst",
+    "Fibroma"
+   ],
+   "ans": 1,
+   "exp": "'Reproductive age : Dermoid cyst (mature cystic teratoma)'."
+  },
+  {
+   "id": "ch47-u13-q7",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "recall",
+   "q": "The most common ovarian cancer printed is:",
+   "opts": [
+    "Serous cystadenocarcinoma",
+    "Mucinous cystadenocarcinoma",
+    "Dysgerminoma",
+    "Clear cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "'Ovarian cancer : Serous cystadenocarcinoma'."
+  },
+  {
+   "id": "ch47-u13-q8",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "WHO Classification and Commonest Tumours",
+   "page": 252,
+   "fmt": "match",
+   "q": "Match each category with its printed commonest - 1) All ovarian tumours overall 2) Reproductive age tumour 3) Ovarian cancer ... A) Serous cystadenocarcinoma B) Serous cystadenoma C) Dermoid cyst ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Overall serous cystadenoma, reproductive age dermoid cyst and cancer serous cystadenocarcinoma."
+  },
+  {
+   "id": "ch47-u14-q1",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The most common epithelial ovarian tumour type printed is:",
+   "opts": [
+    "Mucinous tumours",
+    "Serous tumours",
+    "Brenner's tumour",
+    "Clear cell tumour"
+   ],
+   "ans": 1,
+   "exp": "'Serous tumors (m/c)' heads the type list."
+  },
+  {
+   "id": "ch47-u14-q2",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The benign and malignant names printed for serous tumours are:",
+   "opts": [
+    "Serous adenofibroma and serous carcinoma",
+    "Serous cystadenoma and serous adenocarcinoma of breast type",
+    "Serous cystadenoma and serous cystadenocarcinoma",
+    "Serous papilloma and serous sarcoma"
+   ],
+   "ans": 2,
+   "exp": "The bracket prints benign serous cystadenoma and malignant serous cystadenocarcinoma."
+  },
+  {
+   "id": "ch47-u14-q3",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "recall",
+   "q": "List the five epithelial types printed in order.",
+   "opts": [
+    "Serous, mucinous, Brenner's, endometrioid and clear cell",
+    "Serous, mucinous, clear cell, endometrioid and Brenner's",
+    "Mucinous, serous, Brenner's, clear cell and endometrioid",
+    "Serous, endometrioid, mucinous, Brenner's and clear cell"
+   ],
+   "ans": 0,
+   "exp": "The bullet order is serous, mucinous, Brenner's, endometrioid, clear cell."
+  },
+  {
+   "id": "ch47-u14-q4",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "numeric",
+   "q": "The most common age for epithelial ovarian tumours printed is:",
+   "opts": [
+    "40 yrs",
+    "50 yrs",
+    "60 yrs",
+    "70 yrs"
+   ],
+   "ans": 2,
+   "exp": "'m/c age : 60 yrs'."
+  },
+  {
+   "id": "ch47-u14-q5",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Epithelial ovarian tumours are most commonly which sided?",
+   "opts": [
+    "U/L",
+    "B/L",
+    "Right sided",
+    "Left sided"
+   ],
+   "ans": 1,
+   "exp": "'B/L (m/c)' under features."
+  },
+  {
+   "id": "ch47-u14-q6",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The worst prognosis of epithelial tumours is explained by:",
+   "opts": [
+    "Early metastasis to lungs",
+    "Resistance to chemotherapy",
+    "Bilateral occurrence",
+    "Non-specific symptoms such as nausea, vomiting, IBS and weight loss"
+   ],
+   "ans": 3,
+   "exp": "'Worst prognosis : d/t non-specific symptoms (Nausea, Vomiting, IBS, weight loss)'."
+  },
+  {
+   "id": "ch47-u14-q7",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "fillup",
+   "q": "Fill up: The HPE hallmark printed for epithelial (serous) tumours is the ____ body.",
+   "opts": [
+    "Call Exner",
+    "Schiller Duval",
+    "coffee bean",
+    "psammoma"
+   ],
+   "ans": 3,
+   "exp": "'HPE : Psammoma body'."
+  },
+  {
+   "id": "ch47-u14-q8",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Low grade epithelial tumours carry which mutations?",
+   "opts": [
+    "p53 mutation",
+    "KRAS and PTEN mutation",
+    "BRCA1 mutation",
+    "MLH1 mutation"
+   ],
+   "ans": 1,
+   "exp": "'Low grade tumors : KRAS, PTEN mutation'."
+  },
+  {
+   "id": "ch47-u14-q9",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "recall",
+   "q": "High grade epithelial tumours carry which mutation?",
+   "opts": [
+    "p53 mutation",
+    "KRAS mutation",
+    "PTEN mutation",
+    "FOX L2 mutation"
+   ],
+   "ans": 0,
+   "exp": "'High grade tumors : p53 mutation'."
+  },
+  {
+   "id": "ch47-u14-q10",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "match",
+   "q": "Match the tumour grade with its printed mutation - 1) Low grade 2) High grade ... A) p53 B) KRAS and PTEN ... choose:",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
+   ],
+   "ans": 2,
+   "exp": "Low grade pairs with KRAS/PTEN and high grade with p53."
+  },
+  {
+   "id": "ch47-u14-q11",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Epithelial Tumour Types and Features",
+   "page": 253,
+   "fmt": "tf",
+   "q": "True/False: Epithelial ovarian tumours are most commonly unilateral on the printed page.",
+   "opts": [
+    "True",
+    "False - they are always bilateral",
+    "False",
+    "False - sidedness is not printed"
+   ],
+   "ans": 2,
+   "exp": "The features print B/L (m/c)."
+  },
+  {
+   "id": "ch47-u15-q1",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "numeric",
+   "q": "The benign proportion printed for serous tumours is:",
+   "opts": [
+    "80% (serous cystadenoma)",
+    "40% (serous cystadenoma)",
+    "60% (serous adenofibroma)",
+    "60% (serous cystadenoma)"
+   ],
+   "ans": 3,
+   "exp": "The % benign row prints 60% for serous."
+  },
+  {
+   "id": "ch47-u15-q2",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "numeric",
+   "q": "The benign proportion printed for mucinous tumours is:",
+   "opts": [
+    "80% (mucinous cystadenoma)",
+    "60% (mucinous cystadenoma)",
+    "90% (mucinous cystadenoma)",
+    "80% (mucinous adenofibroma)"
+   ],
+   "ans": 0,
+   "exp": "The % benign row prints 80% for mucinous."
+  },
+  {
+   "id": "ch47-u15-q3",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Serous tumours occur mostly as:",
+   "opts": [
+    "Unilateral",
+    "Bilateral",
+    "Right sided",
+    "Left sided"
+   ],
+   "ans": 1,
+   "exp": "The occurrence row prints mostly bilateral for serous."
+  },
+  {
+   "id": "ch47-u15-q4",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Mucinous tumours occur mostly as:",
+   "opts": [
+    "Bilateral",
+    "Both equally",
+    "Unilateral",
+    "Multifocal"
+   ],
+   "ans": 2,
+   "exp": "The occurrence row prints mostly unilateral for mucinous."
+  },
+  {
+   "id": "ch47-u15-q5",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The mutations printed for serous tumours are:",
+   "opts": [
+    "KRAS mutation",
+    "BRCA-1, BRCA-2 and p53 mutation",
+    "PTEN and KRAS",
+    "MLH1 and MSH2"
+   ],
+   "ans": 1,
+   "exp": "The mutation row prints BRCA-1, BRCA-2, p53 for serous."
+  },
+  {
+   "id": "ch47-u15-q6",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The mutation printed for mucinous tumours is:",
+   "opts": [
+    "KRAS mutation",
+    "p53 mutation",
+    "BRCA1 mutation",
+    "PTEN mutation"
+   ],
+   "ans": 0,
+   "exp": "The mutation row prints KRAS for mucinous."
+  },
+  {
+   "id": "ch47-u15-q7",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Smoking as a risk factor is printed as:",
+   "opts": [
+    "Positive for serous only",
+    "Positive for both",
+    "Negative for both",
+    "Positive for mucinous tumours and not a risk factor for serous"
+   ],
+   "ans": 3,
+   "exp": "The smoking row prints not a risk factor for serous and risk factor (+) for mucinous."
+  },
+  {
+   "id": "ch47-u15-q8",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The tumour markers printed are:",
+   "opts": [
+    "CA 125 for both",
+    "CA 125 for serous and CEA with CA 19-9 for mucinous",
+    "CEA for serous and CA 125 for mucinous",
+    "CA 19-9 for serous and CEA for mucinous"
+   ],
+   "ans": 1,
+   "exp": "The marker row prints CA 125 then CEA, CA 19-9."
+  },
+  {
+   "id": "ch47-u15-q9",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Psammoma bodies on HPE belong to which column?",
+   "opts": [
+    "Serous tumours",
+    "Mucinous tumours",
+    "Both columns",
+    "Neither column"
+   ],
+   "ans": 0,
+   "exp": "The HPE row prints psammoma bodies for serous and a dash for mucinous."
+  },
+  {
+   "id": "ch47-u15-q10",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The gross finding printed for serous tumours is:",
+   "opts": [
+    "Honeycomb multiloculated cyst with mucin",
+    "Solid tan fleshy mass",
+    "Cyst with tooth and hair",
+    "Uniloculated cyst filled with clear/serous fluid"
+   ],
+   "ans": 3,
+   "exp": "The gross row prints uniloculated clear fluid cyst for serous."
+  },
+  {
+   "id": "ch47-u15-q11",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "The gross finding printed for mucinous tumours is:",
+   "opts": [
+    "Uniloculated cyst with clear fluid",
+    "Solid white whorled mass",
+    "Honeycomb appearance: multiloculated cyst filled with mucinous material",
+    "Cyst with sebaceous material"
+   ],
+   "ans": 2,
+   "exp": "The gross row prints honeycomb multiloculated mucinous cyst."
+  },
+  {
+   "id": "ch47-u15-q12",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Microscopically serous tumours resemble which lining?",
+   "opts": [
+    "Endocervix lining",
+    "Endometrial glands",
+    "Fallopian tube lining",
+    "Vaginal epithelium"
+   ],
+   "ans": 2,
+   "exp": "The microscopy row prints fallopian tube lining for serous."
+  },
+  {
+   "id": "ch47-u15-q13",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Microscopically mucinous tumours resemble which lining?",
+   "opts": [
+    "Fallopian tube lining",
+    "Endocervix lining",
+    "Endometrial glands",
+    "Bowel mucosa only"
+   ],
+   "ans": 1,
+   "exp": "The microscopy row prints endocervix lining for mucinous."
+  },
+  {
+   "id": "ch47-u15-q14",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "recall",
+   "q": "Pseudomyxoma peritonei is associated with which column?",
+   "opts": [
+    "Serous tumours",
+    "Both",
+    "Neither",
+    "Mucinous tumours"
+   ],
+   "ans": 3,
+   "exp": "The associated-with row prints pseudomyxoma peritonei only for mucinous."
+  },
+  {
+   "id": "ch47-u15-q15",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "match",
+   "q": "Match each attribute with its tumour column - 1) Mostly bilateral 2) KRAS mutation 3) CA 125 4) Honeycomb gross ... A) Serous B) Mucinous ... choose:",
+   "opts": [
+    "1-A, 2-B, 3-A, 4-B",
+    "1-B, 2-A, 3-B, 4-A",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-A, 2-A, 3-B, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Bilaterality and CA 125 are serous; KRAS and honeycomb gross are mucinous."
+  },
+  {
+   "id": "ch47-u15-q16",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "odd",
+   "q": "Odd one out - which feature belongs to serous rather than mucinous tumours?",
+   "opts": [
+    "Smoking as risk factor",
+    "CEA and CA 19-9 markers",
+    "Psammoma bodies on HPE",
+    "Endocervix-like lining"
+   ],
+   "ans": 2,
+   "exp": "Psammoma bodies are the serous HPE hallmark; the rest are mucinous column entries."
+  },
+  {
+   "id": "ch47-u15-q17",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Serous versus Mucinous Tumours",
+   "page": 253,
+   "fmt": "tf",
+   "q": "True/False: Mucinous tumours are more often benign (80%) than serous tumours (60%) on the printed table.",
+   "opts": [
+    "False",
+    "False - serous are 80% benign",
+    "False - both are 60%",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The % benign row prints 60% serous against 80% mucinous."
+  },
+  {
+   "id": "ch47-u16-q1",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Pseudomyxoma Peritonei",
+   "page": 254,
+   "fmt": "recall",
+   "q": "Pseudomyxoma peritonei is defined on the page as:",
+   "opts": [
+    "Peritoneum filled with serous fluid",
+    "Peritoneum filled with mucinous material",
+    "Peritoneum studded with tubercles",
+    "Peritoneum with chylous ascites"
+   ],
+   "ans": 1,
+   "exp": "'Peritoneum filled with mucinous material'."
+  },
+  {
+   "id": "ch47-u16-q2",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Pseudomyxoma Peritonei",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The most common cause printed is:",
+   "opts": [
+    "Appendix cancer",
+    "Mucinous ovarian tumour",
+    "Mucocele of appendix",
+    "Colonic adenocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "'Appendix cancer : m/c' heads the cause list."
+  },
+  {
+   "id": "ch47-u16-q3",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Pseudomyxoma Peritonei",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The other two printed causes are:",
+   "opts": [
+    "Serous ovarian tumour and appendicectomy",
+    "Mucinous ovarian tumour and colonic polyp",
+    "Mucinous ovarian tumour (metastatic) and mucocele of appendix",
+    "Mucocele of appendix and tubal cancer"
+   ],
+   "ans": 2,
+   "exp": "The list prints mucinous ovarian tumour (metastatic) then mucocele of appendix."
+  },
+  {
+   "id": "ch47-u16-q4",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Pseudomyxoma Peritonei",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The prognosis of pseudomyxoma peritonei is bad because of:",
+   "opts": [
+    "High recurrence rate",
+    "Chemoresistance",
+    "Early nodal spread",
+    "Bowel obstruction"
+   ],
+   "ans": 0,
+   "exp": "'Bad prognosis : d/t high recurrence rate'."
+  },
+  {
+   "id": "ch47-u16-q5",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Pseudomyxoma Peritonei",
+   "page": 254,
+   "fmt": "fillup",
+   "q": "Fill up: The commonest source of pseudomyxoma peritonei printed is cancer of the ____.",
+   "opts": [
+    "ovary",
+    "colon",
+    "stomach",
+    "appendix"
+   ],
+   "ans": 3,
+   "exp": "'Appendix cancer : m/c'."
+  },
+  {
+   "id": "ch47-u16-q6",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Pseudomyxoma Peritonei",
+   "page": 254,
+   "fmt": "tf",
+   "q": "True/False: A mucinous ovarian tumour causing pseudomyxoma peritonei is labelled metastatic on the printed page.",
+   "opts": [
+    "False",
+    "True",
+    "False - it is labelled primary always",
+    "False - the ovary is never a cause"
+   ],
+   "ans": 1,
+   "exp": "The cause line prints 'Mucinous ovarian tumor (metastatic)'."
+  },
+  {
+   "id": "ch47-u17-q1",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Brenner's Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The mnemonic printed for Brenner's tumour is:",
+   "opts": [
+    "We BEST",
+    "We BURN",
+    "We BOLT",
+    "We BUST"
+   ],
+   "ans": 3,
+   "exp": "'Mnemonic : We BUST' on page 254."
+  },
+  {
+   "id": "ch47-u17-q2",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Brenner's Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The HPE features printed for Brenner's tumour are:",
+   "opts": [
+    "Psammoma bodies and hobnail cells",
+    "Walthard cell nest and coffee bean nuclei",
+    "Call Exner bodies and coffee bean nuclei",
+    "Signet ring cells and mucin"
+   ],
+   "ans": 1,
+   "exp": "'Walthard cell nest + Coffee bean nuclei on HPE'."
+  },
+  {
+   "id": "ch47-u17-q3",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Brenner's Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "Brenner's tumour is printed as which behaviour and consistency?",
+   "opts": [
+    "Benign and solid",
+    "Malignant and solid",
+    "Benign and cystic",
+    "Borderline and cystic"
+   ],
+   "ans": 0,
+   "exp": "The two columns print benign tumor and solid tumor."
+  },
+  {
+   "id": "ch47-u17-q4",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Brenner's Tumour",
+   "page": 254,
+   "fmt": "numeric",
+   "q": "The laterality printed for Brenner's tumour is:",
+   "opts": [
+    "Bilateral (100%)",
+    "Unilateral (80%)",
+    "Unilateral (100%)",
+    "Bilateral (50%)"
+   ],
+   "ans": 2,
+   "exp": "'Unilateral (100%)' in the left column."
+  },
+  {
+   "id": "ch47-u17-q5",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Brenner's Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The epithelial lining printed for Brenner's tumour is:",
+   "opts": [
+    "Squamous epithelium",
+    "Columnar epithelium",
+    "Cuboidal epithelium",
+    "Transitional epithelium"
+   ],
+   "ans": 3,
+   "exp": "'Transitional epithelium lining' in the right column."
+  },
+  {
+   "id": "ch47-u17-q6",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Brenner's Tumour",
+   "page": 254,
+   "fmt": "match",
+   "q": "Match each letter of We BUST with its printed word - 1) W 2) B 3) U 4) S/T ... A) Benign, solid B) Walthard cell nest C) Unilateral 100% D) Transitional epithelium ... choose:",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Walthard, benign and solid, unilateral, transitional spell the mnemonic."
+  },
+  {
+   "id": "ch47-u18-q1",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Endometrioid versus Clear Cell Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The HPE printed for endometrioid tumour is:",
+   "opts": [
+    "Hobnail cells",
+    "Psammoma bodies",
+    "Resembles endometrial glands",
+    "Coffee bean nuclei"
+   ],
+   "ans": 2,
+   "exp": "The HPE row prints resembles endometrial glands."
+  },
+  {
+   "id": "ch47-u18-q2",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Endometrioid versus Clear Cell Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The HPE printed for clear cell tumour is:",
+   "opts": [
+    "Hobnail cells",
+    "Resembles endometrial glands",
+    "Signet ring cells",
+    "Call Exner bodies"
+   ],
+   "ans": 0,
+   "exp": "The HPE row prints hobnail cells for clear cell (malignant)."
+  },
+  {
+   "id": "ch47-u18-q3",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Endometrioid versus Clear Cell Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "Clear cell tumour is labelled in the table header as:",
+   "opts": [
+    "Malignant",
+    "Benign",
+    "Borderline",
+    "Benign or borderline"
+   ],
+   "ans": 0,
+   "exp": "The column header prints 'Clear cell tumor (malignant)'."
+  },
+  {
+   "id": "ch47-u18-q4",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Endometrioid versus Clear Cell Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The shared association printed for both endometrioid and clear cell tumours is:",
+   "opts": [
+    "Endometrial cancer",
+    "Endometriosis",
+    "In-utero DES exposure",
+    "Pelvic TB"
+   ],
+   "ans": 1,
+   "exp": "Both columns list endometriosis as association a."
+  },
+  {
+   "id": "ch47-u18-q5",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Endometrioid versus Clear Cell Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The second association printed for endometrioid tumour is:",
+   "opts": [
+    "In-utero DES exposure",
+    "Endometriosis",
+    "Adenomyosis",
+    "Endometrial cancer"
+   ],
+   "ans": 3,
+   "exp": "Endometrioid column b is endometrial cancer."
+  },
+  {
+   "id": "ch47-u18-q6",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Endometrioid versus Clear Cell Tumour",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The second association printed for clear cell tumour is:",
+   "opts": [
+    "Endometrial cancer",
+    "OCP use",
+    "In-utero DES exposure",
+    "HRT use"
+   ],
+   "ans": 2,
+   "exp": "Clear cell column b is in-utero DES exposure."
+  },
+  {
+   "id": "ch47-u18-q7",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Endometrioid versus Clear Cell Tumour",
+   "page": 254,
+   "fmt": "match",
+   "q": "Match each tumour with its printed HPE and second association - 1) Endometrioid 2) Clear cell ... A) Hobnail cells with DES exposure B) Endometrial glands with endometrial cancer ... choose:",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Endometrioid shows endometrial glands and links to endometrial cancer; clear cell shows hobnail cells and links to DES."
+  },
+  {
+   "id": "ch47-u19-q1",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Coffee Bean Nuclei and Association Notes",
+   "page": 254,
+   "fmt": "recall",
+   "q": "Coffee bean nuclei with central grooving are printed for which two tumours?",
+   "opts": [
+    "Brenner's tumour and fibroma",
+    "Brenner's tumour and granulosa cell tumour",
+    "Granulosa cell tumour and thecoma",
+    "Dysgerminoma and Brenner's tumour"
+   ],
+   "ans": 1,
+   "exp": "The note bracket joins Brenner's tumour and granulosa cell tumour."
+  },
+  {
+   "id": "ch47-u19-q2",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Coffee Bean Nuclei and Association Notes",
+   "page": 254,
+   "fmt": "recall",
+   "q": "Central grooving in coffee bean nuclei is printed as:",
+   "opts": [
+    "Negative",
+    "Equivocal",
+    "Positive",
+    "Absent"
+   ],
+   "ans": 2,
+   "exp": "The note prints '(Central grooving plus)'."
+  },
+  {
+   "id": "ch47-u19-q3",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Coffee Bean Nuclei and Association Notes",
+   "page": 254,
+   "fmt": "recall",
+   "q": "For endometriosis-associated ovarian tumours the printed order is:",
+   "opts": [
+    "Endometrioid tumour > clear cell tumour",
+    "Granulosa > clear cell",
+    "Clear cell > granulosa",
+    "Clear cell tumour > endometrioid tumour"
+   ],
+   "ans": 3,
+   "exp": "'a. Endometriosis : Clear cell tumor > Endometrioid tumor'."
+  },
+  {
+   "id": "ch47-u19-q4",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Coffee Bean Nuclei and Association Notes",
+   "page": 254,
+   "fmt": "recall",
+   "q": "For endometrial cancer-associated ovarian tumours the printed order is:",
+   "opts": [
+    "Granulosa cell tumour > endometrioid tumour",
+    "Endometrioid tumour > granulosa cell tumour",
+    "Clear cell > endometrioid",
+    "Endometrioid > clear cell"
+   ],
+   "ans": 1,
+   "exp": "'b. Endometrial cancer : Endometrioid tumor > Granulosa cell tumor'."
+  },
+  {
+   "id": "ch47-u19-q5",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Coffee Bean Nuclei and Association Notes",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The two solid ovarian tumours printed in note 3 are:",
+   "opts": [
+    "Brenner's and fibroma",
+    "Fibroma and thecoma",
+    "Brenner's and granulosa",
+    "Fibroma and dysgerminoma"
+   ],
+   "ans": 0,
+   "exp": "'3. Solid Tumors : Brenner's & Fibroma'."
+  },
+  {
+   "id": "ch47-u19-q6",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Coffee Bean Nuclei and Association Notes",
+   "page": 254,
+   "fmt": "match",
+   "q": "Match each note number with its printed content - 1) Note 1 2) Note 2a 3) Note 2b 4) Note 3 ... A) Endometrioid > granulosa B) Coffee bean nuclei in Brenner's and granulosa C) Solid tumours are Brenner's and fibroma D) Clear cell > endometrioid ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "The notes run coffee bean nuclei, clear cell over endometrioid for endometriosis, endometrioid over granulosa for endometrial cancer, then solid tumours."
+  },
+  {
+   "id": "ch47-u19-q7",
+   "sec": "WHO Classification and Epithelial Ovarian Tumors",
+   "unit": "Coffee Bean Nuclei and Association Notes",
+   "page": 254,
+   "fmt": "odd",
+   "q": "Odd one out - which tumour lacks the printed coffee bean nucleus?",
+   "opts": [
+    "Brenner's tumour",
+    "Granulosa cell tumour",
+    "Fibroma",
+    "Tumours with central grooving"
+   ],
+   "ans": 2,
+   "exp": "Only Brenner's and granulosa cell tumours are bracketed with coffee bean nuclei."
+  },
+  {
+   "id": "ch47-u20-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The benign variety of teratoma printed is:",
+   "opts": [
+    "Immature teratoma",
+    "Mature cystic teratoma (dermoid cyst)",
+    "Struma ovarii",
+    "Dysgerminoma"
+   ],
+   "ans": 1,
+   "exp": "The teratoma bracket prints benign mature cystic teratoma (dermoid cyst)."
+  },
+  {
+   "id": "ch47-u20-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The malignant variety of teratoma printed is:",
+   "opts": [
+    "Mature cystic teratoma",
+    "Struma ovarii",
+    "Monodermal teratoma",
+    "Immature teratoma"
+   ],
+   "ans": 3,
+   "exp": "The bracket prints malignant immature teratoma."
+  },
+  {
+   "id": "ch47-u20-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The monoclonal teratoma variety printed is:",
+   "opts": [
+    "Dermoid cyst",
+    "Immature teratoma",
+    "Struma ovarii",
+    "Carcinoid tumour"
+   ],
+   "ans": 2,
+   "exp": "'Monoclonal : Struma ovarii'."
+  },
+  {
+   "id": "ch47-u20-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "Name the five GCT varieties printed beyond the three teratoma arms.",
+   "opts": [
+    "Dysgerminoma, yolk sac tumour, embryonal cancer, choriocarcinoma and mixed type",
+    "Dysgerminoma, yolk sac tumour, embryonal cancer and choriocarcinoma only",
+    "Dysgerminoma, gonadoblastoma, choriocarcinoma and mixed type",
+    "Dysgerminoma, yolk sac tumour, gonadoblastoma and mixed type"
+   ],
+   "ans": 0,
+   "exp": "The bullets list dysgerminoma, yolk sac tumour, embryonal cancer, choriocarcinoma and mixed type."
+  },
+  {
+   "id": "ch47-u20-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "Yolk sac tumour is also named on the page as:",
+   "opts": [
+    "Endodermal sinus cyst",
+    "Embryonal sinus tumour",
+    "Endodermal sinus tumour",
+    "Mesodermal sinus tumour"
+   ],
+   "ans": 2,
+   "exp": "'Yolk sac tumor (endodermal sinus tumor)'."
+  },
+  {
+   "id": "ch47-u20-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "GCTs most commonly affect which group?",
+   "opts": [
+    "Postmenopausal women",
+    "Young girls (10-30 yrs)",
+    "Perimenopausal women",
+    "Pre-pubertal girls only"
+   ],
+   "ans": 1,
+   "exp": "'m/c : Young girls (10-30 yrs)'."
+  },
+  {
+   "id": "ch47-u20-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "GCTs are most commonly which sided?",
+   "opts": [
+    "B/L",
+    "Right sided",
+    "Left sided",
+    "U/L"
+   ],
+   "ans": 3,
+   "exp": "'U/L (m/c)' under features."
+  },
+  {
+   "id": "ch47-u20-q8",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "recall",
+   "q": "The better prognosis of GCTs is explained by:",
+   "opts": [
+    "Being diagnosed early",
+    "Chemoresistance",
+    "Slow growth",
+    "Unilaterality"
+   ],
+   "ans": 0,
+   "exp": "'Better prognosis : Diagnosed early'."
+  },
+  {
+   "id": "ch47-u20-q9",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Varieties and Features",
+   "page": 254,
+   "fmt": "match",
+   "q": "Match each GCT variety with its printed label - 1) Mature cystic teratoma 2) Immature teratoma 3) Struma ovarii 4) Yolk sac tumour ... A) Monoclonal B) Benign C) Endodermal sinus tumour D) Malignant ... choose:",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Mature is benign, immature malignant, struma ovarii monoclonal and yolk sac is endodermal sinus tumour."
+  },
+  {
+   "id": "ch47-u21-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The markers seen in dysgerminoma are:",
+   "opts": [
+    "AFP, LDH and hCG",
+    "LDH, hCG and PLAP",
+    "LDH and AFP",
+    "hCG and AFP"
+   ],
+   "ans": 1,
+   "exp": "The dysgerminoma row prints LDH, hCG and PLAP."
+  },
+  {
+   "id": "ch47-u21-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "PLAP expands to:",
+   "opts": [
+    "Placental acid phosphatase",
+    "Pregnancy associated alkaline protein",
+    "Placental alpha protein",
+    "Placental alkaline phosphatase"
+   ],
+   "ans": 3,
+   "exp": "The row prints 'PLAP (Placental alkaline phosphatase)'."
+  },
+  {
+   "id": "ch47-u21-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The marker never seen in dysgerminoma is:",
+   "opts": [
+    "LDH",
+    "hCG",
+    "AFP",
+    "PLAP"
+   ],
+   "ans": 2,
+   "exp": "The never seen column prints AFP for dysgerminoma."
+  },
+  {
+   "id": "ch47-u21-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The markers seen in yolk sac tumour are:",
+   "opts": [
+    "AFP and hCG",
+    "AFP, LDH and alpha-1 antitrypsin",
+    "hCG and LDH",
+    "AFP, hCG and LDH"
+   ],
+   "ans": 1,
+   "exp": "The yolk sac row prints AFP, LDH and alpha1 antitrypsin."
+  },
+  {
+   "id": "ch47-u21-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The marker never seen in yolk sac tumour is:",
+   "opts": [
+    "hCG",
+    "AFP",
+    "LDH",
+    "Alpha-1 antitrypsin"
+   ],
+   "ans": 0,
+   "exp": "The never seen column prints hCG for yolk sac tumour."
+  },
+  {
+   "id": "ch47-u21-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "Embryonal cancer shows which markers and never shows which?",
+   "opts": [
+    "AFP and LDH seen; hCG never",
+    "hCG and LDH seen; AFP never",
+    "AFP, hCG and LDH seen",
+    "AFP and hCG seen; LDH never seen"
+   ],
+   "ans": 3,
+   "exp": "The embryonal row prints AFP, hCG seen and LDH never."
+  },
+  {
+   "id": "ch47-u21-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "Choriocarcinoma shows which marker and never shows which pair?",
+   "opts": [
+    "hCG seen; AFP never",
+    "AFP seen; hCG never",
+    "hCG seen; AFP and LDH never seen",
+    "LDH seen; hCG never"
+   ],
+   "ans": 2,
+   "exp": "The choriocarcinoma row prints hCG with never seen AFP, LDH."
+  },
+  {
+   "id": "ch47-u21-q8",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "recall",
+   "q": "Which GCT is printed as having no tumour marker?",
+   "opts": [
+    "Dysgerminoma",
+    "Yolk sac tumour",
+    "Embryonal cancer",
+    "Teratoma"
+   ],
+   "ans": 3,
+   "exp": "The last row prints 'No tumor marker' for teratoma."
+  },
+  {
+   "id": "ch47-u21-q9",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "match",
+   "q": "Match each GCT with its never-seen marker - 1) Dysgerminoma 2) Yolk sac tumour 3) Embryonal cancer 4) Choriocarcinoma ... A) AFP and LDH B) AFP C) hCG D) LDH ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Dysgerminoma never shows AFP, yolk sac never hCG, embryonal never LDH and choriocarcinoma neither AFP nor LDH."
+  },
+  {
+   "id": "ch47-u21-q10",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "scenario",
+   "q": "Scenario: A 16-year-old with an ovarian mass has raised LDH and PLAP but normal AFP. The printed marker pattern fits:",
+   "opts": [
+    "Yolk sac tumour",
+    "Dysgerminoma",
+    "Embryonal cancer",
+    "Choriocarcinoma"
+   ],
+   "ans": 1,
+   "exp": "LDH with PLAP and absent AFP is the dysgerminoma row pattern."
+  },
+  {
+   "id": "ch47-u21-q11",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Germ Cell Tumour Markers Table",
+   "page": 255,
+   "fmt": "odd",
+   "q": "Odd one out - which marker is shared as 'seen' by both yolk sac tumour and embryonal cancer?",
+   "opts": [
+    "AFP",
+    "PLAP",
+    "Alpha-1 antitrypsin",
+    "LDH"
+   ],
+   "ans": 0,
+   "exp": "AFP appears in the seen column of both rows; PLAP is dysgerminoma-only, alpha-1 antitrypsin yolk-sac-only and LDH is never seen in embryonal cancer."
+  },
+  {
+   "id": "ch47-u22-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The most common GCT overall printed is:",
+   "opts": [
+    "Dysgerminoma > dermoid cyst",
+    "Immature teratoma > dermoid cyst",
+    "Dermoid cyst > yolk sac tumour",
+    "Dermoid cyst > dysgerminoma"
+   ],
+   "ans": 3,
+   "exp": "'m/c GCT : Dermoid cyst > Dysgerminoma'."
+  },
+  {
+   "id": "ch47-u22-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The most common germ cell cancer printed is:",
+   "opts": [
+    "Immature cystic teratoma",
+    "Dysgerminoma",
+    "Yolk sac tumour",
+    "Choriocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "'m/c germ cell cancer : Immature cystic teratoma'."
+  },
+  {
+   "id": "ch47-u22-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "recall",
+   "q": "In dysgenetic gonads the most common ovarian tumour printed is:",
+   "opts": [
+    "Dysgerminoma",
+    "Dermoid cyst",
+    "Gonadoblastoma",
+    "Granulosa cell tumour"
+   ],
+   "ans": 2,
+   "exp": "'m/c ovarian tumor : Gonadoblastoma' under dysgenetic gonads."
+  },
+  {
+   "id": "ch47-u22-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "recall",
+   "q": "In dysgenetic gonads the most common ovarian cancer printed is:",
+   "opts": [
+    "Gonadoblastoma",
+    "Dysgerminoma",
+    "Immature teratoma",
+    "Serous carcinoma"
+   ],
+   "ans": 1,
+   "exp": "'m/c ovarian cancer : Dysgerminoma' under dysgenetic gonads."
+  },
+  {
+   "id": "ch47-u22-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The best prognosis among GCTs belongs to:",
+   "opts": [
+    "Dermoid cyst",
+    "Dysgerminoma",
+    "Yolk sac tumour",
+    "Embryonal cancer"
+   ],
+   "ans": 1,
+   "exp": "'Best prognosis : Dysgerminoma'."
+  },
+  {
+   "id": "ch47-u22-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The worst prognosis among GCTs belongs to:",
+   "opts": [
+    "Immature teratoma",
+    "Choriocarcinoma",
+    "Embryonal cancer",
+    "Yolk sac tumour"
+   ],
+   "ans": 3,
+   "exp": "'Worst prognosis : Yolk sac tumor'."
+  },
+  {
+   "id": "ch47-u22-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "recall",
+   "q": "Yolk sac tumour presents with which acute feature on the page?",
+   "opts": [
+    "Acute abdomen",
+    "Chronic pelvic pain",
+    "Postmenopausal bleeding",
+    "Ascites only"
+   ],
+   "ans": 0,
+   "exp": "The bracket prints 'Progresses rapidly, presents with acute abdomen'."
+  },
+  {
+   "id": "ch47-u22-q8",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "match",
+   "q": "Match each superlative with its printed tumour - 1) m/c GCT 2) m/c germ cell cancer 3) Best prognosis GCT 4) Worst prognosis GCT ... A) Dysgerminoma B) Dermoid cyst C) Yolk sac tumour D) Immature cystic teratoma ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Dermoid is m/c GCT, immature teratoma m/c cancer, dysgerminoma best and yolk sac worst prognosis."
+  },
+  {
+   "id": "ch47-u22-q9",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Occurrence, Dysgenetic Gonads and Prognosis",
+   "page": 255,
+   "fmt": "tf",
+   "q": "True/False: Gonadoblastoma is the commonest ovarian tumour but dysgerminoma the commonest cancer in dysgenetic gonads.",
+   "opts": [
+    "True",
+    "False",
+    "False - both are dysgerminoma",
+    "False - both are gonadoblastoma"
+   ],
+   "ans": 0,
+   "exp": "The two sub-bullets print exactly that split."
+  },
+  {
+   "id": "ch47-u23-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "recall",
+   "q": "Dermoid cyst is the most common ovarian tumour in which three settings?",
+   "opts": [
+    "Reproductive age, postmenopause and torsion",
+    "Pregnancy, postmenopause and torsion",
+    "Reproductive age, pregnancy and infection",
+    "Reproductive age, pregnancy and as the cyst to undergo torsion"
+   ],
+   "ans": 3,
+   "exp": "The m/c ovarian tumor bracket lists those three settings."
+  },
+  {
+   "id": "ch47-u23-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "numeric",
+   "q": "Dermoid cysts are bilateral in what percentage of cases?",
+   "opts": [
+    "5%",
+    "20%",
+    "10%",
+    "30%"
+   ],
+   "ans": 2,
+   "exp": "'m/c unilateral : Bilateral in 10% cases'."
+  },
+  {
+   "id": "ch47-u23-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "recall",
+   "q": "How many germ cell layers are present in a dermoid cyst, and which is most common?",
+   "opts": [
+    "2 layers, ectodermal",
+    "All 3 layers present, ectodermal most common",
+    "All 3 layers, mesodermal most common",
+    "All 3 layers, endodermal most common"
+   ],
+   "ans": 1,
+   "exp": "'All 3 components of germ cell layers plus (m/c : Ectodermal)'."
+  },
+  {
+   "id": "ch47-u23-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "recall",
+   "q": "Dermoid cysts are mostly:",
+   "opts": [
+    "Malignant",
+    "Borderline",
+    "Premalignant",
+    "Benign"
+   ],
+   "ans": 3,
+   "exp": "'Mostly benign' closes the features."
+  },
+  {
+   "id": "ch47-u23-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "numeric",
+   "q": "Fill up: The malignant transformation risk of a dermoid cyst printed is 0.2-____ percent.",
+   "opts": [
+    "1",
+    "5",
+    "2",
+    "10"
+   ],
+   "ans": 2,
+   "exp": "'Risk : 0.2-2%'."
+  },
+  {
+   "id": "ch47-u23-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The most common malignant type arising in a dermoid cyst is:",
+   "opts": [
+    "Adenocarcinoma",
+    "Squamous cell carcinoma",
+    "Melanoma",
+    "Sarcoma"
+   ],
+   "ans": 1,
+   "exp": "'m/c type : Squamous cell carcinoma'."
+  },
+  {
+   "id": "ch47-u23-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The most common site of malignant change within a dermoid cyst is:",
+   "opts": [
+    "Rokitansky protuberance",
+    "Cyst wall",
+    "Septum",
+    "Hair ball"
+   ],
+   "ans": 0,
+   "exp": "'m/c site : Rokitansky protuberance'."
+  },
+  {
+   "id": "ch47-u23-q8",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The Rokitansky protuberance is described as:",
+   "opts": [
+    "Raised prominence giving rise to various components",
+    "Calcified focus within the wall",
+    "Pedicle of the cyst",
+    "Area of haemorrhage"
+   ],
+   "ans": 0,
+   "exp": "The bracket under the site prints that description."
+  },
+  {
+   "id": "ch47-u23-q9",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "recall",
+   "q": "The gross specimen figure on page 255 shows which two contents of a dermoid cyst?",
+   "opts": [
+    "Bone and cartilage",
+    "Tooth and hair",
+    "Sebaceous material and bone",
+    "Hair and thyroid tissue"
+   ],
+   "ans": 1,
+   "exp": "The caption prints 'Gross specimen of Dermoid cyst showing tooth & hair'."
+  },
+  {
+   "id": "ch47-u23-q10",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Features and Malignancy",
+   "page": 255,
+   "fmt": "match",
+   "q": "Match each dermoid fact with its printed value - 1) Bilaterality 2) Malignancy risk 3) m/c malignant type 4) m/c site of change ... A) Squamous cell carcinoma B) 10% C) Rokitansky protuberance D) 0.2-2% ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Bilateral 10%, risk 0.2-2%, squamous cell carcinoma and Rokitansky protuberance."
+  },
+  {
+   "id": "ch47-u24-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Ultrasound and Management",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The first USG finding printed for dermoid cyst is:",
+   "opts": [
+    "Dot and dash appearance",
+    "Whirlpool sign",
+    "Tip of iceberg sign",
+    "Cogwheel sign"
+   ],
+   "ans": 2,
+   "exp": "'1. Tip of iceberg sign' on page 256."
+  },
+  {
+   "id": "ch47-u24-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Ultrasound and Management",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The second USG finding printed is:",
+   "opts": [
+    "Tip of iceberg sign",
+    "String of pearls",
+    "Ground glass echoes",
+    "Dot and dash appearance"
+   ],
+   "ans": 3,
+   "exp": "'2. Dot & dash appearance' linked to sebacious material and hair."
+  },
+  {
+   "id": "ch47-u24-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Ultrasound and Management",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The dot and dash appearance corresponds to which contents?",
+   "opts": [
+    "Calcium and bone",
+    "Sebacious material + hair (white)",
+    "Mucin and septa",
+    "Blood and clot"
+   ],
+   "ans": 1,
+   "exp": "The leader line prints 'Sebacious material + Hair (white)'."
+  },
+  {
+   "id": "ch47-u24-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Ultrasound and Management",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Cystectomy for dermoid cyst carries which printed risk?",
+   "opts": [
+    "Increased risk of torsion",
+    "Increased risk of rupture",
+    "Increased risk of infection",
+    "Increased risk of malignancy"
+   ],
+   "ans": 0,
+   "exp": "'Cystectomy (up Risk of torsion)'."
+  },
+  {
+   "id": "ch47-u24-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Ultrasound and Management",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Oophorectomy for dermoid cyst is printed for which group?",
+   "opts": [
+    "Young girls",
+    "Pregnant women",
+    "Family completed",
+    "Incomplete family"
+   ],
+   "ans": 2,
+   "exp": "'Oophorectomy : Family completed'."
+  },
+  {
+   "id": "ch47-u24-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Ultrasound and Management",
+   "page": 256,
+   "fmt": "match",
+   "q": "Match each dermoid attribute with its printed value - 1) USG sign 1 2) USG sign 2 3) Cystectomy 4) Oophorectomy ... A) Family completed B) Tip of iceberg C) Torsion risk D) Dot and dash ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 3,
+   "exp": "Tip of iceberg and dot-dash are the signs; cystectomy risks torsion and oophorectomy suits completed families."
+  },
+  {
+   "id": "ch47-u24-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dermoid Cyst Ultrasound and Management",
+   "page": 256,
+   "fmt": "tf",
+   "q": "True/False: The white echoes of the dot and dash sign come from sebaceous material and hair.",
+   "opts": [
+    "False",
+    "True",
+    "False - from calcification",
+    "False - from air"
+   ],
+   "ans": 1,
+   "exp": "The label prints sebacious material + hair (white)."
+  },
+  {
+   "id": "ch47-u25-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Dysgerminoma holds which rank among GCTs?",
+   "opts": [
+    "1st m/c GCT",
+    "3rd m/c GCT",
+    "2nd m/c GCT",
+    "Most common malignant GCT overall"
+   ],
+   "ans": 2,
+   "exp": "'2nd m/c GCT' under features."
+  },
+  {
+   "id": "ch47-u25-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "numeric",
+   "q": "The bilaterality rate printed for dysgerminoma is:",
+   "opts": [
+    "15-20% B/L",
+    "10% B/L",
+    "30% B/L",
+    "50% B/L"
+   ],
+   "ans": 0,
+   "exp": "'U/L : m/c (15-20%; B/L)' - bilateral in 15-20%."
+  },
+  {
+   "id": "ch47-u25-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Which GCT carries the highest risk of bilaterality on the page?",
+   "opts": [
+    "Dysgerminoma",
+    "Dermoid cyst",
+    "Yolk sac tumour",
+    "Immature teratoma"
+   ],
+   "ans": 0,
+   "exp": "'Highest risk of bilaterality' under dysgerminoma."
+  },
+  {
+   "id": "ch47-u25-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Dysgerminoma is the most common ovarian cancer in which two settings?",
+   "opts": [
+    "Dysgenetic gonads and postmenopause",
+    "Dysgenetic gonads and pregnancy",
+    "Pregnancy and reproductive age",
+    "Childhood and postmenopause"
+   ],
+   "ans": 1,
+   "exp": "The bracket prints in dysgenetic gonads and in pregnancy."
+  },
+  {
+   "id": "ch47-u25-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Dysgerminoma is the only ovarian tumour that is:",
+   "opts": [
+    "Chemoresistant",
+    "Hormone responsive",
+    "Radiosensitive",
+    "Calcifying"
+   ],
+   "ans": 2,
+   "exp": "'Only radiosensitive ovarian tumor'."
+  },
+  {
+   "id": "ch47-u25-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The gross appearance printed for dysgerminoma is:",
+   "opts": [
+    "Cystic with hair and teeth",
+    "Honeycomb mucinous",
+    "White whorled firm",
+    "Fleshy, solid, lobulated, tan colour"
+   ],
+   "ans": 3,
+   "exp": "The gross line prints fleshy, solid, lobulated, tan colour."
+  },
+  {
+   "id": "ch47-u25-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The HPE of dysgerminoma shows nests of cells separated by:",
+   "opts": [
+    "Vascular septa",
+    "Necrotic debris",
+    "Fibrous septa",
+    "Calcified bands"
+   ],
+   "ans": 2,
+   "exp": "'Nest of cells separated by fibrous septa'."
+  },
+  {
+   "id": "ch47-u25-q8",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The septa in dysgerminoma contain which infiltrate?",
+   "opts": [
+    "Lymphocyte infiltration",
+    "Eosinophil infiltration",
+    "Plasma cells",
+    "Granulomas"
+   ],
+   "ans": 0,
+   "exp": "'Lymphocyte infiltration in septa plus'."
+  },
+  {
+   "id": "ch47-u25-q9",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The two figures on page 256 are captioned:",
+   "opts": [
+    "Gross of yolk sac tumour and HPE",
+    "Gross appearance of dysgerminoma and HPE",
+    "Gross of dysgerminoma and USG",
+    "Colpostat and HPE"
+   ],
+   "ans": 1,
+   "exp": "The captions print gross appearance of dysgerminoma and HPE."
+  },
+  {
+   "id": "ch47-u25-q10",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "match",
+   "q": "Match each dysgerminoma attribute with its printed value - 1) Rank 2) Bilaterality 3) Radiosensitivity 4) HPE ... A) Only radiosensitive ovarian tumour B) 2nd m/c GCT C) Lymphocytes in fibrous septa D) 15-20% bilateral ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Rank 2nd, bilaterality 15-20%, unique radiosensitivity and lymphocytic septa."
+  },
+  {
+   "id": "ch47-u25-q11",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Dysgerminoma",
+   "page": 256,
+   "fmt": "scenario",
+   "q": "Scenario: A 22-year-old with a dysgenetic gonad develops an ovarian malignancy. The printed most common cancer is:",
+   "opts": [
+    "Dysgerminoma",
+    "Gonadoblastoma",
+    "Immature teratoma",
+    "Serous carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Dysgerminoma is printed as m/c ovarian cancer in dysgenetic gonads."
+  },
+  {
+   "id": "ch47-u26-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Yolk sac tumour is printed as the:",
+   "opts": [
+    "Most benign GCT",
+    "Most common GCT",
+    "Most radiosensitive GCT",
+    "Most malignant GCT"
+   ],
+   "ans": 3,
+   "exp": "'Most malignant GCT' under features."
+  },
+  {
+   "id": "ch47-u26-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The prognosis of yolk sac tumour is worst because it is:",
+   "opts": [
+    "Chemoresistant",
+    "Bilateral",
+    "Rapidly progressing",
+    "Late presenting"
+   ],
+   "ans": 2,
+   "exp": "'Worst prognosis : Rapidly progressing tumor'."
+  },
+  {
+   "id": "ch47-u26-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "numeric",
+   "q": "The laterality printed for yolk sac tumour is:",
+   "opts": [
+    "80% unilateral",
+    "100% unilateral",
+    "50% bilateral",
+    "100% bilateral"
+   ],
+   "ans": 1,
+   "exp": "'100% unilateral' in the right column."
+  },
+  {
+   "id": "ch47-u26-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "recall",
+   "q": "Yolk sac tumour may present with which abdominal picture?",
+   "opts": [
+    "Chronic ascites",
+    "Bowel obstruction",
+    "Painless mass only",
+    "Acute abdomen +/-"
+   ],
+   "ans": 3,
+   "exp": "'Acute abdomen +/-' in the right column."
+  },
+  {
+   "id": "ch47-u26-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The HPE hallmark of yolk sac tumour is:",
+   "opts": [
+    "Schiller Duval body / glomeruloid body",
+    "Call Exner body",
+    "Psammoma body",
+    "Hobnail cells"
+   ],
+   "ans": 0,
+   "exp": "'HPE : Schiller Duval body/Glomeruloid body'."
+  },
+  {
+   "id": "ch47-u26-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "recall",
+   "q": "The Schiller Duval body is drawn as:",
+   "opts": [
+    "Central acidophilic material surrounded by follicle-like cells",
+    "Nests of cells with lymphocytic septa",
+    "Central capillaries surrounded by tumour cells, contained within cystic spaces",
+    "Signet ring cells with mucin"
+   ],
+   "ans": 2,
+   "exp": "The figure labels print central capillaries surrounded by tumor cells contained within cystic spaces."
+  },
+  {
+   "id": "ch47-u26-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "match",
+   "q": "Match each GCT with its printed HPE hallmark - 1) Dysgerminoma 2) Yolk sac tumour 3) Dermoid cyst malignant change ... A) Squamous cell carcinoma B) Lymphocytic fibrous septa C) Schiller Duval body ... choose:",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "Dysgerminoma shows lymphocytic septa, yolk sac Schiller Duval bodies and dermoid malignant change is squamous."
+  },
+  {
+   "id": "ch47-u26-q8",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "tf",
+   "q": "True/False: Yolk sac tumour is bilateral in a minority of cases on the printed page.",
+   "opts": [
+    "True",
+    "False - it is bilateral in 50%",
+    "False - bilaterality is not printed",
+    "False"
+   ],
+   "ans": 3,
+   "exp": "The page prints 100% unilateral."
+  },
+  {
+   "id": "ch47-u26-q9",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Yolk Sac Tumour",
+   "page": 256,
+   "fmt": "odd",
+   "q": "Odd one out - which feature contradicts the printed yolk sac tumour profile?",
+   "opts": [
+    "Most malignant GCT",
+    "Best prognosis among GCTs",
+    "100% unilateral",
+    "Schiller Duval body on HPE"
+   ],
+   "ans": 1,
+   "exp": "Best prognosis belongs to dysgerminoma; yolk sac has the worst."
+  },
+  {
+   "id": "ch47-u27-q1",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 249,
+   "fmt": "fillup",
+   "q": "Fill up: The investigation of choice printed for adnexal masses is ____.",
+   "opts": [
+    "TVS",
+    "CT scan",
+    "MRI",
+    "diagnostic laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "'Adnexal masses (IOC : TVS)' on page 249."
+  },
+  {
+   "id": "ch47-u27-q2",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 249,
+   "fmt": "fillup",
+   "q": "Fill up: Functional ovarian cysts are printed as occurring due to ____ disturbances.",
+   "opts": [
+    "vascular",
+    "infective",
+    "hormonal",
+    "autoimmune"
+   ],
+   "ans": 2,
+   "exp": "'Occurs d/t hormonal disturbances'."
+  },
+  {
+   "id": "ch47-u27-q3",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 249,
+   "fmt": "numeric",
+   "q": "Numeric: Give the follicle size defining a follicular cyst and the cyst size above which surgery is advised in reproductive age.",
+   "opts": [
+    ">= 2 cm follicle and > 5 cm cyst",
+    ">= 3 cm follicle and > 10 cm cyst",
+    ">= 3 cm follicle and > 7 cm cyst",
+    ">= 5 cm follicle and > 7 cm cyst"
+   ],
+   "ans": 2,
+   "exp": "Follicular cyst prints >=3cm; the management tree operates above 7 cm."
+  },
+  {
+   "id": "ch47-u27-q4",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "Numeric: The CA 125 thresholds printed for significance and for post-menopausal surgery are:",
+   "opts": [
+    "35 IU significant and >= 200 IU for surgery",
+    "100 IU significant and >= 35 IU for surgery",
+    "200 IU significant and >= 100 IU for surgery",
+    "200 IU significant and >= 35 IU for post-menopausal surgery"
+   ],
+   "ans": 3,
+   "exp": "Page 250 prints CA 125 >= 35 IU in the post-menopausal arm and '200 IU : Significant' in the note."
+  },
+  {
+   "id": "ch47-u27-q5",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "Numeric: Malignant transformation rates of an ovarian mass printed for post-menopausal and pre-menopausal women are:",
+   "opts": [
+    "7% and 30%",
+    "30% and 7%",
+    "30% and 10%",
+    "50% and 7%"
+   ],
+   "ans": 1,
+   "exp": "The note branches print post menopausal 30% and pre menopausal 7%."
+  },
+  {
+   "id": "ch47-u27-q6",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 249,
+   "fmt": "numeric",
+   "q": "Numeric: The malignant ultrasound column flags masses of what size and laterality?",
+   "opts": [
+    "B/L and > 10 cm",
+    "U/L and > 10 cm",
+    "B/L and > 5 cm",
+    "U/L and > 7 cm"
+   ],
+   "ans": 0,
+   "exp": "The malignant cell opens with B/L, > 10 cm size."
+  },
+  {
+   "id": "ch47-u27-q7",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 252,
+   "fmt": "scenario",
+   "q": "Scenario: A 45-year-old BRCA1 carrier asks about her ovarian cancer risk and its prevention. The printed figures are:",
+   "opts": [
+    "15% risk, prevented by BSO at 45 yrs",
+    "20% risk, prevented by annual TVS only",
+    "40% risk, prevented by OCP",
+    "40% risk, prevented by TAH + BSO at 35-40 yrs after family completion"
+   ],
+   "ans": 3,
+   "exp": "The BRCA1 block prints 40% with TAH + BSO at 35-40 yrs."
+  },
+  {
+   "id": "ch47-u27-q8",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 250,
+   "fmt": "scenario",
+   "q": "Scenario: A 12-year-old girl has an adnexal mass with raised AFP and LDH but normal hCG. The printed marker pattern and route are:",
+   "opts": [
+    "Dysgerminoma pattern; wait and watch",
+    "Yolk sac tumour pattern; surgery after investigations",
+    "Embryonal cancer pattern; surgery after investigations",
+    "Choriocarcinoma pattern; chemotherapy first"
+   ],
+   "ans": 1,
+   "exp": "AFP with LDH and never hCG is the yolk sac row; the pre-pubertal arm prints AFP, HCG, LDH raised then surgery after investigations."
+  },
+  {
+   "id": "ch47-u27-q9",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 251,
+   "fmt": "scenario",
+   "q": "Scenario: A 25-year-old at 18 weeks pregnancy has a 12 cm cyst with papillary projections on USG. The printed plan is:",
+   "opts": [
+    "Surgery in the second trimester",
+    "Wait and watch to term",
+    "Removal irrespective of gestation",
+    "Aspiration under USG"
+   ],
+   "ans": 0,
+   "exp": "Second trimester with malignancy features and >10 cm routes to surgery; the irrespective-of-gestation rule is for symptomatic cysts."
+  },
+  {
+   "id": "ch47-u27-q10",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 250,
+   "fmt": "scenario",
+   "q": "Scenario: A postmenopausal woman's cyst shows thick >3 mm septations with mural nodularity. Using the printed tree, the next step is:",
+   "opts": [
+    "Serial USG follow up",
+    "Wait and watch",
+    "Surgery after further investigations including CA 125",
+    "Reassurance"
+   ],
+   "ans": 2,
+   "exp": "Malignant USG features place her in the malignant column; the post-menopausal arm requires CA 125 then surgery after investigations."
+  },
+  {
+   "id": "ch47-u27-q11",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 253,
+   "fmt": "odd",
+   "q": "Odd one out - which tumour is NOT an epithelial ovarian tumour type on the printed list?",
+   "opts": [
+    "Brenner's tumour",
+    "Dysgerminoma",
+    "Clear cell tumour",
+    "Endometrioid tumour"
+   ],
+   "ans": 1,
+   "exp": "Dysgerminoma is a germ cell tumour; the epithelial list is serous, mucinous, Brenner's, endometrioid and clear cell."
+  },
+  {
+   "id": "ch47-u27-q12",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 249,
+   "fmt": "odd",
+   "q": "Odd one out - which cyst is NOT a functional ovarian cyst on the printed tree?",
+   "opts": [
+    "Follicular cyst",
+    "Corpus luteal cyst",
+    "Dermoid cyst",
+    "Theca lutein cyst"
+   ],
+   "ans": 2,
+   "exp": "The functional tree has only follicular, corpus luteal and theca lutein cysts."
+  },
+  {
+   "id": "ch47-u27-q13",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 255,
+   "fmt": "odd",
+   "q": "Odd one out - which marker never appears in the dysgerminoma 'seen' column?",
+   "opts": [
+    "LDH",
+    "hCG",
+    "PLAP",
+    "AFP"
+   ],
+   "ans": 3,
+   "exp": "AFP is the printed never-seen marker for dysgerminoma."
+  },
+  {
+   "id": "ch47-u27-q14",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 251,
+   "fmt": "odd",
+   "q": "Odd one out - which protective factor is printed under surgeries rather than ovulation?",
+   "opts": [
+    "Salpingectomy",
+    "Anovulation",
+    "OCP",
+    "Breast feeding"
+   ],
+   "ans": 0,
+   "exp": "The surgery column lists hysterectomy, tubal ligation and salpingectomy."
+  },
+  {
+   "id": "ch47-u27-q15",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 253,
+   "fmt": "tf",
+   "q": "True/False: Mucinous tumours are mostly unilateral while serous tumours are mostly bilateral on the printed table.",
+   "opts": [
+    "False",
+    "True",
+    "False - both are bilateral",
+    "False - both are unilateral"
+   ],
+   "ans": 1,
+   "exp": "The occurrence row prints mostly bilateral for serous and mostly unilateral for mucinous."
+  },
+  {
+   "id": "ch47-u27-q16",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 254,
+   "fmt": "tf",
+   "q": "True/False: Struma ovarii is printed as the monoclonal variety of teratoma.",
+   "opts": [
+    "True",
+    "False",
+    "False - it is the malignant variety",
+    "False - it is the benign variety"
+   ],
+   "ans": 0,
+   "exp": "'Monoclonal : Struma ovarii' in the teratoma bracket."
+  },
+  {
+   "id": "ch47-u27-q17",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 255,
+   "fmt": "tf",
+   "q": "True/False: Dermoid cyst is printed as the commonest ovarian tumour to undergo torsion and the commonest tumour in pregnancy.",
+   "opts": [
+    "False",
+    "False - only torsion",
+    "True",
+    "False - only pregnancy"
+   ],
+   "ans": 2,
+   "exp": "Both lines appear in the m/c bracket of pages 251 and 255."
+  },
+  {
+   "id": "ch47-u27-q18",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 256,
+   "fmt": "tf",
+   "q": "True/False: Dysgerminoma is the only radiosensitive ovarian tumour on the printed page.",
+   "opts": [
+    "False",
+    "False - granulosa cell tumour is also radiosensitive",
+    "False - none are radiosensitive",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "'Only radiosensitive ovarian tumor' under dysgerminoma."
+  },
+  {
+   "id": "ch47-u27-q19",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 254,
+   "fmt": "match",
+   "q": "Match each HPE hallmark with its tumour - 1) Psammoma body 2) Coffee bean nuclei 3) Hobnail cells 4) Schiller Duval body ... A) Clear cell tumour B) Serous epithelial tumour C) Yolk sac tumour D) Brenner's and granulosa cell tumour ... choose:",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Psammoma is serous, coffee bean Brenner's/granulosa, hobnail clear cell and Schiller Duval yolk sac."
+  },
+  {
+   "id": "ch47-u27-q20",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 254,
+   "fmt": "match",
+   "q": "Match each tumour with its printed laterality - 1) Brenner's tumour 2) Yolk sac tumour 3) Dysgerminoma 4) Dermoid cyst ... A) 100% unilateral B) Unilateral with 10% bilateral C) 15-20% bilateral D) Unilateral 100% ... choose:",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 1,
+   "exp": "Brenner's and yolk sac are 100% unilateral, dysgerminoma 15-20% bilateral and dermoid bilateral in 10%."
+  },
+  {
+   "id": "ch47-u27-q21",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 252,
+   "fmt": "match",
+   "q": "Match each WHO group with its printed rank and share - 1) Epithelial 2) Germ cell 3) Sex cord stromal ... A) 3rd m/c 3-5% B) m/c 90% C) 2nd m/c 5-8% ... choose:",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Epithelial 90%, germ cell 5-8% second and sex cord stromal 3-5% third."
+  },
+  {
+   "id": "ch47-u27-q22",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 251,
+   "fmt": "fillup",
+   "q": "Fill up: The theory naming excessive ovulation as a risk factor is the theory of ____ ovulation.",
+   "opts": [
+    "incessant repeated",
+    "continuous gonadotrophic",
+    "persistent follicular",
+    "incessant"
+   ],
+   "ans": 3,
+   "exp": "The row prints '(Theory of incessant ovulation)'."
+  },
+  {
+   "id": "ch47-u27-q23",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 256,
+   "fmt": "fillup",
+   "q": "Fill up: The USG sign of a dermoid cyst named after a floating mass is the tip of the ____ sign.",
+   "opts": [
+    "iceberg and dash",
+    "whirlpool",
+    "iceberg",
+    "cocoon"
+   ],
+   "ans": 2,
+   "exp": "'1. Tip of iceberg sign'."
+  },
+  {
+   "id": "ch47-u27-q24",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 256,
+   "fmt": "fillup",
+   "q": "Fill up: The brachy-equivalent applicator is absent here; instead name the dermoid USG appearance produced by white echoes of hair and sebum: dot and ____ appearance.",
+   "opts": [
+    "dot",
+    "stripe",
+    "speckle",
+    "dash"
+   ],
+   "ans": 3,
+   "exp": "'2. Dot & dash appearance' with the sebacious material + hair label."
+  },
+  {
+   "id": "ch47-u27-q25",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 251,
+   "fmt": "scenario",
+   "q": "Scenario: A nulliparous woman with early menarche, obesity and endometriosis asks about her risk category. The printed grouping is:",
+   "opts": [
+    "Controversial risk factors under estrogen",
+    "Proven risk factors under excessive estrogen",
+    "Proven ovulation risks only",
+    "Carcinogen exposure"
+   ],
+   "ans": 1,
+   "exp": "All four are the proven entries of the excessive estrogen row."
+  },
+  {
+   "id": "ch47-u27-q26",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 254,
+   "fmt": "scenario",
+   "q": "Scenario: Histology of an ovarian mass shows Walthard cell nests with coffee bean nuclei and transitional lining. The printed diagnosis and laterality are:",
+   "opts": [
+    "Brenner's tumour, unilateral 100%",
+    "Granulosa cell tumour, unilateral",
+    "Clear cell tumour, bilateral",
+    "Fibroma, unilateral"
+   ],
+   "ans": 0,
+   "exp": "The We BUST block prints those HPE features with unilateral 100%."
+  },
+  {
+   "id": "ch47-u27-q27",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 250,
+   "fmt": "numeric",
+   "q": "Numeric: The four-panel malignancy strip prints septations thicker than how many millimetres?",
+   "opts": [
+    "2 mm",
+    "4 mm",
+    "5 mm",
+    "3 mm"
+   ],
+   "ans": 3,
+   "exp": "The first caption prints Thick >3mm septations."
+  },
+  {
+   "id": "ch47-u27-q28",
+   "sec": "Germ Cell Tumors (GCT)",
+   "unit": "Complete Coverage: Figures, Numerics and Cross-page Comparisons",
+   "page": 252,
+   "fmt": "numeric",
+   "q": "Numeric: Lynch syndrome prints colorectal over endometrial cancer at what risk range, with ovarian risk at what percent?",
+   "opts": [
+    "50-60% and 15%",
+    "60-70% and 20%",
+    "60-70% and 40%",
+    "70-80% and 20%"
+   ],
+   "ans": 1,
+   "exp": "The Lynch lines print 60-70% risk for the colorectal-endometrial pair and 20% ovarian."
+  }
+ ]
+}

@@ -1,0 +1,1845 @@
+{
+ "chapter": 39,
+ "questions": [
+  {
+   "id": "ch39-u1-q1",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "In the source mechanism table, combined OCPs mainly produce ____ with suppression of ____ more than ____.",
+   "opts": [
+    "Implantation; AMH; inhibin",
+    "Anovulation; FSH; LH",
+    "Cervical dilatation; LH; FSH",
+    "Tubal occlusion; TSH; prolactin"
+   ],
+   "ans": 1,
+   "exp": "The first row names anovulation and writes reduced FSH more than reduced LH."
+  },
+  {
+   "id": "ch39-u1-q2",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "odd",
+   "q": "Which is NOT one of the other mechanisms listed for combined OCPs?",
+   "opts": [
+    "Permanent fimbrial scarring",
+    "Reduced tubal motility",
+    "Endometrial thinning",
+    "Thickened cervical mucus"
+   ],
+   "ans": 0,
+   "exp": "These are secondary reversible effects, not surgical or permanent tubal blockage."
+  },
+  {
+   "id": "ch39-u1-q3",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "The traditional LNG-containing POP acts mainly by ____.",
+   "opts": [
+    "Permanently blocking the cornua",
+    "Increasing the LH surge",
+    "Increasing endometrial proliferation",
+    "Thickening cervical mucus"
+   ],
+   "ans": 3,
+   "exp": "The source distinguishes the mucus action of traditional POPs from stronger ovulation suppression by desogestrel."
+  },
+  {
+   "id": "ch39-u1-q4",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "match",
+   "q": "Match 1) Desogestrel POP/implant/injection 2) Cu-IUCD with A) Inhibiting fertilisation through a local inflammatory effect B) Anovulation.",
+   "opts": [
+    "1-A, 2-B",
+    "Both B",
+    "1-B, 2-A",
+    "Both A"
+   ],
+   "ans": 2,
+   "exp": "These are the main-mechanism entries in consecutive source-table rows."
+  },
+  {
+   "id": "ch39-u1-q5",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "The source table lists the principal action of Mirena as preventing ____.",
+   "opts": [
+    "Cervical maturation at puberty",
+    "FSH secretion from the ovary",
+    "Sperm production",
+    "Implantation"
+   ],
+   "ans": 3,
+   "exp": "This is the source wording. LNG-IUS acts mainly through cervical mucus and local endometrial effects; it should not be taught as acting only after fertilisation."
+  },
+  {
+   "id": "ch39-u1-q6",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "Centchroman (Chhaya) is described as inhibiting implantation by making the ____ out of phase.",
+   "opts": [
+    "Ovary",
+    "Endometrium",
+    "Cervix",
+    "Seminal vesicle"
+   ],
+   "ans": 1,
+   "exp": "The final mechanism row identifies endometrial asynchrony."
+  },
+  {
+   "id": "ch39-u1-q7",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "The source additionally lists implantation inhibition for both ____ and ____.",
+   "opts": [
+    "HSG; HyCoSy",
+    "Desogestrel/implant/injection group; Cu-IUCD",
+    "Vasectomy; tubal ligation",
+    "Sildenafil; SSRI"
+   ],
+   "ans": 1,
+   "exp": "These are secondary-mechanism entries in the table. Contemporary counselling should emphasise prevention of ovulation/fertilisation rather than treating all methods as abortifacients."
+  },
+  {
+   "id": "ch39-u1-q8",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "odd",
+   "q": "Which is a permanent method rather than one of the source's long-acting reversible methods?",
+   "opts": [
+    "DMPA injection",
+    "Vasectomy",
+    "IUCD",
+    "Implant"
+   ],
+   "ans": 1,
+   "exp": "The source groups DMPA, implants and IUCDs as reversible, with vasectomy and tubal ligation as permanent. Some contemporary LARC definitions exclude injectables."
+  },
+  {
+   "id": "ch39-u1-q9",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "The female permanent method listed alongside vasectomy is ____.",
+   "opts": [
+    "Tubal ligation",
+    "DMPA",
+    "Mirena",
+    "Implanon"
+   ],
+   "ans": 0,
+   "exp": "Permanent sterilisation differs from a removable device or a repeat injection."
+  },
+  {
+   "id": "ch39-u1-q10",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "DMPA expands to depot ____ and is included in the national programme as ____.",
+   "opts": [
+    "Micronised progesterone acetate; Chhaya",
+    "Medroxyprogesterone acetate; Antara",
+    "Megestrol acetate; Mala-N",
+    "Medroxyprogesterone androgen; Saheli"
+   ],
+   "ans": 1,
+   "exp": "The programme name and drug expansion appear at the top of the DMPA box."
+  },
+  {
+   "id": "ch39-u1-q11",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "The DMPA schedule in this source is ____ by the ____ route every ____.",
+   "opts": [
+    "150 mg; intramuscular; 3 months",
+    "30 mg; intramuscular; 6 months",
+    "75 mg; oral; 1 month",
+    "150 micrograms; subcutaneous; 1 week"
+   ],
+   "ans": 0,
+   "exp": "The table specifies the intramuscular 150-mg three-monthly formulation, not every available DMPA formulation."
+  },
+  {
+   "id": "ch39-u1-q12",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "The source's DMPA repeat-dose window extends from ____ before to ____ after the due date.",
+   "opts": [
+    "4 weeks; 2 weeks",
+    "2 weeks; 4 weeks",
+    "1 day; 7 days",
+    "3 months; 6 months"
+   ],
+   "ans": 1,
+   "exp": "The missed-dose paragraph gives two weeks early and four weeks late as its window; follow applicable guidance clinically."
+  },
+  {
+   "id": "ch39-u1-q13",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "scenario",
+   "q": "A patient is more than four weeks late for DMPA under this protocol. What sequence is listed?",
+   "opts": [
+    "Give injection without pregnancy assessment and no backup",
+    "Exclude pregnancy, give injection, use backup for 7 days",
+    "Insert a second implant without assessment",
+    "Stop all contraception until the next year"
+   ],
+   "ans": 1,
+   "exp": "The late-dose branch explicitly adds UPT and seven days of backup."
+  },
+  {
+   "id": "ch39-u1-q14",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "DMPA's contraceptive mechanism in the dedicated box is ____.",
+   "opts": [
+    "Permanent tubal fibrosis",
+    "Increased estrogen synthesis",
+    "Anovulation",
+    "Seminal fructose depletion"
+   ],
+   "ans": 2,
+   "exp": "The DMPA box repeats anovulation as the mechanism."
+  },
+  {
+   "id": "ch39-u1-q15",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "match",
+   "q": "Match two source DMPA advantages: 1) Epilepsy 2) Sickle cell disease with A) Reduced sickling B) Reduced seizure frequency.",
+   "opts": [
+    "1-B, 2-A",
+    "Both A",
+    "Both B",
+    "1-A, 2-B"
+   ],
+   "ans": 0,
+   "exp": "These are the two advantages shown under DMPA; treatment suitability remains individualised."
+  },
+  {
+   "id": "ch39-u1-q16",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "Return of fertility after DMPA is described as delayed by ____ in this source.",
+   "opts": [
+    "12–18 months",
+    "Less than 24 hours",
+    "Exactly 3 weeks",
+    "1–2 days"
+   ],
+   "ans": 0,
+   "exp": "The scan says 12–18 months. Delays vary and DMPA does not cause permanent infertility."
+  },
+  {
+   "id": "ch39-u1-q17",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "odd",
+   "q": "Which is NOT a DMPA disadvantage listed here?",
+   "opts": [
+    "Reduced bone mineral density",
+    "Irregular bleeding",
+    "Delayed return of fertility",
+    "Permanent ovarian follicle destruction"
+   ],
+   "ans": 3,
+   "exp": "The listed effects do not imply permanent destruction of ovarian reserve."
+  },
+  {
+   "id": "ch39-u1-q18",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "The commonest reason for stopping DMPA in these notes is ____.",
+   "opts": [
+    "Irregular bleeding",
+    "Hyperkalaemia",
+    "Acute infertility within 24 hours",
+    "Recurrent tubal torsion"
+   ],
+   "ans": 0,
+   "exp": "Irregular bleeding is underlined as the most common discontinuation reason."
+  },
+  {
+   "id": "ch39-u1-q19",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "scenario",
+   "q": "A woman has epilepsy but takes no antiepileptic medication. What does the source allow?",
+   "opts": [
+    "No hormonal method under any circumstance",
+    "Only permanent sterilisation",
+    "Any otherwise suitable contraceptive, including OCPs",
+    "Only emergency contraception"
+   ],
+   "ans": 2,
+   "exp": "The no-medication branch does not impose an epilepsy-only ban on OCPs."
+  },
+  {
+   "id": "ch39-u1-q20",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "scenario",
+   "q": "The source advises progesterone-only contraception in a patient on antiepileptics. What qualification prevents an overbroad rule?",
+   "opts": [
+    "Only estrogen dose matters; the particular antiepileptic does not matter",
+    "All progestin-only formulations retain identical efficacy with enzyme inducers",
+    "Lamotrigine and enzyme-inducing agents have interchangeable interaction profiles",
+    "Interactions depend on the antiepileptic and contraceptive formulation"
+   ],
+   "ans": 3,
+   "exp": "The source simplifies drug interactions; enzyme-inducing drugs can reduce some hormonal methods, while DMPA and IUD options differ."
+  },
+  {
+   "id": "ch39-u1-q21",
+   "sec": "Contraceptive mechanisms, DMPA and epilepsy",
+   "unit": "Contraceptive mechanisms, DMPA and epilepsy",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "Combined OCPs may reduce ____ levels/effectiveness, potentially increasing seizures.",
+   "opts": [
+    "CFTR protein",
+    "Eosin",
+    "Lamotrigine",
+    "Methylene blue"
+   ],
+   "ans": 2,
+   "exp": "The explicit interaction note is about lamotrigine; specialist advice is needed when starting or stopping estrogen-containing contraception."
+  },
+  {
+   "id": "ch39-u2-q1",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "match",
+   "q": "Match estrogen-dose categories: 1) High 2) Low 3) Very low with A) EE <20 micrograms B) EE ≥50 micrograms C) EE <50 micrograms, e.g. 30.",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "The dose categories overlap as broad source groupings; the very-low subset is below twenty."
+  },
+  {
+   "id": "ch39-u2-q2",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "The minimum possible EE dose named in the notes is ____, described as a ____ pill.",
+   "opts": [
+    "30 micrograms; high-dose",
+    "75 micrograms; minipill",
+    "50 micrograms; very-low-dose",
+    "10 micrograms; Lo Loestrin"
+   ],
+   "ans": 3,
+   "exp": "Ten micrograms is the minimum figure written in this classification box."
+  },
+  {
+   "id": "ch39-u2-q3",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "match",
+   "q": "Match progestin generation: 1) First 2) Second 3) Fourth with A) Drospirenone B) Norethindrone C) Levonorgestrel.",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Norethindrone, LNG and drospirenone occupy these generation labels in the source."
+  },
+  {
+   "id": "ch39-u2-q4",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "odd",
+   "q": "Which is NOT a third-generation progestin in this table?",
+   "opts": [
+    "Drospirenone",
+    "Gestodene",
+    "Desogestrel",
+    "Norgestimate"
+   ],
+   "ans": 0,
+   "exp": "Drospirenone is fourth generation; the other three are grouped as least androgenic third-generation agents here."
+  },
+  {
+   "id": "ch39-u2-q5",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "The source describes third-generation progestins as having the least ____ side effects.",
+   "opts": [
+    "Anticoagulant",
+    "Androgenic",
+    "Thermogenic",
+    "Antimicrobial"
+   ],
+   "ans": 1,
+   "exp": "The classification emphasises reduced androgenicity; other safety differences still require separate consideration."
+  },
+  {
+   "id": "ch39-u2-q6",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "Drospirenone has ____ and ____ actions.",
+   "opts": [
+    "Antiandrogenic; antimineralocorticoid",
+    "Antifungal; antibacterial",
+    "Estrogenic; glucocorticoid only",
+    "Androgenic; mineralocorticoid"
+   ],
+   "ans": 0,
+   "exp": "Its antimineralocorticoid action is linked to the source's weight-loss and potassium annotations."
+  },
+  {
+   "id": "ch39-u2-q7",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "scenario",
+   "q": "Which electrolyte can rise with drospirenone's antimineralocorticoid action?",
+   "opts": [
+    "Potassium",
+    "Calcium",
+    "Sodium",
+    "Chloride alone"
+   ],
+   "ans": 0,
+   "exp": "Potassium elevation is explicitly written below drospirenone."
+  },
+  {
+   "id": "ch39-u2-q8",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "The contraindication mnemonic starts '____ have various schemes to provide home loans during May.'",
+   "opts": [
+    "Hospitals",
+    "Teachers",
+    "Banks",
+    "Clinics"
+   ],
+   "ans": 2,
+   "exp": "This reproduces the source mnemonic; the actual contraindication list, not the mnemonic alone, determines meaning."
+  },
+  {
+   "id": "ch39-u2-q9",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "scenario",
+   "q": "A woman has a history of breast cancer and requests combined OCPs. How is this categorised in the source?",
+   "opts": [
+    "Listed as a non-contraceptive indication",
+    "Listed as a contraindication",
+    "Listed as a reason to increase EE dose",
+    "Listed as a reason to prefer drospirenone automatically"
+   ],
+   "ans": 1,
+   "exp": "Breast-cancer history opens the contraindication list. Actual eligibility categories depend on current/past disease details and guideline."
+  },
+  {
+   "id": "ch39-u2-q10",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "For hypertension, the notes attribute ____ to WHO and ____ to CDC as OCP thresholds.",
+   "opts": [
+    "≥160/100; ≥140/90 mmHg",
+    "≥140/90; ≥160/100 mmHg",
+    "≥120/80; ≥180/120 mmHg",
+    "≥180/120; ≥120/80 mmHg"
+   ],
+   "ans": 0,
+   "exp": "These are the source's attributions. They oversimplify medical-eligibility categories; ≥140/90 is not uniformly an absolute category-4 contraindication."
+  },
+  {
+   "id": "ch39-u2-q11",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "odd",
+   "q": "Which is NOT in the source's thrombotic/cardiovascular contraindication cluster?",
+   "opts": [
+    "Prior venous thrombosis",
+    "Lupus anticoagulant positivity",
+    "Prior stroke",
+    "Isolated uncomplicated dysmenorrhoea"
+   ],
+   "ans": 3,
+   "exp": "The cluster also includes arterial thrombosis, MI and CAD; dysmenorrhoea is instead a non-contraceptive use."
+  },
+  {
+   "id": "ch39-u2-q12",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "The age threshold attached to smoking in the OCP contraindication list is ____.",
+   "opts": [
+    "≥35 years",
+    "≥25 years",
+    "≥60 years only",
+    "≥45 years only"
+   ],
+   "ans": 0,
+   "exp": "Smoking at age 35 or older is the source trigger; exact eligibility also depends on smoking intensity and method."
+  },
+  {
+   "id": "ch39-u2-q13",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "match",
+   "q": "Match source reproductive-state cautions: 1) Pregnancy 2) Early postpartum 3) Cardiac history with A) <21 days B) Existing pregnancy C) Peripartum cardiomyopathy.",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "All three appear in one contraindication line in the notes; current eligibility requires context."
+  },
+  {
+   "id": "ch39-u2-q14",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "The lipid disorder specifically listed as an OCP contraindication is ____.",
+   "opts": [
+    "Hypertriglyceridaemia",
+    "Isolated low LDL in every case",
+    "Isolated low HDL in every case",
+    "Low triglycerides"
+   ],
+   "ans": 0,
+   "exp": "The source names raised triglycerides, not all lipid profiles indiscriminately."
+  },
+  {
+   "id": "ch39-u2-q15",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "odd",
+   "q": "Which is NOT in the source's hepatic contraindication cluster?",
+   "opts": [
+    "Simple ovarian cyst",
+    "Liver cancer",
+    "Hepatic adenoma",
+    "Abnormal liver function"
+   ],
+   "ans": 0,
+   "exp": "A history of cholestasis in pregnancy is also listed; hepatic eligibility depends on diagnosis and severity rather than the cluster alone."
+  },
+  {
+   "id": "ch39-u2-q16",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "The diabetes qualifier attached to the OCP contraindication is ____.",
+   "opts": [
+    "Vasculopathy",
+    "Any family history alone",
+    "Diet-controlled gestational diabetes in the remote past alone",
+    "A single normal glucose result"
+   ],
+   "ans": 0,
+   "exp": "The source says diabetes with vascular disease, not all diabetes without distinction."
+  },
+  {
+   "id": "ch39-u2-q17",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "scenario",
+   "q": "Which migraine subtype is explicitly listed as an OCP contraindication?",
+   "opts": [
+    "Tension-type headache",
+    "Migraine with aura",
+    "Every mild headache equally",
+    "Mittelschmerz without headache"
+   ],
+   "ans": 1,
+   "exp": "Aura distinguishes this contraindication from menstrual migraine discussed under uses."
+  },
+  {
+   "id": "ch39-u2-q18",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "The commonest OCP side effect in the notes is ____ bleeding, particularly with ____ estrogen doses.",
+   "opts": [
+    "Irregular/breakthrough; low",
+    "Regular withdrawal; high",
+    "Postmenopausal; absent",
+    "Implantation; supraphysiological"
+   ],
+   "ans": 0,
+   "exp": "Low estrogen can provide less endometrial stability; breakthrough bleeding is the noted common effect."
+  },
+  {
+   "id": "ch39-u2-q19",
+   "sec": "OCP formulations, contraindications and cautions",
+   "unit": "OCP formulations, contraindications and cautions",
+   "page": 212,
+   "fmt": "fillup",
+   "q": "Before elective surgery with anticipated immobilisation, OCPs are stopped ____ beforehand in this source.",
+   "opts": [
+    "24 hours",
+    "4 weeks",
+    "6 months",
+    "3 days"
+   ],
+   "ans": 1,
+   "exp": "The note gives four weeks, reflecting thrombotic risk considerations in major immobilising surgery."
+  },
+  {
+   "id": "ch39-u3-q1",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "OCPs can be started at any time if appropriate, but the ideal cycle-day window given is ____.",
+   "opts": [
+    "Days 21–26",
+    "Days 12–14",
+    "Days 7–10",
+    "Days 1–5"
+   ],
+   "ans": 3,
+   "exp": "The method-of-consumption box gives D1–D5 as ideal; pregnancy exclusion is important for other starts."
+  },
+  {
+   "id": "ch39-u3-q2",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "Starting OCPs after day 5 requires backup for ____ in the source.",
+   "opts": [
+    "48 hours",
+    "24 hours",
+    "3 months",
+    "7 days"
+   ],
+   "ans": 3,
+   "exp": "This is separate from the 48-hour backup period later used for delayed POPs."
+  },
+  {
+   "id": "ch39-u3-q3",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "Routine OCP use is one pill ____ at ____.",
+   "opts": [
+    "Weekly; any time",
+    "On alternate days; bedtime only",
+    "Monthly; ovulation",
+    "Daily; the same time"
+   ],
+   "ans": 3,
+   "exp": "The daily same-time instruction supports consistent adherence."
+  },
+  {
+   "id": "ch39-u3-q4",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "A 28-tablet pack in this example contains ____ hormonal tablets plus ____ tablets of ____.",
+   "opts": [
+    "7; 21; ethinyl estradiol",
+    "14; 14; clomiphene",
+    "21; 7; ferrous fumarate",
+    "24; 4; levonorgestrel only"
+   ],
+   "ans": 2,
+   "exp": "The source's example is a 21-active/7-iron pack, not every 28-tablet product."
+  },
+  {
+   "id": "ch39-u3-q5",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "scenario",
+   "q": "In the source's 28-tablet example, what should happen despite menstruation occurring?",
+   "opts": [
+    "Restart only after a positive LH kit",
+    "Stop pills until bleeding has ceased for a month",
+    "Take iron tablets indefinitely instead of active pills",
+    "Start the fresh pack as scheduled"
+   ],
+   "ans": 3,
+   "exp": "The pack instruction continues into a fresh pack; bleeding should not create an extra hormone-free gap."
+  },
+  {
+   "id": "ch39-u3-q6",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "In the 21-tablet example, the routine pattern is ____.",
+   "opts": [
+    "One daily for 1 week, then 3 weeks off",
+    "Only on days with intercourse",
+    "One daily for 3 weeks, then 1 week off",
+    "Two daily for 21 days, then 14 days off"
+   ],
+   "ans": 2,
+   "exp": "The source describes three weeks of pills and one week off."
+  },
+  {
+   "id": "ch39-u3-q7",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "scenario",
+   "q": "The 21-tablet box also says to start the next pack on the first menstrual day. What is the key safety clarification?",
+   "opts": [
+    "Always wait for a full extra week after menstruation",
+    "Do not extend the scheduled hormone-free interval while waiting for bleeding",
+    "Menstruation is required to prove tubal patency",
+    "Bleeding cancels the need for all future pills"
+   ],
+   "ans": 1,
+   "exp": "The source wording is ambiguous; a new pack follows the product schedule rather than an unpredictable bleed."
+  },
+  {
+   "id": "ch39-u3-q8",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "match",
+   "q": "Match regimens: 1) 21/7 2) 24/4 with A) 24 hormonal days plus 4 off B) 21 hormonal days plus 7 off.",
+   "opts": [
+    "1-A, 2-B",
+    "Both B",
+    "Both A",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "The numbers represent hormonal exposure and the hormone-free interval in each source regimen."
+  },
+  {
+   "id": "ch39-u3-q9",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "The notes attribute ____ efficacy and ____ side effects to the 24/4 regimen.",
+   "opts": [
+    "Equal; universally absent",
+    "Better; fewer",
+    "Lower; irreversible",
+    "Worse; more"
+   ],
+   "ans": 1,
+   "exp": "These are the two arrows beneath 24/4; they are the source's comparison rather than a guarantee for every formulation."
+  },
+  {
+   "id": "ch39-u3-q10",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "Multiphasic pills contain ____ and are labelled ____ in this source.",
+   "opts": [
+    "Only iron tablets; permanent",
+    "Different doses within one pack; obsolete",
+    "No hormones; emergency-only",
+    "Identical doses in every pill; most preferred"
+   ],
+   "ans": 1,
+   "exp": "The source uses the label obsolete; multiphasic products still exist, so that label is not a universal availability claim."
+  },
+  {
+   "id": "ch39-u3-q11",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "Post-pill amenorrhoea is attributed in the diagram to endometrial thinning by ____.",
+   "opts": [
+    "TSH",
+    "hCG",
+    "Progesterone/progestin",
+    "Inhibin B"
+   ],
+   "ans": 2,
+   "exp": "The source diagram distinguishes delayed bleeding from permanent loss of fertility."
+  },
+  {
+   "id": "ch39-u3-q12",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "Return of fertility after stopping OCPs is described as rapid, within ____.",
+   "opts": [
+    "5 years",
+    "2 years",
+    "3 months",
+    "12–18 months"
+   ],
+   "ans": 2,
+   "exp": "This contrasts with the longer delay described for DMPA."
+  },
+  {
+   "id": "ch39-u3-q13",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "scenario",
+   "q": "Under the page's 'missed 1 or 2 pills' line, what action is stated?",
+   "opts": [
+    "Take one ASAP, add seven days of backup, then take a seven-day break",
+    "Take two daily until the pack ends, adding a seven-day hormone-free interval",
+    "Take one ASAP or two at the scheduled time; no backup is listed",
+    "Omit the missed dose, finish the pack, and use backup for forty-eight hours"
+   ],
+   "ans": 2,
+   "exp": "This tests the printed source algorithm, not a universal current missed-pill instruction."
+  },
+  {
+   "id": "ch39-u3-q14",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "scenario",
+   "q": "The next source heading says 'missed ≥2 pills', overlapping the '1 or 2' line. What should the learner recognise?",
+   "opts": [
+    "Two missed pills never matter for any product",
+    "The exact-two-pill case is internally inconsistent and needs product/current-guideline advice",
+    "Both contradictory lines can be followed simultaneously",
+    "Only ferrous fumarate can restore ovulation suppression"
+   ],
+   "ans": 1,
+   "exp": "The overlapping headings must be flagged rather than choosing an unsafe unqualified instruction."
+  },
+  {
+   "id": "ch39-u3-q15",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "Under the source's missed-≥2-pill pathway, backup is advised for ____.",
+   "opts": [
+    "1 hour",
+    "48 hours",
+    "6 months",
+    "7 days"
+   ],
+   "ans": 3,
+   "exp": "The seven-day backup instruction appears in the general branch and again under week 1/2."
+  },
+  {
+   "id": "ch39-u3-q16",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "fillup",
+   "q": "The missed-pill branch names emergency contraception when unprotected intercourse occurred in the previous ____.",
+   "opts": [
+    "3 months",
+    "7 minutes",
+    "72 hours",
+    "14 days"
+   ],
+   "ans": 2,
+   "exp": "This is the source's specified interval; current emergency-method windows and indications are method-dependent."
+  },
+  {
+   "id": "ch39-u3-q17",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "scenario",
+   "q": "In source weeks 1–2 after multiple missed pills, which pack action is written?",
+   "opts": [
+    "Double every future daily dose indefinitely",
+    "Take only iron tablets for the rest of the month",
+    "Take one immediately and complete the pack on schedule",
+    "Discard all active tablets and wait for menstruation"
+   ],
+   "ans": 2,
+   "exp": "The action is immediate replacement plus continuing the pack, with backup and EC assessment as stated."
+  },
+  {
+   "id": "ch39-u3-q18",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "scenario",
+   "q": "In source week 3 after multiple missed pills, how is the hormone-free gap handled?",
+   "opts": [
+    "Finish active pills and immediately start the next pack, omitting non-hormonal pills",
+    "Take iron tablets for two consecutive weeks",
+    "Wait for a positive pregnancy test before resuming",
+    "Add an extra seven pill-free days"
+   ],
+   "ans": 0,
+   "exp": "The week-3 branch avoids an extended hormone-free interval."
+  },
+  {
+   "id": "ch39-u3-q19",
+   "sec": "OCP consumption, regimens and missed-pill source algorithm",
+   "unit": "OCP consumption, regimens and missed-pill source algorithm",
+   "page": 213,
+   "fmt": "tf",
+   "q": "I) The missed-pill source algorithm varies by week of the pack. II) It advises an extra pill-free week after missed pills in week 3.",
+   "opts": [
+    "I false; II true",
+    "Both true",
+    "Both false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "Week 3 specifically calls for a new pack without the non-hormonal gap."
+  },
+  {
+   "id": "ch39-u4-q1",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "The source identifies OCPs as a drug of choice for ____ cycles and for ____.",
+   "opts": [
+    "Ovulatory; tubal obstruction",
+    "Irregular; hirsutism",
+    "Regular; azoospermia",
+    "Absent; congenital absence of uterus"
+   ],
+   "ans": 1,
+   "exp": "Irregular cycles and hirsutism are the first two non-contraceptive uses."
+  },
+  {
+   "id": "ch39-u4-q2",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "scenario",
+   "q": "A patient has acne associated with excess androgens. Is this among the source's non-contraceptive OCP uses?",
+   "opts": [
+    "No, only bacterial vaginitis is listed",
+    "Only if both tubes are surgically blocked",
+    "Yes, androgen-associated acne is listed",
+    "No, OCPs are listed solely for fertilisation enhancement"
+   ],
+   "ans": 2,
+   "exp": "Acne with raised androgens is the third use."
+  },
+  {
+   "id": "ch39-u4-q3",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "odd",
+   "q": "Which is NOT one of the source's AUB-related lesion examples for symptom control with OCPs?",
+   "opts": [
+    "Hydrosalpinx",
+    "Endometriosis",
+    "Fibroid",
+    "Polyp"
+   ],
+   "ans": 0,
+   "exp": "The use concerns bleeding control, not definitive removal of every lesion; hydrosalpinx is a tubal condition."
+  },
+  {
+   "id": "ch39-u4-q4",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "scenario",
+   "q": "Why can OCPs help mittelschmerz and dysmenorrhoea in this source?",
+   "opts": [
+    "They increase follicular rupture frequency",
+    "They cause permanent tubal scarring",
+    "They increase every endometrial prostaglandin response",
+    "They make cycles anovulatory and reduce cyclical symptoms"
+   ],
+   "ans": 3,
+   "exp": "The source groups these uses under cycles made anovulatory."
+  },
+  {
+   "id": "ch39-u4-q5",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "odd",
+   "q": "Which is NOT in the anovulation-linked symptom/use list?",
+   "opts": [
+    "Migraine with aura as an indication for combined OCPs",
+    "Ovarian cysts",
+    "Endometriosis",
+    "Menstrual migraine"
+   ],
+   "ans": 0,
+   "exp": "Aura is a contraindication in the preceding page; menstrual migraine without aura is a distinct context."
+  },
+  {
+   "id": "ch39-u4-q6",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "Mittelschmerz is pain occurring during ____.",
+   "opts": [
+    "Postmenopausal atrophy only",
+    "Semen liquefaction",
+    "Ovulation",
+    "Implant insertion"
+   ],
+   "ans": 2,
+   "exp": "The source defines the term beside its non-contraceptive use."
+  },
+  {
+   "id": "ch39-u4-q7",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "Estrogen plus progesterone is also listed for ____ and for ____ syndrome.",
+   "opts": [
+    "Vasectomy; Young",
+    "HRT; Turner",
+    "TB culture; Kartagener",
+    "ICSI; Klinefelter"
+   ],
+   "ans": 1,
+   "exp": "The final non-contraceptive group concerns hormone replacement and Turner syndrome."
+  },
+  {
+   "id": "ch39-u4-q8",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "A general OCP advantage repeated here is easy return of ____.",
+   "opts": [
+    "Fertility",
+    "Tubal occlusion",
+    "Permanent amenorrhoea",
+    "CFTR activity"
+   ],
+   "ans": 0,
+   "exp": "This reinforces reversibility rather than a permanent sterilising effect."
+  },
+  {
+   "id": "ch39-u4-q9",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "The source reports OCP failure rates of ____ for typical use and ____ for perfect use.",
+   "opts": [
+    "50%; 30%",
+    "1–2%; 15–20%",
+    "20–30%; 10–15%",
+    "0–8%; 0–1%"
+   ],
+   "ans": 3,
+   "exp": "These are source ranges; real-world counselling uses method- and population-specific estimates."
+  },
+  {
+   "id": "ch39-u4-q10",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "odd",
+   "q": "Which is NOT in the immediate tolerability-effect list?",
+   "opts": [
+    "Permanent ovarian failure",
+    "Breast tenderness",
+    "Nausea/vomiting",
+    "Bloating"
+   ],
+   "ans": 0,
+   "exp": "The listed symptoms are adverse effects, not destruction of ovarian function."
+  },
+  {
+   "id": "ch39-u4-q11",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "The source attributes the breast-cancer risk annotation to ____ and VTE risk to ____.",
+   "opts": [
+    "hCG; TSH",
+    "Progesterone/progestin; estrogen",
+    "Inhibin B; AMH",
+    "Estrogen; FSH"
+   ],
+   "ans": 1,
+   "exp": "These are the source's hormone attributions; actual cancer-risk associations are more complex than a single-hormone explanation."
+  },
+  {
+   "id": "ch39-u4-q12",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "scenario",
+   "q": "Which exposure amplifies both the VTE/MI cautions in the source?",
+   "opts": [
+    "Routine sterile semen collection",
+    "Prior HyCoSy alone",
+    "Smoking",
+    "Daily folic acid"
+   ],
+   "ans": 2,
+   "exp": "Smoking is repeatedly identified in the vascular-risk annotations."
+  },
+  {
+   "id": "ch39-u4-q13",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "The source particularly highlights stroke risk in ____ and ____ patients using OCPs.",
+   "opts": [
+    "Young; otherwise risk-free only",
+    "Nonsmokers; normotensive only",
+    "Patients with isolated corrected anaemia; all donors",
+    "Smokers; hypertensive"
+   ],
+   "ans": 3,
+   "exp": "The stroke line names smoking and hypertension as risk amplifiers."
+  },
+  {
+   "id": "ch39-u4-q14",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "The infection annotations list increased ____ and ____ infection risk, despite reduced overall PID risk.",
+   "opts": [
+    "Candidiasis; chlamydia",
+    "Malaria; syphilis",
+    "Tuberculosis; HIV",
+    "Influenza; HPV eradication"
+   ],
+   "ans": 0,
+   "exp": "These are the source's associations; OCPs do not protect against STIs and these claims should not replace condom counselling."
+  },
+  {
+   "id": "ch39-u4-q15",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "The source attributes its reduced-overall-PID annotation to ____.",
+   "opts": [
+    "Potassium",
+    "Progesterone/progestin",
+    "CFTR",
+    "Fructose"
+   ],
+   "ans": 1,
+   "exp": "The parenthesis gives progesterone as the mechanism-related explanation in the notes."
+  },
+  {
+   "id": "ch39-u4-q16",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "match",
+   "q": "Match source tumour associations: 1) Increased/reversible 2) Decreased 3) No effect with A) Liver/gallbladder cancer B) Breast/cervical cancer and hepatic adenoma C) Endometrial/ovarian/colon cancer.",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 2,
+   "exp": "This reproduces the three-column source chart; it is not a complete contemporary causal-risk summary."
+  },
+  {
+   "id": "ch39-u4-q17",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "odd",
+   "q": "Which belongs to the source's reduced-risk rather than increased-risk column?",
+   "opts": [
+    "Cervical cancer",
+    "Hepatic adenoma",
+    "Breast cancer",
+    "Ovarian cancer"
+   ],
+   "ans": 3,
+   "exp": "Ovarian cancer is in the protective column, while the other three are in the increased/reversible column."
+  },
+  {
+   "id": "ch39-u4-q18",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "Endometrial-cancer protection is attributed in the chart to ____.",
+   "opts": [
+    "Unopposed estrogen",
+    "Hyperprolactinaemia",
+    "Progesterone/progestin",
+    "LH surges"
+   ],
+   "ans": 2,
+   "exp": "Progestin opposes endometrial estrogenic proliferation."
+  },
+  {
+   "id": "ch39-u4-q19",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "fillup",
+   "q": "The two nonmalignant conditions also placed in the source's reduced-risk column are ____.",
+   "opts": [
+    "Benign breast disease and ovarian cysts",
+    "Hepatic adenoma and gallbladder polyps",
+    "Klinefelter syndrome and varicocele",
+    "Cervical stenosis and hydrosalpinx"
+   ],
+   "ans": 0,
+   "exp": "These are listed below colon cancer; hepatic adenoma is instead in the increased-risk column."
+  },
+  {
+   "id": "ch39-u4-q20",
+   "sec": "Non-contraceptive uses, adverse effects and tumour associations",
+   "unit": "Non-contraceptive uses, adverse effects and tumour associations",
+   "page": 214,
+   "fmt": "tf",
+   "q": "According to the source chart: I) Hepatic adenoma is in the increased-risk column. II) Liver cancer is in the no-effect column.",
+   "opts": [
+    "Both false",
+    "I false; II true",
+    "Both true",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "The source separates benign hepatic adenoma from liver cancer; its no-effect claim should not be overgeneralised beyond this chart."
+  },
+  {
+   "id": "ch39-u5-q1",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "odd",
+   "q": "Which is NOT a general IUCD contraindication listed at the top of the page?",
+   "opts": [
+    "Severe uterine cavity distortion",
+    "Active pelvic infection including cervicitis",
+    "Nulliparity alone",
+    "Unexplained vaginal bleeding suggesting malignancy"
+   ],
+   "ans": 2,
+   "exp": "Known/suspected pregnancy is the fourth listed contraindication; nulliparity alone is not one."
+  },
+  {
+   "id": "ch39-u5-q2",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "fillup",
+   "q": "The cavity-distortion examples in the IUCD contraindication list are ____ and ____.",
+   "opts": [
+    "Cervicitis; candidiasis",
+    "PCOS; Kallmann syndrome",
+    "Varicocele; hypospadias",
+    "Fibroid; septate uterus"
+   ],
+   "ans": 3,
+   "exp": "Severe distortion, rather than any incidental small lesion, is the relevant source wording."
+  },
+  {
+   "id": "ch39-u5-q3",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "fillup",
+   "q": "The copper-IUCD-specific contraindication named is ____.",
+   "opts": [
+    "Smoking alone",
+    "Migraine without aura alone",
+    "A remote uncomplicated UTI",
+    "Wilson disease"
+   ],
+   "ans": 3,
+   "exp": "The source singles out disordered copper handling."
+  },
+  {
+   "id": "ch39-u5-q4",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "fillup",
+   "q": "The two Mirena-specific contraindications listed are ____.",
+   "opts": [
+    "Breast-cancer history and active liver disease",
+    "Wilson disease and hypokalaemia",
+    "Nulliparity and prior vaginal delivery",
+    "Hypothyroidism and anaemia"
+   ],
+   "ans": 0,
+   "exp": "Hormonal-IUS eligibility differs from copper-IUCD eligibility; disease details require guideline-based assessment."
+  },
+  {
+   "id": "ch39-u5-q5",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "scenario",
+   "q": "An IUCD thread is missing on examination. What is the first localisation test in this algorithm?",
+   "opts": [
+    "Immediate blind traction",
+    "Serum progesterone",
+    "Huhner test",
+    "TVS"
+   ],
+   "ans": 3,
+   "exp": "The missing-thread flow begins with transvaginal ultrasound."
+  },
+  {
+   "id": "ch39-u5-q6",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "fillup",
+   "q": "If the IUCD is not visualised on TVS, the next investigation named is ____.",
+   "opts": [
+    "Vaginal epithelial maturation index",
+    "Serial abdominal X-rays",
+    "Semen DNA fragmentation",
+    "Day-3 AMH"
+   ],
+   "ans": 1,
+   "exp": "Radiography helps locate a radiopaque device after it is not found on ultrasound."
+  },
+  {
+   "id": "ch39-u5-q7",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "scenario",
+   "q": "Imaging shows an appropriately intrauterine device with merely coiled/retracted threads. What options are shown?",
+   "opts": [
+    "Urgent laparotomy in every case",
+    "Mandatory bilateral salpingectomy",
+    "No intervention, or hysteroscopic removal if desired",
+    "Immediate termination of any future pregnancy"
+   ],
+   "ans": 2,
+   "exp": "A retracted thread alone is different from perforation; management depends on location and patient wishes."
+  },
+  {
+   "id": "ch39-u5-q8",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "fillup",
+   "q": "In the source's malposition branch, a device in the ____ is removed.",
+   "opts": [
+    "Lower uterine segment in every case",
+    "Cervix",
+    "Fundal cavity with normal position",
+    "Myometrium in every case without assessment"
+   ],
+   "ans": 1,
+   "exp": "The cervical branch says remove, whereas the source writes nil intervention for LUS/myometrial positions; the latter is oversimplified and needs specialist assessment."
+  },
+  {
+   "id": "ch39-u5-q9",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "scenario",
+   "q": "Source-check: the diagram says no intervention for an IUCD in the LUS or myometrium. Which qualification is necessary?",
+   "opts": [
+    "Assess device type, symptoms, embedment and efficacy individually",
+    "Use only serum progesterone to decide whether a low device is effective",
+    "Remove every fundal device if its thread is merely retracted",
+    "Observe every low device irrespective of type, symptoms or embedment"
+   ],
+   "ans": 0,
+   "exp": "Preserve awareness of the diagram without teaching universal nonintervention for malposition."
+  },
+  {
+   "id": "ch39-u5-q10",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "match",
+   "q": "Match perforation positions: 1) Entirely peritoneal 2) Partly peritoneal with A) Combined hysteroscopy/laparoscopy B) Laparoscopic or laparotomy removal.",
+   "opts": [
+    "Both A",
+    "Both B",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "The flowchart distinguishes complete extrauterine migration from partial perforation."
+  },
+  {
+   "id": "ch39-u5-q11",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "scenario",
+   "q": "A woman with an IUCD becomes pregnant and does not wish to continue. Which pathway is shown?",
+   "opts": [
+    "Pregnancy termination with IUCD removal",
+    "Remove both ovaries",
+    "Repeat AMH until the device disappears",
+    "Leave the device and prohibit termination"
+   ],
+   "ans": 0,
+   "exp": "The first pregnancy branch follows the patient's decision regarding continuation."
+  },
+  {
+   "id": "ch39-u5-q12",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "scenario",
+   "q": "Pregnancy continuation is desired and the IUCD threads are visible. What does the source pathway state?",
+   "opts": [
+    "Blindly push the device higher into the cavity",
+    "Leave it despite easy visible-thread removal in all cases",
+    "Remove the IUCD, list antibiotics, and continue pregnancy",
+    "Terminate every pregnancy obligatorily"
+   ],
+   "ans": 2,
+   "exp": "The source lists removal plus antibiotics; antibiotic use should follow the actual clinical indication, not be assumed universally necessary."
+  },
+  {
+   "id": "ch39-u5-q13",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "scenario",
+   "q": "Pregnancy continuation is desired but the IUCD threads are not visible. What does the source show?",
+   "opts": [
+    "Perform routine hysterectomy",
+    "Leave the device in situ and continue with counselling",
+    "Insert another device to retrieve the first",
+    "Blindly instrument the pregnant uterus to retrieve it"
+   ],
+   "ans": 1,
+   "exp": "The branch avoids blind removal when threads are inaccessible; specialist assessment and counselling remain important."
+  },
+  {
+   "id": "ch39-u5-q14",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "odd",
+   "q": "Which is NOT included among the source's risks of pregnancy with an IUCD retained?",
+   "opts": [
+    "Abortion",
+    "Proven teratogenicity",
+    "Infection",
+    "Preterm labour"
+   ],
+   "ans": 1,
+   "exp": "IUGR is also listed, while the source explicitly says no teratogenicity risk."
+  },
+  {
+   "id": "ch39-u5-q15",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "fillup",
+   "q": "The fetal-growth complication listed with retained-IUCD pregnancy is ____.",
+   "opts": [
+    "Macrosomia in every case",
+    "IUGR",
+    "Conjoined twinning",
+    "Polyploidy"
+   ],
+   "ans": 1,
+   "exp": "The pregnancy-risk box includes infection, abortion, preterm labour and IUGR."
+  },
+  {
+   "id": "ch39-u5-q16",
+   "sec": "IUCD contraindications, missing threads and pregnancy",
+   "unit": "IUCD contraindications, missing threads and pregnancy",
+   "page": 215,
+   "fmt": "tf",
+   "q": "I) Retained-IUCD pregnancy carries infection and pregnancy-loss risks. II) The source claims the IUCD is teratogenic.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Obstetric risk and teratogenicity are separate concepts in the source's counselling box."
+  },
+  {
+   "id": "ch39-u6-q1",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "For nulliparous women, the IUCD-use box specifically names a ____ device.",
+   "opts": [
+    "Frameless",
+    "Mandatory large framed",
+    "Intraperitoneal",
+    "Permanently sutured cervical"
+   ],
+   "ans": 0,
+   "exp": "This is the source's suggested choice; nulliparous women are not limited to frameless devices under modern eligibility guidance."
+  },
+  {
+   "id": "ch39-u6-q2",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "A woman wants an IUCD and has heavy menstrual bleeding. Which option is favoured here?",
+   "opts": [
+    "A cervical ring",
+    "Rubin cannula",
+    "Mirena",
+    "Copper IUCD as the universal first choice"
+   ],
+   "ans": 2,
+   "exp": "The LNG-IUS is favoured for heavy bleeding because of local endometrial suppression."
+  },
+  {
+   "id": "ch39-u6-q3",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "A woman on anticoagulants seeks an IUCD. Which choice is named in the source?",
+   "opts": [
+    "No reversible contraception of any kind",
+    "Mandatory copper IUCD despite bleeding",
+    "Mirena",
+    "A double-dose OCP"
+   ],
+   "ans": 2,
+   "exp": "The source favours Mirena in the anticoagulated patient, consistent with its bleeding-control role."
+  },
+  {
+   "id": "ch39-u6-q4",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "For a history of thrombosis, the device choices named are ____.",
+   "opts": [
+    "No IUCD of any type",
+    "Centchroman plus estrogen obligatorily",
+    "Combined OCP only",
+    "Copper IUCD or Mirena"
+   ],
+   "ans": 3,
+   "exp": "The source permits either intrauterine option; exact eligibility depends on circumstances."
+  },
+  {
+   "id": "ch39-u6-q5",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "The increased insertion-related PID risk window is the first ____ after IUCD insertion.",
+   "opts": [
+    "6 months in every user",
+    "24 hours only",
+    "3 years",
+    "3 weeks"
+   ],
+   "ans": 3,
+   "exp": "The risk annotation is concentrated in the early post-insertion period, not uniformly throughout use."
+  },
+  {
+   "id": "ch39-u6-q6",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "The organism singled out in the IUCD-PID association is ____.",
+   "opts": [
+    "Candida",
+    "Plasmodium",
+    "HPV",
+    "Actinomyces"
+   ],
+   "ans": 3,
+   "exp": "The source calls this most common PID; more precisely, Actinomyces is a classic IUCD association, not the commonest cause of all IUCD-associated PID."
+  },
+  {
+   "id": "ch39-u6-q7",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "The source's Actinomyces infection pathway calls for ____.",
+   "opts": [
+    "No assessment for symptoms in any case",
+    "IUCD removal and antibiotics",
+    "Immediate ovarian stimulation",
+    "Copper supplementation"
+   ],
+   "ans": 1,
+   "exp": "This refers to clinical infection. Incidental Actinomyces-like organisms on cytology in an asymptomatic user do not automatically require this treatment."
+  },
+  {
+   "id": "ch39-u6-q8",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "For other PID, oral antibiotics are reassessed after ____ in this source.",
+   "opts": [
+    "2–3 weeks",
+    "15 minutes",
+    "48–72 hours",
+    "6 months"
+   ],
+   "ans": 2,
+   "exp": "The next step depends on response to initial antibiotic treatment."
+  },
+  {
+   "id": "ch39-u6-q9",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "Non-Actinomyces PID is not improving after oral therapy. What escalation is drawn?",
+   "opts": [
+    "Replace the IUCD immediately, then reassess only after the next period",
+    "Continue the same oral regimen unchanged for a further fourteen days",
+    "Remove the IUCD first and defer antibiotics until a culture is positive",
+    "Escalate to IV antibiotics; source removal timing is after 24 hours"
+   ],
+   "ans": 3,
+   "exp": "This is the source's escalation timing; actual removal decisions are individualised after reassessment and antibiotics have begun."
+  },
+  {
+   "id": "ch39-u6-q10",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "Implanon contains ____ in a ____ rod measuring ____.",
+   "opts": [
+    "Levonorgestrel; six; 4 × 20 cm",
+    "Copper; single; 32 × 36 mm",
+    "Desogestrel; double; 10 × 5 cm",
+    "Etonogestrel; single; 40 × 2 mm"
+   ],
+   "ans": 3,
+   "exp": "The type list gives composition, rod count and dimensions."
+  },
+  {
+   "id": "ch39-u6-q11",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "The efficacy/approval duration written for Implanon in this edition is ____.",
+   "opts": [
+    "3 years",
+    "10 years",
+    "1 month",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "This is the edition's three-year figure; product approvals can differ by jurisdiction and date."
+  },
+  {
+   "id": "ch39-u6-q12",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "Nexplanon is described as similar to Implanon but ____.",
+   "opts": [
+    "Six-rod",
+    "Radiopaque",
+    "Copper-containing",
+    "Non-hormonal"
+   ],
+   "ans": 1,
+   "exp": "Radiopacity is the distinguishing feature given in the source comparison."
+  },
+  {
+   "id": "ch39-u6-q13",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "Norplant is described as an obsolete ____-rod ____ implant, with failure rate ____.",
+   "opts": [
+    "One; etonogestrel; 0.1%",
+    "Four; progesterone; 30%",
+    "Six; LNG; 0.5%",
+    "Two; copper; 8%"
+   ],
+   "ans": 2,
+   "exp": "The type list identifies Norplant's six rods and levonorgestrel composition."
+  },
+  {
+   "id": "ch39-u6-q14",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "Jadelle is also named ____ in the source implant list.",
+   "opts": [
+    "Implanon 6",
+    "Capronor 3",
+    "Norplant 2",
+    "Mirena 2"
+   ],
+   "ans": 2,
+   "exp": "Jadelle/Norplant 2 is the fourth type in the sequence."
+  },
+  {
+   "id": "ch39-u6-q15",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "Source-check: the shared Norplant/Jadelle annotation says efficacy '1 yr'. What qualification is needed?",
+   "opts": [
+    "These are multi-year LNG implants; the one-year annotation is unreliable",
+    "Jadelle is a one-day injectable",
+    "Norplant is a cervical copper device",
+    "All LNG implants are emergency contraception only"
+   ],
+   "ans": 0,
+   "exp": "The handwritten duration conflicts with the established multi-year design; do not teach it unqualified."
+  },
+  {
+   "id": "ch39-u6-q16",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "Capronor is distinguished by being ____ with a stated efficacy of ____.",
+   "opts": [
+    "Copper-bearing; 3 months",
+    "Radiopaque; 10 years",
+    "Nondegradable; 1 day",
+    "Biodegradable; 1 year"
+   ],
+   "ans": 3,
+   "exp": "These are the two specific Capronor annotations."
+  },
+  {
+   "id": "ch39-u6-q17",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "Source-check: the Implanon box says '60 micrograms/day ×5 yrs' yet 'approved for 3 yrs'. What should be retained cautiously?",
+   "opts": [
+    "The rod must be replaced every day",
+    "Implanon contains no hormone",
+    "A constant 60-microgram rate for five years is established by this contradiction",
+    "The release/duration annotation is inconsistent; the edition's stated approval is 3 years"
+   ],
+   "ans": 3,
+   "exp": "Release rates are not constant for the full implant life; the inconsistent source line needs clarification, not blind memorisation."
+  },
+  {
+   "id": "ch39-u6-q18",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "Implant insertion and removal are described as ____ procedures on the medial side of the ____ arm.",
+   "opts": [
+    "Inpatient thoracic; non-dominant",
+    "Outpatient; non-dominant",
+    "Intraperitoneal; dominant",
+    "Intracervical; dominant"
+   ],
+   "ans": 1,
+   "exp": "The source writes non-dominant hand; clinically the implant is placed subdermally in the upper arm by trained staff."
+  },
+  {
+   "id": "ch39-u6-q19",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "The main implant mechanism is ____ and the commonest side effect is ____.",
+   "opts": [
+    "Cervical dilation; hyperkalaemia",
+    "Permanent tubal scarring; infertility",
+    "Increased LH surge; hypertension in every user",
+    "Anovulation; irregular bleeding"
+   ],
+   "ans": 3,
+   "exp": "The dedicated implant box states these two points directly."
+  },
+  {
+   "id": "ch39-u6-q20",
+   "sec": "IUCD selection, infection and implant comparisons",
+   "unit": "IUCD selection, infection and implant comparisons",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "The failure rate quoted for Implanon in the source is ____, labelled most effective.",
+   "opts": [
+    "20%",
+    "8%",
+    "0.1%",
+    "50%"
+   ],
+   "ans": 2,
+   "exp": "This is the source's very-low failure figure and superlative; comparison depends on the methods and time interval being assessed."
+  }
+ ]
+}

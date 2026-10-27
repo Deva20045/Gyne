@@ -5,140 +5,140 @@
    "id": "ch45-u1-q1",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "fillup",
    "q": "Fill up: CIN stands for cervical ____ neoplasia.",
    "opts": [
-    "intraepidermal",
-    "intrastromal",
     "intraepithelial",
+    "intrastromal",
+    "intraepidermal",
     "intraglandular"
    ],
-   "ans": 2,
+   "ans": 0,
    "exp": "Page 238 opens with 'CIN : Cervical intraepithelial neoplasia'."
   },
   {
    "id": "ch45-u1-q2",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "On the printed dysplasia table, LSIL on pap smear corresponds to which CIN grade?",
    "opts": [
     "CIN 2",
+    "Carcinoma in situ",
     "CIN 1",
-    "CIN 3",
-    "Carcinoma in situ"
+    "CIN 3"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "The table row reads 'LSIL -> CIN 1 -> 1%'."
   },
   {
    "id": "ch45-u1-q3",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "numeric",
    "q": "Fill up: The risk of cancer cervix printed against CIN 1 is ____ percent.",
    "opts": [
+    "12",
     "1",
     "5",
-    "12",
     "40"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "'LSIL -> CIN 1 -> 1%' on page 238."
   },
   {
    "id": "ch45-u1-q4",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "Which pap smear category branches into both CIN 2 and CIN 3 on the printed tree?",
    "opts": [
-    "LSIL",
-    "ASCUS",
     "AGCUS",
-    "HSIL"
+    "HSIL",
+    "LSIL",
+    "ASCUS"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "HSIL is drawn with a bracket feeding CIN 2 and CIN 3."
   },
   {
    "id": "ch45-u1-q5",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "numeric",
    "q": "The printed risk of cancer cervix for CIN 2 is:",
    "opts": [
-    "5%",
     "1%",
-    "12%",
-    "40%"
+    "40%",
+    "5%",
+    "12%"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "'CIN 2 -> 5%' under the HSIL arm."
   },
   {
    "id": "ch45-u1-q6",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "numeric",
    "q": "Fill up: The risk range printed for CIN 3 is ____ to 40 percent.",
    "opts": [
     "5",
-    "10",
+    "12",
     "20",
-    "12"
+    "10"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "'CIN 3 -> 12 - 40%' on page 238."
   },
   {
    "id": "ch45-u1-q7",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "tf",
    "q": "True/False: CIN is diagnosed on pap smear according to the printed note.",
    "opts": [
-    "True",
     "False - CIN is diagnosed on colposcopy alone",
-    "False",
-    "False - CIN is diagnosed on HPV DNA testing"
+    "True",
+    "False - CIN is diagnosed on HPV DNA testing",
+    "False"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "Page 238 states 'CIN is diagnosed on biopsy, not on pap smear'."
   },
   {
    "id": "ch45-u1-q8",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "odd",
    "q": "Odd one out - which item is NOT part of the printed CIN dysplasia table?",
    "opts": [
-    "LSIL",
-    "ASC-H",
     "CIN 2",
-    "Risk of cancer cervix"
+    "Risk of cancer cervix",
+    "LSIL",
+    "ASC-H"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "The table columns are pap smear (LSIL/HSIL), CIN (1/2/3) and risk of cancer cervix; ASC-H belongs to the pap smear inference list."
   },
   {
    "id": "ch45-u1-q9",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "match",
    "q": "Match the pap smear category with its printed cancer risk - 1) CIN 1 2) CIN 2 3) CIN 3 ... A) 5% B) 12-40% C) 1% ... choose the correct pairing:",
    "opts": [
-    "1-A, 2-B, 3-C",
     "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
     "1-C, 2-A, 3-B",
     "1-B, 2-A, 3-C"
    ],
@@ -149,254 +149,254 @@
    "id": "ch45-u1-q10",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "CIN Dysplasia Grading and Cancer Risk",
-   "page": 238,
+   "page": 246,
    "fmt": "scenario",
    "q": "Scenario: A 32-year-old woman's pap smear reports HSIL. According to the printed dysplasia table, which CIN grades must the biopsy be read against?",
    "opts": [
-    "CIN 1 only",
-    "CIN 2 and CIN 3",
     "CIN 1 and CIN 2",
-    "Carcinoma in situ only"
+    "Carcinoma in situ only",
+    "CIN 1 only",
+    "CIN 2 and CIN 3"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "HSIL branches to CIN 2 and CIN 3 on the page 238 tree."
   },
   {
    "id": "ch45-u2-q1",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "WHO Guidelines on Management",
-   "page": 238,
+   "page": 246,
    "fmt": "fillup",
    "q": "Fill up: In limited resource countries the WHO pathway runs screening, then HPV DNA plus or minus ____, then management.",
    "opts": [
-    "colposcopy",
-    "biopsy",
+    "VIA",
     "HSG",
-    "VIA"
+    "biopsy",
+    "colposcopy"
    ],
-   "ans": 3,
+   "ans": 0,
    "exp": "'Screening -> HPV DNA +/- VIA -> mx' for limited resource countries."
   },
   {
    "id": "ch45-u2-q2",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "WHO Guidelines on Management",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "Which step is printed as NOT mandatory in limited resource countries?",
    "opts": [
-    "Biopsy",
-    "Screening",
+    "Management",
     "HPV DNA testing",
-    "Management"
+    "Screening",
+    "Biopsy"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "'Biopsy is not mandatory' under the limited resource arm."
   },
   {
    "id": "ch45-u2-q3",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "WHO Guidelines on Management",
-   "page": 238,
+   "page": 246,
    "fmt": "tf",
    "q": "True/False: In resource rich countries an abnormal pap smear is followed by biopsy before management.",
    "opts": [
     "False",
     "False - colposcopy replaces biopsy",
-    "True",
-    "False - management precedes biopsy"
+    "False - management precedes biopsy",
+    "True"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "'Pap smear -Abnormal-> Biopsy -> CIN 1/2/3 -> mx' for resource rich countries."
   },
   {
    "id": "ch45-u2-q4",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "WHO Guidelines on Management",
-   "page": 238,
+   "page": 246,
    "fmt": "odd",
    "q": "Odd one out - which investigation is absent from both printed WHO pathways?",
    "opts": [
-    "HPV DNA",
     "VIA",
-    "Biopsy",
-    "Endometrial biopsy"
+    "Endometrial biopsy",
+    "HPV DNA",
+    "Biopsy"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "Both WHO arms use HPV DNA, VIA, pap smear and biopsy; endometrial biopsy appears only later under AGCUS."
   },
   {
    "id": "ch45-u2-q5",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "WHO Guidelines on Management",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "The resource-rich WHO algorithm ends with management of which graded lesions?",
    "opts": [
-    "CIN 1 only",
-    "CIN 1/2/3",
+    "Microinvasive cancer",
     "CIN 2/3 only",
-    "Microinvasive cancer"
+    "CIN 1 only",
+    "CIN 1/2/3"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "The chain prints 'Biopsy -> CIN 1/2/3 -> mx'."
   },
   {
    "id": "ch45-u2-q6",
    "sec": "Features of CIN and WHO Guidelines on Management",
    "unit": "WHO Guidelines on Management",
-   "page": 238,
+   "page": 246,
    "fmt": "match",
    "q": "Match the country setting with its printed WHO step - 1) Limited resource 2) Resource rich ... A) Abnormal pap smear goes to biopsy B) Biopsy is not mandatory ... choose:",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
+    "1-A, 2-A",
     "1-B, 2-B",
-    "1-A, 2-A"
+    "1-B, 2-A",
+    "1-A, 2-B"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Limited resource countries skip mandatory biopsy; resource rich countries biopsy an abnormal pap."
   },
   {
    "id": "ch45-u3-q1",
    "sec": "Pap Smear",
    "unit": "Inference of Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "numeric",
    "q": "How many inference categories are listed under 'Inference of Pap smear' on page 238?",
    "opts": [
-    "Five",
     "Six",
     "Eight",
-    "Seven"
+    "Seven",
+    "Five"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "Normal, infection, LSIL, HSIL, ASCUS, ASC-H and AGCUS are listed."
   },
   {
    "id": "ch45-u3-q2",
    "sec": "Pap Smear",
    "unit": "Inference of Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "fillup",
    "q": "Fill up: A pap smear inference of infection is managed with ____.",
    "opts": [
-    "antibiotics",
-    "antivirals only",
     "cryoablation",
-    "LLETZ"
+    "antibiotics",
+    "LLETZ",
+    "antivirals only"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "'Infection -> mx : Antibiotics' on page 238."
   },
   {
    "id": "ch45-u3-q3",
    "sec": "Pap Smear",
    "unit": "Inference of Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "ASC-H is expanded on the page as:",
    "opts": [
-    "Atypical squamous cells of undetermined hormonal significance",
+    "Atypical squamous cells with high-grade inflammation",
     "Atypical squamous cells where HSIL is ruled out",
-    "Atypical squamous cells where HSIL cannot be ruled out",
-    "Atypical squamous cells with high-grade inflammation"
+    "Atypical squamous cells of undetermined hormonal significance",
+    "Atypical squamous cells where HSIL cannot be ruled out"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "The printed expansion is 'Atypical squamous cells where HSIL cannot be ruled out (ASC-H)'."
   },
   {
    "id": "ch45-u3-q4",
    "sec": "Pap Smear",
    "unit": "Inference of Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "AGCUS stands for:",
    "opts": [
+    "Atypical squamous cells of unknown significance",
     "Atypical glandular cells of uterine cervix significance",
     "Atypical glandular cells of unknown significance",
-    "Atypical squamous cells of unknown significance",
     "Atypical glandular cells with uncertain cytology score"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "'Atypical glandular cells of unknown significance (AGCUS)' is printed."
   },
   {
    "id": "ch45-u3-q5",
    "sec": "Pap Smear",
    "unit": "Inference of Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "Which inference pair differs only by whether HSIL can be excluded?",
    "opts": [
-    "LSIL and HSIL",
     "ASCUS and ASC-H",
-    "ASCUS and AGCUS",
-    "Normal and infection"
+    "LSIL and HSIL",
+    "Normal and infection",
+    "ASCUS and AGCUS"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "ASCUS is atypical squamous cells of unknown significance while ASC-H is the subset where HSIL cannot be ruled out."
   },
   {
    "id": "ch45-u3-q6",
    "sec": "Pap Smear",
    "unit": "Inference of Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "odd",
    "q": "Odd one out - which is NOT a printed pap smear inference line?",
    "opts": [
+    "Atypical glandular cells of unknown significance",
     "Atypical squamous cells of known significance",
-    "Low squamous intraepithelial lesion",
     "High squamous intraepithelial lesion",
-    "Atypical glandular cells of unknown significance"
+    "Low squamous intraepithelial lesion"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The printed line is 'unknown significance'; a 'known significance' line does not exist."
   },
   {
    "id": "ch45-u3-q7",
    "sec": "Pap Smear",
    "unit": "Inference of Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "tf",
    "q": "True/False: Normal is the first printed inference of pap smear on page 238.",
    "opts": [
-    "False",
-    "False - infection is printed first",
     "True",
-    "False - LSIL is printed first"
+    "False",
+    "False - LSIL is printed first",
+    "False - infection is printed first"
    ],
-   "ans": 2,
+   "ans": 0,
    "exp": "The bullet list starts with 'Normal.'"
   },
   {
    "id": "ch45-u4-q1",
    "sec": "Pap Smear",
    "unit": "Infections and Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "recall",
    "q": "Which five infections are printed as diagnosable on pap smear?",
    "opts": [
-    "Bacterial vaginosis, candida, trichomonas, chlamydia and gonorrhoea",
     "Candida, trichomonas, HSV, HPV and chlamydia",
-    "Bacterial vaginosis, HSV, HPV, chlamydia and gonorrhoea",
-    "Bacterial vaginosis, candida, trichomonas, HSV and HPV"
+    "Bacterial vaginosis, candida, trichomonas, chlamydia and gonorrhoea",
+    "Bacterial vaginosis, candida, trichomonas, HSV and HPV",
+    "Bacterial vaginosis, HSV, HPV, chlamydia and gonorrhoea"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "The 'Dx of infection in pap smear' box lists bacterial vaginosis, candida, trichomonas, HSV and HPV."
   },
   {
    "id": "ch45-u4-q2",
    "sec": "Pap Smear",
    "unit": "Infections and Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "fillup",
    "q": "Fill up: The two infections printed as NOT detected by pap smear are chlamydia and ____.",
    "opts": [
+    "HSV",
     "trichomonas",
-    "candida",
     "gonorrhoea",
-    "HSV"
+    "candida"
    ],
    "ans": 2,
    "exp": "'Infections not detected by pap smear : Chlamydia, Gonorrhea'."
@@ -405,14 +405,14 @@
    "id": "ch45-u4-q3",
    "sec": "Pap Smear",
    "unit": "Infections and Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "tf",
    "q": "True/False: Trichomonas can be diagnosed on pap smear according to the printed lists.",
    "opts": [
     "True",
+    "False - it needs culture only",
     "False",
-    "False - it is listed under not detected",
-    "False - it needs culture only"
+    "False - it is listed under not detected"
    ],
    "ans": 0,
    "exp": "Trichomonas sits in the detected list alongside bacterial vaginosis and candida."
@@ -421,7 +421,7 @@
    "id": "ch45-u4-q4",
    "sec": "Pap Smear",
    "unit": "Infections and Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "odd",
    "q": "Odd one out - which organism belongs to the 'not detected by pap smear' list?",
    "opts": [
@@ -437,109 +437,109 @@
    "id": "ch45-u4-q5",
    "sec": "Pap Smear",
    "unit": "Infections and Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "scenario",
    "q": "Scenario: A pap smear shows clue cells and a vaginal discharge. Which printed pap-smear-detectable infection does this represent?",
    "opts": [
-    "Candida",
     "Bacterial vaginosis",
+    "HSV",
     "Trichomonas",
-    "HSV"
+    "Candida"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "Bacterial vaginosis heads the detectable infection list and is the clue-cell disease of chapter 33."
   },
   {
    "id": "ch45-u4-q6",
    "sec": "Pap Smear",
    "unit": "Infections and Pap Smear",
-   "page": 238,
+   "page": 246,
    "fmt": "match",
    "q": "Match each infection with its printed pap smear detectability - 1) HSV 2) Gonorrhoea 3) Candida 4) Chlamydia ... A) Detected B) Not detected ... choose:",
    "opts": [
+    "1-A, 2-B, 3-A, 4-B",
     "1-B, 2-A, 3-B, 4-A",
     "1-A, 2-A, 3-B, 4-B",
-    "1-B, 2-B, 3-A, 4-A",
-    "1-A, 2-B, 3-A, 4-B"
+    "1-B, 2-B, 3-A, 4-A"
    ],
-   "ans": 3,
+   "ans": 0,
    "exp": "HSV and candida are detected; gonorrhoea and chlamydia are not."
   },
   {
    "id": "ch45-u5-q1",
    "sec": "Pap Smear",
    "unit": "Abnormal Pap Smear Workup Algorithm",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "In the page 239 algorithm, an abnormal screening pap smear leads first to:",
    "opts": [
-    "Per speculum examination",
-    "Colposcopy",
     "Punch biopsy",
-    "HPV DNA testing"
+    "Colposcopy",
+    "HPV DNA testing",
+    "Per speculum examination"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "The flow prints 'Pap smear : Screening -Abnormal-> Per speculum examination'."
   },
   {
    "id": "ch45-u5-q2",
    "sec": "Pap Smear",
    "unit": "Abnormal Pap Smear Workup Algorithm",
-   "page": 239,
+   "page": 247,
    "fmt": "fillup",
    "q": "Fill up: If per speculum examination shows a growth, the next printed step is ____ biopsy.",
    "opts": [
-    "cone",
-    "colposcopic guided",
+    "endometrial",
     "punch",
-    "endometrial"
+    "colposcopic guided",
+    "cone"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "'Growth + -> Punch biopsy' on page 239."
   },
   {
    "id": "ch45-u5-q3",
    "sec": "Pap Smear",
    "unit": "Abnormal Pap Smear Workup Algorithm",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "When per speculum examination shows no visible abnormality, the printed next step is:",
    "opts": [
-    "Punch biopsy",
-    "Colposcopic guided biopsy",
+    "Endocervical curettage",
     "Repeat pap smear in 12 months",
-    "Endocervical curettage"
+    "Colposcopic guided biopsy",
+    "Punch biopsy"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "'No visible abnormality -> Colposcopic guided biopsy'."
   },
   {
    "id": "ch45-u5-q4",
    "sec": "Pap Smear",
    "unit": "Abnormal Pap Smear Workup Algorithm",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "The instrument photographed and captioned on page 239 is the:",
    "opts": [
-    "Hysteroscope",
     "Colposcope",
-    "Laparoscope",
-    "Speculum with CCTV"
+    "Speculum with CCTV",
+    "Hysteroscope",
+    "Laparoscope"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "The figure caption reads 'Colposcopy' under a magnifying instrument with monitor."
   },
   {
    "id": "ch45-u5-q5",
    "sec": "Pap Smear",
    "unit": "Abnormal Pap Smear Workup Algorithm",
-   "page": 239,
+   "page": 247,
    "fmt": "odd",
    "q": "Odd one out - which branch is NOT part of the page 239 abnormal pap algorithm?",
    "opts": [
-    "Growth plus leading to punch biopsy",
     "No visible abnormality leading to colposcopic guided biopsy",
     "Per speculum examination after abnormal pap",
+    "Growth plus leading to punch biopsy",
     "Direct loop excision of the transformation zone"
    ],
    "ans": 3,
@@ -549,23 +549,23 @@
    "id": "ch45-u5-q6",
    "sec": "Pap Smear",
    "unit": "Abnormal Pap Smear Workup Algorithm",
-   "page": 239,
+   "page": 247,
    "fmt": "tf",
    "q": "True/False: A visible cervical growth on per speculum examination bypasses colposcopy and goes straight to punch biopsy.",
    "opts": [
-    "True",
+    "False - it goes to cone biopsy",
     "False",
-    "False - it goes to colposcopic guided biopsy",
-    "False - it goes to cone biopsy"
+    "True",
+    "False - it goes to colposcopic guided biopsy"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "The growth-positive arm ends directly in punch biopsy."
   },
   {
    "id": "ch45-u6-q1",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "Which two pap smear reports are managed identically at any age?",
    "opts": [
@@ -581,46 +581,46 @@
    "id": "ch45-u6-q2",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "fillup",
    "q": "Fill up: LSIL at or above 25 years is managed with colposcopy plus ____ curettage.",
    "opts": [
-    "endometrial",
     "fractional",
+    "endocervical",
     "cervical punch",
-    "endocervical"
+    "endometrial"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "'LSIL >= 25 yrs -> Colposcopy + Endocervical curettage'."
   },
   {
    "id": "ch45-u6-q3",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "For ASCUS below 25 years the printed action is:",
    "opts": [
-    "HPV DNA testing",
-    "Colposcopy and endocervical curettage",
+    "Reflex DNA testing",
     "Repeat pap in 12 months",
-    "Reflex DNA testing"
+    "HPV DNA testing",
+    "Colposcopy and endocervical curettage"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "The age split prints '< 25 yrs : Repeat pap in 12 months' for ASCUS."
   },
   {
    "id": "ch45-u6-q4",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "For ASCUS above 25 years the printed action is:",
    "opts": [
     "HPV DNA testing / reflex DNA testing",
+    "Cone biopsy",
     "Repeat pap in 12 months",
-    "Colposcopy and endocervical curettage",
-    "Cone biopsy"
+    "Colposcopy and endocervical curettage"
    ],
    "ans": 0,
    "exp": "'> 25 yrs : HPV DNA testing / Reflex DNA testing' under ASCUS."
@@ -629,13 +629,13 @@
    "id": "ch45-u6-q5",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "LSIL in a woman younger than 25 years is managed by:",
    "opts": [
-    "Colposcopy and endocervical curettage",
-    "Repeat pap in 12 months",
     "HPV DNA testing",
+    "Repeat pap in 12 months",
+    "Colposcopy and endocervical curettage",
     "Cryotherapy"
    ],
    "ans": 1,
@@ -645,60 +645,60 @@
    "id": "ch45-u6-q6",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "AGCUS raises suspicion of which two printed malignancies?",
    "opts": [
-    "Squamous cell carcinoma and adenocarcinoma of endocervix",
-    "Adenocarcinoma of endocervix and endometrial carcinoma spread to cervix",
     "Endometrial carcinoma and ovarian carcinoma",
-    "Adenocarcinoma in situ and microinvasive cancer"
+    "Adenocarcinoma in situ and microinvasive cancer",
+    "Adenocarcinoma of endocervix and endometrial carcinoma spread to cervix",
+    "Squamous cell carcinoma and adenocarcinoma of endocervix"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "The AGCUS bracket lists adeno carcinoma of endocervix and endometrial carcinoma spread to cervix."
   },
   {
    "id": "ch45-u6-q7",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "Which three procedures are printed for the AGCUS workup, in order?",
    "opts": [
-    "Punch biopsy, cone biopsy, endometrial biopsy",
+    "Colposcopic biopsy, endocervical curettage, endometrial biopsy",
     "Colposcopic biopsy, endometrial biopsy, endocervical curettage",
-    "Endocervical curettage, colposcopic biopsy, hysteroscopy",
-    "Colposcopic biopsy, endocervical curettage, endometrial biopsy"
+    "Punch biopsy, cone biopsy, endometrial biopsy",
+    "Endocervical curettage, colposcopic biopsy, hysteroscopy"
    ],
-   "ans": 3,
+   "ans": 0,
    "exp": "The numbered list is 1 colposcopic biopsy, 2 endocervical curettage, 3 endometrial biopsy."
   },
   {
    "id": "ch45-u6-q8",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "match",
    "q": "Match the pap report with its printed management - 1) ASCUS < 25 yrs 2) ASCUS > 25 yrs 3) LSIL >= 25 yrs 4) HSIL ... A) Reflex/HPV DNA testing B) Repeat pap in 12 months C) Colposcopy + endocervical curettage D) Managed at any age ... choose:",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
     "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-C, 3-A, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
+    "1-C, 2-A, 3-B, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "ASCUS under 25 repeats pap, over 25 gets DNA testing; LSIL over 25 gets colposcopy with curettage; HSIL is any age."
   },
   {
    "id": "ch45-u6-q9",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "scenario",
    "q": "Scenario: A 27-year-old woman reports ASCUS on screening. Following the printed age split, what is the next test?",
    "opts": [
-    "Repeat pap smear in 12 months",
     "Colposcopy with endocervical curettage",
+    "Repeat pap smear in 12 months",
     "HPV DNA testing / reflex DNA testing",
     "Endometrial biopsy"
    ],
@@ -709,62 +709,62 @@
    "id": "ch45-u6-q10",
    "sec": "Pap Smear",
    "unit": "Management Based on Pap Smear Reports",
-   "page": 239,
+   "page": 247,
    "fmt": "tf",
    "q": "True/False: LSIL at or above 25 years and LSIL below 25 years share the same printed management.",
    "opts": [
     "True",
-    "False",
     "False - both go to colposcopy",
-    "False - both go to HPV DNA testing"
+    "False - both go to HPV DNA testing",
+    "False"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "LSIL >= 25 yrs goes to colposcopy with endocervical curettage while LSIL < 25 yrs repeats the pap in 12 months."
   },
   {
    "id": "ch45-u7-q1",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "numeric",
    "q": "Fill up: The colposcope is printed as a magnifying instrument of ____ times.",
    "opts": [
     "10",
-    "20",
     "30",
+    "20",
     "40"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "'Magnifying instrument : x 30 times' on page 239."
   },
   {
    "id": "ch45-u7-q2",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "numeric",
    "q": "The printed focal length of the colposcope is:",
    "opts": [
-    "15",
     "20",
     "50",
-    "30"
+    "30",
+    "15"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "'Focal length : 30' on page 239."
   },
   {
    "id": "ch45-u7-q3",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "Which three structures does colposcopy visualise?",
    "opts": [
     "Exocervix, transformation zone and external os",
-    "Exocervix, endocervix and internal os",
     "Endocervix, transformation zone and external os",
-    "Exocervix, vagina and external os"
+    "Exocervix, vagina and external os",
+    "Exocervix, endocervix and internal os"
    ],
    "ans": 0,
    "exp": "'Visualizes : Exocervix, Transformation zone, External os'."
@@ -773,13 +773,13 @@
    "id": "ch45-u7-q4",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "fillup",
    "q": "Fill up: The one region printed as NOT visualised by colposcopy is the ____.",
    "opts": [
     "ectocervix",
-    "transformation zone",
     "external os",
+    "transformation zone",
     "endocervix"
    ],
    "ans": 3,
@@ -789,46 +789,46 @@
    "id": "ch45-u7-q5",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "Which test is printed as done before colposcopy if needed?",
    "opts": [
     "Pap smear repeat",
-    "Urine pregnancy test",
     "HPV DNA",
-    "Endometrial biopsy"
+    "Endometrial biopsy",
+    "Urine pregnancy test"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "'UPT done before colposcopy if needed' on page 239."
   },
   {
    "id": "ch45-u7-q6",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "Colposcopy is printed as which setting of procedure?",
    "opts": [
-    "OT procedure under GA",
-    "Day-care procedure under sedation",
     "OPD procedure",
-    "Inpatient procedure"
+    "Inpatient procedure",
+    "Day-care procedure under sedation",
+    "OT procedure under GA"
    ],
-   "ans": 2,
+   "ans": 0,
    "exp": "'OPD procedure' closes the colposcopy bullet list."
   },
   {
    "id": "ch45-u7-q7",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "odd",
    "q": "Odd one out - which structure is outside the printed colposcopy field of view?",
    "opts": [
     "Internal os",
-    "Exocervix",
     "Transformation zone",
-    "External os"
+    "External os",
+    "Exocervix"
    ],
    "ans": 0,
    "exp": "Only exocervix, transformation zone and external os are printed as visualised; the endocervix (and internal os) are not."
@@ -837,7 +837,7 @@
    "id": "ch45-u7-q8",
    "sec": "Colposcopy",
    "unit": "Colposcopy Instrument and Views",
-   "page": 239,
+   "page": 247,
    "fmt": "tf",
    "q": "True/False: Because colposcopy cannot see the endocervix, endocervical curettage is added when LSIL occurs at or above 25 years.",
    "opts": [
@@ -853,125 +853,125 @@
    "id": "ch45-u8-q1",
    "sec": "Colposcopy",
    "unit": "Colposcopy Sampling Steps",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "From which areas is the colposcopic sample site chosen?",
    "opts": [
-    "Rough or pale areas",
     "Smooth or pigmented areas",
+    "Acetowhite areas only before acetic acid",
     "Bleeding areas only",
-    "Acetowhite areas only before acetic acid"
+    "Rough or pale areas"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "'1. Site : Rough or pale areas' opens the samples list."
   },
   {
    "id": "ch45-u8-q2",
    "sec": "Colposcopy",
    "unit": "Colposcopy Sampling Steps",
-   "page": 239,
+   "page": 247,
    "fmt": "fillup",
    "q": "Fill up: Applying 3-5% ____ acid on the cervix makes the biopsy taken from acetowhite areas.",
    "opts": [
-    "citric",
+    "hydrochloric",
     "lactic",
-    "acetic",
-    "hydrochloric"
+    "citric",
+    "acetic"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "'Apply 3-5% acetic acid on cervix -> Biopsy taken from acetowhite areas'."
   },
   {
    "id": "ch45-u8-q3",
    "sec": "Colposcopy",
    "unit": "Colposcopy Sampling Steps",
-   "page": 239,
+   "page": 247,
    "fmt": "numeric",
    "q": "The concentration range of acetic acid printed for colposcopy is:",
    "opts": [
     "1-2%",
     "5-10%",
-    "10-15%",
-    "3-5%"
+    "3-5%",
+    "10-15%"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "The sampling line prints 3-5% acetic acid."
   },
   {
    "id": "ch45-u8-q4",
    "sec": "Colposcopy",
    "unit": "Colposcopy Sampling Steps",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "Turning on the green filter directs biopsy from:",
    "opts": [
-    "Abnormal blood vessels",
-    "Acetowhite areas",
     "Rough areas",
-    "Pale areas"
+    "Acetowhite areas",
+    "Pale areas",
+    "Abnormal blood vessels"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "'Green filter turned on -> Biopsy from abnormal blood vessels'."
   },
   {
    "id": "ch45-u8-q5",
    "sec": "Colposcopy",
    "unit": "Colposcopy Sampling Steps",
-   "page": 239,
+   "page": 247,
    "fmt": "recall",
    "q": "Which three vascular patterns branch from the green-filter step?",
    "opts": [
-    "Punctate, spiral and loop",
-    "Mosaic, corkscrew and hairpin",
     "Reticular, mosaic and punctate",
-    "Reticular, dotted and flat"
+    "Reticular, dotted and flat",
+    "Mosaic, corkscrew and hairpin",
+    "Punctate, spiral and loop"
    ],
-   "ans": 2,
+   "ans": 0,
    "exp": "The bracket after abnormal blood vessels lists reticular, mosaic and punctate."
   },
   {
    "id": "ch45-u8-q6",
    "sec": "Colposcopy",
    "unit": "Colposcopy Sampling Steps",
-   "page": 239,
+   "page": 247,
    "fmt": "match",
    "q": "Arrange the printed sampling steps in order - 1) Green filter on 2) Choose rough or pale site 3) Apply acetic acid ... choose the correct sequence:",
    "opts": [
     "3, 2, 1",
-    "2, 3, 1",
     "1, 2, 3",
-    "2, 1, 3"
+    "2, 1, 3",
+    "2, 3, 1"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "The numbered list is site, then acetic acid with acetowhite biopsy, then green filter with vessel biopsy."
   },
   {
    "id": "ch45-u8-q7",
    "sec": "Colposcopy",
    "unit": "Colposcopy Sampling Steps",
-   "page": 239,
+   "page": 247,
    "fmt": "match",
    "q": "Match each colposcopic aid with what it targets - 1) Acetic acid 2) Green filter ... A) Abnormal blood vessels B) Acetowhite areas ... choose:",
    "opts": [
-    "1-A, 2-B",
     "1-B, 2-B",
+    "1-B, 2-A",
     "1-A, 2-A",
-    "1-B, 2-A"
+    "1-A, 2-B"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "Acetic acid produces acetowhite areas; the green filter reveals abnormal vessels."
   },
   {
    "id": "ch45-u9-q1",
    "sec": "Colposcopy",
    "unit": "Colposcopy Inference",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "Which three inferences are printed for colposcopy on page 240?",
    "opts": [
+    "CIN 2/3, microinvasive cancers and satisfactory",
     "CIN 1/2/3, invasive cancer and satisfactory",
     "LSIL, HSIL and unsatisfactory",
-    "CIN 2/3, microinvasive cancers and satisfactory",
     "CIN 1/2/3, microinvasive cancers and unsatisfactory"
    ],
    "ans": 3,
@@ -981,30 +981,30 @@
    "id": "ch45-u9-q2",
    "sec": "Colposcopy",
    "unit": "Colposcopy Inference",
-   "page": 240,
+   "page": 248,
    "fmt": "fillup",
    "q": "Fill up: An unsatisfactory colposcopy is explained on the page as incomplete visualisation of the ____ zone.",
    "opts": [
-    "transition",
+    "translucency",
     "transformation",
     "transitional",
-    "translucency"
+    "transition"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "The printed sub-line is 'Incomplete visualization of transition zone'."
   },
   {
    "id": "ch45-u9-q3",
    "sec": "Colposcopy",
    "unit": "Colposcopy Inference",
-   "page": 240,
+   "page": 248,
    "fmt": "tf",
    "q": "True/False: Microinvasive cancers are among the printed colposcopy inferences.",
    "opts": [
-    "False",
+    "False - only unsatisfactory is",
     "False - only CIN grades are",
     "True",
-    "False - only unsatisfactory is"
+    "False"
    ],
    "ans": 2,
    "exp": "The second inference bullet is 'Microinvasive cancers'."
@@ -1013,190 +1013,190 @@
    "id": "ch45-u9-q4",
    "sec": "Colposcopy",
    "unit": "Colposcopy Inference",
-   "page": 240,
+   "page": 248,
    "fmt": "odd",
    "q": "Odd one out - which term is NOT a printed colposcopy inference?",
    "opts": [
+    "Microinvasive cancers",
     "CIN 1/2/3",
     "Satisfactory with full transformation zone seen",
-    "Microinvasive cancers",
     "Unsatisfactory"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "The page lists only CIN 1/2/3, microinvasive cancers and unsatisfactory."
   },
   {
    "id": "ch45-u10-q1",
    "sec": "Management of CIN",
    "unit": "CIN 1 and CIN 2/3 Pathways",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "For CIN 1 the printed first step is:",
    "opts": [
-    "Cryoablation immediately",
     "LLETZ",
     "Follow up for 2 years",
-    "Cone biopsy"
+    "Cone biopsy",
+    "Cryoablation immediately"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "The CIN 1 arm prints 'Follow up x 2-yrs'."
   },
   {
    "id": "ch45-u10-q2",
    "sec": "Management of CIN",
    "unit": "CIN 1 and CIN 2/3 Pathways",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "If CIN 1 does not resolve on follow-up, the printed treatment is:",
    "opts": [
-    "LLETZ",
     "LEEP",
     "Hysterectomy",
-    "Cryoablation"
+    "Cryoablation",
+    "LLETZ"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "'Does not resolve -> Cryoablation' under CIN 1."
   },
   {
    "id": "ch45-u10-q3",
    "sec": "Management of CIN",
    "unit": "CIN 1 and CIN 2/3 Pathways",
-   "page": 240,
+   "page": 248,
    "fmt": "fillup",
    "q": "Fill up: The treatment of choice printed for CIN 2/3, for all age and parity, is LLETZ or ____.",
    "opts": [
-    "cone biopsy",
     "LEEP",
+    "cone biopsy",
     "cryoablation",
     "hysterectomy"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "'CIN 2/3 : LLETZ or LEEP - mx of choice for all age & parity'."
   },
   {
    "id": "ch45-u10-q4",
    "sec": "Management of CIN",
    "unit": "CIN 1 and CIN 2/3 Pathways",
-   "page": 240,
+   "page": 248,
    "fmt": "tf",
    "q": "True/False: Hysterectomy is part of the printed management of CIN.",
    "opts": [
-    "False",
-    "True",
     "False - it is done for CIN 3 only",
-    "False - it is done when cryoablation fails"
+    "False",
+    "False - it is done when cryoablation fails",
+    "True"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The note states 'Hysterectomy is not done for CIN'."
   },
   {
    "id": "ch45-u10-q5",
    "sec": "Management of CIN",
    "unit": "CIN 1 and CIN 2/3 Pathways",
-   "page": 240,
+   "page": 248,
    "fmt": "odd",
    "q": "Odd one out - which option is absent from the printed CIN management tree?",
    "opts": [
-    "Radiotherapy",
+    "LLETZ or LEEP",
     "Follow up",
     "Cryoablation",
-    "LLETZ or LEEP"
+    "Radiotherapy"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "The tree contains follow up, cryoablation and LLETZ/LEEP only."
   },
   {
    "id": "ch45-u10-q6",
    "sec": "Management of CIN",
    "unit": "CIN 1 and CIN 2/3 Pathways",
-   "page": 240,
+   "page": 248,
    "fmt": "match",
    "q": "Match the CIN grade with its printed pathway - 1) CIN 1 resolves 2) CIN 1 not resolving 3) CIN 2/3 ... A) Cryoablation B) No further step printed beyond follow up C) LLETZ or LEEP ... choose:",
    "opts": [
-    "1-A, 2-B, 3-C",
     "1-B, 2-C, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-A, 3-B"
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "Resolving CIN 1 stops at follow up, non-resolving CIN 1 is cryoablated, CIN 2/3 gets LLETZ or LEEP."
   },
   {
    "id": "ch45-u10-q7",
    "sec": "Management of CIN",
    "unit": "CIN 1 and CIN 2/3 Pathways",
-   "page": 240,
+   "page": 248,
    "fmt": "scenario",
    "q": "Scenario: A 24-year-old nullipara is diagnosed with CIN 3. Which printed treatment applies irrespective of her parity?",
    "opts": [
-    "Cryoablation",
     "Hysterectomy",
-    "Follow up for 2 years",
-    "LLETZ or LEEP"
+    "Cryoablation",
+    "LLETZ or LEEP",
+    "Follow up for 2 years"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "LLETZ or LEEP is the printed mx of choice for CIN 2/3 for all age and parity."
   },
   {
    "id": "ch45-u11-q1",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "Which gases are printed as passed at very low temperature in cryoablation?",
    "opts": [
+    "NO / CO",
     "CO2 / O2",
     "CO2 / N2O",
-    "N2 / O2",
-    "NO / CO"
+    "N2 / O2"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "'CO2/N2O passed at very low temperature' on page 240."
   },
   {
    "id": "ch45-u11-q2",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "fillup",
    "q": "Fill up: The cryogen is applied in areas of dysplasia, identified as ____ areas.",
    "opts": [
-    "pale",
-    "rough",
+    "acetowhite",
     "iodine negative",
-    "acetowhite"
+    "rough",
+    "pale"
    ],
-   "ans": 3,
+   "ans": 0,
    "exp": "'With cryogen : Applied in areas of dysplasia (Acetowhite areas)'."
   },
   {
    "id": "ch45-u11-q3",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "In the printed principle chain, very low temperature causes freezing of which content of dysplastic areas?",
    "opts": [
-    "Extracellular fluid",
     "Cytoplasmic proteins",
-    "Intracellular water",
-    "Nuclear DNA"
+    "Nuclear DNA",
+    "Extracellular fluid",
+    "Intracellular water"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "The chain reads 'At very low temp -> Freezing & intracellular water in dysplastic areas'."
   },
   {
    "id": "ch45-u11-q4",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "The end point of the cryoablation principle chain is:",
    "opts": [
     "Destruction of dysplastic epithelium",
-    "Destruction of transformation zone stroma",
+    "Necrosis of endocervical glands",
     "Desquamation of acetowhite epithelium",
-    "Necrosis of endocervical glands"
+    "Destruction of transformation zone stroma"
    ],
    "ans": 0,
    "exp": "The final box prints 'Destruction of dysplastic epithelium'."
@@ -1205,46 +1205,46 @@
    "id": "ch45-u11-q5",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "numeric",
    "q": "Give the printed freeze-thaw-freeze timings in order:",
    "opts": [
     "Freeze 5 mins, thaw 3 mins, freeze 5 mins",
-    "Freeze 3 mins, thaw 5 mins, freeze 3 mins",
     "Freeze 3 mins, thaw 3 mins, freeze 5 mins",
+    "Freeze 3 mins, thaw 5 mins, freeze 3 mins",
     "Freeze 5 mins, thaw 5 mins, freeze 3 mins"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "The three boxes print freeze (3 mins), thaw (5 mins), freeze (3 mins)."
   },
   {
    "id": "ch45-u11-q6",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "numeric",
    "q": "Fill up: Cryoablation destroys epithelium up to a depth of 3-____ mm.",
    "opts": [
-    "4",
     "6",
-    "8",
-    "5"
+    "4",
+    "5",
+    "8"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "'Destruction upto 3 - 5 mm of epithelium'."
   },
   {
    "id": "ch45-u11-q7",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "The printed side effect of cryoablation is:",
    "opts": [
     "Persistent water discharge",
     "Persistent blood discharge",
-    "Cervical stenosis",
-    "Chronic pelvic pain"
+    "Chronic pelvic pain",
+    "Cervical stenosis"
    ],
    "ans": 0,
    "exp": "'Side effect : Persistent water discharge'."
@@ -1253,141 +1253,141 @@
    "id": "ch45-u11-q8",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "The printed disadvantage of cryoablation is:",
    "opts": [
-    "Requires general anaesthesia",
     "Causes cervical incompetence",
     "No tissue specimen is obtained",
+    "Requires general anaesthesia",
     "Cannot reach 3 mm depth"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "'Disadvantage : No tissue specimen is obtained'."
   },
   {
    "id": "ch45-u11-q9",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "match",
    "q": "Match each cryoablation attribute with its printed value - 1) Gases 2) Cycle 3) Depth 4) Side effect ... A) 3-5 mm B) Persistent water discharge C) CO2/N2O D) 3-5-3 minutes ... choose:",
    "opts": [
-    "1-D, 2-C, 3-A, 4-B",
     "1-C, 2-D, 3-A, 4-B",
     "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-C, 3-A, 4-B",
     "1-C, 2-A, 3-D, 4-B"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "Gases are CO2/N2O, cycle is freeze 3 thaw 5 freeze 3, depth 3-5 mm, side effect persistent water discharge."
   },
   {
    "id": "ch45-u11-q10",
    "sec": "Management of CIN",
    "unit": "Cryoablation",
-   "page": 240,
+   "page": 248,
    "fmt": "tf",
    "q": "True/False: Cryoablation yields a tissue specimen for histopathology.",
    "opts": [
+    "False - it yields only cytology",
     "False",
     "True",
-    "False - it yields only cytology",
     "False - it yields fluid for culture"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The printed disadvantage is that no tissue specimen is obtained."
   },
   {
    "id": "ch45-u12-q1",
    "sec": "Management of CIN",
    "unit": "Cryoablation Prerequisites in CIN 1",
-   "page": 240,
+   "page": 248,
    "fmt": "numeric",
    "q": "How many criteria must all be fulfilled before cryoablation in CIN 1?",
    "opts": [
+    "Six",
     "Three",
     "Five",
-    "Four",
-    "Six"
+    "Four"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "The prerequisites list four bullets: entire TZ visible, lesion completely visible, not HIV +ve, lesion not > 2 quadrants."
   },
   {
    "id": "ch45-u12-q2",
    "sec": "Management of CIN",
    "unit": "Cryoablation Prerequisites in CIN 1",
-   "page": 240,
+   "page": 248,
    "fmt": "fillup",
    "q": "Fill up: The entire ____ should be visible before cryoablation is done in CIN 1.",
    "opts": [
-    "cervix",
     "vagina",
+    "TZ",
     "os",
-    "TZ"
+    "cervix"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "'Entire TZ should be visible' heads the prerequisites."
   },
   {
    "id": "ch45-u12-q3",
    "sec": "Management of CIN",
    "unit": "Cryoablation Prerequisites in CIN 1",
-   "page": 240,
+   "page": 248,
    "fmt": "recall",
    "q": "Which HIV status is printed as acceptable for cryoablation in CIN 1?",
    "opts": [
-    "HIV positive on treatment",
-    "Not HIV positive",
+    "HIV positive with undetectable load",
     "Any HIV status",
-    "HIV positive with undetectable load"
+    "HIV positive on treatment",
+    "Not HIV positive"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "'Not be HIV +ve' is the third prerequisite."
   },
   {
    "id": "ch45-u12-q4",
    "sec": "Management of CIN",
    "unit": "Cryoablation Prerequisites in CIN 1",
-   "page": 240,
+   "page": 248,
    "fmt": "numeric",
    "q": "The lesion must not involve more than how many quadrants of the cervix?",
    "opts": [
     "1 quadrant",
     "3 quadrants",
-    "2 quadrants",
-    "4 quadrants"
+    "4 quadrants",
+    "2 quadrants"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "'Lesion not > 2 quadrants of cervix' closes the list."
   },
   {
    "id": "ch45-u12-q5",
    "sec": "Management of CIN",
    "unit": "Cryoablation Prerequisites in CIN 1",
-   "page": 240,
+   "page": 248,
    "fmt": "odd",
    "q": "Odd one out - which is NOT a printed cryoablation prerequisite?",
    "opts": [
-    "Colposcopic biopsy confirming CIN 2",
+    "Patient not HIV positive",
     "Entire TZ visible",
-    "Lesion completely visible",
-    "Patient not HIV positive"
+    "Colposcopic biopsy confirming CIN 2",
+    "Lesion completely visible"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "The prerequisites are visibility of TZ and lesion, HIV negativity and lesion within 2 quadrants; cryoablation is for CIN 1."
   },
   {
    "id": "ch45-u12-q6",
    "sec": "Management of CIN",
    "unit": "Cryoablation Prerequisites in CIN 1",
-   "page": 240,
+   "page": 248,
    "fmt": "tf",
    "q": "True/False: A CIN 1 lesion spanning three quadrants of the cervix still satisfies the printed prerequisites for cryoablation.",
    "opts": [
+    "False - only HIV status matters",
     "True",
     "False - quadrant count is irrelevant",
-    "False - only HIV status matters",
     "False"
    ],
    "ans": 3,
@@ -1397,158 +1397,158 @@
    "id": "ch45-u13-q1",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "fillup",
    "q": "Fill up: In LLETZ/LEEP the total ____ area is removed.",
    "opts": [
     "acetowhite",
-    "dysplastic",
     "ectocervical",
+    "dysplastic",
     "glandular"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "'Total dysplastic area is removed' opens the LLETZ block."
   },
   {
    "id": "ch45-u13-q2",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "What is passed into the LLETZ instrument according to the printed chain?",
    "opts": [
-    "Cold knife",
     "Current",
     "Laser beam",
-    "Cryogen"
+    "Cryogen",
+    "Cold knife"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "The chain prints 'Current -passed into-> Instrument'."
   },
   {
    "id": "ch45-u13-q3",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "The loop in LLETZ is printed to:",
    "opts": [
     "Cut first and coagulate later",
     "Coagulate without cutting",
-    "Vaporise without cutting",
-    "Cut and coagulate at the same time"
+    "Cut and coagulate at the same time",
+    "Vaporise without cutting"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "'Cut & coagulate at the same time' follows the instrument box."
   },
   {
    "id": "ch45-u13-q4",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "numeric",
    "q": "The printed duration of the LLETZ procedure is:",
    "opts": [
-    "5-10 mins",
-    "15-20 mins",
+    "20-30 mins",
     "10-15 mins",
-    "20-30 mins"
+    "15-20 mins",
+    "5-10 mins"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "'Short procedure : 10-15 mins' under advantage."
   },
   {
    "id": "ch45-u13-q5",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "numeric",
    "q": "Up to what depth are tissues removed in LLETZ?",
    "opts": [
-    "10 mm",
     "5 mm",
-    "8 mm",
-    "15 mm"
+    "15 mm",
+    "10 mm",
+    "8 mm"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "'Tissues removed until 10 mm depth'."
   },
   {
    "id": "ch45-u13-q6",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "LLETZ is printed as the treatment of choice for which grades, at any age and parity?",
    "opts": [
     "CIN 1 and 2",
-    "CIN 1 only",
     "CIN 3 and microinvasive cancer",
-    "CIN 2 and 3"
+    "CIN 2 and 3",
+    "CIN 1 only"
    ],
-   "ans": 3,
+   "ans": 2,
    "exp": "'TOC for CIN 2 & 3 for any age & parity'."
   },
   {
    "id": "ch45-u13-q7",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "Which advantage allows histopathology after LLETZ but not after cryoablation?",
    "opts": [
-    "Tissue sample can be sent for HPE",
-    "It is an OPD procedure",
     "It is a short procedure",
-    "It removes tissue to 10 mm"
+    "Tissue sample can be sent for HPE",
+    "It removes tissue to 10 mm",
+    "It is an OPD procedure"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The indented note under TOC is 'Tissue sample can be sent for HPE', unlike cryoablation."
   },
   {
    "id": "ch45-u13-q8",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "The printed disadvantage of LLETZ is:",
    "opts": [
     "Cervical stenosis",
-    "Uterine perforation",
     "Bleeding, minimal",
-    "Infection"
+    "Infection",
+    "Uterine perforation"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "'Disadvantage : Bleeding (minimal)'."
   },
   {
    "id": "ch45-u13-q9",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "LLETZ shares which setting advantage with colposcopy?",
    "opts": [
     "Needs general anaesthesia",
-    "OPD procedure",
     "Needs hospital admission",
-    "Requires laparotomy"
+    "Requires laparotomy",
+    "OPD procedure"
    ],
-   "ans": 1,
+   "ans": 3,
    "exp": "Both lists print 'OPD procedure'."
   },
   {
    "id": "ch45-u13-q10",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "match",
    "q": "Match each LLETZ attribute with its printed value - 1) Energy 2) Time 3) Depth 4) Disadvantage ... A) 10 mm B) Minimal bleeding C) Current D) 10-15 mins ... choose:",
    "opts": [
     "1-C, 2-D, 3-A, 4-B",
-    "1-D, 2-C, 3-A, 4-B",
     "1-C, 2-D, 3-B, 4-A",
-    "1-C, 2-A, 3-D, 4-B"
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-C, 3-A, 4-B"
    ],
    "ans": 0,
    "exp": "Current is passed into the loop, the procedure lasts 10-15 mins, depth is 10 mm and bleeding is minimal."
@@ -1557,93 +1557,93 @@
    "id": "ch45-u13-q11",
    "sec": "Management of CIN",
    "unit": "LLETZ / LEEP",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "The figure captioned on page 241 with panels A to F shows:",
    "opts": [
-    "Cone biopsy",
     "LLETZ",
-    "Cryoablation",
-    "Colposcopy"
+    "Colposcopy",
+    "Cone biopsy",
+    "Cryoablation"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "The six-panel photograph is captioned 'LLETZ'."
   },
   {
    "id": "ch45-u14-q1",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "In special scenario 1, a positive endocervical curettage leads next to:",
    "opts": [
-    "Hysterectomy",
     "LLETZ",
     "Cone biopsy",
+    "Hysterectomy",
     "Repeat curettage"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "The chain prints 'Endocervical curettage positive -> Cone biopsy'."
   },
   {
    "id": "ch45-u14-q2",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "fillup",
    "q": "Fill up: In special scenario 1, cone biopsy revealing adenocarcinoma in situ ends in ____.",
    "opts": [
-    "radiotherapy",
     "chemoradiation",
-    "trachelectomy",
-    "hysterectomy"
+    "hysterectomy",
+    "radiotherapy",
+    "trachelectomy"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "'Adenocarcinoma in situ -> Hysterectomy' closes scenario 1."
   },
   {
    "id": "ch45-u14-q3",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "In special scenario 2, a pap smear of HSIL is followed by:",
    "opts": [
-    "Cone biopsy directly",
     "Colposcopy and biopsy",
-    "Endocervical curettage",
-    "HPV DNA testing"
+    "Cone biopsy directly",
+    "HPV DNA testing",
+    "Endocervical curettage"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "'PAP smear : HSIL -> Colposcopy & biopsy' opens scenario 2."
   },
   {
    "id": "ch45-u14-q4",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "Which colposcopic biopsy results create the printed 'discrepancy in reports' in scenario 2?",
    "opts": [
-    "CIN 2 or CIN 3",
-    "Microinvasive cancer",
     "CIN 1 or normal",
-    "Adenocarcinoma in situ"
+    "Adenocarcinoma in situ",
+    "CIN 2 or CIN 3",
+    "Microinvasive cancer"
    ],
-   "ans": 2,
+   "ans": 0,
    "exp": "'Colposcopy & biopsy : CIN 1 or Normal' with the arrow labelled discrepancy in reports."
   },
   {
    "id": "ch45-u14-q5",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "The discrepancy in scenario 2 is resolved by:",
    "opts": [
-    "Repeat pap smear",
-    "Hysterectomy",
     "Cryoablation",
+    "Hysterectomy",
+    "Repeat pap smear",
     "Cone biopsy"
    ],
    "ans": 3,
@@ -1653,173 +1653,173 @@
    "id": "ch45-u14-q6",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "match",
    "q": "Arrange scenario 1 in printed order - 1) Adenocarcinoma in situ 2) Endocervical curettage positive 3) Hysterectomy 4) Cone biopsy ... choose:",
    "opts": [
-    "2, 4, 1, 3",
     "2, 1, 4, 3",
-    "4, 2, 1, 3",
-    "2, 4, 3, 1"
+    "2, 4, 1, 3",
+    "2, 4, 3, 1",
+    "4, 2, 1, 3"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The printed chain is curettage positive, cone biopsy, adenocarcinoma in situ, hysterectomy."
   },
   {
    "id": "ch45-u14-q7",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "scenario",
    "q": "Scenario: A 40-year-old with HSIL pap has colposcopic biopsy reading CIN 1. According to the printed special scenario, what should be done next?",
    "opts": [
+    "Hysterectomy",
     "Accept the CIN 1 and follow up",
     "Cone biopsy",
-    "Hysterectomy",
     "Cryoablation"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "HSIL pap against CIN 1 biopsy is the printed discrepancy that mandates cone biopsy."
   },
   {
    "id": "ch45-u14-q8",
    "sec": "Management of CIN",
    "unit": "Special Scenarios",
-   "page": 241,
+   "page": 249,
    "fmt": "tf",
    "q": "True/False: Adenocarcinoma in situ found on cone biopsy is managed by hysterectomy in the printed scenario.",
    "opts": [
-    "False",
+    "True",
     "False - by LLETZ",
     "False - by chemoradiation",
-    "True"
+    "False"
    ],
-   "ans": 3,
+   "ans": 0,
    "exp": "Scenario 1 ends 'Adenocarcinoma in situ -> Hysterectomy'."
   },
   {
    "id": "ch45-u15-q1",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy / Conisation",
-   "page": 241,
+   "page": 249,
    "fmt": "fillup",
    "q": "Fill up: In cone biopsy a ____ shaped area of cervix is cut.",
    "opts": [
-    "cone",
-    "wedge",
     "disc",
-    "cylinder"
+    "cone",
+    "cylinder",
+    "wedge"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "'Cone shaped area of cervix is cut' on page 241."
   },
   {
    "id": "ch45-u15-q2",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy / Conisation",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "Which three zones must the cone include?",
    "opts": [
-    "Ectocervix, vagina and endocervix",
+    "Ectocervix, transformation zone and isthmus",
     "Transformation zone, endometrium and endocervix",
-    "Exo/ecto cervix, transformational zone and endocervix",
-    "Ectocervix, transformation zone and isthmus"
+    "Ectocervix, vagina and endocervix",
+    "Exo/ecto cervix, transformational zone and endocervix"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "The 'To include' list is exo/ecto cervix, transformational zone, endocervix."
   },
   {
    "id": "ch45-u15-q3",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy / Conisation",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "Cone biopsy is performed in which setting?",
    "opts": [
-    "OPD under local anaesthesia",
     "OT under GA",
     "OPD without anaesthesia",
-    "Day care under sedation"
+    "Day care under sedation",
+    "OPD under local anaesthesia"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "'Done in OT under GA' closes the cone biopsy bullets."
   },
   {
    "id": "ch45-u15-q4",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy / Conisation",
-   "page": 241,
+   "page": 249,
    "fmt": "recall",
    "q": "The cone biopsy diagram on page 241 labels which three cervical regions from above down?",
    "opts": [
-    "Endocervix, internal os and ectocervix",
     "Isthmus, TZ and ectocervix",
     "Endocervix, TZ and ectocervix",
+    "Endocervix, internal os and ectocervix",
     "Endocervix, TZ and vagina"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "The figure leader lines read endocervix, TZ, ectocervix."
   },
   {
    "id": "ch45-u15-q5",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy / Conisation",
-   "page": 241,
+   "page": 249,
    "fmt": "odd",
    "q": "Odd one out - which structure is NOT inside the printed cone specimen?",
    "opts": [
     "Ectocervix",
-    "Transformational zone",
+    "Endometrium",
     "Endocervix",
-    "Endometrium"
+    "Transformational zone"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "The cone includes exo/ecto cervix, transformational zone and endocervix only."
   },
   {
    "id": "ch45-u15-q6",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy / Conisation",
-   "page": 241,
+   "page": 249,
    "fmt": "tf",
    "q": "True/False: Unlike colposcopy and LLETZ, cone biopsy needs the operating theatre and general anaesthesia.",
    "opts": [
-    "True",
+    "False - it needs only local anaesthesia",
     "False",
-    "False - it is an OPD procedure",
-    "False - it needs only local anaesthesia"
+    "True",
+    "False - it is an OPD procedure"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "'Done in OT under GA' contrasts with the OPD label on colposcopy and LLETZ."
   },
   {
    "id": "ch45-u16-q1",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy Indications",
-   "page": 242,
+   "page": 250,
    "fmt": "recall",
    "q": "Which three diagnostic indications for cone biopsy are printed on page 242?",
    "opts": [
-    "Suspecting squamous cancer, satisfactory colposcopy, and concordant reports",
+    "Suspecting adenocarcinoma or adenocarcinoma in situ, poorly visualised TZ on colposcopy, and discrepancy in pap smear and colposcopy reports",
     "Microinvasive cancer, visible growth, and positive punch biopsy",
-    "HSIL pap, ASCUS pap and AGCUS pap",
-    "Suspecting adenocarcinoma or adenocarcinoma in situ, poorly visualised TZ on colposcopy, and discrepancy in pap smear and colposcopy reports"
+    "Suspecting squamous cancer, satisfactory colposcopy, and concordant reports",
+    "HSIL pap, ASCUS pap and AGCUS pap"
    ],
-   "ans": 3,
+   "ans": 0,
    "exp": "The diagnostic bullets list exactly those three indications."
   },
   {
    "id": "ch45-u16-q2",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy Indications",
-   "page": 242,
+   "page": 250,
    "fmt": "fillup",
    "q": "Fill up: A poorly visualised ____ on colposcopy is a printed diagnostic indication for cone biopsy.",
    "opts": [
     "TZ",
-    "lesion",
     "vagina",
+    "lesion",
     "os"
    ],
    "ans": 0,
@@ -1829,23 +1829,23 @@
    "id": "ch45-u16-q3",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy Indications",
-   "page": 242,
+   "page": 250,
    "fmt": "recall",
    "q": "The therapeutic indications place cone biopsy as management of Ca cervix in which group?",
    "opts": [
-    "Postmenopausal females",
-    "Multiparous females",
     "Young females",
-    "HIV positive females"
+    "HIV positive females",
+    "Postmenopausal females",
+    "Multiparous females"
    ],
-   "ans": 2,
+   "ans": 0,
    "exp": "'Mx of Ca cervix in young females' heads the therapeutic bullets."
   },
   {
    "id": "ch45-u16-q4",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy Indications",
-   "page": 242,
+   "page": 250,
    "fmt": "recall",
    "q": "Which FIGO stage is printed as microinvasive Ca under the therapeutic indication?",
    "opts": [
@@ -1861,109 +1861,109 @@
    "id": "ch45-u16-q5",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy Indications",
-   "page": 242,
+   "page": 250,
    "fmt": "recall",
    "q": "Cone biopsy gives evidence of what key feature in the therapeutic list?",
    "opts": [
-    "Lymph node spread",
     "Microinvasion",
-    "Parametrial spread",
-    "Vaginal spread"
+    "Vaginal spread",
+    "Lymph node spread",
+    "Parametrial spread"
    ],
-   "ans": 1,
+   "ans": 0,
    "exp": "'Evidence of microinvasion' is the last therapeutic bullet."
   },
   {
    "id": "ch45-u16-q6",
    "sec": "Management of CIN",
    "unit": "Cone Biopsy Indications",
-   "page": 242,
+   "page": 250,
    "fmt": "match",
    "q": "Match each cone biopsy indication class with its printed items - 1) Diagnostic 2) Therapeutic ... A) Evidence of microinvasion, mx of Ca cervix in young females B) Suspected adenocarcinoma in situ, poorly visualised TZ, discrepant reports ... choose:",
    "opts": [
-    "1-A, 2-B",
-    "1-B, 2-B",
+    "1-A, 2-A",
     "1-B, 2-A",
-    "1-A, 2-A"
+    "1-B, 2-B",
+    "1-A, 2-B"
    ],
-   "ans": 2,
+   "ans": 1,
    "exp": "The diagnostic arm lists suspicion of adenocarcinoma in situ, poor TZ view and report discrepancy; the therapeutic arm lists microinvasion and young females."
   },
   {
    "id": "ch45-u17-q1",
    "sec": "Management of CIN",
    "unit": "P-16 Protein",
-   "page": 242,
+   "page": 250,
    "fmt": "recall",
    "q": "P-16 protein testing is invoked when the pap smear shows confusion between which two categories?",
    "opts": [
-    "ASCUS and ASC-H",
-    "Normal and LSIL",
     "HSIL and invasive cancer",
-    "LSIL and HSIL"
+    "LSIL and HSIL",
+    "Normal and LSIL",
+    "ASCUS and ASC-H"
    ],
-   "ans": 3,
+   "ans": 1,
    "exp": "The flow prints 'Confusion between LSIL & HSIL : Indeterminate'."
   },
   {
    "id": "ch45-u17-q2",
    "sec": "Management of CIN",
    "unit": "P-16 Protein",
-   "page": 242,
+   "page": 250,
    "fmt": "recall",
    "q": "An increased p-16 protein result points to:",
    "opts": [
+    "Infection",
     "HSIL",
     "LSIL",
-    "Normal",
-    "Infection"
+    "Normal"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The raised arrow arm is labelled HSIL."
   },
   {
    "id": "ch45-u17-q3",
    "sec": "Management of CIN",
    "unit": "P-16 Protein",
-   "page": 242,
+   "page": 250,
    "fmt": "fillup",
    "q": "Fill up: A normal p-16 protein result leaves the report as ____.",
    "opts": [
-    "HSIL",
+    "AGCUS",
     "ASC-H",
-    "LSIL",
-    "AGCUS"
+    "HSIL",
+    "LSIL"
    ],
-   "ans": 2,
+   "ans": 3,
    "exp": "The normal arm of the p-16 tree ends at LSIL."
   },
   {
    "id": "ch45-u17-q4",
    "sec": "Management of CIN",
    "unit": "P-16 Protein",
-   "page": 242,
+   "page": 250,
    "fmt": "match",
    "q": "Arrange the p-16 pathway in printed order - 1) P-16 protein 2) Pap smear 3) Indeterminate confusion between LSIL and HSIL 4) HSIL or LSIL answer ... choose:",
    "opts": [
+    "1, 2, 3, 4",
     "2, 1, 3, 4",
     "2, 3, 1, 4",
-    "3, 2, 1, 4",
-    "1, 2, 3, 4"
+    "3, 2, 1, 4"
    ],
-   "ans": 1,
+   "ans": 2,
    "exp": "Pap smear precedes the indeterminate confusion, then p-16 protein, then the HSIL or LSIL split."
   },
   {
    "id": "ch45-u17-q5",
    "sec": "Management of CIN",
    "unit": "P-16 Protein",
-   "page": 242,
+   "page": 250,
    "fmt": "scenario",
    "q": "Scenario: A pap smear cannot decide between LSIL and HSIL and p-16 staining is strongly increased. The printed inference is:",
    "opts": [
     "LSIL",
-    "ASCUS",
     "Normal",
+    "ASCUS",
     "HSIL"
    ],
    "ans": 3,
@@ -1973,14 +1973,14 @@
    "id": "ch45-u17-q6",
    "sec": "Management of CIN",
    "unit": "P-16 Protein",
-   "page": 242,
+   "page": 250,
    "fmt": "tf",
    "q": "True/False: A normal p-16 result downgrades the indeterminate report towards LSIL.",
    "opts": [
     "True",
     "False",
-    "False - it upgrades to HSIL",
-    "False - it mandates cone biopsy"
+    "False - it mandates cone biopsy",
+    "False - it upgrades to HSIL"
    ],
    "ans": 0,
    "exp": "The normal arm of the printed tree terminates at LSIL."

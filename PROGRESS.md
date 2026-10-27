@@ -6,12 +6,12 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 - Repository: `Deva20045/Gyne`
 - Published app: `obg-mastery-path.html` (single offline HTML, no build step to run)
 - Editable source of truth for built chapters: `data_src/chNN.py` → `data/chNN.json`
-- Rebuild any chapter: `python3 build_chapters.py 30 31 32 33 34 35`
+- Rebuild any chapter: `python3 build_chapters.py 36 37 38 39 40`
 - Validate: `python3 validate.py`
 
-## Build status — 40 of 49 chapters live · 3,832 questions · 483 units
+## Build status — 45 of 49 chapters live · 4,343 questions · 529 units
 
-| Chapters | Book pages | Questions | Units |
+| Chapters | Scan sequence | Questions | Units |
 |---|---:|---:|---:|
 | 1–29 | 1–159 | 2,120 | 326 |
 | 30 Disorders of Sexual Development (46XX) | 160–164 | 151 | 12 |
@@ -21,14 +21,69 @@ Standalone offline quiz built line-by-line from the *Marrow OBG Edition 8* print
 | 34 Pelvic Inflammatory Disease (PID) | 184–187 | 128 | 9 |
 | 35 Genital Tuberculosis | 188–192 | 134 | 9 |
 | **Cumulative 1–35** | **1–192** | **3,025** | **394** |
-| 45 CIN: Part 2 | 238–242 | 124 | 17 |
-| 46 Cancer Cervix | 243–248 | 177 | 17 |
-| 47 Ovarian Cancer: Part 1 | 249–256 | 246 | 27 |
-| 48 Ovarian Cancer: Part 2 | 257–260 | 140 | 14 |
-| 49 Gynaecology: Miscellaneous Topics | 261–264 | 120 | 14 |
-| **Cumulative 1–49 built (36–44 pending)** | **1–264 covered** | **3,832** | **483** |
+| 36 Female Infertility: Part 1 | 193–198 | 90 | 6 |
+| 37 Female Infertility: Part 2 | 199–202 | 58 | 4 |
+| 38 Male Infertility | 203–210 | 144 | 8 |
+| 39 Contraception: Part 1 | 211–216 | 115 | 6 |
+| 40 Contraception: Part 2 | 217–221 | 104 | 6 |
+| **Cumulative 1–40** | **1–221** | **3,536** | **424** |
+| 45 CIN: Part 2 | 246–250 | 124 | 17 |
+| 46 Cancer Cervix | 251–256 | 177 | 22 |
+| 47 Ovarian Cancer: Part 1 | 257–264 | 246 | 34 |
+| 48 Ovarian Cancer: Part 2 | 265–268 | 140 | 17 |
+| 49 Gynaecology: Miscellaneous Topics | 269–272 | 120 | 14 |
+| **Cumulative built 1–40 + 45–49 (41–44 pending)** | **scans 1–272** | **4,343** | **529** |
 
-## Earlier release — Chapters 30 to 35 (Book p160–192)
+Rows 36–49 quote the repository scan-sequence convention (part-05/06/07 scans run
+8 ahead of the printed folio: scan 246 = printed 238).
+
+## Current release — Chapters 36–40 (scans 193–221 · printed folios 185–213)
+
+**511 new questions / 30 units** in source order, across all 29 sheets from scan
+193–221 (**printed folios 185–213**, part-05 PDF pages 13–41).
+Earlier progress notes called scan positions “Book pages”; use the mapping above
+when locating printed page numbers.
+
+- 269 fill-ups, 126 clinical/source-check scenarios, 55 match-the-following,
+  43 odd-one-out and 18 paired-statement true/false questions.
+- All five requested formats appear in each chapter. Each question has four
+  distinct options and an explanatory answer; paired T/F uses four truth combinations.
+- Reviewed each rasterised source sheet and its tables, arrows, captions and
+  continuation headings. Selected unclear numerals were reviewed in magnified crops.
+  Full topic/question-ID map: [`audit/ch36-40-coverage.md`](audit/ch36-40-coverage.md).
+- Source inconsistencies are identified where they occur, rather than silently
+  turning erroneous or obsolete annotations into clinical recommendations.
+- Improved answer shuffling: globally balanced slots without the prior forced
+  permutation every four questions; distractor order is shuffled too.
+- Rebuilding any chapter now retains numerical chapter order. Corrected the
+  pre-existing 35-before-34 block ordering. Existing progress IDs remain stable.
+- The strengthened validator also found a double-quoted legacy duplicate stem
+  missed by the old regular expression; reworded `ch29-u10-q6` without changing
+  its answer, options, ID or meaning.
+
+### Verification
+
+```sh
+python3 build_chapters.py 36 37 38 39 40
+python3 validate.py
+python3 -m unittest discover -s tests -v
+npm ci
+node tests/quiz-smoke.cjs
+# Or, after npm ci: npm test
+```
+
+Validation fails on duplicate IDs/stems, bad options/answers, stale new-chapter
+source/JSON/HTML, missing formats, out-of-order source pages or unbalanced new
+answer slots. JavaScript syntax is checked by Node. The DOM smoke test plays
+**all 511 new questions**, checks feedback and unit completion, and tests mistake
+review and saved-progress reload without losing an existing chapter's progress.
+Automated tests check structure/behaviour, not medical accuracy or a formal proof
+of exhaustive source coverage.
+
+The app remains a single offline HTML file; Node/jsdom are development-test
+requirements only. No runtime dependency or network call was added.
+
+## Previous release — Chapters 30 to 35 (scan p160–192)
 
 All 33 scanned sheets covering Book p160–192 were rasterised, OCR'd and re-read at
 high zoom for every numeral, table cell, arrow label and figure caption before a single
@@ -255,15 +310,15 @@ for 6 months which can improve fertility; hysteroscopic adhesiolysis with a paed
 catheter and three months of estrogen plus progesterone for Asherman syndrome; and IVF for
 infertility with distorted pelvic anatomy or tubal block.
 
-## This release — Chapters 45 to 49 (Book p238–264)
+## This release — Chapters 45 to 49 (printed folios 238–264 · scans 246–272)
 
-All 27 scanned sheets covering Book p238–264 (PDF parts 06–07) were extracted at native
+All 27 scanned sheets covering scans 246–272 (printed folios 238–264, PDF parts 06–07) were extracted at native
 resolution, OCR'd end to end and then read page by page as images — every table cell,
 bracket, arrow label, figure caption and handwritten numeral — before any question was
 written. Chapters appear in strict printed order; chapters 36–44 remain unbuilt and were
 deliberately untouched.
 
-### Chapter 45 — CIN: Part 2 (Book p238–242; 124 questions / 17 units)
+### Chapter 45 — CIN: Part 2 (printed p238–242; 124 questions / 17 units)
 
 Opens with the dysplasia table — LSIL to CIN 1 at 1% risk against HSIL branching to CIN 2
 at 5% and CIN 3 at 12–40% — and the `CIN is diagnosed on biopsy, not on pap smear` line,
@@ -299,7 +354,7 @@ under GA, labelled figure). Page 242 closes with the diagnostic and therapeutic 
 indications and the p-16 protein tree resolving an indeterminate LSIL-versus-HSIL pap into
 HSIL when raised and LSIL when normal.
 
-### Chapter 46 — Cancer Cervix (Book p243–248; 177 questions / 17 units)
+### Chapter 46 — Cancer Cervix (printed p243–248; 177 questions / 22 units)
 
 Begins with the type tree — squamous cell as m/c with large cell non-keratinising the m/c
 subtype, large cell keratinising and small cell (poor prognosis), HPV 16 association,
@@ -345,7 +400,7 @@ and the post-surgery risk tree (high risk margin/parametrium/LN positive to chem
 radiation; intermediate large size, LVSI and deep stromal invasion with any two positive to
 radiotherapy; low risk to no post-op mx).
 
-### Chapter 47 — Ovarian Cancer: Part 1 (Book p249–256; 246 questions / 27 units)
+### Chapter 47 — Ovarian Cancer: Part 1 (printed p249–256; 246 questions / 34 units)
 
 Opens with functional ovarian cysts (m/c, hormonal, temporary and self-resolving;
 follicular m/c at follicle ≥3 cm; corpus luteal m/c to rupture; theca lutein from raised
@@ -412,7 +467,7 @@ lymphocytic fibrous septa) and yolk sac tumour (most malignant GCT, worst progno
 unilateral, acute abdomen, Schiller Duval or glomeruloid body with central capillaries
 surrounded by tumour cells in cystic spaces).
 
-### Chapter 48 — Ovarian Cancer: Part 2 (Book p257–260; 140 questions / 14 units)
+### Chapter 48 — Ovarian Cancer: Part 2 (printed p257–260; 140 questions / 17 units)
 
 Opens with the sex cord stromal tree — sex cord tumours splitting into estrogen-producing
 feminizing granulosa cell tumour and androgen-producing virilizing Sertoli-Leydig, Leydig
@@ -451,7 +506,7 @@ BEP — bleomycin, etoposide, cisplatin — except stage 1 dysgerminoma for GCT 
 stages 3 and 4 for sex cord), closing with the Sertoli-Leydig androgen note (hirsutism,
 acne, baldness, enlarged clitoris as virilization).
 
-### Chapter 49 — Gynaecology: Miscellaneous Topics (Book p261–264; 120 questions / 14 units)
+### Chapter 49 — Gynaecology: Miscellaneous Topics (printed p261–264; 120 questions / 14 units)
 
 Opens with stress urinary incontinence — the definition box (involuntary urine on raised
 intra-abdominal pressure with coughing, laughing, sneezing), the normal-versus-SUI
@@ -503,8 +558,9 @@ pg, 2–3 follicles, >17 mm) with the closing note that each follicle releases 2
   thresholds rather than generic wrong words; all match items are true bijections.
 - Answer positions are assigned by a seeded balanced shuffle: every new chapter finishes at
   24.6–25.8% per slot with no run of four identical slots.
-- `validate.py` enforces zero duplicate question IDs, zero duplicate stems, four distinct
-  options per item and a 20–30% answer distribution per chapter.
+- The current validator parses the actual embedded JavaScript, checks all question IDs,
+  stems, option uniqueness and answers, and applies strict new-chapter synchronisation,
+  order, format and answer-balance gates. Legacy answer distributions are retained.
 - Printed source quirks are preserved verbatim rather than silently corrected — for example
   the p163 `CAH: X-linked recessive disorder` note, the p182 `Doxycycline 100 mg OD × 7 days`
   (once daily, as printed) for cervicitis, and the p187 six-item consequence list that repeats
@@ -512,8 +568,6 @@ pg, 2–3 follicles, >17 mm) with the closing note that each follicle releases 2
 
 ## Next chapters to build
 
-**Chapter 36 — Female Infertility: Part 1** (Book p193 onward) — the gap between the two
-built blocks (36–44, Book p193–237) remains open: causes of infertility, the ovulation-test
-group (basal body temperature, cervical mucus, vaginal epithelial cell study with the
-karyopyknotic index, endometrial biopsy and serum progesterone) and the tests that predict
-ovulation, then Ch 37–44 up to CIN: Part 1 which ends at Book p237.
+**Chapter 41 — Contraception: Images**, starting at scan 222 / printed folio 214.
+Chapters 41–44 remain unbuilt; chapters 45–49 are complete, so closing 41–44 finishes
+the book. Check chapter boundaries from the actual page headings.

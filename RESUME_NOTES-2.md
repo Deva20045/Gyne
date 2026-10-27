@@ -1,15 +1,22 @@
 # PULSE · OBG Mastery Path — Resume Notes
 
-## Current release (2026-10-27) — the book is complete
+## Current release (2026-10-27) — the book is complete & Ch 36–40 line-audited
 
-- **Built chapters: 1–49 of 49**; **4,860 questions / 563 units**.
-- Latest batch: **Chapters 41–44, 517 questions / 34 units** — this closed the
-  last gap. Chapters 45–49 (807 q / 105 units) were built in a parallel release
-  and merged first; the two releases were integrated without altering each
-  other's chapters.
+- **Built chapters: 1–49 of 49**; **4,947 questions / 563 units**.
+- Latest update: **Chapters 36–40 line-by-line visual audit & expansion (511 → 598
+  questions / 30 units across scans 193–221, printed folios 185–213)** — all 511
+  baseline question IDs preserved, 87 sub-IDs inserted in strict reading order,
+  zero untouched-chapter diffs.
+- Preceding batches: **Chapters 41–44 (517 q / 34 units)** and **Chapters 45–49
+  (807 q / 105 units)**.
 
 | Chapter | Scan sequence | Printed folios | Questions | Units |
 |---|---|---|---:|---:|
+| 36 Female Infertility: Part 1 | 193–198 | 185–190 | 120 | 6 |
+| 37 Female Infertility: Part 2 | 199–202 | 191–194 | 67 | 4 |
+| 38 Male Infertility | 203–210 | 195–202 | 164 | 8 |
+| 39 Contraception: Part 1 | 211–216 | 203–208 | 127 | 6 |
+| 40 Contraception: Part 2 | 217–221 | 209–213 | 120 | 6 |
 | 41 Contraception: Images | 222–226 | 214–218 | 116 | 7 |
 | 42 Endometrial Hyperplasia | 227–229 | 219–221 | 79 | 6 |
 | 43 Endometrial Cancer | 230–235 | 222–227 | 122 | 8 |
@@ -40,17 +47,18 @@ actual page headings before authoring, as before.
 
 - `obg-mastery-path.html`: offline deliverable; `index.html` redirects here.
 - `data_src/chNN.py`: hand-authored chapter source.
-- `data_src/authoring.py`: strict seven-field text parser used by chapters 36–44.
-  It parses authored questions, never generates them from OCR.
+- `data_src/authoring.py`: strict seven- or eight-field (`qid | fmt | ...`)
+  text parser used by chapters 36–44. It parses authored questions, never
+  generates them from OCR.
 - `data/chNN.json`: generated questions plus source-page/format metadata.
 - `build_chapters.py`: deterministic balanced shuffling, distractor shuffling,
-  embedding and numerically ordered idempotent upsert.
+  explicit sub-ID preservation, embedding and numerically ordered idempotent upsert.
 - `validate.py`: fail-closed validation using actual JS parsing via Node.
 - `tools/`: OCR, page extraction, preview and crop helpers.
-- `tests/test_build.py`: authoring, shuffle, order/idempotency, page coverage
-  for chapters 36–49 and negative tests.
-- `tests/quiz-smoke.cjs`: jsdom interaction test of all 1,324 questions in
-  chapters 41–49, feedback/completion, mistake review and progress
+- `tests/test_build.py`: authoring, shuffle, order/idempotency, page coverage,
+  baseline ID preservation, audit-table completeness and negative tests.
+- `tests/quiz-smoke.cjs`: jsdom interaction test of all 1,922 questions in
+  chapters 36–49, feedback/completion, mistake review and progress
   persistence/reload; also verifies all 49 chapter cards.
 - `audit/ch41-44-coverage.md`, `audit/ch36-40-coverage.md`: coverage records.
 - `audit/ocr_222_246.txt`, `audit/ocr_hi_226_249.txt`,

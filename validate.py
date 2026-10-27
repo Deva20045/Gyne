@@ -31,6 +31,11 @@ def check(chapters, root=ROOT):
                 if not unit['questions']:
                     errors.append(f"{unit['id']}: empty unit")
                 items.extend(unit['questions'])
+        for unit_obj in (u for s in ch['sections'] for u in s['units']):
+            uid = unit_obj['id']
+            for q in unit_obj['questions']:
+                if number >= 36 and not re.match(rf'^{re.escape(uid)}-q[0-9a-z]+$', q['id']):
+                    errors.append(f"{q['id']}: ID must match parent unit {uid}-q...")
         for q in items:
             ids.append(q['id'])
             stems.append(q['q'])
@@ -41,6 +46,11 @@ def check(chapters, root=ROOT):
                 errors.append(f"{q['id']}: need four distinct options")
             if type(q['correct']) is not int or not 0 <= q['correct'] < len(opts):
                 errors.append(f"{q['id']}: invalid answer index")
+            elif 36 <= number <= 40:
+                ans_len = len(opts[q['correct']])
+                max_dist = max(len(o) for i, o in enumerate(opts) if i != q['correct'])
+                if ans_len > 35 and ans_len > max_dist * 1.35 and ans_len - max_dist > 18:
+                    errors.append(f"{q['id']}: correct option length clue ({ans_len} vs {max_dist})")
             if not q['q'].strip() or not q['why'].strip():
                 errors.append(f"{q['id']}: empty stem/explanation")
         slots = [q['correct'] for q in items]

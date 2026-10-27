@@ -1,0 +1,1269 @@
+{
+ "chapter": 42,
+ "questions": [
+  {
+   "id": "ch42-u1-q1",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "Endometrial hyperplasia (EH) is described in the overview as a ____ diagnosis.",
+   "opts": [
+    "radiological",
+    "serological",
+    "clinical",
+    "histopathology"
+   ],
+   "ans": 3,
+   "exp": "Histopathology diagnosis is the first overview bullet; the cause, presentation and classification follow it."
+  },
+  {
+   "id": "ch42-u1-q2",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The cause given in the EH overview is ____.",
+   "opts": [
+    "increased progesterone",
+    "thyroid excess",
+    "increased estrogen (a hyperestrogenic state)",
+    "decreased FSH"
+   ],
+   "ans": 2,
+   "exp": "Cause: up-estrogen (hyperestrogenic state) is printed under the heading."
+  },
+  {
+   "id": "ch42-u1-q3",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The typical EH presentation in the overview is a ____ woman with excessive bleeding.",
+   "opts": [
+    "postmenopausal on HRT only",
+    "perimenopausal",
+    "pregnant",
+    "postpubertal"
+   ],
+   "ans": 1,
+   "exp": "Presentation: Perimenopausal female c/o excessive bleeding."
+  },
+  {
+   "id": "ch42-u1-q4",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "EH is classified in the source under ____.",
+   "opts": [
+    "AUB - E",
+    "AUB - O",
+    "AUB - M",
+    "AUB - P"
+   ],
+   "ans": 2,
+   "exp": "Classification: AUB - M, the malignancy/hyperplasia category of the PALM-COEIN system."
+  },
+  {
+   "id": "ch42-u1-q5",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "odd",
+   "q": "Which is NOT one of the four EH overview bullets?",
+   "opts": [
+    "First-line tranexamic acid dosing",
+    "Hyperestrogenic cause",
+    "Histopathology diagnosis",
+    "AUB - M classification"
+   ],
+   "ans": 0,
+   "exp": "Tranexamic acid appears later as medical management of AUB, not in the overview list."
+  },
+  {
+   "id": "ch42-u1-q6",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "After ruling out pregnancy, the first investigation listed for EH is ____.",
+   "opts": [
+    "hysterectomy",
+    "serum CA-125",
+    "TVS to measure endometrial thickness",
+    "endometrial biopsy under GA"
+   ],
+   "ans": 2,
+   "exp": "1st Ix (after r/o pregnancy): TVS up-ET -> suspect EH -> take EB."
+  },
+  {
+   "id": "ch42-u1-q7",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The investigation of choice (IOC) for endometrial pathology named here is ____.",
+   "opts": [
+    "fractional curettage alone",
+    "hysteroscopy alone",
+    "Pap smear",
+    "endometrial biopsy (EB)"
+   ],
+   "ans": 3,
+   "exp": "IOC for endometrial pathology: Endometrial biopsy (EB)."
+  },
+  {
+   "id": "ch42-u1-q8",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The gold standard listed in the EH overview is ____.",
+   "opts": [
+    "MRI of the pelvis",
+    "fractional curettage plus hysteroscopy",
+    "TVS alone",
+    "Pipelle aspiration alone"
+   ],
+   "ans": 1,
+   "exp": "Gold standard: Fractional curettage + Hysteroscopy."
+  },
+  {
+   "id": "ch42-u1-q9",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "In the investigations line, ET stands for ____ and TVS for ____.",
+   "opts": [
+    "endometrial thickness; transvaginal sonography",
+    "estrogen test; transvaginal sampling",
+    "ejection time; thermal vessel scan",
+    "endometrial thickness; transabdominal screening"
+   ],
+   "ans": 0,
+   "exp": "The margin defines ET = endometrial thickness and TVS = trans-vaginal sonography."
+  },
+  {
+   "id": "ch42-u1-q10",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "match",
+   "q": "Match the EH investigation role: 1) First investigation 2) IOC 3) Gold standard with A) Fractional curettage plus hysteroscopy B) TVS C) Endometrial biopsy.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "The overview assigns TVS, EB and FC+hysteroscopy to first, IOC and gold-standard roles."
+  },
+  {
+   "id": "ch42-u1-q11",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "scenario",
+   "q": "A perimenopausal woman has AUB and a thick endometrium on TVS; pregnancy is excluded. Which sequence follows the source overview?",
+   "opts": [
+    "TVS first, then endometrial biopsy, with FC plus hysteroscopy as gold standard",
+    "Pap smear first, then MRI",
+    "Serum estrogen first, then dilatation",
+    "Hysterectomy first, then TVS"
+   ],
+   "ans": 0,
+   "exp": "TVS is the first test, EB the IOC, and FC+hysteroscopy the gold standard."
+  },
+  {
+   "id": "ch42-u1-q12",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "tf",
+   "q": "I) The source calls TVS the first investigation after pregnancy is ruled out. II) It calls endometrial biopsy the gold standard.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "I true; II false",
+    "I true; II true"
+   ],
+   "ans": 2,
+   "exp": "TVS is first, but the gold standard is FC + hysteroscopy, not EB."
+  },
+  {
+   "id": "ch42-u1-q13",
+   "sec": "Overview of EH, investigations and the AUB-M label",
+   "unit": "Overview of EH, investigations and the AUB-M label",
+   "page": 227,
+   "fmt": "scenario",
+   "q": "A student reads 'Suspect EH, take EB' and concludes EB is the definitive gold-standard test. What is the source's actual hierarchy?",
+   "opts": [
+    "EB is both IOC and gold standard",
+    "TVS is the gold standard",
+    "None of the three is preferred",
+    "EB is the IOC; the gold standard is FC + hysteroscopy"
+   ],
+   "ans": 3,
+   "exp": "The arrows give TVS first, EB as IOC, and FC+hysteroscopy as gold standard; the roles are distinct."
+  },
+  {
+   "id": "ch42-u2-q1",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "Endometrial sampling is also called ____ or endometrial aspiration cytology.",
+   "opts": [
+    "endometrial biopsy",
+    "hysteroscopy",
+    "fractional curettage",
+    "cone biopsy"
+   ],
+   "ans": 0,
+   "exp": "Endometrial biopsy/endometrial aspiration cytology head the sampling block at 00:04:35."
+  },
+  {
+   "id": "ch42-u2-q2",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "Endometrial sampling is done in the ____ setting.",
+   "opts": [
+    "radiology suite",
+    "inpatient ward",
+    "OPD",
+    "operation theatre under GA"
+   ],
+   "ans": 2,
+   "exp": "Done in: OPD; anaesthesia: Not required."
+  },
+  {
+   "id": "ch42-u2-q3",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The source states anaesthesia ____ for endometrial sampling.",
+   "opts": [
+    "is not required",
+    "must be local with sedation",
+    "must be general",
+    "must be spinal"
+   ],
+   "ans": 0,
+   "exp": "Anaesthesia: Not required is the printed line."
+  },
+  {
+   "id": "ch42-u2-q4",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "In India the named sampling instrument is ____.",
+   "opts": [
+    "Karman's cannula",
+    "Vabra curette",
+    "Ayres spatula",
+    "Babcock's forceps"
+   ],
+   "ans": 0,
+   "exp": "Instrument used -> India: Karman's cannula; Pipelle and Vabra aspirator are the alternatives."
+  },
+  {
+   "id": "ch42-u2-q5",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "Besides Karman's cannula, the sampling instruments listed are ____.",
+   "opts": [
+    "Babcock's and Allis forceps",
+    "Pipelle and Vabra aspirator",
+    "Ayres spatula and endocervical brush",
+    "LLETZ loop and cryoprobe"
+   ],
+   "ans": 1,
+   "exp": "Pipelle and Vabra aspirator are the two other devices in the sampling list."
+  },
+  {
+   "id": "ch42-u2-q6",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "odd",
+   "q": "Which is NOT a device in the endometrial-sampling list?",
+   "opts": [
+    "Pipelle",
+    "Karman's cannula",
+    "Vabra aspirator",
+    "Fallope ring applicator"
+   ],
+   "ans": 3,
+   "exp": "The ring applicator is a sterilisation instrument from the previous chapter."
+  },
+  {
+   "id": "ch42-u2-q7",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "match",
+   "q": "Match the age group to the endometrial-sampling trigger: 1) Reproductive age (<40 y) 2) Perimenopausal (FOGSI >=40 y / ACOG >=45 y) 3) Menopausal with A) EB irrespective of USG findings B) AUB plus risk factors or ET >=12 mm C) ET >=4 mm on TVS or AGCUS on Pap smear.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Each age column has its own printed indication set; do not swap their thresholds."
+  },
+  {
+   "id": "ch42-u2-q8",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "In reproductive-age women (<40 y), sampling is indicated for AUB with risk factors of Ca endometrium such as ____.",
+   "opts": [
+    "early menarche and multiparity",
+    "HPV and early coitarche",
+    "smoking and low BMI",
+    "PCOS, DM, HTN and tamoxifen"
+   ],
+   "ans": 3,
+   "exp": "C/o AUB + risk factors of Ca endometrium: PCOS, DM, HTN, Tamoxifen."
+  },
+  {
+   "id": "ch42-u2-q9",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The endometrial thickness threshold in the reproductive-age column is ET >= ____.",
+   "opts": [
+    "8 mm",
+    "4 mm",
+    "12 mm",
+    "20 mm"
+   ],
+   "ans": 2,
+   "exp": "ET >= 12 mm is the reproductive-age trigger; 4 mm belongs to the menopausal column."
+  },
+  {
+   "id": "ch42-u2-q10",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "AUB unresponsive to medical management with tranexamic acid, OCP or ____ is a reproductive-age sampling indication.",
+   "opts": [
+    "mifepristone",
+    "misoprostol",
+    "progesterone",
+    "clomiphene"
+   ],
+   "ans": 2,
+   "exp": "AUB unresponsive to medical mx (Tranexamic acid, OCP, progesterone)."
+  },
+  {
+   "id": "ch42-u2-q11",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "In the perimenopausal column the source recommends EB ____.",
+   "opts": [
+    "only if ET exceeds 12 mm",
+    "only if the Pap smear is normal",
+    "only after hysteroscopy",
+    "irrespective of USG findings"
+   ],
+   "ans": 3,
+   "exp": "EB irrespective of USG findings is the FOGSI/ACOG perimenopausal instruction."
+  },
+  {
+   "id": "ch42-u2-q12",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The perimenopausal age cut-off is >=40 years for FOGSI and >=____ for ACOG.",
+   "opts": [
+    "45 years",
+    "35 years",
+    "50 years",
+    "60 years"
+   ],
+   "ans": 0,
+   "exp": "Perimenopausal (>=40 yrs: FOGSI / >=45 yrs: ACOG)."
+  },
+  {
+   "id": "ch42-u2-q13",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "In the menopausal column, the TVS trigger is ET >= ____.",
+   "opts": [
+    "12 mm",
+    "4 mm",
+    "2 mm",
+    "20 mm"
+   ],
+   "ans": 1,
+   "exp": "Menopausal: ET >= 4 mm on TVS."
+  },
+  {
+   "id": "ch42-u2-q14",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "fillup",
+   "q": "The menopausal Pap-smear finding that triggers sampling is ____.",
+   "opts": [
+    "HSIL",
+    "ASCUS",
+    "LSIL",
+    "AGCUS"
+   ],
+   "ans": 3,
+   "exp": "Pap smear: AGCUS (Atypical glandular cells of undetermined significance)."
+  },
+  {
+   "id": "ch42-u2-q15",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "tf",
+   "q": "I) The reproductive-age ET threshold is 12 mm. II) The menopausal ET threshold is 4 mm.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "The two columns use 12 mm and 4 mm respectively; swapping them would misclassify patients."
+  },
+  {
+   "id": "ch42-u2-q16",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "scenario",
+   "q": "A 52-year-old postmenopausal woman has ET 6 mm on TVS. Which source indication applies?",
+   "opts": [
+    "Perimenopausal EB irrespective of USG",
+    "Reproductive-age AUB plus risk factors",
+    "Menopausal ET >=4 mm on TVS triggers endometrial biopsy",
+    "No indication until ET reaches 12 mm"
+   ],
+   "ans": 2,
+   "exp": "At 6 mm she exceeds the menopausal 4 mm threshold, so biopsy is indicated."
+  },
+  {
+   "id": "ch42-u2-q17",
+   "sec": "Endometrial sampling and its age-based indications",
+   "unit": "Endometrial sampling and its age-based indications",
+   "page": 227,
+   "fmt": "scenario",
+   "q": "Source-check: a 42-year-old with AUB and a normal USG is in the perimenopausal column. What does the source advise?",
+   "opts": [
+    "Start tranexamic acid and never sample",
+    "Reassure because the scan is normal",
+    "Perform EB irrespective of the USG findings",
+    "Wait for ET to reach 12 mm"
+   ],
+   "ans": 2,
+   "exp": "The perimenopausal instruction is EB regardless of ultrasound findings; thresholds are edition-specific study values."
+  },
+  {
+   "id": "ch42-u3-q1",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "Hysteroscopy is annotated here as being used for ____ pathology.",
+   "opts": [
+    "infectious",
+    "localised",
+    "hormonal",
+    "generalised"
+   ],
+   "ans": 1,
+   "exp": "Hysteroscopy: used for localised pathology, in contrast to fractional curettage."
+  },
+  {
+   "id": "ch42-u3-q2",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "Fractional curettage (FC) is done in the ____.",
+   "opts": [
+    "radiology department",
+    "OT",
+    "OPD",
+    "ward side room"
+   ],
+   "ans": 1,
+   "exp": "Done in: OT; anaesthesia: GA (under general anaesthesia)."
+  },
+  {
+   "id": "ch42-u3-q3",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The anaesthesia line for fractional curettage is ____.",
+   "opts": [
+    "general anaesthesia",
+    "local anaesthesia only",
+    "sedation only",
+    "no anaesthesia"
+   ],
+   "ans": 0,
+   "exp": "Anaesthesia: GA (under general anaesthesia)."
+  },
+  {
+   "id": "ch42-u3-q4",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The FC procedure begins with ____ curettage, then endometrial curettage.",
+   "opts": [
+    "endocervical",
+    "vaginal",
+    "fundal",
+    "ovarian"
+   ],
+   "ans": 0,
+   "exp": "Procedure: Endocervical curettage (1st) -> endometrial curettage."
+  },
+  {
+   "id": "ch42-u3-q5",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The stated advantage of FC is diagnosis of ____ endometrial pathology.",
+   "opts": [
+    "generalised",
+    "localised",
+    "cervical only",
+    "ovarian"
+   ],
+   "ans": 0,
+   "exp": "Advantage: Diagnosis generalised endometrial pathology."
+  },
+  {
+   "id": "ch42-u3-q6",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The stated disadvantage of FC is that it is ____ for localised pathology.",
+   "opts": [
+    "the gold standard",
+    "not good",
+    "the most sensitive",
+    "diagnostic and therapeutic"
+   ],
+   "ans": 1,
+   "exp": "Disadvantage: Not good for localised pathology; hysteroscopy covers the focal lesions."
+  },
+  {
+   "id": "ch42-u3-q7",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The margin note names ____ as the single best investigation.",
+   "opts": [
+    "fractional curettage",
+    "endometrial biopsy",
+    "TVS",
+    "Pap smear"
+   ],
+   "ans": 0,
+   "exp": "Note: Single best Ix -> Fractional curettage."
+  },
+  {
+   "id": "ch42-u3-q8",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "match",
+   "q": "Match the modality to its strength: 1) Hysteroscopy 2) Fractional curettage with A) Localised pathology B) Generalised endometrial pathology.",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "Both B",
+    "Both A"
+   ],
+   "ans": 0,
+   "exp": "Hysteroscopy targets focal disease; FC samples the generalised endometrium."
+  },
+  {
+   "id": "ch42-u3-q9",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "scenario",
+   "q": "A focal endometrial polyp is suspected. Which source statement explains why FC alone may miss it?",
+   "opts": [
+    "FC is the only test for focal lesions",
+    "FC is not good for localised pathology; hysteroscopy is used for focal lesions",
+    "Hysteroscopy cannot visualise the cavity",
+    "TVS is the gold standard for polyps"
+   ],
+   "ans": 1,
+   "exp": "FC samples generalised tissue and is poor for localised pathology; hysteroscopy is the focal tool."
+  },
+  {
+   "id": "ch42-u3-q10",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The 'EB Report Interpretation & Management' heading lists ____ EB outcomes.",
+   "opts": [
+    "4",
+    "5",
+    "2",
+    "3"
+   ],
+   "ans": 3,
+   "exp": "EB outcomes: 1. Normal, 2. Metropathia hemorrhagica, 3. Endometrial hyperplasia +/- Atypia."
+  },
+  {
+   "id": "ch42-u3-q11",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "match",
+   "q": "Match each EB outcome to its next step: 1) Normal 2) Metropathia hemorrhagica 3) Endometrial hyperplasia +/- atypia with A) Progesterone (TOC) B) First-line AUB drugs, then FC+hysteroscopy if unresponsive C) Detailed hyperplasia management on the next sheet.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The flow chart routes normal, metropathia and hyperplasia to different next steps."
+  },
+  {
+   "id": "ch42-u3-q12",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "For a NORMAL EB report, first-line AUB drugs are tranexamic acid, OCP and ____.",
+   "opts": [
+    "misoprostol",
+    "progesterone",
+    "tamoxifen",
+    "danazol"
+   ],
+   "ans": 1,
+   "exp": "Use 1st line drugs to mx AUB: Tranexamic acid, OCP, Progesterone -> Oral / mirena."
+  },
+  {
+   "id": "ch42-u3-q13",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "If a normal-EB patient is unresponsive to first-line drugs, the next step is ____.",
+   "opts": [
+    "FC plus hysteroscopy",
+    "immediate hysterectomy",
+    "repeat TVS only",
+    "ovarian biopsy"
+   ],
+   "ans": 0,
+   "exp": "Unresponsive -> FC + Hysteroscopy."
+  },
+  {
+   "id": "ch42-u3-q14",
+   "sec": "Fractional curettage, hysteroscopy and EB report pathways",
+   "unit": "Fractional curettage, hysteroscopy and EB report pathways",
+   "page": 228,
+   "fmt": "odd",
+   "q": "Which is NOT a first-line drug in the normal-EB pathway?",
+   "opts": [
+    "Progesterone",
+    "Carboplatin",
+    "Tranexamic acid",
+    "OCP"
+   ],
+   "ans": 1,
+   "exp": "Carboplatin is a chemotherapy drug from the endometrial-cancer chapter."
+  },
+  {
+   "id": "ch42-u4-q1",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "Metropathia hemorrhagica is most common in a ____ female.",
+   "opts": [
+    "pregnant",
+    "adolescent",
+    "perimenopausal",
+    "postmenopausal on HRT"
+   ],
+   "ans": 2,
+   "exp": "m/c: Perimenopausal female."
+  },
+  {
+   "id": "ch42-u4-q2",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The underlying pathology of metropathia hemorrhagica is ____ cycles.",
+   "opts": [
+    "luteal-deficient",
+    "shortened follicular",
+    "anovulatory",
+    "ovulatory"
+   ],
+   "ans": 2,
+   "exp": "Pathology: Anovulatory cycles."
+  },
+  {
+   "id": "ch42-u4-q3",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The bleeding pattern is amenorrhoea for 2-3 months followed by ____.",
+   "opts": [
+    "postcoital bleeding",
+    "intermenstrual staining",
+    "light spotting",
+    "heavy menstrual bleeding (HMB)"
+   ],
+   "ans": 3,
+   "exp": "Amenorrhea x 2-3 months -> HMB (Heavy menstrual bleeding)."
+  },
+  {
+   "id": "ch42-u4-q4",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The HPE of metropathia hemorrhagica shows a ____ pattern.",
+   "opts": [
+    "ground-glass",
+    "storiform",
+    "Swiss cheese",
+    "signet-ring"
+   ],
+   "ans": 2,
+   "exp": "HPE: Swiss cheese pattern, proliferative endometrium, equivalent to cystic glandular hyperplasia."
+  },
+  {
+   "id": "ch42-u4-q5",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "Metropathia hemorrhagica is described as equivalent to ____ hyperplasia.",
+   "opts": [
+    "atypical",
+    "cystic glandular",
+    "adenomatous",
+    "secretory"
+   ],
+   "ans": 1,
+   "exp": "Equivalent to cystic glandular hyperplasia."
+  },
+  {
+   "id": "ch42-u4-q6",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The risk of malignancy printed for metropathia hemorrhagica is ____.",
+   "opts": [
+    "50%",
+    "1-3%",
+    "1%",
+    "8-30%"
+   ],
+   "ans": 2,
+   "exp": "Risk of malignancy: 1%; higher figures belong to EH with atypia."
+  },
+  {
+   "id": "ch42-u4-q7",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "The treatment of choice (TOC) for metropathia hemorrhagica is ____.",
+   "opts": [
+    "estrogen",
+    "tranexamic acid alone",
+    "hysterectomy",
+    "progesterone"
+   ],
+   "ans": 3,
+   "exp": "mx: TOC: Progesterone -> Oral / mirena."
+  },
+  {
+   "id": "ch42-u4-q8",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "tf",
+   "q": "I) Metropathia hemorrhagica follows anovulatory cycles. II) Its HPE shows a Swiss cheese pattern.",
+   "opts": [
+    "Both true",
+    "Both false",
+    "I false; II true",
+    "I true; II false"
+   ],
+   "ans": 0,
+   "exp": "The pathology and HPE bullets are printed together."
+  },
+  {
+   "id": "ch42-u4-q9",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "scenario",
+   "q": "A perimenopausal woman has 2-3 months of amenorrhoea then heavy bleeding; biopsy shows a Swiss-cheese proliferative endometrium. Which source diagnosis and treatment fit?",
+   "opts": [
+    "Metropathia hemorrhagica treated with progesterone",
+    "Cervical cancer treated with radiotherapy",
+    "EH with atypia treated by TAH",
+    "Normal endometrium treated with tranexamic acid"
+   ],
+   "ans": 0,
+   "exp": "The presentation, HPE and 1% risk define metropathia hemorrhagica; progesterone is the TOC."
+  },
+  {
+   "id": "ch42-u4-q10",
+   "sec": "Metropathia hemorrhagica",
+   "unit": "Metropathia hemorrhagica",
+   "page": 228,
+   "fmt": "odd",
+   "q": "Which is NOT a metropathia hemorrhagica feature in the source?",
+   "opts": [
+    "Anovulatory cycles",
+    "Swiss cheese pattern",
+    "Marked nuclear atypia",
+    "Proliferative endometrium"
+   ],
+   "ans": 2,
+   "exp": "Atypia is not listed; it belongs to the EH-with-atypia branch on the next sheet."
+  },
+  {
+   "id": "ch42-u5-q1",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "Endometrial hyperplasia without atypia carries a malignancy risk of ____.",
+   "opts": [
+    "1%",
+    "50%",
+    "8-30%",
+    "1-3%"
+   ],
+   "ans": 3,
+   "exp": "Risk of malignancy: 1-3% for EH without atypia; 8-30% with atypia."
+  },
+  {
+   "id": "ch42-u5-q2",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "The next step after EH without atypia is ____.",
+   "opts": [
+    "immediate radiotherapy",
+    "tamoxifen",
+    "progesterone",
+    "hysteroscopic sterilisation"
+   ],
+   "ans": 2,
+   "exp": "Next step: Progesterone."
+  },
+  {
+   "id": "ch42-u5-q3",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "Progesterone acts by downregulation of estrogen receptors, producing ____.",
+   "opts": [
+    "endometrial atrophy",
+    "endometrial hyperplasia",
+    "ovulation",
+    "cervical stenosis"
+   ],
+   "ans": 0,
+   "exp": "Downregulation of estrogen receptors -> Endometrial atrophy."
+  },
+  {
+   "id": "ch42-u5-q4",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "The source prefers ____ over oral medroxy progesterone acetate for EH without atypia.",
+   "opts": [
+    "combined OCP",
+    "Mirena (LNG-IUCD)",
+    "injectable DMPA",
+    "implant"
+   ],
+   "ans": 1,
+   "exp": "Mirena > Oral: medroxy progesterone acetate."
+  },
+  {
+   "id": "ch42-u5-q5",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "For EH without atypia, ____ progesterone is preferred over cyclical.",
+   "opts": [
+    "intermittent",
+    "postcoital",
+    "topical",
+    "continuous"
+   ],
+   "ans": 3,
+   "exp": "Continuous > Cyclical is printed under the progesterone branch."
+  },
+  {
+   "id": "ch42-u5-q6",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "Cyclical progesterone needs at least ____ days for a protective effect.",
+   "opts": [
+    "28",
+    "21",
+    "3",
+    "12"
+   ],
+   "ans": 3,
+   "exp": ">= 12 days for a protective effect."
+  },
+  {
+   "id": "ch42-u5-q7",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "The cyclical progesterone bullet notes ____ contraceptive benefit.",
+   "opts": [
+    "permanent",
+    "partial",
+    "no",
+    "complete"
+   ],
+   "ans": 2,
+   "exp": "No contraceptive benefit is listed for cyclical progesterone."
+  },
+  {
+   "id": "ch42-u5-q8",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "After treatment for EH without atypia, a repeat biopsy is done at ____.",
+   "opts": [
+    "3-6 months",
+    "2 years",
+    "1-2 weeks",
+    "7-10 days"
+   ],
+   "ans": 0,
+   "exp": "Repeat biopsy at 3-6 months."
+  },
+  {
+   "id": "ch42-u5-q9",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "If hyperplasia or bleeding persists at review, the next step is ____.",
+   "opts": [
+    "FC plus hysteroscopy",
+    "discharge",
+    "repeat TVS only",
+    "estrogen therapy"
+   ],
+   "ans": 0,
+   "exp": "Hyperplasia (+)/bleeding (+) -> FC + Hysteroscopy."
+  },
+  {
+   "id": "ch42-u5-q10",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "tf",
+   "q": "I) Continuous progesterone is preferred to cyclical. II) Cyclical progesterone has no contraceptive benefit.",
+   "opts": [
+    "I false; II true",
+    "Both true",
+    "I true; II false",
+    "Both false"
+   ],
+   "ans": 1,
+   "exp": "The continuous-over-cyclical arrow and the no-contraceptive-benefit bullet are both on this sheet."
+  },
+  {
+   "id": "ch42-u5-q11",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "scenario",
+   "q": "A woman with EH without atypia is managed with oral cyclical progestogen. Which source caveat should be highlighted?",
+   "opts": [
+    "It is preferred over Mirena",
+    "Any 3-day course is fully protective",
+    "A >=12-day course is needed for a protective effect and it gives no contraceptive benefit",
+    "It provides reliable contraception"
+   ],
+   "ans": 2,
+   "exp": "The 12-day and no-contraception notes are edition-specific study points; Mirena and continuous therapy are preferred."
+  },
+  {
+   "id": "ch42-u5-q12",
+   "sec": "EH without atypia: progesterone and surveillance",
+   "unit": "EH without atypia: progesterone and surveillance",
+   "page": 229,
+   "fmt": "match",
+   "q": "Match the EH-without-atypia values: 1) Malignancy risk 2) Repeat biopsy 3) Minimum cyclical days with A) 12 days B) 1-3% C) 3-6 months.",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Risk, surveillance interval and cyclical duration are three distinct printed numbers."
+  },
+  {
+   "id": "ch42-u6-q1",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "Endometrial hyperplasia with atypia carries a malignancy risk of ____.",
+   "opts": [
+    "1-3%",
+    "8-30%",
+    "0%",
+    "1%"
+   ],
+   "ans": 1,
+   "exp": "Risk of malignancy: 8-30% (up-up chance), far above the without-atypia figure."
+  },
+  {
+   "id": "ch42-u6-q2",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "The next step for EH with atypia is ____.",
+   "opts": [
+    "Progesterone-only follow-up",
+    "repeat TVS in one year",
+    "FC plus hysteroscopy",
+    "tranexamic acid"
+   ],
+   "ans": 2,
+   "exp": "Next step: FC + hysteroscopy."
+  },
+  {
+   "id": "ch42-u6-q3",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "The best management for EH with atypia is ____.",
+   "opts": [
+    "observation",
+    "endometrial ablation",
+    "Mirena alone",
+    "TAH (total abdominal hysterectomy, uterus plus cervix)"
+   ],
+   "ans": 3,
+   "exp": "Best: TAH (Total abdominal hysterectomy -> Uterus + cervix)."
+  },
+  {
+   "id": "ch42-u6-q4",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "If a patient refuses TAH, the source offers ____.",
+   "opts": [
+    "danazol",
+    "progesterone (megestrol)",
+    "estrogen therapy",
+    "tamoxifen"
+   ],
+   "ans": 1,
+   "exp": "Patient refuses TAH: Progesterone (megestrol)."
+  },
+  {
+   "id": "ch42-u6-q5",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "Failure or continued bleeding on megestrol leads to ____.",
+   "opts": [
+    "radiotherapy",
+    "estrogen",
+    "hysterectomy",
+    "repeat TVS only"
+   ],
+   "ans": 2,
+   "exp": "Failure/continued bleeding -> Hysterectomy."
+  },
+  {
+   "id": "ch42-u6-q6",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "match",
+   "q": "Match the EH branch to its risk and management: 1) Without atypia 2) With atypia with A) 8-30% risk, TAH best B) 1-3% risk, progesterone and repeat biopsy.",
+   "opts": [
+    "Both B",
+    "1-A, 2-B",
+    "Both A",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "The two branches carry distinct malignancy risks and very different definitive management."
+  },
+  {
+   "id": "ch42-u6-q7",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "odd",
+   "q": "Which is NOT an indication for FC plus hysteroscopy in the source note?",
+   "opts": [
+    "Cervical stenosis",
+    "Routine TVS screening at 3 weeks postpartum",
+    "Insufficient EB sample",
+    "EB showing EH plus atypia"
+   ],
+   "ans": 1,
+   "exp": "Postpartum IUCD timing is a contraception topic, not an FC+hysteroscopy indication."
+  },
+  {
+   "id": "ch42-u6-q8",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "An EB report of an ____ sample is one indication for FC plus hysteroscopy.",
+   "opts": [
+    "inflammatory",
+    "malignant ovarian",
+    "normal",
+    "insufficient"
+   ],
+   "ans": 3,
+   "exp": "EB report: Insufficient sample is listed among the indications."
+  },
+  {
+   "id": "ch42-u6-q9",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "____ is another listed indication for FC plus hysteroscopy because it limits blind sampling.",
+   "opts": [
+    "Obesity",
+    "Cervical stenosis",
+    "Anaemia",
+    "Multiparity"
+   ],
+   "ans": 1,
+   "exp": "In case of cervical stenosis appears in the indication list."
+  },
+  {
+   "id": "ch42-u6-q10",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "EH without atypia plus ____ of medical management is the fourth indication.",
+   "opts": [
+    "intolerance to iron",
+    "a normal result",
+    "success",
+    "failure"
+   ],
+   "ans": 3,
+   "exp": "EB: EH w/o atypia + Failure of medical mx."
+  },
+  {
+   "id": "ch42-u6-q11",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "tf",
+   "q": "I) EH with atypia has a higher malignancy risk than EH without atypia. II) TAH is the best management for EH with atypia.",
+   "opts": [
+    "I false; II true",
+    "Both true",
+    "Both false",
+    "I true; II false"
+   ],
+   "ans": 1,
+   "exp": "8-30% exceeds 1-3%, and TAH is named the best treatment in the with-atypia branch."
+  },
+  {
+   "id": "ch42-u6-q12",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "scenario",
+   "q": "A biopsy shows EH with atypia; the patient declines hysterectomy and is started on megestrol, but bleeding continues. What does the source algorithm advise?",
+   "opts": [
+    "Switch to tranexamic acid",
+    "Proceed to hysterectomy",
+    "Continue megestrol indefinitely",
+    "Discharge with annual TVS"
+   ],
+   "ans": 1,
+   "exp": "Failure/continued bleeding on progesterone is followed by hysterectomy."
+  },
+  {
+   "id": "ch42-u6-q13",
+   "sec": "EH with atypia and indications for FC plus hysteroscopy",
+   "unit": "EH with atypia and indications for FC plus hysteroscopy",
+   "page": 229,
+   "fmt": "scenario",
+   "q": "Source-check: a learner reads 'TAH -> uterus + cervix' and concludes removing the cervix is always optional. What is the source's definition?",
+   "opts": [
+    "TAH removes the ovaries and tubes only",
+    "TAH is a diagnostic biopsy",
+    "TAH is a supracervical procedure",
+    "TAH here explicitly includes uterus plus cervix as the specimen"
+   ],
+   "ans": 3,
+   "exp": "The printed expansion defines the operation; the surrounding atypia pathway treats it as definitive management, with the usual counselling caveats for any surgery."
+  }
+ ]
+}

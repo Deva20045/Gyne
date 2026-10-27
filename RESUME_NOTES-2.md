@@ -1,76 +1,93 @@
-# PULSE: OBG Mastery Path — Resume Notes
+# PULSE · OBG Mastery Path — Resume Notes
 
-## Current state (as of this export)
-- **Chapters built:** 1–40 and 45–49 (all validated); 41–44 still open
-- **Total questions:** 4,343 / 529 units (zero duplicate IDs, zero duplicate stems,
-  `validate.py` PASS including `node --check` on the embedded script)
-- **Chapters 1–29:** earlier builds + full re-audits (2,120 questions / 326 units)
-- **Chapters 30–35:** scan p160–192 — 905 questions / 68 units
-- **Chapters 36–40:** scan p193–221 (printed folios 185–213) — 511 questions / 30 units
-  - Ch 36 Female Infertility: Part 1 (scan 193–198) — 90 questions, 6 units
-  - Ch 37 Female Infertility: Part 2 (scan 199–202) — 58 questions, 4 units
-  - Ch 38 Male Infertility (scan 203–210) — 144 questions, 8 units
-  - Ch 39 Contraception: Part 1 (scan 211–216) — 115 questions, 6 units
-  - Ch 40 Contraception: Part 2 (scan 217–221) — 104 questions, 6 units
-- **Chapters 45–49:** scan p246–272 (printed folios 238–264) — 807 questions / 104 units
-  - Ch 45 CIN: Part 2 (scan 246–250 / printed 238–242) — 124 questions, 17 units
-  - Ch 46 Cancer Cervix (scan 251–256 / printed 243–248) — 177 questions, 22 units
-  - Ch 47 Ovarian Cancer: Part 1 (scan 257–264 / printed 249–256) — 246 questions, 34 units
-  - Ch 48 Ovarian Cancer: Part 2 (scan 265–268 / printed 257–260) — 140 questions, 17 units
-  - Ch 49 Gynaecology: Miscellaneous Topics (scan 269–272 / printed 261–264) — 120 questions, 14 units
-- **Chapters 41–44:** not yet built; chapter 49 ends the printed book at scan 272 / printed 264
+## Current release (2026-10-27) — the book is complete
 
-## Page-number convention
-The metadata `page` field and all progress tables use the repository **scan-sequence**
-convention. In PDF parts 05–07 the scan sequence runs **8 ahead of the printed folio**
-(scan 193 = printed 185; scan 246 = printed 238). Parts 01–04 coincide. Chapter prose in
-PROGRESS.md quotes printed folios for readability and labels them as such.
+- **Built chapters: 1–49 of 49**; **4,860 questions / 563 units**.
+- Latest batch: **Chapters 41–44, 517 questions / 34 units** — this closed the
+  last gap. Chapters 45–49 (807 q / 105 units) were built in a parallel release
+  and merged first; the two releases were integrated without altering each
+  other's chapters.
 
-## Repository layout
-- `obg-mastery-path.html` — the single-file offline deliverable (all chapters embedded)
-- `index.html` — redirect to the app
-- `data_src/chNN.py` — editable authoring source for each built chapter
-  (`SECTIONS = [(section, [(unit, [(q, correct, [3 distractors], why, fmt, page), ...]), ...]), ...]`)
-- `data/chNN.json` — generated per-chapter artifact with scan-page and format metadata
-- `build_chapters.py` — embeds `data_src/chNN.py` into the HTML idempotently
-- `validate.py` — fail-closed gate: parses the embedded JS, checks IDs, stems, option
-  uniqueness, answers; for chapters ≥36 also source/JSON/HTML synchronisation, monotonic
-  scan-page order, mixed formats, ±1 answer balance and no 4-run of identical slots
-- `tools/` — OCR and page helpers (`ocrdump.py`, `extract_pages.py`, `preview.py`,
-  `rcrop.py`, plus the earlier `ocr2.py`, `crop.py`, `layout.py`)
-- `audit/` — raw OCR dumps (p160–192, p193–221, p226–272) and coverage notes
+| Chapter | Scan sequence | Printed folios | Questions | Units |
+|---|---|---|---:|---:|
+| 41 Contraception: Images | 222–226 | 214–218 | 116 | 7 |
+| 42 Endometrial Hyperplasia | 227–229 | 219–221 | 79 | 6 |
+| 43 Endometrial Cancer | 230–235 | 222–227 | 122 | 8 |
+| 44 CIN: Part 1 | 236–245 | 228–237 | 200 | 13 |
+| 45 CIN: Part 2 | 246–250 | 238–242 | 124 | 17 |
+| 46 Cancer Cervix | 251–256 | 243–248 | 177 | 23 |
+| 47 Ovarian Cancer: Part 1 | 257–264 | 249–256 | 246 | 34 |
+| 48 Ovarian Cancer: Part 2 | 265–268 | 257–260 | 140 | 17 |
+| 49 Gynaecology: Miscellaneous Topics | 269–272 | 261–264 | 120 | 14 |
 
-## Next chapter to build
-**Chapter 41 — Contraception: Images**, beginning at **scan 222 / printed folio 214**
-(part-06 PDF). Then Chapters 42–44 (Endometrial Hyperplasia, Endometrial Cancer,
-CIN: Part 1, which ends at scan 245 / printed 237). Closing 41–44 completes the book,
-since 45–49 are already live.
+The metadata `page` field retains the repository's **scan-sequence** convention.
+Earlier notes called those “Book pages”; do not confuse them with the printed
+folio. In parts 05–07 the scan sequence runs 8 ahead of the printed folio
+(scan 193 = printed 185; scan 246 = printed 238). The 41–44 batch uses part-05
+PDF pages 42–45 (scans 222–225) and part-06 PDF pages 1–20 (scans 226–245).
+Raw OCR aids are saved under `audit/`; they are not authoritative.
+Full coverage map: `audit/ch41-44-coverage.md`.
 
-## Standard chapter build workflow
-1. Extract the embedded scan of each PDF page (`tools/extract_pages.py`), then OCR every
-   source page end to end (`tools/ocrdump.py`); re-crop dense or rotated regions at zoom.
-2. Read every page as an image before writing: numerals, table cells, brackets, arrow
-   labels and figure captions included.
-3. Find the chapter boundary from the printed chapter heading on each sheet.
-4. Write exhaustive MCQs covering every fact, table cell, comparison, algorithm and
-   clinical detail — original questions ordered to match the source, `page` tagged with
-   the scan sequence so pages stay monotonic across the chapter (keep review/gap-fill
-   questions inside per-page units, never as a trailing mixed-page unit).
-5. Run `python3 build_chapters.py NN` (rebuild in ascending order when touching several
-   chapters: the upsert appends each block, so build order fixes book order in the HTML).
-6. Run `python3 validate.py` until it prints PASS.
-7. Review pass: re-check source pages against the new questions for missed points; add
-   per-page "Complete Coverage" units where needed, then rebuild and re-validate.
+## Next work
 
-## Key standing instructions from Deva
-- Exhaustiveness is non-negotiable — every concept, table cell, comparison, algorithm and
-  clinical detail must be captured from the source pages.
-- Strictly line-to-line, in book order, chapter by chapter.
-- Source-page verification before writing (read the images, don't rely on memory).
-- Duplicate ID and duplicate stem checks are mandatory before finalizing any chapter.
-- Answer position bias must be corrected after every chapter (~25/25/25/25).
-- Use mixed formats — fill-ups, match-the-following, true/false, clinical scenarios,
-  odd-one-out, numerics — with non-obvious distractors rather than predictable options.
-- After building a chapter, do one review pass for missed points before moving on.
-- Report and publish (merge) when a chapter batch is complete.
-- Keep messages brief; "Continue" or "Next" means proceed straight to the next chapter.
+**No chapters remain.** All 49 chapters of the printed book are built, validated
+and merged. Any further work is optional quality review, not a new chapter batch:
+re-read source sheets for missed points, refine distractors, or revisit flagged
+source cautions. If a new edition arrives, confirm chapter boundaries from the
+actual page headings before authoring, as before.
+
+## Files
+
+- `obg-mastery-path.html`: offline deliverable; `index.html` redirects here.
+- `data_src/chNN.py`: hand-authored chapter source.
+- `data_src/authoring.py`: strict seven-field text parser used by chapters 36–44.
+  It parses authored questions, never generates them from OCR.
+- `data/chNN.json`: generated questions plus source-page/format metadata.
+- `build_chapters.py`: deterministic balanced shuffling, distractor shuffling,
+  embedding and numerically ordered idempotent upsert.
+- `validate.py`: fail-closed validation using actual JS parsing via Node.
+- `tools/`: OCR, page extraction, preview and crop helpers.
+- `tests/test_build.py`: authoring, shuffle, order/idempotency, page coverage
+  for chapters 36–49 and negative tests.
+- `tests/quiz-smoke.cjs`: jsdom interaction test of all 1,324 questions in
+  chapters 41–49, feedback/completion, mistake review and progress
+  persistence/reload; also verifies all 49 chapter cards.
+- `audit/ch41-44-coverage.md`, `audit/ch36-40-coverage.md`: coverage records.
+- `audit/ocr_222_246.txt`, `audit/ocr_hi_226_249.txt`,
+  `audit/ocr_hi_250_272.txt`: uncorrected OCR, not authoritative.
+- `PROGRESS.md`: release totals and detailed history.
+
+## Build and test
+
+```sh
+python3 build_chapters.py 41 42 43 44
+python3 validate.py
+python3 -m unittest discover -s tests -v
+npm ci
+node tests/quiz-smoke.cjs
+# After npm ci, npm test runs the complete suite.
+```
+
+Node is required by validation; jsdom is a development dependency only.
+The app has no runtime build step or network dependency.
+
+## Standing requirements
+
+1. Read every source page visually before authoring. OCR is only an aid.
+2. Follow book order, including continuation blocks, table cells, algorithms,
+   captions, numeric thresholds and comparison branches.
+3. Use fill-ups, matching, paired true/false, scenarios and odd-one-out with
+   plausible distractors. Verify the answer rather than trusting answer-slot balance.
+4. Review the source again for gaps before reporting completion.
+5. Keep correct positions balanced globally, without a predictable four-item cycle.
+6. Flag internal source contradictions and outdated/unsafe claims in explanations;
+   do not silently teach them as clinical rules. Educational coverage is not
+   independent specialist medical validation.
+7. Preserve existing IDs for saved progress. Rebuilds must remain in book order.
+8. Report and merge only the verified batch, then check the actual Pages deployment.
+
+## Publication
+
+GitHub Pages serves `main` at https://deva20045.github.io/Gyne/.
+Use the active Arena branch for commits/push/PR; merge by explicit PR number.
+Deployment status must be checked separately from merge status.
